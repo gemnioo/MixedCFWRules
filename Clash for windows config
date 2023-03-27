@@ -1180,5 +1180,14 @@ rules:
   - DOMAIN,download.jetbrains.com,DIRECT
   - DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
   - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+  - IP-CIDR,185.188.32.0/24,DIRECT,no-resolve
+  - IP-CIDR,185.188.33.0/24,DIRECT,no-resolve
+  - IP-CIDR,185.188.34.0/24,DIRECT,no-resolve
+  - IP-CIDR,185.188.35.0/24,DIRECT,no-resolve
+  - IP-CIDR6,2a0b:b580::/48,DIRECT,no-resolve
+  - IP-CIDR6,2a0b:b581::/48,DIRECT,no-resolve
+  - IP-CIDR6,2a0b:b582::/48,DIRECT,no-resolve
+  - IP-CIDR6,2a0b:b583::/48,DIRECT,no-resolve
+  - IP-CIDR,134.175.0.0/16,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,⚓️其他流量
