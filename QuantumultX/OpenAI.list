@@ -1,0 +1,7 @@
+## 增加bing chat OpenAI 等调用 未来随机增加其他
+# > OpenAI
+HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
+HOST-SUFFIX,challenges.cloudflare.com,OpenAI
+HOST-WILDCARD,*bing.com,OpenAI
+HOST-WILDCARD,*bing.net,OpenAI
