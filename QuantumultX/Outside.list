@@ -743,6 +743,7 @@ HOST-KEYWORD,instagram,Outside
 HOST-KEYWORD,twitter,Outside
 HOST-KEYWORD,whatsapp,Outside
 HOST-KEYWORD,google,Outside
+HOST-SUFFIX,cdninstagram.com,Outside
 HOST-SUFFIX,google.cn,Outside
 HOST-SUFFIX,google.com,Outside
 HOST-SUFFIX,1e100.net,Outside
