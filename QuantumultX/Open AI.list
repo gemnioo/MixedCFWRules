@@ -1,8 +1,8 @@
 # > OpenAI and more Bard coming 
-HOST-SUFFIX,auth0.com,OpenAI
-HOST-SUFFIX,openai.com,OpenAI
-HOST-SUFFIX,identrust.com,OpenAI
-HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
-HOST-SUFFIX,challenges.cloudflare.com,OpenAI
-HOST-WILDCARD,*bing.com,OpenAI
-HOST-WILDCARD,*bing.net,OpenAI
+HOST-SUFFIX,auth0.com,Open AI
+HOST-SUFFIX,openai.com,Open AI
+HOST-SUFFIX,identrust.com,Open AI
+HOST-SUFFIX,openaiapi-site.azureedge.net,Open AI
+HOST-SUFFIX,challenges.cloudflare.com,Open AI
+HOST-WILDCARD,*bing.com,Open AI
+HOST-WILDCARD,*bing.net,Open AI
