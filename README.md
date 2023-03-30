@@ -17,3 +17,5 @@ Clash for Windows
 https://github.com/Dreamacro/clash/wiki/configuration
 
 https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features
+
+https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS污染对Clash（for-Windows）的影响
