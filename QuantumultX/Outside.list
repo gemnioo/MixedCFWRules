@@ -155,6 +155,7 @@ HOST-SUFFIX,amazon.co,Outside
 HOST-SUFFIX,amazon.co.jp,Outside
 HOST-SUFFIX,amazon.com,Outside
 HOST-SUFFIX,amazonaws.com,Outside
+HOST-SUFFIX,amazontrust.com,Outside
 HOST-SUFFIX,ampproject.com,Outside
 HOST-SUFFIX,ampproject.net,Outside
 HOST-SUFFIX,ampproject.org,Outside
