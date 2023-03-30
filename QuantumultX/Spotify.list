@@ -23,6 +23,9 @@ HOST,service-catalog.ws.sonos.com,Spotify
 HOST,voiceconfig.ws.sonos.com,Spotify
 HOST,msmetrics.ws.sonos.com,Spotify
 HOST-SUFFIX,sonos.com,Spotify
+
+#Sonos performance monitoring & error tracking
+HOST,o167642.ingest.sentry.io,Spotify
 #Apple music Sonos link Test 
 ;HOST,inappcheck.itunes.apple.com,Spotify
 ;HOST,xp.apple.com,Spotify
