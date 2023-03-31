@@ -38,7 +38,3 @@ HOST,o167642.ingest.sentry.io,Spotify
 ;HOST,logx.optimizely.com,Spotify
 HOST-SUFFIX,scdn.co,Spotify
 
-
-# > Youtube Music
-USER-AGENT,*YouTubeMusic*,Spotify
-USER-AGENT,*com.google.ios.youtubemusic*,Spotify
