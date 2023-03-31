@@ -21,3 +21,11 @@ https://github.com/Dreamacro/clash/wiki/configuration
 https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features
 
 https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS污染对Clash（for-Windows）的影响
+
+Surge 
+
+https://github.com/BlueGrave/Surge/blob/master/General.conf
+
+https://github.com/scomper/Surge/blob/master/surge3.conf.ini
+
+https://manual.nssurge.com/book/understanding-surge/cn/
