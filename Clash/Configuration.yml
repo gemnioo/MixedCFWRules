@@ -97,8 +97,8 @@ proxy-groups:
     type: select
     proxies:
       - 🔰 国外流量
-      - 🇺🇸 V387U-2X-BGP-US-NF
-      - 🇺🇸 V390U-2X-BGP-US-NF
+      - 🇺🇸 adha
+      - 🇺🇸 Vdga
   - name: 🎥 国际媒体
     type: select
     proxies:
