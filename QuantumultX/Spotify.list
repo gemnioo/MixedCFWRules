@@ -1,6 +1,7 @@
 #Spotify
 USER-AGENT,Spotify*,Spotify
 HOST-SUFFIX,pscdn.co,Spotify
+HOST-SUFFIX,scdn.co,Spotify
 HOST-SUFFIX,spoti.fi,Spotify
 HOST-SUFFIX,spotify.com,Spotify
 HOST-SUFFIX,spotifycdn.com,Spotify
@@ -36,5 +37,5 @@ HOST,o167642.ingest.sentry.io,Spotify
 ;HOST,is5-ssl.mzstatic.com,Spotify
 ;HOST,cdn.optimizely.com,Spotify
 ;HOST,logx.optimizely.com,Spotify
-HOST-SUFFIX,scdn.co,Spotify
+
 
