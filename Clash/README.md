@@ -1,6 +1,6 @@
 March 31. 2023 Friday 
 
-避免带来不必要的麻烦 把最近几天折腾& Surge； Quantumult X； Clash for Window 记录一下
+避免带来不必要的麻烦 把最近几天折腾 Surge； Quantumult X； Clash for Window 记录一下
 
 #原因是大部分“大佬”维护的规则 策略组 IP池都太繁复了 小白遇到问题很难修改规则#
 #另外 Surge 最先发明了策略组 现在一般看到复杂的策略组套策略组 因为Rule set 或者 filter remote  等等存在 更加难以一次性直观的修改rules#
