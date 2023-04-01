@@ -1,6 +1,6 @@
 For Surge Quantumult and Clash for Windows rules
 
-please check the following Offical and unoffical Mannual
+Please check the following offical and unoffical Mannual
 
 Quantumult X with Scripts  https://github.com/gemnioo/QuantumultX/blob/master/QuantumultX_Profiles.conf
 
