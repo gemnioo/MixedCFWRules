@@ -22,6 +22,8 @@ https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features
 
 https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS污染对Clash（for-Windows）的影响
 
+https://github.com/iczrac/Parsers-for-clash
+
 Surge 
 
 https://github.com/BlueGrave/Surge/blob/master/General.conf
