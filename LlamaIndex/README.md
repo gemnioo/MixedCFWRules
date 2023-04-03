@@ -6,4 +6,6 @@ https://github.com/noobnooc/noobnooc/discussions/9  (recommend
 
 https://github.com/x-dr/chatgptProxyAPI/blob/main/docs/cloudflare_workers.md 
 
+https://gist.github.com/janlay/7cf20e24c7bffb0b56402eb9aa5e04cc  (https://twitter.com/janlay/status/1636322061902827521?s=20 
+
 As you could access the cloudflare dev domain. there is no need for step 5 bypass GFW for inside usage
