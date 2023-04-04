@@ -14,6 +14,8 @@ https://github.com/hly0928/Proxy-profiles/tree/master/QuantumultX
 
 https://github.com/ConnersHua/Quantumult/blob/master/Profile.conf
 
+https://github.com/erdongchanyo/Rules/tree/main/Quantumult%20X/LazyConf
+
 Clash for Windows 
 
 https://github.com/Dreamacro/clash/wiki/configuration
