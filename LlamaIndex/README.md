@@ -10,4 +10,6 @@ https://gist.github.com/janlay/7cf20e24c7bffb0b56402eb9aa5e04cc  (https://twitte
 
 https://github.com/xicilion/gptproxy/blob/main/gptproxy.js
 
+https://github.com/haibbo/cf-openai-azure-proxy/blob/main/cf-openai-azure-proxy.js
+
 As you could access the cloudflare dev domain. there is no need for step 5 bypass GFW for inside usage
