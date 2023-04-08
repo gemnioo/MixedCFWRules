@@ -1,4 +1,4 @@
-Fork three or four ways methods bypass openai restrict on Cloudflare workers 
+Fork three or four ways methods bypas OpenAI restrict through Cloudflare workers 
 
 https://github.com/barretlee/cloudflare-proxy/blob/main/cloudflare-worker.js
 
@@ -12,4 +12,4 @@ https://github.com/xicilion/gptproxy/blob/main/gptproxy.js
 
 https://github.com/haibbo/cf-openai-azure-proxy/blob/main/cf-openai-azure-proxy.js
 
-As you could access the cloudflare dev domain. there is no need for step 5 bypass GFW for inside usage
+As you could access the Cloudflare dev domain. there is no need for step 5 bypass GFW for inside usage
