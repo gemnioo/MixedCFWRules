@@ -269,6 +269,18 @@ rules:
   - DOMAIN-SUFFIX,challenges.cloudflare.com,🤖️ Open AI
   - DOMAIN-SUFFIX,bing.com,🤖️ Open AI
   - DOMAIN-SUFFIX,bing.net,🤖️ Open AI
+  #test 
+  - DOMAIN-SUFFIX, openai.com
+  - DOMAIN-SUFFIX, ai.com
+  - DOMAIN, cdn.auth0.com
+  - DOMAIN, openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX, identrust.com
+  - DOMAIN, challenges.cloudflare.com
+  - DOMAIN-SUFFIX, openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX, openaicom.imgix.net
+  - DOMAIN-SUFFIX, openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN-SUFFIX, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  
   - DOMAIN,apple.comscoreresearch.com,🍎 Apple
   - DOMAIN-SUFFIX,aaplimg.com,🍎 Apple
   - DOMAIN-SUFFIX,akadns.net,🍎 Apple
