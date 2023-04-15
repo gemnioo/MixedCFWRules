@@ -39,6 +39,7 @@ payload:
   # - USER-AGENT,battleroyale*
 
   # > Top blocked sites
+  - DOMAIN,freegpt.one
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,4everProxy.com
   - DOMAIN-SUFFIX,4shared.com
