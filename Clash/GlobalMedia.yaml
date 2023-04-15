@@ -1,6 +1,6 @@
 payload:
   # Global Streaming Media  not include Spotify and Apple music as SONOS control App require
-
+  - DOMAIN,ddrk.me
   # (Live)
   # > Twitch
   - PROCESS-NAME,tv.twitch.android.app
