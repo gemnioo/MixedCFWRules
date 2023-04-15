@@ -1,3 +1,14 @@
+## ddrk 
+HOST,ddys.art,CMedia
+HOST,ddys.site,CMedia
+HOST,vip1.loli.net,CMedia
+HOST-SUFFIX,pstatp.com,CMedia
+HOST-SUFFIX,58cdn.com.cn,CMedia
+HOST-SUFFIX,360buyimg.com,CMedia
+HOST,help-ol.bj.bcebos.com,CMedia
+HOST,ddys.one,CMedia,CMedia
+HOST-SUFFIX,bytecdntp.com,CMedia
+
 # > AcFun
 USER-AGENT,AcFun*,CMedia
 HOST-SUFFIX,acfun.cn,CMedia
