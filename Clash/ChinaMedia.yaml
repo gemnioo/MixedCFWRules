@@ -1,5 +1,17 @@
 payload:
   # 内容：中国媒体列表
+  
+  
+## ddrk 
+  - DOMAIN,ddys.art
+  - DOMAIN,ddys.site
+  - DOMAIN,vip1.loli.net
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,58cdn.com.cn
+  - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN,help-ol.bj.bcebos.com
+  - DOMAIN,ddys.one,CMedia
+  - DOMAIN-SUFFIX,bytecdntp.com
 
   # Bilibili 哔哩哔哩
   - DOMAIN,apiintl.biliapi.net
