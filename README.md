@@ -35,3 +35,5 @@ https://github.com/scomper/Surge/blob/master/surge3.conf.ini
 https://manual.nssurge.com/book/understanding-surge/cn/
 
 https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf    #Cloudflare ZeroTrust
+
+https://raw.githubusercontent.com/zxfccmm4/Surge/main/SFS.conf
