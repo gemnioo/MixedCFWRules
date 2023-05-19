@@ -1,6 +1,7 @@
 # > OpenAI and more Bard coming 
 HOST-SUFFIX,auth0.com,Open AI
 HOST-SUFFIX,openai.com,Open AI
+HOST,ios.chat.openai.com,Open AI
 HOST-SUFFIX,identrust.com,Open AI
 HOST-SUFFIX,openaiapi-site.azureedge.net,Open AI
 HOST-SUFFIX,challenges.cloudflare.com,Open AI
