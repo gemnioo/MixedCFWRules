@@ -9,12 +9,14 @@ March 31. 2023 Friday
 
 ## !! 自用不需要 模块以及开启MitM Rewriter 有这两种需求的请参阅其他教程 通过大量规则屏蔽广告证明不如用浏览器插件 或者Adguard？ 没有解锁TikTok的需求 也不捋羊毛 知乎微博基本不上
 
-机场节点订阅的问题 fixed by update 
+机场节点订阅的问题  fixed by update 
+
 Clash for Windows 遇到 proxy provider health-check error: key 'type' missing  
 https://github.com/vernesong/OpenClash/issues/978
 
 
-proxy group[1]: `use` or `proxies` missing fiexed 
+proxy group[1]: `use` or `proxies` missing fiexed
+ 
 https://github.com/vernesong/OpenClash/issues/874
 原因格式？问题  查看右键 proxies 后发现节点无法拖入到部分策略组 
 客户端 左侧 proxies --- 选择你编辑导入的 yaml 配置文件---右键proxies 删除所有你无法加入策略&节点的策略组  然后重新创建 保存
