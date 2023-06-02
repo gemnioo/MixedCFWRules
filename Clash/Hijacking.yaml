@@ -1,6 +1,58 @@
 payload:
   # Internet Service Providers Hijacking
   # source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
+  # update with Janlay's public ruleset blocked-domains-clash.txt 
+  
+  - DOMAIN, ads.mopub.com
+  - DOMAIN, analytics.plex.tv
+  - DOMAIN, analytics.yahoo.com
+  - DOMAIN, assets.msn.com
+  - DOMAIN, browser.events.data.msn.com
+  - DOMAIN, client.wns.windows.com
+  - DOMAIN, cpro.baidu.com
+  - DOMAIN, cpro.baidustatic.com
+  - DOMAIN, edge.activity.windows.com
+  - DOMAIN, firebaselogging-pa.glgleapis.com
+  - DOMAIN, hm.baidu.com
+  - DOMAIN, hmma.baidu.com
+  - DOMAIN, zz.bdstatic.com
+  - DOMAIN, h-adashx.dingtalkapps.com
+  - DOMAIN, img-s-msn-com.akamaized.net
+  - DOMAIN, js-agent.newrelic.com
+  - DOMAIN, js.monitor.azure.com
+  - DOMAIN, log.mmstat.com
+  - DOMAIN, monitor.uu.qq.com
+  - DOMAIN, graph.facebook.com
+  - DOMAIN, pagead2.ooooglesyndication.com
+  - DOMAIN, pgdt.gtimg.cn
+  - DOMAIN, pingma.qq.com
+  - DOMAIN, r.msftstatic.com
+  - DOMAIN, stat.m.jd.com
+  - DOMAIN, safebrowsing.urlsec.qq.com
+  - DOMAIN, t.dtscout.com
+  - DOMAIN, analytics.plex.tv
+  - DOMAIN, www.google-analytics.com
+
+  - DOMAIN-KEYWORD, cnzz
+  - DOMAIN-KEYWORD, domob
+  - DOMAIN-KEYWORD, flurry.co
+  - DOMAIN-KEYWORD, umeng.co
+  - DOMAIN-SUFFIX, 127.net
+  - DOMAIN-SUFFIX, aniview.com
+  - DOMAIN-SUFFIX, amazon-adsystem.com
+  - DOMAIN-SUFFIX, applovin.com
+  - DOMAIN-SUFFIX, bugsnag.com
+  - DOMAIN-SUFFIX, beacon.qq.com
+  - DOMAIN-SUFFIX, doubleclick.net
+  - DOMAIN-SUFFIX, duomeng.cn
+  - DOMAIN-SUFFIX, log.aliyuncs.com
+  - DOMAIN-SUFFIX, mob.com
+  - DOMAIN-SUFFIX, msn.cn
+  - DOMAIN-SUFFIX, sponsorpay.com
+  - DOMAIN-SUFFIX, umengcloud.com
+  - DOMAIN-SUFFIX, youmi.net
+  - DOMAIN-SUFFIX, ingest.sentry.io
+  - DOMAIN-SUFFIX, zhanzhang.baidu.com
   
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
