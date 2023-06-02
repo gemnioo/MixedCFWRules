@@ -1,10 +1,16 @@
 # > OpenAI and more Bard coming 
+
+HOST-SUFFIX,openai.com,🤖️ Open AI
+HOST-SUFFIX,identrust.com,🤖️ Open AI
 HOST,cdn.auth0.com,Open AI
 HOST,ios.chat.openai.com,Open AI
 HOST,challenges.cloudflare.com,Open AI
+HOST,chat.openai.com.cdn.cloudflare.net,Open AI
 HOST,openaiapi-site.azureedge.net,Open AI
-HOST-SUFFIX,ai.com,Open AI
-HOST-SUFFIX,openai.com,Open AI
-HOST-SUFFIX,identrust.com,Open AI
-HOST-WILDCARD,*bing.com,Open AI
-HOST-WILDCARD,*bing.net,Open AI
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Open AI
+HOST,openaicomproductionae4b.blob.core.windows.net,Open AI
+HOST,production-openaicom-storage.azureedge.net,Open AI
+HOST,openaicom.imgix.net,REJECT 
+HOST,o33249.ingest.sentry.io,REJECT
+HOST,o315582.ingest.sentry.io,REJECT
+HOST,o245571.ingest.sentry.io,REJECT
