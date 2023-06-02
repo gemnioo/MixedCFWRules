@@ -1,14 +1,32 @@
-mixed-port: 7890
-port: 7890
-socks-port: 7891
-redir-port: 7892
-allow-lan: true
-mode: Rule
-log-level: info
-external-controller: 0.0.0.0:9090
-experimental:
+
+## Update Jun 1. 2023 v0.20.24 as 'Proxy Provider' and 'support single lantency test for provider proxies'
+
+# 混合端口 HTTP和SOCKS5用一个端口 
+ mixed-port: 7890
+
+# HTTP 代理端口
+ port: 7890
+
+# SOCKS5 代理端口
+ socks-port: 7891
+
+# Linux 和 macOS 的 redir 代理端口 
+ redir-port: 7892
+
+# 允许局域网的连接（可用来共享代理）
+ allow-lan: true
+# 规则模式：rule/ global/ direct/ script 
+ mode: Rule
+# 设置日志输出级别
+ log-level: info
+
+# Clash 的 RESTful API
+ external-controller: 0.0.0.0:9090
+# 实验性功能
+ experimental:
   ignore-resolve-fail: true
-dns:
+  
+ dns:
   enable: true
   ipv6: false
   listen: 127.0.0.1:8853
@@ -39,28 +57,6 @@ dns:
       - +.googleapis.cn
       - +.googleapis.com
       - +.gvt1.com
-proxies:
-  - name: 🇭🇰 123
-    type: ssh
-    server: daghdjhags.com
-    port: 
-    cipher: chacha20
-    password: 
-    protocol: auth_aes128
-    protocol-param: 
-    obfs: plain
-    obfs-param: null
-  - name: 🇭🇰 V345
-    type: ssd
-    server: djagdgjad.com
-    port: "1302"
-    cipher: chacha20
-    password: 
-    protocol: auth_aes128
-    protocol-param: 1045
-    obfs: plain
-    obfs-param: null
-
 proxy-groups:
   - name: 🔰 国外流量
     type: select
@@ -69,19 +65,22 @@ proxy-groups:
       - 🇸🇬 Singapore
       - 🇺🇸 United State
       - 🇯🇵 Japan
-      - 🌍 Others
+      - 🌍 Taiwan
       - 🚀 直接连接
   - name: 🇭🇰 Hong Kong
-    proxies:
-      - 🇭🇰 123
-      - 🇨🇳 456
-      - 🇨🇳 456
     type: select
+    use:
+      - Subscription
+    filter: "HongKong|HK|香港"
   - name: 🇺🇸 United State
-    proxies:
-      - 🇭🇰 123
-      - 🇨🇳 456
-      - 🇨🇳 456
+    type: select
+    use:
+      - Subscription
+    filter: "United State|US|美国"
+  - name: 🇸🇬 Singapore
+    use:
+      - Subscription
+    filter: "United State|US|新加坡"
     type: select
   - name: 🚫 广告拦截
     type: select
@@ -96,9 +95,9 @@ proxy-groups:
   - name: 🤖️ Open AI
     type: select
     proxies:
-      - 🔰 国外流量
-      - 🇺🇸 adha
-      - 🇺🇸 Vdga
+      - 🇺🇸 United State
+      - 🇯🇵 Japan
+      - 🇸🇬 Singapore
   - name: 🎥 国际媒体
     type: select
     proxies:
@@ -109,11 +108,6 @@ proxy-groups:
       - 🇯🇵 Japan
       - 🚀 直接连接
   - name: 📽 国内媒体
-    type: select
-    proxies:
-      - 🥏 大陆网络
-      - 🚀 直接连接
-  - name: 🥏 大陆网络
     type: select
     proxies:
       - 🚀 直接连接
@@ -133,17 +127,15 @@ proxy-groups:
       - 🇯🇵 Japan
       - 🇸🇬 Singapore
       - 🇺🇸 United State
-      - 🌍 Others
+      - 🌍 Taiwan
   - name: 📌 手动选择
     proxies:
-      - 🇭🇰 345
-      - 🇭🇰 123
-      - 🇨🇳 456
-      - 🇨🇳 456
-      - 🇺🇸 345
-      - 🇺🇸 234
-      - 🇺🇸 V123
-
+      - DIRECT
+      - 🇭🇰 Hong Kong
+      - 🇯🇵 Japan
+      - 🇸🇬 Singapore
+      - 🇺🇸 United State
+      - 🌍 Taiwan
     type: select
   - name: 🚀 直接连接
     type: select
@@ -161,24 +153,24 @@ proxy-groups:
       - 🔰 国外流量
     _index: 9
   - name: 🇯🇵 Japan
-    proxies:
-      - 🇭🇰 123
-      - 🇨🇳 456
-      - 🇨🇳 456
     type: select
-  - name: 🇸🇬 Singapore
-    proxies:
-      - 🇭🇰 123
-      - 🇨🇳 456
-      - 🇨🇳 456
+    use:
+      - Subscription
+    filter: "Japan|JP|日本"
+  - name: 🌍 Taiwan
     type: select
-  - name: 🌍 Others
-    proxies:
-      - 🇭🇰 123
-      - 🇨🇳 456
-      - 🇨🇳 456
-      
-    type: select
+    use:
+      - Subscription
+    filter: "Taiwan|TW|台湾"
+proxy-providers:
+  Subscription:
+    type: http
+    url: "URL"
+    path: ./providers/Subscription.yaml
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
 rule-providers:
   Special:
     type: http
@@ -222,8 +214,9 @@ rule-providers:
     path: ./ChinaDirect.yaml
     url: https://raw.githubusercontent.com/gemnioo/MixedCFWRules/main/Clash/ChinaDirect.yaml
     interval: 86400
-    
 rules:
+  - DOMAIN-SUFFIX,openai-sb.com,⏳ Speed Test
+  - DOMAIN-SUFFIX,ugemino.workers.dev,📌 手动选择
   - RULE-SET,Special,DIRECT
   - RULE-SET,Advertising,🚫 广告拦截
   - RULE-SET,Hijacking,🚫 广告拦截
@@ -237,6 +230,11 @@ rules:
   - DOMAIN-SUFFIX,applemusic.com,🍎 Apple
   - DOMAIN-SUFFIX,blobstore.apple.com,🍎 Apple
   - DOMAIN-SUFFIX,music.apple.com,🍎 Apple
+  - DOMAIN,linear.tv.apple.com,🔰 国外流量
+  - DOMAIN,uts-api.itunes.apple.com,🔰 国外流量
+  - DOMAIN,np-edge.itunes.apple.com,🔰 国外流量
+  - DOMAIN,play-edge.itunes.apple.com,🔰 国外流量
+  - DOMAIN-SUFFIX,tv.apple.com,🔰 国外流量
   - PROCESS-NAME,com.spotify.music,🎵 SONOS
   - DOMAIN-SUFFIX,pscdn.co,🎵 SONOS
   - DOMAIN-SUFFIX,scdn.co,🎵 SONOS
@@ -414,7 +412,7 @@ rules:
   - DOMAIN-SUFFIX,ooklaserver.net,⏳ Speed Test
   - DOMAIN-SUFFIX,speed.cloudflare.com,⏳ Speed Test
   - RULE-SET,GlobalProxy,🔰 国外流量
-  - RULE-SET,ChinaDirect,🥏 大陆网络
+  - RULE-SET,ChinaDirect,🚀 直接连接
   - DOMAIN-SUFFIX,local,DIRECT
   - IP-CIDR,127.0.0.0/8,DIRECT
   - IP-CIDR,172.16.0.0/12,DIRECT
