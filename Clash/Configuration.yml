@@ -1,32 +1,36 @@
+#---------------------------------------------------#
+# 配置文件需要放置在 $HOME/.config/clash/config.yml
+# 或者运行目录下的config.yml
+#---------------------------------------------------#
 
-## Update Jun 1. 2023 v0.20.24 as 'Proxy Provider' and 'support single lantency test for provider proxies'
+## Update Mar 31. 2023  20:06  wiki github.com/Dreamacro/clash/wiki/configuration
 
 # 混合端口 HTTP和SOCKS5用一个端口 
- mixed-port: 7890
+mixed-port: 7890
 
 # HTTP 代理端口
- port: 7890
+port: 7890
 
 # SOCKS5 代理端口
- socks-port: 7891
+socks-port: 7891
 
 # Linux 和 macOS 的 redir 代理端口 
- redir-port: 7892
+redir-port: 7892
 
 # 允许局域网的连接（可用来共享代理）
- allow-lan: true
+allow-lan: true
 # 规则模式：rule/ global/ direct/ script 
- mode: Rule
+mode: Rule
 # 设置日志输出级别
- log-level: info
+log-level: info
 
 # Clash 的 RESTful API
- external-controller: 0.0.0.0:9090
+external-controller: 0.0.0.0:9090
 # 实验性功能
- experimental:
+experimental:
   ignore-resolve-fail: true
   
- dns:
+dns:
   enable: true
   ipv6: false
   listen: 127.0.0.1:8853
@@ -215,8 +219,6 @@ rule-providers:
     url: https://raw.githubusercontent.com/gemnioo/MixedCFWRules/main/Clash/ChinaDirect.yaml
     interval: 86400
 rules:
-  - DOMAIN-SUFFIX,openai-sb.com,⏳ Speed Test
-  - DOMAIN-SUFFIX,ugemino.workers.dev,📌 手动选择
   - RULE-SET,Special,DIRECT
   - RULE-SET,Advertising,🚫 广告拦截
   - RULE-SET,Hijacking,🚫 广告拦截
