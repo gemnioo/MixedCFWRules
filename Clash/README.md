@@ -9,7 +9,7 @@ March 31. 2023 Friday
 
 ## !! 自用不需要 模块以及开启MitM Rewriter 有这两种需求的请参阅其他教程 通过大量规则屏蔽广告证明不如用浏览器插件 或者Adguard？ 没有解锁TikTok的需求 也不捋羊毛 知乎微博基本不上
 
-机场节点订阅的问题  fixed by update 
+机场节点订阅 修改使用的问题  fixed by update 
 
 Clash for Windows 遇到 proxy provider health-check error: key 'type' missing  
 https://github.com/vernesong/OpenClash/issues/978
