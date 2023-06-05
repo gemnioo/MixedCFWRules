@@ -3,7 +3,7 @@
 # 或者运行目录下的config.yml
 #---------------------------------------------------#
 
-## Update Mar 31. 2023  20:06  wiki github.com/Dreamacro/clash/wiki/configuration
+## Update Jun 5. 2023  20:18  wiki github.com/Dreamacro/clash/wiki/configuration
 
 # 混合端口 HTTP和SOCKS5用一个端口 
 mixed-port: 7890
@@ -122,6 +122,12 @@ proxy-groups:
       - 🔰 国外流量
       - 🇭🇰 Hong Kong
       - 🇺🇸 United State
+  - name: 🖥 Microsoft
+    type: select
+    proxies:
+      - 🔰 国外流量 
+      - 🇭🇰 Hong Kong
+      - 🚀 直接连接
   - name: ⏳ Speed Test
     type: select
     proxies:
@@ -174,7 +180,7 @@ proxy-providers:
     interval: 86400
     health-check:
       enable: true
-      url: http://www.gstatic.com/generate_204
+      url: http://cp.cloudflare.com/generate_204
 rule-providers:
   Special:
     type: http
@@ -217,6 +223,12 @@ rule-providers:
     behavior: classical
     path: ./ChinaDirect.yaml
     url: https://raw.githubusercontent.com/gemnioo/MixedCFWRules/main/Clash/ChinaDirect.yaml
+    interval: 86400
+  Microsoft:
+    type: http
+    behavior: classical
+    path: ./Microsoft.yaml
+    url: https://raw.githubusercontent.com/gemnioo/MixedCFWRules/main/Clash/Microsoft.yaml
     interval: 86400
 rules:
   - RULE-SET,Special,DIRECT
@@ -304,96 +316,90 @@ rules:
   - IP-CIDR,192.35.50.0/24,🍎 Apple,no-resolve
   - IP-CIDR,198.183.17.0/24,🍎 Apple,no-resolve
   - IP-CIDR,205.180.175.0/24,🍎 Apple,no-resolve
-  - DOMAIN-KEYWORD,1drv,🍎 Apple
-  - DOMAIN-KEYWORD,microsoft,🍎 Apple
-  - DOMAIN-SUFFIX,aadrm.com,🍎 Apple
-  - DOMAIN-SUFFIX,acompli.com,🍎 Apple
-  - DOMAIN-SUFFIX,acompli.net,🍎 Apple
-  - DOMAIN-SUFFIX,aka.ms,🍎 Apple
-  - DOMAIN-SUFFIX,akadns.net,🍎 Apple
-  - DOMAIN-SUFFIX,aspnetcdn.com,🍎 Apple
-  - DOMAIN-SUFFIX,assets-yammer.com,🍎 Apple
-  - DOMAIN-SUFFIX,azure.com,🍎 Apple
-  - DOMAIN-SUFFIX,azure.net,🍎 Apple
-  - DOMAIN-SUFFIX,azureedge.net,🍎 Apple
-  - DOMAIN-SUFFIX,azureiotcentral.com,🍎 Apple
-  - DOMAIN-SUFFIX,azurerms.com,🍎 Apple
-  - DOMAIN-SUFFIX,cloudapp.net,🍎 Apple
-  - DOMAIN-SUFFIX,cloudappsecurity.com,🍎 Apple
-  - DOMAIN-SUFFIX,edgesuite.net,🍎 Apple
-  - DOMAIN-SUFFIX,gfx.ms,🍎 Apple
-  - DOMAIN-SUFFIX,hotmail.com,🍎 Apple
-  - DOMAIN-SUFFIX,live.com,🍎 Apple
-  - DOMAIN-SUFFIX,live.net,🍎 Apple
-  - DOMAIN-SUFFIX,lync.com,🍎 Apple
-  - DOMAIN-SUFFIX,msappproxy.net,🍎 Apple
-  - DOMAIN-SUFFIX,msauth.net,🍎 Apple
-  - DOMAIN-SUFFIX,msauthimages.net,🍎 Apple
-  - DOMAIN-SUFFIX,msecnd.net,🍎 Apple
-  - DOMAIN-SUFFIX,msedge.net,🍎 Apple
-  - DOMAIN-SUFFIX,msft.net,🍎 Apple
-  - DOMAIN-SUFFIX,msftauth.net,🍎 Apple
-  - DOMAIN-SUFFIX,msftauthimages.net,🍎 Apple
-  - DOMAIN-SUFFIX,msftidentity.com,🍎 Apple
-  - DOMAIN-SUFFIX,msidentity.com,🍎 Apple
-  - DOMAIN-SUFFIX,msn.cn,🍎 Apple
-  - DOMAIN-SUFFIX,msn.com,🍎 Apple
-  - DOMAIN-SUFFIX,msocdn.com,🍎 Apple
-  - DOMAIN-SUFFIX,msocsp.com,🍎 Apple
-  - DOMAIN-SUFFIX,mstea.ms,🍎 Apple
-  - DOMAIN-SUFFIX,o365weve.com,🍎 Apple
-  - DOMAIN-SUFFIX,oaspapps.com,🍎 Apple
-  - DOMAIN-SUFFIX,office.com,🍎 Apple
-  - DOMAIN-SUFFIX,office.net,🍎 Apple
-  - DOMAIN-SUFFIX,office365.com,🍎 Apple
-  - DOMAIN-SUFFIX,officeppe.net,🍎 Apple
-  - DOMAIN-SUFFIX,omniroot.com,🍎 Apple
-  - DOMAIN-SUFFIX,onedrive.com,🍎 Apple
-  - DOMAIN-SUFFIX,onenote.com,🍎 Apple
-  - DOMAIN-SUFFIX,onenote.net,🍎 Apple
-  - DOMAIN-SUFFIX,onestore.ms,🍎 Apple
-  - DOMAIN-SUFFIX,outlook.com,🍎 Apple
-  - DOMAIN-SUFFIX,outlookmobile.com,🍎 Apple
-  - DOMAIN-SUFFIX,phonefactor.net,🍎 Apple
-  - DOMAIN-SUFFIX,public-trust.com,🍎 Apple
-  - DOMAIN-SUFFIX,sfbassets.com,🍎 Apple
-  - DOMAIN-SUFFIX,sfx.ms,🍎 Apple
-  - DOMAIN-SUFFIX,sharepoint.com,🍎 Apple
-  - DOMAIN-SUFFIX,sharepointonline.com,🍎 Apple
-  - DOMAIN-SUFFIX,skype.com,🍎 Apple
-  - DOMAIN-SUFFIX,skypeassets.com,🍎 Apple
-  - DOMAIN-SUFFIX,skypeforbusiness.com,🍎 Apple
-  - DOMAIN-SUFFIX,staffhub.ms,🍎 Apple
-  - DOMAIN-SUFFIX,svc.ms,🍎 Apple
-  - DOMAIN-SUFFIX,sway-cdn.com,🍎 Apple
-  - DOMAIN-SUFFIX,sway-extensions.com,🍎 Apple
-  - DOMAIN-SUFFIX,sway.com,🍎 Apple
-  - DOMAIN-SUFFIX,trafficmanager.net,🍎 Apple
-  - DOMAIN-SUFFIX,uservoice.com,🍎 Apple
-  - DOMAIN-SUFFIX,virtualearth.net,🍎 Apple
-  - DOMAIN-SUFFIX,visualstudio.com,🍎 Apple
-  - DOMAIN-SUFFIX,windows-ppe.net,🍎 Apple
-  - DOMAIN-SUFFIX,windows.com,🍎 Apple
-  - DOMAIN-SUFFIX,windows.net,🍎 Apple
-  - DOMAIN-SUFFIX,windowsazure.com,🍎 Apple
-  - DOMAIN-SUFFIX,windowsupdate.com,🍎 Apple
-  - DOMAIN-SUFFIX,wunderlist.com,🍎 Apple
-  - DOMAIN-SUFFIX,yammer.com,🍎 Apple
-  - DOMAIN-SUFFIX,yammerusercontent.com,🍎 Apple
-  - DOMAIN-KEYWORD,1drv,🍎 Apple
-  - DOMAIN-KEYWORD,onedrive,🍎 Apple
-  - DOMAIN-KEYWORD,skydrive,🍎 Apple
-  - DOMAIN-SUFFIX,livefilestore.com,🍎 Apple
-  - DOMAIN-SUFFIX,oneclient.sfx.ms,🍎 Apple
-  - DOMAIN-SUFFIX,onedrive.com,🍎 Apple
-  - DOMAIN-SUFFIX,onedrive.live.com,🍎 Apple
-  - DOMAIN-SUFFIX,photos.live.com,🍎 Apple
-  - DOMAIN-SUFFIX,sharepoint.com,🍎 Apple
-  - DOMAIN-SUFFIX,sharepointonline.com,🍎 Apple
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com,🍎 Apple
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🍎 Apple
-  - DOMAIN-SUFFIX,storage.live.com,🍎 Apple
-  - DOMAIN-SUFFIX,storage.msn.com,🍎 Apple
+  - DOMAIN-SUFFIX,21vbc.com,DIRECT
+  - DOMAIN-SUFFIX,21vbluecloud.com,DIRECT
+  - DOMAIN-SUFFIX,21vbluecloud.net,DIRECT
+  - DOMAIN-SUFFIX,azure.cn.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-dns-2.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-dns-4.cn,DIRECT
+  - DOMAIN-SUFFIX,aadrm.cn,DIRECT
+  - DOMAIN-SUFFIX,aggresmart.com,DIRECT
+  - DOMAIN-SUFFIX,apihub-internal.cn,DIRECT
+  - DOMAIN-SUFFIX,appserviceenvironment.cn,DIRECT
+  - DOMAIN-SUFFIX,azcrmc-test.cn,DIRECT
+  - DOMAIN-SUFFIX,azcrmc.cn,DIRECT
+  - DOMAIN-SUFFIX,azk8s.cn,DIRECT
+  - DOMAIN-SUFFIX,aznbcontent.cn,DIRECT
+  - DOMAIN-SUFFIX,aztask.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-api.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-apihub.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-automation.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-connectedvehicles.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-devices-provisioning.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-devices.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-dns.cn,DIRECT
+  - DOMAIN-SUFFIX,azure-mobile.cn.cn,DIRECT
+  - DOMAIN-SUFFIX,azure.cn,DIRECT
+  - DOMAIN-SUFFIX,azurecr-test.cn,DIRECT
+  - DOMAIN-SUFFIX,azurecr.cn,DIRECT
+  - DOMAIN-SUFFIX,azurehdinsight.cn,DIRECT
+  - DOMAIN-SUFFIX,azureiotsuite.cn,DIRECT
+  - DOMAIN-SUFFIX,azuremresolver.cn,DIRECT
+  - DOMAIN-SUFFIX,azureprivatedns.cn,DIRECT
+  - DOMAIN-SUFFIX,azurerms.cn,DIRECT
+  - DOMAIN-SUFFIX,azuresandbox.cn,DIRECT
+  - DOMAIN-SUFFIX,b2clogin.cn,DIRECT
+  - DOMAIN-SUFFIX,b3itech.cn,DIRECT
+  - DOMAIN-SUFFIX,bing.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cegid-cloud.cn,DIRECT
+  - DOMAIN-SUFFIX,chinacloud-mobile.cn,DIRECT
+  - DOMAIN-SUFFIX,chinacloudapi.cn,DIRECT
+  - DOMAIN-SUFFIX,chinacloudapp.cn,DIRECT
+  - DOMAIN-SUFFIX,chinacloudsites.cn,DIRECT
+  - DOMAIN-SUFFIX,cn.bing.com,DIRECT
+  - DOMAIN-SUFFIX,cn.bing.net,DIRECT
+  - DOMAIN-SUFFIX,dynamics.cn,DIRECT
+  - DOMAIN-SUFFIX,hdinsightservices.cn,DIRECT
+  - DOMAIN-SUFFIX,lync.cn,DIRECT
+  - DOMAIN-SUFFIX,mcchcdn.com,DIRECT
+  - DOMAIN-SUFFIX,mgmt-azure-api.cn,DIRECT
+  - DOMAIN-SUFFIX,microsoft-smb.cn,DIRECT
+  - DOMAIN-SUFFIX,mncmsidlab1.cn,DIRECT
+  - DOMAIN-SUFFIX,msappproxy.cn,DIRECT
+  - DOMAIN-SUFFIX,msauth.cn,DIRECT
+  - DOMAIN-SUFFIX,msauthimages.cn,DIRECT
+  - DOMAIN-SUFFIX,msftauth.cn,DIRECT
+  - DOMAIN-SUFFIX,msftauthimages.cn,DIRECT
+  - DOMAIN-SUFFIX,msftcloudes.cn,DIRECT
+  - DOMAIN-SUFFIX,msidentity.cn,DIRECT
+  - DOMAIN-SUFFIX,msidlabpbmc.cn,DIRECT
+  - DOMAIN-SUFFIX,o365cn.com,DIRECT
+  - DOMAIN-SUFFIX,o365files.cn,DIRECT
+  - DOMAIN-SUFFIX,office365-net.cn,DIRECT
+  - DOMAIN-SUFFIX,office365.cn,DIRECT
+  - DOMAIN-SUFFIX,officewebapps.cn,DIRECT
+  - DOMAIN-SUFFIX,onmschina.cn,DIRECT
+  - DOMAIN-SUFFIX,outlook.cn,DIRECT
+  - DOMAIN-SUFFIX,pbiwebcontent.cn,DIRECT
+  - DOMAIN-SUFFIX,powerapps.cn,DIRECT
+  - DOMAIN-SUFFIX,powerappsportals.cn,DIRECT
+  - DOMAIN-SUFFIX,powerautomate.cn,DIRECT
+  - DOMAIN-SUFFIX,powerbi.cn,DIRECT
+  - DOMAIN-SUFFIX,reactorms.com.cn,DIRECT
+  - DOMAIN-SUFFIX,sharepoint.cn,DIRECT
+  - DOMAIN-SUFFIX,trafficmanager.cn,DIRECT
+  - DOMAIN-SUFFIX,trustcenter.cn,DIRECT
+  - DOMAIN-SUFFIX,unity3dcloud.cn,DIRECT
+  - DOMAIN-SUFFIX,windowsazure.cn,DIRECT
+  - DOMAIN-SUFFIX,windowsazurestatus.cn,DIRECT
+  - DOMAIN-SUFFIX,microsoftonline.cn,DIRECT
+  - DOMAIN-SUFFIX,microsoftonline-m.cn,DIRECT
+  - DOMAIN-SUFFIX,microsoftonline-m-i.cn,DIRECT
+  - DOMAIN-SUFFIX,microsoftazurestatus.cn,DIRECT
+  - DOMAIN-SUFFIX,management-azure-devices-provisioning.cn,DIRECT
+  - DOMAIN-SUFFIX,management-azure-devices.cn,DIRECT
+  - RULE-SET,Microsoft,🖥 Microsoft
   - DOMAIN-SUFFIX,t.me,🔰 国外流量
   - DOMAIN-SUFFIX,tx.me,🔰 国外流量
   - DOMAIN-SUFFIX,tdesktop.com,🔰 国外流量
