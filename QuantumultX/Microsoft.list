@@ -1,27 +1,320 @@
-#need add Azure ? 
-USER-AGENT,Microsoft*,Microsoft
-HOST-KEYWORD,microsoft,Microsoft
-HOST-WILDCARD,windows-*.net,Microsoft
-HOST-SUFFIX,azure.com,Microsoft
-;HOST-SUFFIX,bing.com,Microsoft
-;HOST-SUFFIX,bing.net,Microsoft
-HOST-SUFFIX,hotmail.com,Microsoft
-HOST-SUFFIX,live.com,Microsoft
-HOST-SUFFIX,live.net,Microsoft
-HOST-SUFFIX,livefilestore.com,Microsoft
-HOST-SUFFIX,mesh.com,Microsoft
-HOST-SUFFIX,microsoft.com,Microsoft
-HOST-SUFFIX,microsoftonline.com,Microsoft
-HOST-SUFFIX,microsoft-tst.com,Microsoft
-HOST-SUFFIX,msn.com,Microsoft
-HOST-SUFFIX,office.com,Microsoft
-HOST-SUFFIX,office.net,Microsoft
-HOST-SUFFIX,onenote.com,Microsoft 
-HOST-SUFFIX,onenote.net,Microsoft
-HOST-SUFFIX,outlook.com,Microsoft
-HOST-SUFFIX,visualstudio.com,Microsoft
-HOST-SUFFIX,windows.com,Microsoft
-HOST-SUFFIX,windows.net,Microsoft
-HOST-SUFFIX,xbox.com,Microsoft
-HOST-SUFFIX,xboxlive.com,Microsoft
-HOST-SUFFIX,ms,Microsoft
+# NAME: Microsoft
+# UPDATED: 2023-06-05  21:31
+
+HOST-SUFFIX,here.com
+HOST-SUFFIX,here.net
+  # HOST-SUFFIX,heremaps.cn
+  # HOST-SUFFIX,ovi.com.cn
+  
+  # > Microsoft Edge
+HOST,edge.activity.windows.com
+HOST,edge.microsoft.com
+HOST,iecvlist.microsoft.com
+HOST,msedge.api.cdp.microsoft.com  
+  
+  # > Azure
+HOST-SUFFIX,azure
+HOST-SUFFIX,azure-apim.net
+HOST-SUFFIX,azure-dns.com
+HOST-SUFFIX,azure-dns.info
+HOST-SUFFIX,azure-dns.net
+HOST-SUFFIX,azure-dns.org
+HOST-SUFFIX,azure-mobile.net
+HOST-SUFFIX,azure-sphere.com
+HOST-SUFFIX,azure-test.net
+  # HOST-SUFFIX,azure.cn
+HOST-SUFFIX,azure.com
+HOST-SUFFIX,azure.net
+HOST-SUFFIX,azurecomcdn.net
+HOST-SUFFIX,azurecontainer.io
+HOST-SUFFIX,azurecosmos.net
+HOST-SUFFIX,azurecosmosdb.com
+HOST-SUFFIX,azurecosmosdb.info
+HOST-SUFFIX,azurecosmosdb.net
+HOST-SUFFIX,azuredatabricks.net
+HOST-SUFFIX,azuredevopslaunch.com
+HOST-SUFFIX,azuredigitaltwin.com
+HOST-SUFFIX,azuredigitaltwins.com
+HOST-SUFFIX,azuredigitaltwins.net
+HOST-SUFFIX,azuredns-prd.info
+HOST-SUFFIX,azuredns-prd.org
+HOST-SUFFIX,azureedge-test.net
+HOST-SUFFIX,azureedge.net
+HOST-SUFFIX,azurefd.net
+HOST-SUFFIX,azurefd.us
+HOST-SUFFIX,azureiotcentral.com
+HOST-SUFFIX,azureiotsolutions.com
+HOST-SUFFIX,azureiotsuite.com
+HOST-SUFFIX,azureplanetscale.info
+HOST-SUFFIX,azureplanetscale.net
+HOST-SUFFIX,azureserviceprofiler.com
+HOST-SUFFIX,azuresmartspaces.net
+HOST-SUFFIX,azurestackvalidation.com
+HOST-SUFFIX,azurewebsites.net
+
+HOST-SUFFIX,cosmosdb.info
+HOST-SUFFIX,cosmosdb.net
+HOST-SUFFIX,devopsms.com
+HOST-SUFFIX,gotcosmos.com
+HOST-SUFFIX,microsofteca.com
+HOST-SUFFIX,microsoftiotcentral.com
+HOST-SUFFIX,serverlesslibrary.net
+HOST-SUFFIX,signalr.net
+HOST-SUFFIX,tryfunctions.com
+  # HOST-SUFFIX,windowsazure.cn
+HOST-SUFFIX,windowsazure.com
+HOST-SUFFIX,azure.microsoft.com
+HOST-SUFFIX,azuremarketplace.microsoft.com
+
+  # > Bing 
+HOST-SUFFIX,bbing.com
+HOST-SUFFIX,bibg.com
+HOST-SUFFIX,biing.com
+HOST-SUFFIX,binb.com
+HOST-SUFFIX,binf.com
+HOST-SUFFIX,bing.com
+
+HOST-SUFFIX,bing.net
+  # HOST-SUFFIX,bing123.com
+  # HOST-SUFFIX,bing135.com
+HOST-SUFFIX,bing4.com
+  # HOST-SUFFIX,bingads.com
+HOST-SUFFIX,bingagencyawards.com
+HOST-SUFFIX,bingapis.com
+  # HOST-SUFFIX,bingapistatistics.com
+HOST-SUFFIX,binginternal.com
+HOST-SUFFIX,bingit.net
+HOST-SUFFIX,bingiton.com
+HOST-SUFFIX,bingj.com
+HOST-SUFFIX,bingpix.com
+HOST-SUFFIX,bingpk.com
+HOST-SUFFIX,bings.com
+HOST-SUFFIX,bingsandbox.com
+HOST-SUFFIX,bingtoolbar.com
+HOST-SUFFIX,bingtranslator.com
+HOST-SUFFIX,bingvisualsearch.com
+HOST-SUFFIX,bingworld.com
+
+
+HOST-SUFFIX,bluehatnights.com
+HOST-SUFFIX,dictate.ms
+HOST-SUFFIX,discoverbing.com
+HOST-SUFFIX,explorebing.com
+HOST-SUFFIX,flipwithsurface.com
+HOST-SUFFIX,mapblast.com
+HOST-SUFFIX,mappoint.com
+HOST-SUFFIX,masalladeloslimites.com
+HOST-SUFFIX,microsoft-give.com
+HOST-SUFFIX,microsoftcloudsummit.com
+HOST-SUFFIX,microsoftdiplomados.com
+HOST-SUFFIX,microsoftlatamholiday.com
+HOST-SUFFIX,microsoftmxfilantropia.com
+HOST-SUFFIX,microsoftpartnersolutions.com
+HOST-SUFFIX,msnmaps.com
+HOST-SUFFIX,msunlimitedcloudsummit.com
+HOST-SUFFIX,myhomemsn.com
+HOST-SUFFIX,office365love.com
+HOST-SUFFIX,office365tw.com
+HOST-SUFFIX,osdinfra.net
+HOST-SUFFIX,renovacionoffice.com
+HOST-SUFFIX,sprinklesapp.com
+
+
+  # HOST-SUFFIX,ditu.live.com
+
+HOST-SUFFIX,a-msedge.net
+HOST-SUFFIX,c-msedge.net
+HOST-SUFFIX,e-msedge.net
+HOST-SUFFIX,edgesuite.net
+HOST-SUFFIX,evoke-windowsservices-tas.msedge
+HOST-SUFFIX,microsoftedge.com
+HOST-SUFFIX,microsoftedgeinsider.com
+HOST-SUFFIX,msedge.net
+HOST-SUFFIX,s-msedge.net
+
+HOST-SUFFIX,femalefounderscomp.com
+HOST-SUFFIX,m12.vc
+
+HOST-SUFFIX,adaptivecards.io
+HOST-SUFFIX,api-extractor.com
+HOST-SUFFIX,apisof.net
+HOST-SUFFIX,appcenter.ms
+HOST-SUFFIX,blazor.net
+HOST-SUFFIX,botframework.com
+HOST-SUFFIX,codethemicrobit.com
+HOST-SUFFIX,devopsassessment.net
+HOST-SUFFIX,dot.net
+HOST-SUFFIX,exp-tas.com
+HOST-SUFFIX,gamesstack.com
+HOST-SUFFIX,graphengine.io
+HOST-SUFFIX,insiderdevtour.com
+HOST-SUFFIX,jwt.ms
+HOST-SUFFIX,microbit.org
+HOST-SUFFIX,microsoftadc.com
+HOST-SUFFIX,microsoftgamestack.com
+HOST-SUFFIX,microsoftiotinsiderlabs.com
+  # HOST-SUFFIX,microsoftreactor.cn
+  # HOST-SUFFIX,microsoftreactor.com.cn
+HOST-SUFFIX,microsoftreactor.info
+HOST-SUFFIX,microsoftreactor.net
+HOST-SUFFIX,microsoftreactor.org
+HOST-SUFFIX,microsoftsilverlight.com
+HOST-SUFFIX,microsoftsilverlight.net
+HOST-SUFFIX,microsoftsilverlight.org
+HOST-SUFFIX,microsoftsqlserver.com
+HOST-SUFFIX,mmdnn.com
+HOST-SUFFIX,mono-project.com
+HOST-SUFFIX,msdn.com
+HOST-SUFFIX,msinnovationchallenge.com
+HOST-SUFFIX,mspairlift.com
+HOST-SUFFIX,msropendata.com
+HOST-SUFFIX,nuget.org
+HOST-SUFFIX,nugettest.org
+HOST-SUFFIX,opentranslatorstothings.org
+HOST-SUFFIX,poshtestgallery.com
+HOST-SUFFIX,pwabuilder.com
+  # HOST-SUFFIX,reactorms.com.cn
+HOST-SUFFIX,sankie.net
+HOST-SUFFIX,sqlserveronlinux.com
+HOST-SUFFIX,timelinestoryteller.com
+HOST-SUFFIX,uwpcommunitytoolkit.com
+HOST-SUFFIX,vfsforgit.com
+HOST-SUFFIX,vfsforgit.org
+HOST-SUFFIX,xamarin.com
+HOST-SUFFIX,developer.microsoft.com
+HOST-SUFFIX,dtlgalleryint.cloudapp.net
+HOST-SUFFIX,poshtestgallery.cloudapp.net
+HOST-SUFFIX,psg-int-centralus.cloudapp.net
+HOST-SUFFIX,psg-int-eastus.cloudapp.net
+
+
+  # > Microsoft Office
+  # HOST-SUFFIX,o365cn.com
+  # HOST-SUFFIX,o365files.cn
+HOST-SUFFIX,o365weve-dev.com
+HOST-SUFFIX,o365weve-ppe.com
+HOST-SUFFIX,o365weve.com
+HOST-SUFFIX,office
+HOST-SUFFIX,office.com
+HOST-SUFFIX,office.net
+HOST-SUFFIX,office365.com
+  # HOST-SUFFIX,officedev.cn
+
+  # > OneDrive
+HOST-SUFFIX,1drv.com
+HOST-SUFFIX,1drv.ms
+HOST-SUFFIX,livefilestore.com
+HOST-SUFFIX,oneclient.sfx.ms
+HOST-SUFFIX,onedrive.co
+HOST-SUFFIX,onedrive.co.uk
+HOST-SUFFIX,onedrive.com
+HOST-SUFFIX,onedrive.eu
+HOST-SUFFIX,onedrive.live.com
+HOST-SUFFIX,onedrive.net
+HOST-SUFFIX,onedrive.org
+HOST-SUFFIX,photos.live.com
+HOST-SUFFIX,sharepoint.com
+HOST-SUFFIX,sharepointonline.com
+HOST-SUFFIX,skydrive.wns.windows.com
+HOST-SUFFIX,spoprod-a.akamaihd.net
+HOST-SUFFIX,storage.live.com
+HOST-SUFFIX,storage.msn.com
+HOST-KEYWORD,1drv
+   # DOMAIN-KEYWORD,onedrive
+   # DOMAIN-KEYWORD,skydrive
+USER-AGENT,OneDrive
+USER-AGENT,OneDriveUpdater
+
+  # > Skype
+HOST-SUFFIX,groupme.com
+HOST-SUFFIX,skype.com
+HOST-SUFFIX,skype.net
+HOST-SUFFIX,skypeassets.com
+HOST-SUFFIX,skypeassets.net
+HOST-SUFFIX,skypeforbusiness.com
+
+HOST-SUFFIX,sway-cdn.com
+HOST-SUFFIX,sway-extensions.com
+HOST-SUFFIX,sway.com
+
+  # > Visual Studio Code
+HOST-SUFFIX,visualstudio-staging.com
+HOST-SUFFIX,visualstudio.co
+HOST-SUFFIX,visualstudio.co.uk
+HOST-SUFFIX,visualstudio.com
+HOST-SUFFIX,visualstudio.eu
+HOST-SUFFIX,visualstudio.net
+HOST-SUFFIX,vsassets.io
+HOST-SUFFIX,vscode-unpkg.net
+HOST-SUFFIX,vscode-webview.net
+HOST-SUFFIX,vscode.dev
+
+
+  # > Microsoft XiaoBing
+  # HOST-SUFFIX,aicscience.com
+  # HOST-SUFFIX,mmais.com.cn
+  # HOST-SUFFIX,msminico.cn
+  # HOST-SUFFIX,msminico.com.cn
+  # HOST-SUFFIX,msxiaobing.com
+  # HOST-SUFFIX,msxiaoice.com
+  # HOST-SUFFIX,msxiaona.cn
+  # HOST-SUFFIX,officeplus.cn
+  # HOST-SUFFIX,renlifang.com
+
+
+  # > Xbox Series
+HOST,img-prod-cms-rt-microsoft-com.akamaized.net
+HOST,login.live.com
+HOST,logincdn.msauth.net
+HOST,store-images.s-microsoft.com
+HOST-SUFFIX,beth.games
+HOST-SUFFIX,bethesda.net
+HOST-SUFFIX,bethesdagamestudios.com
+HOST-SUFFIX,bethsoft.com
+HOST-SUFFIX,callersbane.com
+HOST-SUFFIX,doom.com
+HOST-SUFFIX,elderscrolls.com
+HOST-SUFFIX,forzamotorsport.net
+HOST-SUFFIX,forzaracingchampionship.com
+HOST-SUFFIX,forzarc.com
+HOST-SUFFIX,gamepass.com
+HOST-SUFFIX,minecraft.net
+HOST-SUFFIX,minecraftshop.com
+HOST-SUFFIX,mojang.com
+HOST-SUFFIX,msgamestudios.com
+HOST-SUFFIX,orithegame.com
+HOST-SUFFIX,renovacionxboxlive.com
+HOST-SUFFIX,tellmewhygame.com
+HOST-SUFFIX,xbox.co
+HOST-SUFFIX,xbox.com
+HOST-SUFFIX,xbox.eu
+HOST-SUFFIX,xbox.org
+HOST-SUFFIX,xbox360.co
+HOST-SUFFIX,xbox360.com
+HOST-SUFFIX,xbox360.eu
+HOST-SUFFIX,xbox360.org
+HOST-SUFFIX,xboxab.com
+HOST-SUFFIX,xboxab.net
+HOST-SUFFIX,xboxgamepass.com
+HOST-SUFFIX,xboxgamestudios.com
+  # HOST-SUFFIX,xboxlive.cn
+HOST-SUFFIX,xboxlive.com
+HOST-SUFFIX,xboxone.co
+HOST-SUFFIX,xboxone.com
+HOST-SUFFIX,xboxone.eu
+HOST-SUFFIX,xboxplayanywhere.com
+HOST-SUFFIX,xboxservice.com
+HOST-SUFFIX,xboxservices.com
+HOST-SUFFIX,xboxstudios.com
+HOST-SUFFIX,xbx.lv
+
+  # > Minecraft and Activision Blizzard 
+HOST-SUFFIX,callersbane.com
+HOST-SUFFIX,minecraft.net
+HOST-SUFFIX,minecraftshop.com
+HOST-SUFFIX,mojang.com
+
+HOST-SUFFIX,beth.games
+HOST-SUFFIX,bethesda.net
+HOST-SUFFIX,bethesdagamestudios.com
+HOST-SUFFIX,bethsoft.com
