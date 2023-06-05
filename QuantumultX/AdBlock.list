@@ -1,33 +1,33 @@
 # Update with Janlay's public ruleset blocked-domains-clash.txt 
-HOST, ads.mopub.com
-HOST, analytics.plex.tv
-HOST, analytics.yahoo.com
-HOST, assets.msn.com
-HOST, browser.events.data.msn.com
-HOST, client.wns.windows.com
-HOST, cpro.baidu.com
-HOST, cpro.baidustatic.com
-HOST, edge.activity.windows.com
-HOST, firebaselogging-pa.glgleapis.com
-HOST, hm.baidu.com
-HOST, hmma.baidu.com
-HOST, zz.bdstatic.com
-HOST, h-adashx.dingtalkapps.com
-HOST, img-s-msn-com.akamaized.net
-HOST, js-agent.newrelic.com
-HOST, js.monitor.azure.com
-HOST, log.mmstat.com
-HOST, monitor.uu.qq.com
-HOST, graph.facebook.com
-HOST, pagead2.ooooglesyndication.com
-HOST, pgdt.gtimg.cn
-HOST, pingma.qq.com
-HOST, r.msftstatic.com
-HOST, stat.m.jd.com
-HOST, safebrowsing.urlsec.qq.com
-HOST, t.dtscout.com
-HOST, analytics.plex.tv
-HOST, www.google-analytics.com
+HOST,ads.mopub.com
+HOST,analytics.plex.tv
+HOST,analytics.yahoo.com
+HOST,assets.msn.com
+HOST,browser.events.data.msn.com
+HOST,client.wns.windows.com
+HOST,cpro.baidu.com
+HOST,cpro.baidustatic.com
+HOST,edge.activity.windows.com
+HOST,firebaselogging-pa.glgleapis.com
+HOST,hm.baidu.com
+HOST,hmma.baidu.com
+HOST,zz.bdstatic.com
+HOST,h-adashx.dingtalkapps.com
+HOST,img-s-msn-com.akamaized.net
+HOST,js-agent.newrelic.com
+HOST,js.monitor.azure.com
+HOST,log.mmstat.com
+HOST,monitor.uu.qq.com
+HOST,graph.facebook.com
+HOST,pagead2.ooooglesyndication.com
+HOST,pgdt.gtimg.cn
+HOST,pingma.qq.com
+HOST,r.msftstatic.com
+HOST,stat.m.jd.com
+HOST,safebrowsing.urlsec.qq.com
+HOST,t.dtscout.com
+HOST,analytics.plex.tv
+HOST,www.google-analytics.com
 
 # Ads in Video apps
 # > iqiyi & pps
