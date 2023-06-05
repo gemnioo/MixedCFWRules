@@ -1,11 +1,7 @@
 # NAME: Microsoft
 # UPDATED: 2023-06-05  21:31
-HOST-SUFFIX,here.com
-HOST-SUFFIX,here.net
-  # HOST-SUFFIX,heremaps.cn
-  # HOST-SUFFIX,ovi.com.cn
-  
-  # > Microsoft Edge
+
+    # > Microsoft Edge
 HOST,edge.activity.windows.com
 HOST,edge.microsoft.com
 HOST,iecvlist.microsoft.com
@@ -120,6 +116,10 @@ HOST-SUFFIX,sprinklesapp.com
 
 
   # HOST-SUFFIX,ditu.live.com
+HOST-SUFFIX,here.com
+HOST-SUFFIX,here.net
+  # HOST-SUFFIX,heremaps.cn
+  # HOST-SUFFIX,ovi.com.cn
 
 HOST-SUFFIX,a-msedge.net
 HOST-SUFFIX,c-msedge.net
