@@ -166,7 +166,7 @@ payload:
   - DOMAIN-SUFFIX,opentranslatorstothings.org
   - DOMAIN-SUFFIX,poshtestgallery.com
   - DOMAIN-SUFFIX,pwabuilder.com
-  - DOMAIN-SUFFIX,reactorms.com.cn
+  # DOMAIN-SUFFIX,reactorms.com.cn
   - DOMAIN-SUFFIX,sankie.net
   - DOMAIN-SUFFIX,sqlserveronlinux.com
   - DOMAIN-SUFFIX,timelinestoryteller.com
