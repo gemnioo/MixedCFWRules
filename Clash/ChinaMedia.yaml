@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,58cdn.com.cn
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN,help-ol.bj.bcebos.com
-  - DOMAIN-SUFFIX,gx10oss.ctyunxs.cn
+  - DOMAIN-SUFFIX,ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
 
   # Bilibili 哔哩哔哩
