@@ -1,8 +1,8 @@
 ## 
 HOST,ddrk.me,GMedia
-;HOST,jable.tv,GMedia
-;HOST,cdn.plyr.io,GMedia
-;HOST-SUFFIX.mushroomtrack.com,GMedia
+HOST-SUFFIX,jable.tv,GMedia
+HOST,cdn.plyr.io,GMedia
+HOST-SUFFIX.mushroomtrack.com,GMedia
 
 # > ABC
 HOST-SUFFIX,edgedatg.com,GMedia
