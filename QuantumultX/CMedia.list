@@ -1,19 +1,15 @@
 ## ddrk 
-
-HOST,ddys.site
-HOST,ddys.wiki
-HOST-SUFFIX,ddys.pro
-HOST,vip1.loli.net
-HOST,vip2.loli.net
-HOST,vip3.loli.net
-HOST-SUFFIX,pstatp.com
-HOST-SUFFIX,58cdn.com.cn
-HOST-SUFFIX,360buyimg.com
-HOST,help-ol.bj.bcebos.com
-HOST-SUFFIX,ctyunxs.cn
-HOST-SUFFIX,bytecdntp.com
-
-HOST,ddys.one,CMedia
+HOST,ddys.site,CMedia
+HOST,ddys.wiki,CMedia
+HOST-SUFFIX,ddys.pro,CMedia
+HOST,vip1.loli.net,CMedia
+HOST,vip2.loli.net,CMedia
+HOST,vip3.loli.net,CMedia
+HOST-SUFFIX,pstatp.com,CMedia
+HOST-SUFFIX,58cdn.com.cn,CMedia
+HOST-SUFFIX,360buyimg.com,CMedia
+HOST,help-ol.bj.bcebos.com,CMedia
+HOST-SUFFIX,ctyunxs.cn,CMedia
 HOST-SUFFIX,bytecdntp.com,CMedia
 
 # > AcFun
