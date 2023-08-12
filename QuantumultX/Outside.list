@@ -1,7 +1,7 @@
 #Mastdoton.world
-HOST-KEYWORD,mastodon
-HOST,s3.eu-central-2.wasabisys.com
-HOST,ocsp.digicert.com
+HOST-KEYWORD,mastodon,Outside
+HOST,s3.eu-central-2.wasabisys.com,Outside
+HOST,ocsp.digicert.com,Outside
 
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
