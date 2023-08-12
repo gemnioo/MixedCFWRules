@@ -3,14 +3,17 @@ payload:
   
   
 ## ddrk 
-  - DOMAIN,ddys.art
+  - DOMAIN,ddys.wiki
   - DOMAIN,ddys.site
+  - DOMAIN-SUFFIX,ddys.pro
   - DOMAIN,vip1.loli.net
+  - DOMAIN,vip2.loli.net
+  - DOMAIN,vip3.loli.net
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,58cdn.com.cn
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN,help-ol.bj.bcebos.com
-  - DOMAIN,ddys.one,CMedia
+  - DOMAIN-SUFFIX,gx10oss.ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
 
   # Bilibili 哔哩哔哩
