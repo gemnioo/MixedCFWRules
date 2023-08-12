@@ -1,9 +1,9 @@
 # > OpenAI and more Bard coming 
 
-HOST,bard.google.com,🤖️ Open AI
-HOST,cdn.usefathom.com,🤖️ Open AI
-HOST-SUFFIX,anthropic.com,🤖️ Open AI
-HOST-SUFFIX,claude.ai,🤖️ Open AI
+HOST,bard.google.com,Open AI
+HOST,cdn.usefathom.com,Open AI
+HOST-SUFFIX,anthropic.com,Open AI
+HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,openai.com,Open AI
 HOST-SUFFIX,identrust.com,Open AI
 HOST,cdn.auth0.com,Open AI
