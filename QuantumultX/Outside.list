@@ -1,3 +1,8 @@
+#Mastdoton.world
+HOST-KEYWORD,mastodon
+HOST,s3.eu-central-2.wasabisys.com
+HOST,ocsp.digicert.com
+
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
 HOST,cdp.cloud.unity3d.com,Outside
