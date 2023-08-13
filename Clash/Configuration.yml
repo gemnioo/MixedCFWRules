@@ -516,8 +516,8 @@ rules:
   - DOMAIN-SUFFIX,fast.com,⏳ Speed Test
   - DOMAIN-KEYWORD,speedtest,⏳ Speed Test
   - DOMAIN-SUFFIX,ooklaserver.net,⏳ Speed Test
-  - DOMIAN,cdn.cookielaw.org,⏳ Speed Test
-  - DOMIAN,geolocation.onetrust.com,⏳ Speed Test
+  - DOMAIN,cdn.cookielaw.org,⏳ Speed Test
+  - DOMAIN,geolocation.onetrust.com,⏳ Speed Test
   - DOMAIN-SUFFIX,speed.cloudflare.com,⏳ Speed Test
   - DOMAIN,fastly.jsdelivr.net,⏳ Speed Test
   - RULE-SET,GlobalProxy,🔰 国外流量
