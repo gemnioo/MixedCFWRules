@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,diagnostic.networking.aws.dev
   - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
   - DOMAIN-SUFFIX,cloudfront.prod.ota-cloudfront.net
+  - DOMAIN-SUFFIX,api.discomax.com
   - DOMAIN,wl.amazon-dss.com
   - DOMAIN,aviary.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
