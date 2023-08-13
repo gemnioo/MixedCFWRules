@@ -15,6 +15,10 @@ payload:
   - DOMAIN-SUFFIX,diagnostic.networking.aws.dev
   - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
   - DOMAIN-SUFFIX,cloudfront.prod.ota-cloudfront.net
+  - DOMAIN,wl.amazon-dss.com
+  - DOMAIN,aviary.amazon.com
+  - DOMAIN,avs-alexa-18-na.amazon.com
+  - DOMAIN,images-na.ssl-images-amazon.com
 
   # (Live)
   # > Twitch
@@ -199,7 +203,7 @@ payload:
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN-KEYWORD,.hbogoasia.
-  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN,dai3fd1oh325y.cloudfront.net
