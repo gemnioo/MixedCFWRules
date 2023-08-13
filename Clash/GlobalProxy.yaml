@@ -11,6 +11,7 @@ payload:
   - DOMAIN,ocsp.pki.goog
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,shdsvc.dowjones.io
+  - DOMAIN,ublockorigin.pages.dev
   
   # > Blizzard
   # - USER-AGENT,hearthstone*
