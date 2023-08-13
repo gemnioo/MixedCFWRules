@@ -409,7 +409,7 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
 
-  # Private Tracker
+  # BT Tracker
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
@@ -466,6 +466,9 @@ payload:
   # DOMAIN-SUFFIX,ajax.cloudflare.com
   # DOMAIN-SUFFIX,cdnjs.cloudflare.com
   # DOMAIN-SUFFIX,code.jquery.com
+  - DOMAIN,ioshost.qtlcdn.com
+  - DOMAIN,lib.baomitu.com
+  - DOMAIN,pharos.baomitu.com
   - DOMAIN-SUFFIX,baomitu.com
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,jiasule.com
