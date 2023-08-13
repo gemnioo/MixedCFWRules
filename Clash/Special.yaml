@@ -2,7 +2,7 @@ payload:
 
   # > Fake IP Mode Special
   - DOMAIN-SUFFIX,caixin.com
-  - DOMAIN-SUFFIX,shimo.com
+  - DOMAIN-SUFFIX,shimo.im
   - DOMAIN,wj.qq.com
 
   # > Apple CDN
