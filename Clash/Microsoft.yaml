@@ -11,7 +11,7 @@ payload:
   - DOMAIN,ocsp.digicert.com,firefox
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,services.mozilla.com
-  - DOMAIN-SUFFIX,addons.mozilla.org
+  - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,cdn.mozilla.net
   
   # > Microsoft Edge
