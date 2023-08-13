@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN-SUFFIX,cdn.ziffstatic.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,duomeng.cn
   - DOMAIN-SUFFIX,log.aliyuncs.com
