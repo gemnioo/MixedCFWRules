@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,mastodon
   - DOMAIN,s3.eu-central-2.wasabisys.com
   - DOMAIN,api.raycast.app
+  - DOMAIN,releases.raycast.com
   - DOMAIN,r3.o.lencr.org
   - DOMAIN,status.rapidssl.com
   - DOMAIN,proxsee.pscp.tv
