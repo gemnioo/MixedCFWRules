@@ -1,6 +1,21 @@
 payload:
   # Global Streaming Media  not include Spotify and Apple music as SONOS control App require
   - DOMAIN,ddrk.me
+  # FireTV Stick 4k or Max 
+  - DOMAIN,msh.amazon.co.uk
+  - DOMAIN,prod.amazoncrl.com
+  - DOMAIN,api.amazonalexa.com
+  - DOMAIN,2.android.pool.ntp.org
+  - DOMAIN,ftv-smp.ntp-fireos.com
+  - DOMAIN,fireoscaptiveportal.com
+  - DOMAIN,firetvcaptiveportal.com
+  - DOMAIN-SUFFIX,service.amazonsilk.com
+  - DOMAIN-SUFFIX,prime-video.amazon.dev
+  - DOMAIN-SUFFIX,digital.amazon.dev
+  - DOMAIN-SUFFIX,diagnostic.networking.aws.dev
+  - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+  - DOMAIN-SUFFIX,cloudfront.prod.ota-cloudfront.net
+
   # (Live)
   # > Twitch
   - PROCESS-NAME,tv.twitch.android.app
