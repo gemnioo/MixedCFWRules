@@ -5,7 +5,8 @@ payload:
   # DOMAIN-SUFFIX,heremaps.cn
   # DOMAIN-SUFFIX,ovi.com.cn
 
-
+  - DOMAIN,m.hotmail.com
+  - DOMAIN,login.microsoftonline.com  
   # > Add Firefox Mozilla.org 
   - DOMAIN,ocsp.digicert.com,firefox
   - DOMAIN-SUFFIX,firefox.com
