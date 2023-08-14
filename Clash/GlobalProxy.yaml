@@ -766,6 +766,7 @@ payload:
   # > Google
   - IP-CIDR,173.194.0.0/16,no-resolve
   - IP-CIDR,74.125.0.0/16,no-resolve
+  - IP-CIDR,142.251.43.0/22,no-resolve
 
   # > Kakao Talk
   - IP-CIDR,1.201.0.0/24,no-resolve
