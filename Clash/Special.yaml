@@ -1,10 +1,5 @@
 payload:
 
-  # > Fake IP Mode Special
-  - DOMAIN-SUFFIX,caixin.com
-  - DOMAIN-SUFFIX,shimo.im
-  - DOMAIN,wj.qq.com
-
   # > Apple CDN
   - PROCESS-NAME,storedownloadd
   # - USER-AGENT,com.apple.appstored*
