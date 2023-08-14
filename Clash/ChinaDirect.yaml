@@ -2,6 +2,7 @@ payload:
   # 直连列表
     # > Fake IP Mode Special
   - DOMAIN-SUFFIX,caixin.com
+  - DOMAIN,vod.volcengineapi.com
   - DOMAIN-SUFFIX,shimo.im
   - DOMAIN,wj.qq.com
   
