@@ -376,7 +376,10 @@ rules:
   - DOMAIN,o33249.ingest.sentry.io,REJECT
   - DOMAIN,o315582.ingest.sentry.io,REJECT
   - DOMAIN,o245571.ingest.sentry.io,REJECT
+  - DOMAIN-SUFFIX,mc.tritondigital.com,🔰 国外流量
   - DOMAIN-KEYWORD,courier.push.apple.com,🔰 国外流量
+  - DOMAIN,chtbl.com,🍎 Apple
+  - DOMAIN,podtrac.com,🍎 Apple
   - DOMAIN-KEYWORD,apac-china-courier,🍎 Apple
   - DOMAIN,apple.comscoreresearch.com,🍎 Apple
   - DOMAIN-SUFFIX,aaplimg.com,🍎 Apple
