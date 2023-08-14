@@ -33,6 +33,7 @@ payload:
   - DOMAIN,analytics.plex.tv
   - DOMAIN,www.google-analytics.com
   - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,neutral.ttwstatic.com:443
 
   - DOMAIN-KEYWORD,cnzz
   - DOMAIN-KEYWORD,domob
