@@ -1,7 +1,21 @@
 #Mastdoton.world
 HOST-KEYWORD,mastodon,Outside
 HOST,s3.eu-central-2.wasabisys.com,Outside
+HOST,api.raycast.app,Outside
+HOST,releases.raycast.com,Outside
+HOST,rbackend.raycast.com,Outside
+HOST-SUFFIX,raycast.com,Outside
+HOST,r3.o.lencr.org,Outside
+HOST,status.rapidssl.com,Outside
+HOST,proxsee.pscp.tv,Outside
+HOST,ocsp.pki.goog,Outside
 HOST,ocsp.digicert.com,Outside
+HOST-SUFFIX,amazontrust.com,Outside
+HOST-SUFFIX,shdsvc.dowjones.io,Outside
+HOST,ublockorigin.pages.dev,Outside
+
+HOST-SUFFIX,ocsp.sectigo.com,Outside
+HOST-SUFFIX,caixinglobal.com,Outside
 
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
