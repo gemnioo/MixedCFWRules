@@ -14,9 +14,15 @@ payload:
   - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,ublockorigin.pages.dev
 
-  #CaxinGlobal
+  #Media 
   - DOMAIN-SUFFIX,ocsp.sectigo.com
   - DOMAIN-SUFFIX,caixinglobal.com
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdn.privacy-mgmt.com
+  - DOMAIN,cacerts.digicert.com
+  - DOMAIN,cdn.concert.io
+  - DOMAIN,apps.voxmedia.com
+  - DOMAIN-SUFFIX,coralproject.net
   
   # > Blizzard
   # - USER-AGENT,hearthstone*
