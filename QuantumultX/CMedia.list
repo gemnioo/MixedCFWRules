@@ -1,6 +1,8 @@
-## ddrk 
-HOST,ddys.site,CMedia
+
+## update ddrk as ddys
 HOST,ddys.wiki,CMedia
+HOST,ddys.site,CMedia
+HOST,ddys.info,CMedia
 HOST-SUFFIX,ddys.pro,CMedia
 HOST,vip1.loli.net,CMedia
 HOST,vip2.loli.net,CMedia
