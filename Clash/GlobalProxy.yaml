@@ -6,6 +6,7 @@ payload:
   - DOMAIN,releases.raycast.com
   - DOMAIN,rbackend.raycast.com
   - DOMAIN-SUFFIX,raycast.com
+  - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN,r3.o.lencr.org
   - DOMAIN,status.rapidssl.com
   - DOMAIN,proxsee.pscp.tv
