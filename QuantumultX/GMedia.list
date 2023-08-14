@@ -1,8 +1,30 @@
 ## 
-HOST,ddrk.me,GMedia
+
 HOST-SUFFIX,jable.tv,GMedia
 HOST,cdn.plyr.io,GMedia
 HOST-SUFFIX,mushroomtrack.com,GMedia
+
+# > FireTV 4k Max stick 
+HOST,msh.amazon.co.uk,GMedia
+HOST,prod.amazoncrl.com,GMedia
+HOST,api.amazonalexa.com,GMedia
+HOST,2.android.pool.ntp.org,GMedia
+HOST,ftv-smp.ntp-fireos.com,GMedia
+HOST,fireoscaptiveportal.com,GMedia
+HOST,firetvcaptiveportal.com,GMedia
+HOST-SUFFIX,service.amazonsilk.com,GMedia
+HOST-SUFFIX,prime-video.amazon.dev,GMedia
+HOST-SUFFIX,digital.amazon.dev,GMedia
+HOST-SUFFIX,diagnostic.networking.aws.dev,GMedia
+HOST-SUFFIX,prod.service.minerva.devices.a2z.com,GMedia
+HOST-SUFFIX,cloudfront.prod.ota-cloudfront.net,GMedia
+HOST-SUFFIX,api.discomax.com,GMedia
+HOST,wl.amazon-dss.com,GMedia
+HOST,aviary.amazon.com,GMedia
+HOST,avs-alexa-18-na.amazon.com,GMedia
+HOST,images-na.ssl-images-amazon.com,GMedia
+HOST,ocsp.rootca1.amazontrust.com,GMedia
+HOST,ocsp.r2m02.amazontrust.com,GMedia
 
 # > ABC
 HOST-SUFFIX,edgedatg.com,GMedia
