@@ -35,3 +35,5 @@ HOST-SUFFIX,apple.news,Apple
 # > Apple Podcast
 HOST,chtbl.com,Apple
 HOST,podtrac.com,Apple
+HOST,traffic.omny.fm,Outside
+HOST-SUFFIX,mc.tritondigital.com,Outside
