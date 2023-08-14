@@ -5,6 +5,7 @@ payload:
   - DOMAIN,api.raycast.app
   - DOMAIN,releases.raycast.com
   - DOMAIN,rbackend.raycast.com
+  - DOMAIN-SUFFIX,raycast.com
   - DOMAIN,r3.o.lencr.org
   - DOMAIN,status.rapidssl.com
   - DOMAIN,proxsee.pscp.tv
@@ -12,6 +13,10 @@ payload:
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,ublockorigin.pages.dev
+
+  #CaxinGlobal
+  - DOMAIN-SUFFIX,ocsp.sectigo.com
+  - DOMAIN-SUFFIX,caixinglobal.com
   
   # > Blizzard
   # - USER-AGENT,hearthstone*
