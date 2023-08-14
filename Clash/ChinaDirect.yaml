@@ -1,5 +1,10 @@
 payload:
   # 直连列表
+    # > Fake IP Mode Special
+  - DOMAIN-SUFFIX,caixin.com
+  - DOMAIN-SUFFIX,shimo.im
+  - DOMAIN,wj.qq.com
+  
   # MyList
   - DOMAIN-SUFFIX,13th.tech
   - DOMAIN-SUFFIX,423down.com
