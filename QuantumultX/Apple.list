@@ -31,3 +31,7 @@ IP-CIDR,205.180.175.0/24,Apple
 # > Apple News
 HOST-SUFFIX,apple.comscoreresearch.com,Apple
 HOST-SUFFIX,apple.news,Apple
+
+# > Apple Podcast
+HOST,chtbl.com,Apple
+HOST,podtrac.com,Apple
