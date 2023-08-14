@@ -14,3 +14,13 @@ HOST-SUFFIX,speed.dler.io,Speedtest
 
 # Speed Test by Cloudflare
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
+
+# OpenClash Login IP Test 
+HOST,ip.fm,Speedtest
+HOST,api.ipify.org,Speedtest
+HOST,qqwry.api.skk.moe,Speedtest
+HOST,api-ipv4.ip.sb,Speedtest
+HOST,ftp.jaist.ac.jp,Speedtest
+
+# IPleak and Other DNS leak 
+HOST-SUFFIX,ipleak.net,Speedtest
