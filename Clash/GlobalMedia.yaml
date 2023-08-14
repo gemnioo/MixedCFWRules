@@ -21,6 +21,8 @@ payload:
   - DOMAIN,aviary.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
   - DOMAIN,images-na.ssl-images-amazon.com
+  - DOMAIN,ocsp.rootca1.amazontrust.com
+  - DOMAIN,ocsp.r2m02.amazontrust.com
 
   # (Live)
   # > Twitch
