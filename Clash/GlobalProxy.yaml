@@ -669,6 +669,7 @@ payload:
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN,apis.google.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
