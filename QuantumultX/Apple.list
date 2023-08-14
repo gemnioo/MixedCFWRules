@@ -1,9 +1,8 @@
 # > Apple API
-HOST-KEYWORD,apple.com.akadns.net,Apple
-HOST-KEYWORD,icloud.com.akadns.net,Apple
-HOST-KEYWORD,apple.com.akadns.net,Apple
-HOST-KEYWORD,icloud.com.akadns.net,Apple
-HOST-SUFFIX,aaplimg.com,Apple
+HOST-SUFFI,aaplimg.com,Apple
+HOST-SUFFI,akadns.net,Apple
+HOST-SUFFI,akamaiedge.net,Apple
+
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
