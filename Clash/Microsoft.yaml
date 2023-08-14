@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,services.mozilla.com
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,cdn.mozilla.net
+  - DOMAIN,autopush.prod.mozaws.net
   
   # > Microsoft Edge
   - DOMAIN,edge.activity.windows.com
