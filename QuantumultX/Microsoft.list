@@ -6,7 +6,7 @@ HOST,m.hotmail.com,Microsoft
 HOST,login.microsoftonline.com,Microsoft  
 
   # > Firefox Mozilla
-HOST,ocsp.digicert.com,firefox,Microsoft
+HOST,ocsp.digicert.com,Microsoft
 HOST-SUFFIX,firefox.com,Microsoft
 HOST-SUFFIX,services.mozilla.com,Microsoft
 HOST-SUFFIX,mozilla.org,Microsoft
