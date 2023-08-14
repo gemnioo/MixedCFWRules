@@ -1,7 +1,19 @@
 # NAME: Microsoft
-# UPDATED: 2023-06-05  22:12
+# UPDATED: 2023-06-05  22:12 / 2023-08-14 13:55
 
-    # > Microsoft Edge
+HOST,eas.outlook.com,Microsoft
+HOST,m.hotmail.com,Microsoft
+HOST,login.microsoftonline.com,Microsoft  
+
+  # > Firefox Mozilla
+HOST,ocsp.digicert.com,firefox,Microsoft
+HOST-SUFFIX,firefox.com,Microsoft
+HOST-SUFFIX,services.mozilla.com,Microsoft
+HOST-SUFFIX,mozilla.org,Microsoft
+HOST-SUFFIX,cdn.mozilla.net,Microsoft
+HOST,autopush.prod.mozaws.net,Microsoft
+
+  # > Microsoft Edge
 HOST,edge.activity.windows.com,Microsoft
 HOST,edge.microsoft.com,Microsoft
 HOST,iecvlist.microsoft.com,Microsoft
@@ -17,6 +29,7 @@ HOST-SUFFIX,azure-dns.org,Microsoft
 HOST-SUFFIX,azure-mobile.net,Microsoft
 HOST-SUFFIX,azure-sphere.com,Microsoft
 HOST-SUFFIX,azure-test.net,Microsoft
+
   # HOST-SUFFIX,azure.cn,Microsoft
 HOST-SUFFIX,azure.com,Microsoft
 HOST-SUFFIX,azure.net,Microsoft
