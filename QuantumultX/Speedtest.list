@@ -3,8 +3,13 @@ HOST-SUFFIX,fast.com,Speedtest
 
 # Speedtest by Ookla
 USER-AGENT,SpeedTest*,Speedtest
+HOST-SUFFIX,fast.com,Speedtest
 HOST-KEYWORD,speedtest,Speedtest
 HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST,cdn.cookielaw.org,Speedtest
+HOST,geolocation.onetrust.com,Speedtest
+HOST-SUFFIX,speed.cloudflare.com,Speedtest
+HOST,fastly.jsdelivr.net,Speedtest
 HOST-SUFFIX,speed.dler.io,Speedtest
 
 # Speed Test by Cloudflare
