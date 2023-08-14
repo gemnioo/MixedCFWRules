@@ -1,7 +1,7 @@
 payload:
   # Global Streaming Media  not include Spotify and Apple music as SONOS control App require
   - DOMAIN,ddrk.me
-  - DOMAIN,ddrk.art
+  - DOMAIN,ddys.art
   # FireTV Stick 4k or Max 
   - DOMAIN,msh.amazon.co.uk
   - DOMAIN,prod.amazoncrl.com
