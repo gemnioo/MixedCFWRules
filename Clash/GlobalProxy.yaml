@@ -18,7 +18,9 @@ payload:
   #Media 
   - DOMAIN-SUFFIX,ocsp.sectigo.com
   - DOMAIN-SUFFIX,caixinglobal.com
-  - DOMAIN-SUFFIX,apigw.scmp.com
+  - DOMAIN-SUFFIX,i-scmp.com
+  - DOMAIN-SUFFIX,scmp.com
+  - DOMAIN,cdn.opecloud.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.privacy-mgmt.com
   - DOMAIN,cacerts.digicert.com
