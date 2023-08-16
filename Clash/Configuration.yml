@@ -4,7 +4,7 @@
 #---------------------------------------------------#
 
 ## Update Jun 5. 2023  20:18  wiki github.com/Dreamacro/clash/wiki/configuration
-## Update Aug 13. 2034  16:09  Firefox Apple push and For FakeIP mode use 
+## Update Aug 13. 2023  16:09  Firefox Apple push and For FakeIP mode use 
 
 # 混合端口 HTTP和SOCKS5用一个端口 
 mixed-port: 7890
