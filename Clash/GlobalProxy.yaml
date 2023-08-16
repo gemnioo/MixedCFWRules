@@ -14,6 +14,8 @@ payload:
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,ublockorigin.pages.dev
+  - DOMAIN,cdn.polyfill.io
+  - DOMAIN,cdn.iframe.ly
 
   #Media 
   - DOMAIN-SUFFIX,ocsp.sectigo.com
