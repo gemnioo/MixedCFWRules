@@ -3,6 +3,25 @@ payload:
   # source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
   # update with Janlay's public ruleset blocked-domains-clash.txt 
   
+  #unionpay aka Yunshanfu cup.cn ads test
+  - DOMAIN,ads.cup.com.cn
+  - DOMAIN,analytics.95516.com
+  - DOMAIN,hotpatch.cup.com.cnotr
+  - DOMAIN,hotpatch.cup.com.cnx9tm
+  - DOMAIN,hotpatch.cup.com.cnfhzluz
+  - DOMAIN,hotpatch.cup.com.cnwh6dn4
+  - DOMAIN,hotpatch.cup.com.cnenmpcputvbfadsqpn
+  - DOMAIN,hotpatch.cup.com.cnmzcglun3cjp710oiijo76b4mfx6gpvwet23mcvb0xgk
+  - DOMAIN,hotpatch.cup.com.cnwjgt5ahwa1ehtpwyf8a3sl6xvw2j8mpg4hnbqeiziqa
+  - DOMAIN,hotpatch.cup.com.cn0oz9ke5ph2dij0nyebyn+5+rnkf7lkl
+  - DOMAIN,hotpatch.cup.com.cnj8mrvtdmzxitdaoj6jmqe29xu
+  - DOMAIN,hotpatch.cup.com.cnrokxelluwqmcnyakbmgkrwhpy47z42bn+tfj9qbmgnq
+  - DOMAIN,hotpatch.cup.com.cnekvgvjlzicbb56n9+tbzxf2cdiivwc9bzsvft5i2r4i
+  - DOMAIN,hotpatch.cup.com.cnqmerod5mi+cx9kin1qnuturm3v7kuzmlcldwpatusq0
+  - DOMAIN,hotpatch.cup.com.cng+qanyzxuf416ihfqez95kndcpdeidmssxrrqkfx5iw
+  - DOMAIN,hotpatch.cup.com.cncajhnds6bmhsp3n6b3xan+nofwslweygilu3sfgiljs
+  - DOMAIN,hotpatch.cup.com.cn3s4e6zgxjlbz+bzeatntfbgqxbfx7rdykadyrb6brue
+  
   - DOMAIN,ads.mopub.com
   - DOMAIN,analytics.plex.tv
   - DOMAIN,analytics.yahoo.com
