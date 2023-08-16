@@ -16,6 +16,7 @@ payload:
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,cdn.polyfill.io
   - DOMAIN,cdn.iframe.ly
+  - DOMAIN,cdn.v2ex.com
 
   #Media 
   - DOMAIN-SUFFIX,ocsp.sectigo.com
