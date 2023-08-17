@@ -31,6 +31,8 @@ payload:
   - DOMAIN,cdn.concert.io
   - DOMAIN,apps.voxmedia.com
   - DOMAIN-SUFFIX,coralproject.net
+  - DOMAIN,www.iyouport.org
+  - DOMAIN,nei.st
   
   # > Blizzard
   # - USER-AGENT,hearthstone*
