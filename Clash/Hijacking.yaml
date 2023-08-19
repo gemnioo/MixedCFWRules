@@ -10,7 +10,6 @@ payload:
   - DOMAIN,hotpatch.cup.com.cnx9tm
   - DOMAIN,hotpatch.cup.com.cnfhzluz
   - DOMAIN,hotpatch.cup.com.cnwh6dn4
-  - DOMAIN,hotpatch.cup.com.cnenmpcputvbfadsqpn
   - DOMAIN,hotpatch.cup.com.cnmzcglun3cjp710oiijo76b4mfx6gpvwet23mcvb0xgk
   - DOMAIN,hotpatch.cup.com.cnwjgt5ahwa1ehtpwyf8a3sl6xvw2j8mpg4hnbqeiziqa
   - DOMAIN-KEYWORD,cn0oz9ke5ph2dij0nyebyn
@@ -54,6 +53,7 @@ payload:
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,neutral.ttwstatic.com
   - DOMAIN,static.dwcdn.net
+  - DOMAIN,ads-api.ft.com
 
   - DOMAIN-KEYWORD,cnzz
   - DOMAIN-KEYWORD,domob
