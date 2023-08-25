@@ -12,11 +12,14 @@ payload:
   - DOMAIN,firetvcaptiveportal.com
   - DOMAIN-SUFFIX,service.amazonsilk.com
   - DOMAIN-SUFFIX,prime-video.amazon.dev
+  - DOMAIN-SUFFIX,imdbtv.amazon.dev
+  - DOMAIN-SUFFIX,imdbtv-services.amazon.dev
   - DOMAIN-SUFFIX,digital.amazon.dev
   - DOMAIN-SUFFIX,diagnostic.networking.aws.dev
   - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
   - DOMAIN-SUFFIX,cloudfront.prod.ota-cloudfront.net
   - DOMAIN-SUFFIX,api.discomax.com
+  - DOMAIN-SUFFIX,amazonfirenews.wurl.tv
   - DOMAIN,wl.amazon-dss.com
   - DOMAIN,aviary.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
