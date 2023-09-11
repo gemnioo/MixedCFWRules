@@ -7,6 +7,10 @@ payload:
   - DOMAIN,eas.outlook.com
   - DOMAIN,m.hotmail.com
   - DOMAIN,login.microsoftonline.com  
+
+  #Used to download operating system patches, updates, and apps from Microsoft Store
+  #Xbox ！！
+  - DOMAIN,fe3cr.delivery.mp.microsoft.com
   
   # > Add Firefox Mozilla.org 
   - DOMAIN,ocsp.digicert.com,firefox
