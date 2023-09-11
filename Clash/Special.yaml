@@ -28,6 +28,11 @@ payload:
   # > Microsoft
   # - USER-AGENT,Microsoft%20Remote%20Desktop*
   - DOMAIN-SUFFIX,msftconnecttest.com
+  # Office
+  - DOMAIN,self.events.data.microsoft.com
+  - DOMAIN,v10.events.data.microsoft.com
+  #Delivery Optimization client-service communication
+  - DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
 
   # > Proxy plugin
   - PROCESS-NAME,v2ray
