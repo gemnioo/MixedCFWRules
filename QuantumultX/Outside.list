@@ -258,6 +258,7 @@ HOST-SUFFIX,chromestatus.com,Outside
 HOST-SUFFIX,chromium.org,Outside
 HOST-SUFFIX,cl.ly,Outside
 HOST-SUFFIX,clien.net,Outside
+HOST-SUFFIX,cloud.cupronickel.goog,Outside
 HOST-SUFFIX,cloudflare.com,Outside
 HOST-SUFFIX,cloudfront.net,Outside
 HOST-SUFFIX,cloudgarage.jp,Outside
@@ -287,6 +288,7 @@ HOST-SUFFIX,disconnect.me,Outside
 HOST-SUFFIX,disq.us,Outside
 HOST-SUFFIX,disqus.com,Outside
 HOST-SUFFIX,disquscdn.com,Outside
+HOST-SUFFIX,dler.io,Outside
 HOST-SUFFIX,dmm.co.jp,Outside
 HOST-SUFFIX,dnsimple.com,Outside
 HOST-SUFFIX,docker.com,Outside
@@ -601,6 +603,7 @@ HOST-SUFFIX,tmblr.co,Outside
 HOST-SUFFIX,todoist.com,Outside
 HOST-SUFFIX,togetter.com,Outside
 HOST-SUFFIX,tokyocn.com,Outside
+HOST-SUFFIX,torrentmac.net,Outside
 HOST-SUFFIX,tomshardware.com,Outside
 HOST-SUFFIX,torcn.com,Outside
 HOST-SUFFIX,torrentprivacy.com,Outside
@@ -740,9 +743,9 @@ HOST-SUFFIX,ying.com,Outside
 HOST-SUFFIX,yorkbbs.ca,Outside
 HOST-SUFFIX,youmaker.com,Outside
 HOST-SUFFIX,yourlisten.com,Outside
-HOST-SUFFIX,youtu.be,Outside
+
 HOST-SUFFIX,yoyo.org,Outside
-HOST-SUFFIX,ytimg.com,Outside
+
 HOST-SUFFIX,zacebook.com,Outside
 HOST-SUFFIX,zalmos.com,Outside
 HOST-SUFFIX,zaobao.com.sg,Outside
