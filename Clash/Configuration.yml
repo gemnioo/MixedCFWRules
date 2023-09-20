@@ -344,16 +344,17 @@ rules:
   - DOMAIN-SUFFIX,spotifynewsroom.jp,🎵 SONOS
   - DOMAIN-SUFFIX,spotilocal.com,🎵 SONOS
   - DOMAIN-SUFFIX,tospotify.com,🎵 SONOS
+  - DOMAIN-SUFFIX,sonostime.pool.ntp.org,DIRECT
   - DOMAIN,sonos-music.apple.com,🎵 SONOS
-  - DOMAIN,oauth.ws.sonos.com,🎵 SONOS
   - DOMAIN,sali.sonos.radio,🎵 SONOS
+  - DOMAIN,oauth.ws.sonos.com,🎵 SONOS
   - DOMAIN,dcapps.ws.sonos.com,🎵 SONOS
-  - DOMAIN,update-services.sonos.com,🎵 SONOS
-  - DOMAIN,update-firmware.sonos.com,🎵 SONOS
-  - DOMAIN,service-catalog.ws.sonos.com,🎵 SONOS
   - DOMAIN,voiceconfig.ws.sonos.com,🎵 SONOS
   - DOMAIN-SUFFIX,ws.sonos.com,🎵 SONOS
+  - DOMAIN,update-services.sonos.com,🎵 SONOS
+  - DOMAIN,update-firmware.sonos.com,🎵 SONOS
   - DOMAIN-SUFFIX,sonos.com,🎵 SONOS
+  - DOMAIN-SUFFIX,urbanairship.com,DIRECT
   - DOMAIN,o167642.ingest.sentry.io,REJECT
   - RULE-SET,GlobalMedia,🎥 国际媒体
   - DOMAIN-SUFFIX,jable.tv,🎥 国际媒体
