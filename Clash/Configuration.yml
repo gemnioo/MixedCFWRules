@@ -352,7 +352,7 @@ rules:
   - DOMAIN,update-firmware.sonos.com,🎵 SONOS
   - DOMAIN,service-catalog.ws.sonos.com,🎵 SONOS
   - DOMAIN,voiceconfig.ws.sonos.com,🎵 SONOS
-  - DOMAIN,msmetrics.ws.sonos.com,🎵 SONOS
+  - DOMAIN-SUFFIX,ws.sonos.com,🎵 SONOS
   - DOMAIN-SUFFIX,sonos.com,🎵 SONOS
   - DOMAIN,o167642.ingest.sentry.io,REJECT
   - RULE-SET,GlobalMedia,🎥 国际媒体
