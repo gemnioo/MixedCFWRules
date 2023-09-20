@@ -20,23 +20,8 @@ HOST,sali.sonos.radio,Spotify
 HOST,dcapps.ws.sonos.com,Spotify
 HOST,update-services.sonos.com,Spotify
 HOST,update-firmware.sonos.com,Spotify
-HOST,service-catalog.ws.sonos.com,Spotify
-HOST,voiceconfig.ws.sonos.com,Spotify
-HOST,msmetrics.ws.sonos.com,Spotify
 HOST-SUFFIX,sonos.com,Spotify
-
-#Sonos performance monitoring & error tracking
-HOST,o167642.ingest.sentry.io,REJECT
-#Apple music Sonos link Test 
-;HOST,inappcheck.itunes.apple.com,Spotify
-;HOST,xp.apple.com,Spotify
-;HOST,is1-ssl.mzstatic.com,Spotify
-;HOST,is2-ssl.mzstatic.com,Spotify
-;HOST,is3-ssl.mzstatic.com,Spotify
-;HOST,is4-ssl.mzstatic.com,Spotify
-;HOST,is5-ssl.mzstatic.com,Spotify
-;HOST,cdn.optimizely.com,Spotify
-;HOST,logx.optimizely.com,Spotify
+HOST-SUFFIX,ws.sonos.com,Spotify
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*,Spotify
