@@ -14,14 +14,18 @@ HOST-SUFFIX,spotilocal.com,Spotify
 HOST-SUFFIX,tospotify.com,Spotify
 
 #Sonos control 增加了局域网 SONOS 音箱的控制
+HOST-SUFFIX,sonostime.pool.ntp.org,DIRECT
 HOST,sonos-music.apple.com,Spotify
-HOST,oauth.ws.sonos.com,Spotify
 HOST,sali.sonos.radio,Spotify
+HOST,oauth.ws.sonos.com,Spotify
 HOST,dcapps.ws.sonos.com,Spotify
+HOST,voiceconfig.ws.sonos.com,Spotify
+HOST-SUFFIX,ws.sonos.com,Spotify
 HOST,update-services.sonos.com,Spotify
 HOST,update-firmware.sonos.com,Spotify
 HOST-SUFFIX,sonos.com,Spotify
-HOST-SUFFIX,ws.sonos.com,Spotify
+HOST-SUFFIX,urbanairship.com,DIRECT
+HOST,o167642.ingest.sentry.io,REJECT
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*,Spotify
