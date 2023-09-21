@@ -33,6 +33,19 @@ payload:
   - DOMAIN,cdn.concert.io
   - DOMAIN,apps.voxmedia.com
   - DOMAIN-SUFFIX,coralproject.net
+
+  # > RSS 
+  - DOMAIN,clip.owenyoung.com
+  - DOMAIN,www.kivinsae.com
+  - DOMAIN,e1.o.lencr.org
+  - DOMAIN,thewirecutter.com
+  - DOMAIN,byvoid.com
+  - DOMAIN,daringfireball.net
+  - DOMAIN,blog.ryouissei.com
+  - DOMAIN,taresky.com
+  - DOMAIN,www.byvoid.com
+  - DOMAIN,thesweetsetup.com
+  - DOMAIN,blog.farmostwood.net
   - DOMAIN,www.iyouport.org
   - DOMAIN,nei.st
   
