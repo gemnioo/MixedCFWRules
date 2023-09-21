@@ -14,7 +14,7 @@ payload:
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
   
   # > Add Firefox Mozilla.org 
-  - DOMAIN,ocsp.digicert.com,firefox
+  - DOMAIN,ocsp.digicert.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,services.mozilla.com
   - DOMAIN-SUFFIX,mozilla.org
