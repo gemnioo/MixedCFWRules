@@ -2,6 +2,8 @@
 HOST,chtbl.com,Outside
 HOST,podtrac.com,Outside
 HOST,traffic.omny.fm,Outside
+HOST,flex.acast.com,Outside
+HOST,stitcher2.acast.com,Outside
 HOST-SUFFIX,mc.tritondigital.com,Outside
 HOST,amp-api.podcasts.apple.com,Outside
 HOST,bag.itunes.apple.com,Apple
