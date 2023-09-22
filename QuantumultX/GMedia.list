@@ -73,7 +73,7 @@ HOST,d22qjgkvxw22r6.cloudfront.net,GMedia
 HOST,d25xi40x97liuc.cloudfront.net,GMedia
 HOST,dmqdd6hw24ucf.cloudfront.net,GMedia
 HOST,d27xxe7juh1us6.cloudfront.net,GMedia
-HOST-SUFFIIX,elb.amazonaws.com,GMedia
+HOST-SUFFIX,elb.amazonaws.com,GMedia
 
 # > Apple TV
 HOST,linear.tv.apple.com,GMedia
