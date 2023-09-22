@@ -1,5 +1,15 @@
-# > Apple API
+# > Apple Podcast Blocked
+HOST,chtbl.com,Outside
+HOST,podtrac.com,Outside
+HOST,traffic.omny.fm,Outside
+HOST-SUFFIX,mc.tritondigital.com,Outside
+HOST,amp-api.podcasts.apple.com,Outside
+HOST,bag.itunes.apple.com,Apple
+HOST,play.itunes.apple.com,Apple
+HOST,bookkeeper.itunes.apple.com,Apple
+HOST,entitlements-edge.itunes.apple.com,Apple
 
+# > Apple API
 HOST-SUFFIX,akadns.net,Apple
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,akamaiedge.net,Apple
@@ -30,11 +40,6 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 
 # > Apple News
-HOST-SUFFIX,apple.comscoreresearch.com,Apple
-HOST-SUFFIX,apple.news,Apple
+HOST-SUFFIX,apple.comscoreresearch.com,Outside
+HOST-SUFFIX,apple.news,Outside
 
-# > Apple Podcast
-HOST,chtbl.com,Apple
-HOST,podtrac.com,Apple
-HOST,traffic.omny.fm,Outside
-HOST-SUFFIX,mc.tritondigital.com,Outside
