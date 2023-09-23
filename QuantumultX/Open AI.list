@@ -18,27 +18,6 @@ HOST,o33249.ingest.sentry.io,REJECT
 HOST,o315582.ingest.sentry.io,REJECT
 HOST,o245571.ingest.sentry.io,REJECT
 
-# > For IP sensitive TikTok
-USER-AGENT,TikTok*,Outside
-HOST-KEYWORD,tiktokcdn-,Outside
-HOST-KEYWORD,musical.ly,Outside
-HOST-KEYWORD,tiktok,Outside
-HOST-KEYWORD,tiktokv,Outside
-HOST-SUFFIX,akamaized.net,Outside
-HOST-SUFFIX,byteoversea.com,Outside
-HOST-SUFFIX,ibytedtos.com,Outside
-HOST-SUFFIX,ibyteimg.com,Outside
-HOST-SUFFIX,ipstatp.com,Outside
-HOST-SUFFIX,muscdn.com,Outside
-HOST-SUFFIX,musical.ly,Outside
-HOST-SUFFIX,sgpstatp.com,Outside
-HOST-SUFFIX,snssdk.com,Outside
-HOST-SUFFIX,tik-tokapi.com,Outside
-HOST-SUFFIX,tiktok.com,Outside
-HOST-SUFFIX,tiktokcdn.com,Outside
-HOST-SUFFIX,tiktokv.com,Outside
-HOST-SUFFIX,neutral.ttwstatic.com,Outside
-
 # > Paypal 
 USER-AGENT,PayPal*,Outside
 HOST-KEYWORD,paypal,Outside
