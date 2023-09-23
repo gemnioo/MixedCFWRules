@@ -50,9 +50,9 @@ payload:
   - DOMAIN,nei.st
 
   # > PayPal
-  - DOMAIN-KEYWORD,paypal,PayPal
-  - DOMAIN-SUFFIX,paypal.com,PayPal
-  - DOMAIN-SUFFIX,paypalobjects.com,PayPal
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
   
   # > Blizzard
   # - USER-AGENT,hearthstone*
