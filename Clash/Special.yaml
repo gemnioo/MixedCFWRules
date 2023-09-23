@@ -32,7 +32,7 @@ payload:
   - DOMAIN,self.events.data.microsoft.com
   - DOMAIN,v10.events.data.microsoft.com
   #Delivery Optimization client-service communication
-  - DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
+  - DOMAIN-SUFFIX,dsp.mp.microsoft.com
 
   # > Proxy plugin
   - PROCESS-NAME,v2ray
