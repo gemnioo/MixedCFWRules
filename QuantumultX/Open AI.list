@@ -37,7 +37,7 @@ HOST-SUFFIX,tik-tokapi.com,Outside
 HOST-SUFFIX,tiktok.com,Outside
 HOST-SUFFIX,tiktokcdn.com,Outside
 HOST-SUFFIX,tiktokv.com,Outside
-HOST-SUFFIX,,neutral.ttwstatic.com,Outside
+HOST-SUFFIX,neutral.ttwstatic.com,Outside
 
 # > Paypal 
 USER-AGENT,PayPal*,Outside
