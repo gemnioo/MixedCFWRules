@@ -14,16 +14,17 @@ payload:
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
   
   # > Add Firefox Mozilla.org 
-  - DOMAIN,ocsp.digicert.com
-  - DOMAIN,ocsp.edge.digicert.com
-  - DOMAIN,fp2e7a.wpc.phicdn.net
-  - DOMAIN,fp2e7a.wpc.2be4.phicdn.net
-  - DOMAIN-SUFFIX,firefox.com
-  - DOMAIN-SUFFIX,services.mozilla.com
-  - DOMAIN-SUFFIX,mozilla.org
-  - DOMAIN-SUFFIX,cdn.mozilla.net
-  - DOMAIN,autopush.prod.mozaws.net
-  - DOMAIN-SUFFIX,webservices.mozgcp.net
+  - DOMAIN,ocsp.digicert.com,🖥 Microsoft
+  - DOMAIN,ocsp.edge.digicert.com,🖥 Microsoft
+  - DOMAIN,fp2e7a.wpc.phicdn.net,🖥 Microsoft
+  - DOMAIN,fp2e7a.wpc.2be4.phicdn.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,firefox.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,services.mozilla.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,mozilla.org,🖥 Microsoft
+  - DOMAIN-SUFFIX,cdn.mozilla.net,🖥 Microsoft
+  - DOMAIN,mozilla.cloudflare-dns.com,🖥 Microsoft
+  - DOMAIN,autopush.prod.mozaws.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,webservices.mozgcp.net,🖥 Microsoft
   
   # > Microsoft Edge
   - DOMAIN,edge.activity.windows.com
