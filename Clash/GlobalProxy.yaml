@@ -48,6 +48,11 @@ payload:
   - DOMAIN,blog.farmostwood.net
   - DOMAIN,www.iyouport.org
   - DOMAIN,nei.st
+
+  # > PayPal
+  - DOMAIN-KEYWORD,paypal,PayPal
+  - DOMAIN-SUFFIX,paypal.com,PayPal
+  - DOMAIN-SUFFIX,paypalobjects.com,PayPal
   
   # > Blizzard
   # - USER-AGENT,hearthstone*
