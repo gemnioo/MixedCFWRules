@@ -15,6 +15,9 @@ payload:
   
   # > Add Firefox Mozilla.org 
   - DOMAIN,ocsp.digicert.com
+  - DOMAIN,ocsp.edge.digicert.com
+  - DOMAIN,fp2e7a.wpc.phicdn.net
+  - DOMAIN,fp2e7a.wpc.2be4.phicdn.net
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,services.mozilla.com
   - DOMAIN-SUFFIX,mozilla.org
