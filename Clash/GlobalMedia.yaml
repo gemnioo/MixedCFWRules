@@ -453,6 +453,7 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,neutral.ttwstatic.com
 
   # Twitch
   - DOMAIN-KEYWORD,ttvnw
