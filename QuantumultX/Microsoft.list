@@ -1,21 +1,119 @@
 # NAME: Microsoft
-# UPDATED: 2023-06-05  22:12 / 2023-08-14 13:55
+# UPDATED: 2023-06-05  22:12 / 2023-08-14 13:55/ 2023-09-23 22:53
 
-HOST,eas.outlook.com,Microsoft
-HOST,m.hotmail.com,Microsoft
-HOST,login.microsoftonline.com,Microsoft  
+# > Add by me 
+HOST-SUFFIX,21vbc.com,DIRECT
+HOST-SUFFIX,21vbluecloud.com,DIRECT
+HOST-SUFFIX,21vbluecloud.net,DIRECT
+HOST-SUFFIX,azure.cn.cn,DIRECT
+HOST-SUFFIX,azure-dns-2.cn,DIRECT
+HOST-SUFFIX,azure-dns-4.cn,DIRECT
+HOST-SUFFIX,aadrm.cn,DIRECT
+HOST-SUFFIX,aggresmart.com,DIRECT
+HOST-SUFFIX,apihub-internal.cn,DIRECT
+HOST-SUFFIX,appserviceenvironment.cn,DIRECT
+HOST-SUFFIX,azcrmc-test.cn,DIRECT
+HOST-SUFFIX,azcrmc.cn,DIRECT
+HOST-SUFFIX,azk8s.cn,DIRECT
+HOST-SUFFIX,aznbcontent.cn,DIRECT
+HOST-SUFFIX,aztask.cn,DIRECT
+HOST-SUFFIX,azure-api.cn,DIRECT
+HOST-SUFFIX,azure-apihub.cn,DIRECT
+HOST-SUFFIX,azure-automation.cn,DIRECT
+HOST-SUFFIX,azure-connectedvehicles-stage.cn,DIRECT
+HOST-SUFFIX,azure-connectedvehicles.cn,DIRECT
+HOST-SUFFIX,azure-devices-provisioning.cn,DIRECT
+HOST-SUFFIX,azure-devices.cn,DIRECT
+HOST-SUFFIX,azure-dns.cn,DIRECT
+HOST-SUFFIX,azure-mobile.cn.cn,DIRECT
+HOST-SUFFIX,azure.cn,DIRECT
+HOST-SUFFIX,azurecr-test.cn,DIRECT
+HOST-SUFFIX,azurecr.cn,DIRECT
+HOST-SUFFIX,azurehdinsight.cn,DIRECT
+HOST-SUFFIX,azureiotsuite.cn,DIRECT
+HOST-SUFFIX,azuremresolver.cn,DIRECT
+HOST-SUFFIX,azureprivatedns.cn,DIRECT
+HOST-SUFFIX,azurerms.cn,DIRECT
+HOST-SUFFIX,azuresandbox.cn,DIRECT
+HOST-SUFFIX,b2clogin.cn,DIRECT
+HOST-SUFFIX,b3itech.cn,DIRECT
+HOST-SUFFIX,bing.com.cn,DIRECT
+HOST-SUFFIX,cegid-cloud.cn,DIRECT
+HOST-SUFFIX,chinacloud-mobile.cn,DIRECT
+HOST-SUFFIX,chinacloudapi.cn,DIRECT
+HOST-SUFFIX,chinacloudapp.cn,DIRECT
+HOST-SUFFIX,chinacloudsites.cn,DIRECT
+HOST-SUFFIX,cn.bing.com,DIRECT
+HOST-SUFFIX,cn.bing.net,DIRECT
+HOST-SUFFIX,dynamics.cn,DIRECT
+HOST-SUFFIX,hdinsightservices.cn,DIRECT
+HOST-SUFFIX,lync.cn,DIRECT
+HOST-SUFFIX,mcchcdn.com,DIRECT
+HOST-SUFFIX,mgmt-azure-api.cn,DIRECT
+HOST-SUFFIX,microsoft-smb.cn,DIRECT
+HOST-SUFFIX,mncmsidlab1.cn,DIRECT
+HOST-SUFFIX,msappproxy.cn,DIRECT
+HOST-SUFFIX,msauth.cn,DIRECT
+HOST-SUFFIX,msauthimages.cn,DIRECT
+HOST-SUFFIX,msftauth.cn,DIRECT
+HOST-SUFFIX,msftauthimages.cn,DIRECT
+HOST-SUFFIX,msftcloudes.cn,DIRECT
+HOST-SUFFIX,msidentity.cn,DIRECT
+HOST-SUFFIX,msidlabpbmc.cn,DIRECT
+HOST-SUFFIX,o365cn.com,DIRECT
+HOST-SUFFIX,o365files.cn,DIRECT
+HOST-SUFFIX,office365-net.cn,DIRECT
+HOST-SUFFIX,office365.cn,DIRECT
+HOST-SUFFIX,officewebapps.cn,DIRECT
+HOST-SUFFIX,onmschina.cn,DIRECT
+HOST-SUFFIX,outlook.cn,DIRECT
+HOST-SUFFIX,pbiwebcontent.cn,DIRECT
+HOST-SUFFIX,powerapps.cn,DIRECT
+HOST-SUFFIX,powerappsportals.cn,DIRECT
+HOST-SUFFIX,powerautomate.cn,DIRECT
+HOST-SUFFIX,powerbi.cn,DIRECT
+HOST-SUFFIX,reactorms.com.cn,DIRECT
+HOST-SUFFIX,sharepoint.cn,DIRECT
+HOST-SUFFIX,trafficmanager.cn,DIRECT
+HOST-SUFFIX,trustcenter.cn,DIRECT
+HOST-SUFFIX,unity3dcloud.cn,DIRECT
+HOST-SUFFIX,windowsazure.cn,DIRECT
+HOST-SUFFIX,windowsazurestatus.cn,DIRECT
+HOST-SUFFIX,microsoftonline.cn,DIRECT
+HOST-SUFFIX,microsoftonline-m.cn,DIRECT
+HOST-SUFFIX,microsoftonline-m-i.cn,DIRECT
+HOST-SUFFIX,microsoftazurestatus.cn,DIRECT
+HOST-SUFFIX,management-azure-devices-provisioning.cn,DIRECT
+HOST-SUFFIX,management-azure-devices.cn,DIRECT
+HOST,settings-win.data.microsoft.com,DIRECT
+HOST,fe2cr.update.microsoft.com,DIRECT
 
-  # > Firefox Mozilla
-HOST,ocsp.digicert.com,Microsoft
-HOST,ocsp.edge.digicert.com,Microsoft
-HOST,fp2e7a.wpc.phicdn.net,Microsoft
-HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft
-HOST-SUFFIX,firefox.com,Microsoft
-HOST-SUFFIX,services.mozilla.com,Microsoft
-HOST-SUFFIX,mozilla.org,Microsoft
-HOST-SUFFIX,cdn.mozilla.net,Microsoft
-HOST,autopush.prod.mozaws.net,Microsoft
-HOST-SUFFIX,webservices.mozgcp.net,Microsoft
+  # > Microsoft
+HOST-SUFFIX,here.com,Microsoft 
+HOST-SUFFIX,here.net,Microsoft 
+  # DOMAIN-SUFFIX,heremaps.cn,Microsoft 
+  # DOMAIN-SUFFIX,ovi.com.cn,Microsoft 
+HOST,eas.outlook.com,Microsoft 
+HOST,m.hotmail.com,Microsoft 
+HOST,login.microsoftonline.com,Microsoft 
+HOST,pti.store.microsoft.com,Microsoft 
+HOST,checkappexec.microsoft.com,Microsoft 
+
+  # > Download OS patches, updates, and apps from Microsoft Store. Xbox ！！
+HOST,fe3cr.delivery.mp.microsoft.com,Microsoft 
+
+  # > Add Firefox Mozilla.org 
+HOST,ocsp.digicert.com,Microsoft 
+HOST,ocsp.edge.digicert.com,Microsoft 
+HOST,fp2e7a.wpc.phicdn.net,Microsoft 
+HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft 
+HOST-SUFFIX,firefox.com,Microsoft 
+HOST-SUFFIX,services.mozilla.com,Microsoft 
+HOST-SUFFIX,mozilla.org,Microsoft 
+HOST-SUFFIX,cdn.mozilla.net,Microsoft 
+HOST,mozilla.cloudflare-dns.com,Microsoft 
+HOST,autopush.prod.mozaws.net,Microsoft 
+HOST-SUFFIX,webservices.mozgcp.net,Microsoft 
 
   # > Microsoft Edge
 HOST,edge.activity.windows.com,Microsoft
