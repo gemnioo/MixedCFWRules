@@ -1,8 +1,28 @@
 # > Porn Site
-
 HOST-SUFFIX,jable.tv,GMedia
 HOST,cdn.plyr.io,GMedia
 HOST-SUFFIX,mushroomtrack.com,GMedia
+
+# > For IP sensitive TikTok
+USER-AGENT,TikTok*,GMedia
+HOST-KEYWORD,tiktokcdn-,GMedia
+HOST-KEYWORD,musical.ly,GMedia
+HOST-KEYWORD,tiktok,GMedia
+HOST-KEYWORD,tiktokv,GMedia
+HOST-SUFFIX,akamaized.net,GMedia
+HOST-SUFFIX,byteoversea.com,GMedia
+HOST-SUFFIX,ibytedtos.com,GMedia
+HOST-SUFFIX,ibyteimg.com,GMedia
+HOST-SUFFIX,ipstatp.com,GMedia
+HOST-SUFFIX,muscdn.com,GMedia
+HOST-SUFFIX,musical.ly,GMedia
+HOST-SUFFIX,sgpstatp.com,GMedia
+HOST-SUFFIX,snssdk.com,GMedia
+HOST-SUFFIX,tik-tokapi.com,GMedia
+HOST-SUFFIX,tiktok.com,GMedia
+HOST-SUFFIX,tiktokcdn.com,GMedia
+HOST-SUFFIX,tiktokv.com,GMedia
+HOST-SUFFIX,neutral.ttwstatic.com,GMedia
 
 # > FireTV 4k Max stick 
 HOST,msh.amazon.co.uk,GMedia
