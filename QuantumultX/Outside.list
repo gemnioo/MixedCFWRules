@@ -1,4 +1,4 @@
-#Mastdoton.world
+# > Mastdoton.world
 HOST-KEYWORD,mastodon,Outside
 HOST,s3.eu-central-2.wasabisys.com,Outside
 HOST,api.raycast.app,Outside
@@ -13,9 +13,43 @@ HOST,ocsp.digicert.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
 HOST-SUFFIX,shdsvc.dowjones.io,Outside
 HOST,ublockorigin.pages.dev,Outside
+HOST,cdn.polyfill.io,Outside
+HOST,cdn.statically.io,Outside
+HOST,cdn.iframe.ly,Outside
+HOST,cdn.v2ex.com,Outside
+HOST-SUFFIX,tile.openstreetmap.org,Outside
+HOST,aqicn.org,Outside
 
+
+# > Media
 HOST-SUFFIX,ocsp.sectigo.com,Outside
 HOST-SUFFIX,caixinglobal.com,Outside
+HOST-SUFFIX,ft.com,Outside
+HOST,cdn-pci.optimizely.com,Outside
+HOST-SUFFIX,i-scmp.com,Outside
+HOST-SUFFIX,scmp.com,Outside
+HOST,cdn.opecloud.com,Outside
+HOST,cdn.jsdelivr.net,Outside
+HOST,cdn.privacy-mgmt.com,Outside
+HOST,cacerts.digicert.com,Outside
+HOST,cdn.concert.io,Outside
+HOST,apps.voxmedia.com,Outside
+HOST-SUFFIX,coralproject.net,Outside
+
+# > RSS 
+HOST,clip.owenyoung.com,Outside
+HOST,www.kivinsae.com,Outside
+HOST,e1.o.lencr.org,Outside
+HOST,thewirecutter.com,Outside
+HOST,byvoid.com,Outside
+HOST,daringfireball.net,Outside
+HOST,blog.ryouissei.com,Outside
+HOST,taresky.com,Outside
+HOST,www.byvoid.com,Outside
+HOST,thesweetsetup.com,Outside
+HOST,blog.farmostwood.net,Outside
+HOST,www.iyouport.org,Outside
+HOST,nei.st,Outside
 
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
