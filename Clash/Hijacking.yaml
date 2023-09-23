@@ -51,7 +51,6 @@ payload:
   - DOMAIN,analytics.plex.tv
   - DOMAIN,www.google-analytics.com
   - DOMAIN,static.cloudflareinsights.com
-  - DOMAIN-SUFFIX,neutral.ttwstatic.com
   - DOMAIN,static.dwcdn.net
   - DOMAIN,ads-api.ft.com
 
