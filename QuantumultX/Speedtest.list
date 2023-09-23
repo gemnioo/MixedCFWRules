@@ -9,6 +9,7 @@ HOST-SUFFIX,ooklaserver.net,Speedtest
 HOST,cdn.cookielaw.org,Speedtest
 HOST,geolocation.onetrust.com,Speedtest
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
+HOST,cdn.jwplayer.com,Speedtest
 HOST,fastly.jsdelivr.net,Speedtest
 HOST-SUFFIX,speed.dler.io,Speedtest
 
@@ -17,10 +18,20 @@ HOST-SUFFIX,speed.cloudflare.com,Speedtest
 
 # OpenClash Login IP Test 
 HOST,ip.fm,Speedtest
+HOST,api.ttt.sh,Speedtest
 HOST,api.ipify.org,Speedtest
 HOST,qqwry.api.skk.moe,Speedtest
 HOST,api-ipv4.ip.sb,Speedtest
 HOST,ftp.jaist.ac.jp,Speedtest
+
+# Linsys LAN 
+HOST-SUFFIX,pool.ntp.org,DIRECT  
+HOST,connect.linksys.com,DIRECT
+HOST,update1.linksys.com,DIRECT
+HOST,cloudhealth.lswf.net,DIRECT
+HOST,xmpp.linksyssmartwifi.com,DIRECT
+HOST,cloud1.linksyssmartwifi.com,DIRECT
+HOST,http-inputs-belkin.splunkcloud.com,DIRECT
 
 # IPleak and Other DNS leak 
 HOST-SUFFIX,ipleak.net,Speedtest
