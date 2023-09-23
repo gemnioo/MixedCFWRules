@@ -20,7 +20,6 @@ HOST,cdn.v2ex.com,Outside
 HOST-SUFFIX,tile.openstreetmap.org,Outside
 HOST,aqicn.org,Outside
 
-
 # > Media
 HOST-SUFFIX,ocsp.sectigo.com,Outside
 HOST-SUFFIX,caixinglobal.com,Outside
