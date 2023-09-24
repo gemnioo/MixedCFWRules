@@ -12,6 +12,7 @@ payload:
 
   #download OS patches, updates, and apps from Microsoft Store. Xbox ！！
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,tile.openstreetmap.org
   
   # > Add Firefox Mozilla.org 
   - DOMAIN,ocsp.digicert.com
