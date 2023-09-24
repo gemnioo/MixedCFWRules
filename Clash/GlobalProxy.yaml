@@ -18,6 +18,7 @@ payload:
   - DOMAIN,cdn.statically.io
   - DOMAIN,cdn.iframe.ly
   - DOMAIN,cdn.v2ex.com
+  - DOMAIN,aqicn.org
 
   #Media 
   - DOMAIN-SUFFIX,ocsp.sectigo.com
