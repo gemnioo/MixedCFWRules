@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,amazonfirenews.wurl.tv
   - DOMAIN-SUFFIX,associates-amazon.com
   - DOMAIN-SUFFIX,backblazeb2.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN,wl.amazon-dss.com
   - DOMAIN,aviary.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
