@@ -28,6 +28,7 @@ payload:
   - DOMAIN,aviary.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
   - DOMAIN,estrellanews-amazon.amagi.tv
+  # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,ocsp.rootca1.amazontrust.com
   - DOMAIN,ocsp.r2m02.amazontrust.com
 
