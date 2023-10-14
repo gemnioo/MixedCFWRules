@@ -346,7 +346,6 @@ HOST-SUFFIX,skype.net,Microsoft
 HOST-SUFFIX,skypeassets.com,Microsoft
 HOST-SUFFIX,skypeassets.net,Microsoft
 HOST-SUFFIX,skypeforbusiness.com,Microsoft
-
 HOST-SUFFIX,sway-cdn.com,Microsoft
 HOST-SUFFIX,sway-extensions.com,Microsoft
 HOST-SUFFIX,sway.com,Microsoft
@@ -362,6 +361,8 @@ HOST-SUFFIX,vsassets.io,Microsoft
 HOST-SUFFIX,vscode-unpkg.net,Microsoft
 HOST-SUFFIX,vscode-webview.net,Microsoft
 HOST-SUFFIX,vscode.dev,Microsoft
+HOST,mobile.events.data.microsoft.com,Microsoft
+HOST,az764295.vo.msecnd.net,Microsoft
 
 
   # > Microsoft XiaoBing,Microsoft
