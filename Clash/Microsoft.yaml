@@ -269,6 +269,8 @@ payload:
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN-SUFFIX,vscode-webview.net
   - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN,mobile.events.data.microsoft.com
+  - DOMAIN,az764295.vo.msecnd.net
 
 
   # > Microsoft XiaoBing
