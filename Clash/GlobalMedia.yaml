@@ -2,6 +2,7 @@ payload:
   # Global Streaming Media  not include Spotify and Apple music as SONOS control App require
   - DOMAIN,ddrk.me
   - DOMAIN,ddys.art
+  
   # FireTV Stick 4k or Max 
   - DOMAIN,msh.amazon.co.uk
   - DOMAIN,prod.amazoncrl.com
@@ -42,7 +43,23 @@ payload:
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,twitch-ext.rootonline.de
 
-  # (Podcast)
+  # Podcast Media
+  - DOMAIN-SUFFIX,ocsp.sectigo.com
+  - DOMAIN-SUFFIX,caixinglobal.com
+  - DOMAIN-SUFFIX,ft.com
+  - DOMAIN,cdn-pci.optimizely.com
+  - DOMAIN-SUFFIX,i-scmp.com
+  - DOMAIN-SUFFIX,scmp.com
+  - DOMAIN,cdn.opecloud.com
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdn.privacy-mgmt.com
+  - DOMAIN,cacerts.digicert.com
+  - DOMAIN,cdn.concert.io
+  - DOMAIN,apps.voxmedia.com
+  - DOMAIN-SUFFIX,coralproject.net
+  - DOMAIN,audio.buzzsprout.com
+  - DOMAIN,www.buzzsprout.com
+  
   # > Himalaya
   # PROCESS-NAME,com.ximalaya.ting.himalaya
   # DOMAIN-SUFFIX,himalaya.com
