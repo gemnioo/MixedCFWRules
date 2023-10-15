@@ -20,21 +20,6 @@ payload:
   - DOMAIN,cdn.v2ex.com
   - DOMAIN,aqicn.org
 
-  #Media 
-  - DOMAIN-SUFFIX,ocsp.sectigo.com
-  - DOMAIN-SUFFIX,caixinglobal.com
-  - DOMAIN-SUFFIX,ft.com
-  - DOMAIN,cdn-pci.optimizely.com
-  - DOMAIN-SUFFIX,i-scmp.com
-  - DOMAIN-SUFFIX,scmp.com
-  - DOMAIN,cdn.opecloud.com
-  - DOMAIN,cdn.jsdelivr.net
-  - DOMAIN,cdn.privacy-mgmt.com
-  - DOMAIN,cacerts.digicert.com
-  - DOMAIN,cdn.concert.io
-  - DOMAIN,apps.voxmedia.com
-  - DOMAIN-SUFFIX,coralproject.net
-
   # > RSS 
   - DOMAIN,clip.owenyoung.com
   - DOMAIN,www.kivinsae.com
