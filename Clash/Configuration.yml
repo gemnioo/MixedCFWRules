@@ -4,22 +4,28 @@
 #---------------------------------------------------#
 
 ## Update Jun 5. 2023  20:18  wiki github.com/Dreamacro/clash/wiki/configuration
-## Update Aug 13. 2023  16:09  Firefox Apple push and For FakeIP mode use 
+## Update Jun 1. 2023 v0.20.24 as 'Proxy Provider' and 'support single lantency test for provider proxies'
+## Update Jun 5. 2023 seprate Microsoft Azure and CN rules 
+## Update Aug 10. 2023 working with OpenClash Fake IP mode and Local Fake IP 
+## Update Aug 13. 2023 FireTV and Mozilla Firefox 
+## Update Aug 14. 2023 with DNS choice. ISP or others
+## Update Sep 11. 2023 with SMB Lan Share 
+## Update Sep 16. 2023 xEdge Remote Control 
+## Update Sep 18, 2023 Fix xEdge NAT include OpenClash 
+## Update Sep 21. 2023 Back Rule Provider to U driver data config
+## Update Sep 23, 2023 Add Move TikTok to GlobalMedia and Parsec Control 
 
 # 混合端口 HTTP和SOCKS5用一个端口 
 mixed-port: 7890
-
 # HTTP 代理端口
 port: 7890
-
 # SOCKS5 代理端口
 socks-port: 7891
-
 # Linux 和 macOS 的 redir 代理端口 
 redir-port: 7892
 
 # 允许局域网的连接（可用来共享代理）
-allow-lan: true
+allow-lan: false
 # 规则模式：rule/ global/ direct/ script 
 mode: Rule
 # 设置日志输出级别
@@ -30,111 +36,106 @@ external-controller: 0.0.0.0:9090
 # 实验性功能
 experimental:
   ignore-resolve-fail: true
-  
+
+nameserverpolicy:
+ '+.caixin.com': '61.132.163.68'
+ '+.ptlogin2.qq.com': '119.29.29.29'
 dns:
   enable: true
   ipv6: false
   listen: 127.0.0.1:8853
-  default-nameserver:
-    - 223.5.5.5
-    - 1.0.0.1
   enhanced-mode: fake-ip
   fake-ip-filter:
-    - '*.lan'
-    - '*.localdomain'
-    - '*.example'
-    - '*.invalid'
-    - '*.localhost'
-    - '*.test'
-    - '*.local'
-    - '*.home.arpa'
-    - 'time.*.com'
-    - 'time.*.gov'
-    - 'time.*.edu.cn'
-    - 'time.*.apple.com'
-    - 'time1.*.com'
-    - 'time2.*.com'
-    - 'time3.*.com'
-    - 'time4.*.com'
-    - 'time5.*.com'
-    - 'time6.*.com'
-    - 'time7.*.com'
-    - 'ntp.*.com'
-    - 'ntp1.*.com'
-    - 'ntp2.*.com'
-    - 'ntp3.*.com'
-    - 'ntp4.*.com'
-    - 'ntp5.*.com'
-    - 'ntp6.*.com'
-    - 'ntp7.*.com'
-    - '*.time.edu.cn'
-    - '*.ntp.org.cn'
-    - '+.pool.ntp.org'
-    - 'time1.cloud.tencent.com'
-    - 'music.163.com'
-    - '*.music.163.com'
-    - '*.126.net'
-    - 'musicapi.taihe.com'
-    - 'music.taihe.com'
-    - 'songsearch.kugou.com'
-    - 'trackercdn.kugou.com'
-    - '*.kuwo.cn'
-    - 'api-jooxtt.sanook.com'
-    - 'api.joox.com'
-    - 'joox.com'
-    - 'y.qq.com'
-    - '*.y.qq.com'
-    - 'streamoc.music.tc.qq.com'
-    - 'mobileoc.music.tc.qq.com'
-    - 'isure.stream.qqmusic.qq.com'
-    - 'dl.stream.qqmusic.qq.com'
-    - 'aqqmusic.tc.qq.com'
-    - 'amobile.music.tc.qq.com'
-    - '*.xiami.com'
-    - '*.music.migu.cn'
-    - 'music.migu.cn'
-    - '*.msftconnecttest.com'
-    - '*.msftncsi.com'
-    - 'msftconnecttest.com'
-    - 'msftncsi.com'
-    - 'localhost.ptlogin2.qq.com'
-    - 'localhost.sec.qq.com'
-    - '+.srv.nintendo.net'
-    - '+.stun.playstation.net'
-    - 'xbox.*.microsoft.com'
-    - 'xnotify.xboxlive.com'
-    - '+.battlenet.com.cn'
-    - '+.wotgame.cn'
-    - '+.wggames.cn'
-    - '+.wowsgame.cn'
-    - '+.wargaming.net'
-    - 'proxy.golang.org'
-    - 'stun.*.*'
-    - 'stun.*.*.*'
-    - '+.stun.*.*'
-    - '+.stun.*.*.*'
-    - '+.stun.*.*.*.*'
-    - 'heartbeat.belkin.com'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
-    - '*.router.asus.com'
-    - 'mesu.apple.com'
-    - 'swscan.apple.com'
-    - 'swquery.apple.com'
-    - 'swdownload.apple.com'
-    - 'swcdn.apple.com'
-    - 'swdist.apple.com'
-    - 'lens.l.google.com'
-    - 'stun.l.google.com'
-    - '+.nflxvideo.net'
-    - '*.square-enix.com'
-    - '*.finalfantasyxiv.com'
-    - '*.ffxiv.com'
-    - '*.mcdn.bilivideo.cn'
-  nameserver:
-    - 223.5.5.5
-    - 180.184.2.2
-    - 114.114.114.114
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - "*.time.edu.cn"
+    - "*.ntp.org.cn"
+    - +.pool.ntp.org
+    - time1.cloud.tencent.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - msftconnecttest.com
+    - msftncsi.com
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - xnotify.xboxlive.com
+    - +.battlenet.com.cn
+    - +.wotgame.cn
+    - +.wggames.cn
+    - +.wowsgame.cn
+    - +.wargaming.net
+    - proxy.golang.org
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - heartbeat.belkin.com
+    - "*.linksys.com"
+    - "*.linksyssmartwifi.com"
+    - mesu.apple.com
+    - swscan.apple.com
+    - swquery.apple.com
+    - swdownload.apple.com
+    - swcdn.apple.com
+    - swdist.apple.com
+    - lens.l.google.com
+    - +.nflxvideo.net
+    - "*.square-enix.com"
+    - "*.finalfantasyxiv.com"
+    - "*.ffxiv.com"
+    - "*.mcdn.bilivideo.cn"
+    - '+.xedge.cc'
+    - '*.parsec.app'
+    - 'mac-mini.local'
 proxy-groups:
   - name: 🔰 国外流量
     type: select
@@ -305,16 +306,25 @@ rule-providers:
     url: https://raw.githubusercontent.com/gemnioo/MixedCFWRules/main/Clash/Microsoft.yaml
     interval: 86400
 rules:
+  - DOMAIN-SUFFIX,xedge.cc,DIRECT
+  - DOMAIN-SUFFIX,chatboxai.app,📌 手动选择
+
+
+
   - DOMAIN,translate.googleapis.com,🔰 国外流量
   - DOMAIN,api-edge.cognitive.microsofttranslator.com,📌 手动选择
   - DOMAIN,immersive-translate.owenyoung.com,📌 手动选择
   - DOMAIN,config.immersivetranslate.com,📌 手动选择
   - DOMAIN-SUFFIX,immersivetranslate.com,📌 手动选择
   - DOMAIN,immersivetranslate.substack.com,🔰 国外流量
-  - RULE-SET,Special,DIRECT 
+  - DOMAIN,stun6.parsec.app,DIRECT
+  - DOMAIN,public.parsec.app,📌 手动选择
+  - DOMAIN,kessel-api.parsec.app,📌 手动选择
+  - DOMAIN,kessel-ws.parsec.app,📌 手动选择
+  - DOMAIN,parsecusercontent.com,📌 手动选择
+  - RULE-SET,Special,DIRECT
   - RULE-SET,Advertising,🚫 广告拦截
   - RULE-SET,Hijacking,🚫 广告拦截
-  - DOMAIN,ddrk.me,🔰 国外流量
   - RULE-SET,ChinaMedia,📽 国内媒体
   - DOMAIN,aod-ssl.itunes.apple.com,🍎 Apple
   - DOMAIN,aod.itunes.apple.com,🍎 Apple
@@ -356,9 +366,10 @@ rules:
   - DOMAIN-SUFFIX,sonos.com,🎵 SONOS
   - DOMAIN-SUFFIX,urbanairship.com,DIRECT
   - DOMAIN,o167642.ingest.sentry.io,REJECT
-  - RULE-SET,GlobalMedia,🎥 国际媒体
   - DOMAIN-SUFFIX,jable.tv,🎥 国际媒体
+  - DOMAIN-SUFFIX,cdn.plyr.io,🎥 国际媒体
   - DOMAIN-SUFFIX,mushroomtrack.com,🎥 国际媒体
+  - RULE-SET,GlobalMedia,🎥 国际媒体
   - DOMAIN,bard.google.com,🤖️ Open AI
   - DOMAIN,cdn.usefathom.com,🤖️ Open AI
   - DOMAIN-SUFFIX,anthropic.com,🤖️ Open AI
@@ -377,10 +388,18 @@ rules:
   - DOMAIN,o33249.ingest.sentry.io,REJECT
   - DOMAIN,o315582.ingest.sentry.io,REJECT
   - DOMAIN,o245571.ingest.sentry.io,REJECT
+  - DOMAIN,chtbl.com,🔰 国外流量
+  - DOMAIN,podtrac.com,🔰 国外流量
+  - DOMAIN,traffic.omny.fm,🔰 国外流量
+  - DOMAIN,flex.acast.com,🔰 国外流量
+  - DOMAIN,stitcher2.acast.com,🔰 国外流量
   - DOMAIN-SUFFIX,mc.tritondigital.com,🔰 国外流量
-  - DOMAIN-KEYWORD,courier.push.apple.com,🔰 国外流量
-  - DOMAIN,chtbl.com,🍎 Apple
-  - DOMAIN,podtrac.com,🍎 Apple
+  - DOMAIN,amp-api.podcasts.apple.com,🔰 国外流量
+  - DOMAIN-SUFFIX,push.apple.com,🔰 国外流量
+  - DOMAIN,bag.itunes.apple.com,🍎 Apple
+  - DOMAIN,play.itunes.apple.com,🍎 Apple
+  - DOMAIN,bookkeeper.itunes.apple.com,🍎 Apple
+  - DOMAIN,entitlements-edge.itunes.apple.com,🍎 Apple
   - DOMAIN-KEYWORD,apac-china-courier,🍎 Apple
   - DOMAIN,apple.comscoreresearch.com,🍎 Apple
   - DOMAIN-SUFFIX,aaplimg.com,🍎 Apple
@@ -494,6 +513,8 @@ rules:
   - DOMAIN-SUFFIX,microsoftazurestatus.cn,DIRECT
   - DOMAIN-SUFFIX,management-azure-devices-provisioning.cn,DIRECT
   - DOMAIN-SUFFIX,management-azure-devices.cn,DIRECT
+  - DOMAIN,settings-win.data.microsoft.com,DIRECT
+  - DOMAIN,fe2cr.update.microsoft.com,DIRECT
   - RULE-SET,Microsoft,🖥 Microsoft
   - DOMAIN-SUFFIX,t.me,🔰 国外流量
   - DOMAIN-SUFFIX,tx.me,🔰 国外流量
@@ -517,13 +538,30 @@ rules:
   - IP-CIDR6,2001:b28:f23d::/48,🔰 国外流量,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,🔰 国外流量,no-resolve
   - IP-CIDR6,2a0a:f280::/32,🔰 国外流量,no-resolve
+  - DOMAIN-SUFFIX,pool.ntp.org,DIRECT  
+  - DOMAIN,connect.linksys.com,DIRECT
+  - DOMAIN,update1.linksys.com,DIRECT
+  - DOMAIN,cloudhealth.lswf.net,DIRECT
+  - DOMAIN,xmpp.linksyssmartwifi.com,DIRECT
+  - DOMAIN,cloud1.linksyssmartwifi.com,DIRECT
+  - DOMAIN,http-inputs-belkin.splunkcloud.com,DIRECT
   - DOMAIN-SUFFIX,fast.com,⏳ Speed Test
   - DOMAIN-KEYWORD,speedtest,⏳ Speed Test
   - DOMAIN-SUFFIX,ooklaserver.net,⏳ Speed Test
+  - DOMAIN,cdn.jwplayer.com,⏳ Speed Test
   - DOMAIN,cdn.cookielaw.org,⏳ Speed Test
   - DOMAIN,geolocation.onetrust.com,⏳ Speed Test
   - DOMAIN-SUFFIX,speed.cloudflare.com,⏳ Speed Test
   - DOMAIN,fastly.jsdelivr.net,⏳ Speed Test
+  - DOMAIN,d.skk.moe,⏳ Speed Test
+  - DOMAIN,api.ttt.sh,⏳ Speed Test
+  - DOMAIN,api.ipify.org,⏳ Speed Test
+  - DOMAIN,qqwry.api.skk.moe,⏳ Speed Test
+  - DOMAIN,api-ipv4.ip.sb,⏳ Speed Test
+  - DOMAIN,ftp.jaist.ac.jp,⏳ Speed Test
+  - DOMAIN,api.ttt.sh.cdn.cloudflare.net,🔰 国外流量
+  - DOMAIN,ip.fm,⏳ Speed Test
+  - DOMAIN-SUFFIX,ipleak.net,⏳ Speed Test
   - RULE-SET,GlobalProxy,🔰 国外流量
   - RULE-SET,ChinaDirect,🚀 直接连接
   - DOMAIN-SUFFIX,local,DIRECT
