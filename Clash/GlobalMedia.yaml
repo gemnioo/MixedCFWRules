@@ -43,7 +43,8 @@ payload:
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,twitch-ext.rootonline.de
 
-  # Podcast Media
+  # Podcast & RSS
+  - DOMAIN,reederapp.com
   - DOMAIN-SUFFIX,ocsp.sectigo.com
   - DOMAIN-SUFFIX,caixinglobal.com
   - DOMAIN-SUFFIX,ft.com
@@ -57,6 +58,8 @@ payload:
   - DOMAIN,cdn.concert.io
   - DOMAIN,apps.voxmedia.com
   - DOMAIN,pdst.fm
+  - DOMAIN,traffic.megaphone.fm
+  - DOMAIN,dcs.megaphone.fm
   - DOMAIN-SUFFIX,coralproject.net
   - DOMAIN,audio.buzzsprout.com
   - DOMAIN,www.buzzsprout.com
