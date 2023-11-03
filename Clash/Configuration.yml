@@ -14,6 +14,7 @@
 ## Update Sep 18, 2023 Fix xEdge NAT include OpenClash 
 ## Update Sep 21. 2023 Back Rule Provider to U driver data config
 ## Update Sep 23, 2023 Add Move TikTok to GlobalMedia and Parsec Control 
+## Update Nov 3,  2023 Add Strip rule to OpenAI 
 
 # 混合端口 HTTP和SOCKS5用一个端口 
 mixed-port: 7890
@@ -384,6 +385,11 @@ rules:
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,🤖️ Open AI
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net,🤖️ Open AI
   - DOMAIN,production-openaicom-storage.azureedge.net,🤖️ Open AI
+  - DOMAIN,nexus-websocket-a.intercom.io,🤖️ Open AI
+  - DOMAIN,openai-api.arkoselabs.com,🤖️ Open AI
+  - DOMAIN,js.stripe.com,🤖️ Open AI 
+  - DOMAIN,m.stripe.network,🤖️ Open AI
+  - DOMAIN,r.stripe.com,🤖️ Open AI
   - DOMAIN,openaicom.imgix.net,REJECT
   - DOMAIN,o33249.ingest.sentry.io,REJECT
   - DOMAIN,o315582.ingest.sentry.io,REJECT
