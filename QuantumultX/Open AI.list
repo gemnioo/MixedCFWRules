@@ -17,6 +17,7 @@ HOST,openaicomproductionae4b.blob.core.windows.net,Open AI
 HOST,production-openaicom-storage.azureedge.net,Open AI
 HOST,nexus-websocket-a.intercom.io,Open AI
 HOST,openai-api.arkoselabs.com,Open AI
+HOST,chatgpt.livekit.cloud,Open AI
 HOST,js.stripe.com,Open AI 
 HOST,m.stripe.network,Open AI
 HOST,r.stripe.com,Open AI
