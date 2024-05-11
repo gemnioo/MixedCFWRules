@@ -4,10 +4,11 @@ HOST,cdn.usefathom.com,Open AI
 HOST-SUFFIX,anthropic.com,Open AI
 HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,openai.com,Open AI
+HOST-SUFFIX,chatgpt.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
 HOST-SUFFIX,oaiusercontent.com,Open AI
 HOST-SUFFIX,identrust.com,Open AI
-HOST-SUFFIX,chatgpt.com,Open AI
+
 HOST,cdn.auth0.com,Open AI
 HOST,ios.chat.openai.com,Open AI
 HOST,challenges.cloudflare.com,Open AI
