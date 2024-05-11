@@ -1,8 +1,22 @@
 # > OpenAI Claude and more coming 
 HOST,bard.google.com,Open AI
-HOST,cdn.usefathom.com,Open AI
-HOST-SUFFIX,anthropic.com,Open AI
+HOST,ai.google.dev,Open AI
+HOST,alkalicore-pa.clients6.google.com,Open AI
+HOST,alkalimakersuite-pa.clients6.google.com,Open AI
+HOST-SUFFIX,gemini.google.com,Open AI
+HOST-SUFFIX,deepmind.com,Open AI
+HOST-SUFFIX,deepmind.google,Open AI
+HOST-SUFFIX,generativelanguage.googleapis.com,Open AI
+HOST-SUFFIX,geller-pa.googleapis.com,Open AI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Open AI
+HOST-SUFFIX,makersuite.google.com,Open AI
+HOST-SUFFIX,generativeai.google,Open AI
 HOST-SUFFIX,claude.ai,Open AI
+HOST-SUFFIX,perplexity.ai,Open AI
+HOST-SUFFIX,anthropic.com,Open AI
+HOST,cdn.usefathom.com,Open AI
+HOST-SUFFIX,poe.com,Outside
+HOST-SUFFIX,meta.ai,Outside
 HOST-SUFFIX,openai.com,Open AI
 HOST-SUFFIX,chatgpt.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
