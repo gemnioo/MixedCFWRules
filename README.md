@@ -16,6 +16,8 @@ https://github.com/ConnersHua/Quantumult/blob/master/Profile.conf
 
 https://github.com/erdongchanyo/Rules/tree/main/Quantumult%20X/LazyConf
 
+https://github.com/zxfccmm4/Surge
+
 Clash for Windows 
 
 https://github.com/Dreamacro/clash/wiki/configuration
