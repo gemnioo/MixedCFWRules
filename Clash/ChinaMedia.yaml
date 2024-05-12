@@ -6,7 +6,7 @@ payload:
   - DOMAIN,ddys.wiki
   - DOMAIN,ddys.site
   - DOMAIN,ddys.info
-  - DOMAIN-SUFFIX,ddys.pro
+  - DOMAIN,ddys.pro
   - DOMAIN,vip1.loli.net
   - DOMAIN,vip2.loli.net
   - DOMAIN,vip3.loli.net
