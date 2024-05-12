@@ -3,26 +3,42 @@ HOST-SUFFIX,jable.tv,GMedia
 HOST,cdn.plyr.io,GMedia
 HOST-SUFFIX,mushroomtrack.com,GMedia
 
-# > For IP sensitive TikTok
-USER-AGENT,TikTok*,GMedia
-HOST-KEYWORD,tiktokcdn-,GMedia
-HOST-KEYWORD,musical.ly,GMedia
-HOST-KEYWORD,tiktok,GMedia
-HOST-KEYWORD,tiktokv,GMedia
-HOST-SUFFIX,akamaized.net,GMedia
-HOST-SUFFIX,byteoversea.com,GMedia
-HOST-SUFFIX,ibytedtos.com,GMedia
-HOST-SUFFIX,ibyteimg.com,GMedia
-HOST-SUFFIX,ipstatp.com,GMedia
-HOST-SUFFIX,muscdn.com,GMedia
-HOST-SUFFIX,musical.ly,GMedia
-HOST-SUFFIX,sgpstatp.com,GMedia
-HOST-SUFFIX,snssdk.com,GMedia
-HOST-SUFFIX,tik-tokapi.com,GMedia
-HOST-SUFFIX,tiktok.com,GMedia
-HOST-SUFFIX,tiktokcdn.com,GMedia
-HOST-SUFFIX,tiktokv.com,GMedia
-HOST-SUFFIX,neutral.ttwstatic.com,GMedia
+# > Podcast and Reading Media
+HOST,reederapp.com,GMedia
+HOST-SUFFIX,ocsp.sectigo.com,GMedia
+HOST-SUFFIX,caixinglobal.com,GMedia
+HOST-SUFFIX,apnews.com,GMedia
+HOST-SUFFIX,ft.com,GMedia
+HOST,buff.ly,GMedia
+HOST,shared-data.dowjones.io,GMedia
+HOST,cdn-pci.optimizely.com,GMedia
+HOST-SUFFIX,i-scmp.com,GMedia
+HOST-SUFFIX,scmp.com,GMedia
+HOST,sc.mp,GMedia
+HOST,cdn.opecloud.com,GMedia
+HOST,cdn.jsdelivr.net,GMedia
+HOST,cdn.privacy-mgmt.com,GMedia
+HOST,cacerts.digicert.com,GMedia
+HOST,cdn.concert.io,GMedia
+HOST,apps.voxmedia.com,GMedia
+HOST,pdst.fm,GMedia
+HOST,traffic.megaphone.fm,GMedia
+HOST,dcs.megaphone.fm,GMedia
+HOST-SUFFIX,coralproject.net,GMedia
+HOST,audio.buzzsprout.com,GMedia
+HOST,www.buzzsprout.com,GMedia
+HOST,www.livemint.com,GMedia
+HOST,pd.cdnwidget.com,GMedia
+HOST,www.voanews.com,GMedia
+HOST,www.washingtonpost.com,GMedia
+HOST,wapo.st,GMedia
+HOST,www.rfa.org,GMedia
+HOST,www.aljazeera.com,GMedia
+HOST,www.dailymail.co.uk,GMedia
+HOST,asia.nikkei.com,GMedia
+HOST,api.cxense.com,GMedia
+HOST,cdn.cxense.com,GMedia
+HOST,meidasnews.com,GMedia
 
 # > FireTV 4k Max stick 
 HOST,msh.amazon.co.uk,GMedia
