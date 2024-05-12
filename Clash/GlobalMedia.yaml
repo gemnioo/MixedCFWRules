@@ -49,10 +49,14 @@ payload:
   - DOMAIN,reederapp.com
   - DOMAIN-SUFFIX,ocsp.sectigo.com
   - DOMAIN-SUFFIX,caixinglobal.com
+  - DOMAIN-SUFFIX,apnews.com
   - DOMAIN-SUFFIX,ft.com
+  - DOMAIN,buff.ly
+  - DOMAIN,shared-data.dowjones.io
   - DOMAIN,cdn-pci.optimizely.com
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
+  - DOMAIN,sc.mp
   - DOMAIN,cdn.opecloud.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.privacy-mgmt.com
@@ -65,6 +69,21 @@ payload:
   - DOMAIN-SUFFIX,coralproject.net
   - DOMAIN,audio.buzzsprout.com
   - DOMAIN,www.buzzsprout.com
+  - DOMAIN,www.livemint.com
+  - DOMAIN,pd.cdnwidget.com
+  - DOMAIN,www.voanews.com 
+  - DOMAIN,www.washingtonpost.com
+  - DOMAIN,wapo.st
+  - DOMAIN,www.rfa.org
+  - DOMAIN,www.aljazeera.com
+  - DOMAIN,www.dailymail.co.uk
+  - DOMAIN,asia.nikkei.com
+  - DOMAIN,api.cxense.com
+  - DOMAIN,cdn.cxense.com
+  - DOMAIN,meidasnews.com
+  # buff.ly segment-data.zqtk.net open-api.spot.im
+
+
   
   # > Himalaya
   # PROCESS-NAME,com.ximalaya.ting.himalaya
