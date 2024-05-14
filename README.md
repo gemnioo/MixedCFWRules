@@ -36,10 +36,11 @@ https://github.com/BlueGrave/Surge/blob/master/General.conf
 
 https://github.com/scomper/Surge/blob/master/surge3.conf.ini
 
-Ref rule set https://ruleset.skk.moe
 
 https://manual.nssurge.com/book/understanding-surge/cn/
 
 https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf    #Cloudflare ZeroTrust
+
+https://github.com/SukkaW/Surge  #Clash Rule set 
 
 https://raw.githubusercontent.com/zxfccmm4/Surge/main/Steve_SmartGroup.conf
