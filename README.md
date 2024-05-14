@@ -40,4 +40,4 @@ https://manual.nssurge.com/book/understanding-surge/cn/
 
 https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf    #Cloudflare ZeroTrust
 
-https://raw.githubusercontent.com/zxfccmm4/Surge/main/SFS.conf
+https://raw.githubusercontent.com/zxfccmm4/Surge/main/Steve_SmartGroup.conf
