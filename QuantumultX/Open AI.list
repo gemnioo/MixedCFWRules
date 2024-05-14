@@ -34,6 +34,7 @@ HOST,production-openaicom-storage.azureedge.net,Open AI
 HOST,nexus-websocket-a.intercom.io,Open AI
 HOST,openai-api.arkoselabs.com,Open AI
 HOST,chatgpt.livekit.cloud,Open AI
+HOST-SUFFIX,turn.livekit.cloud,Open AI
 HOST,api.revenuecat.com,Open AI
 HOST,api.statsig.com,Open AI
 HOST,browser-intake-datadoghq.com,Open AI
