@@ -5,10 +5,18 @@ HOST-SUFFIX,mushroomtrack.com,GMedia
 
 # > Podcast and Reading Media
 HOST,reederapp.com,GMedia
+HOST,www.zerohedge.com,GMedia
+HOST,www.theguardian.com,GMedia
+HOST,foreignpolicy.com,GMedia
+HOST,thehill.com,GMedia
+HOST,www.thestreet.com,GMedia
 HOST-SUFFIX,ocsp.sectigo.com,GMedia
 HOST-SUFFIX,caixinglobal.com,GMedia
 HOST-SUFFIX,apnews.com,GMedia
 HOST-SUFFIX,ft.com,GMedia
+HOST,trib.al,GMedia
+HOST,bloom.bg,GMedia
+HOST,nyti.ms,GMedia
 HOST,buff.ly,GMedia
 HOST,shared-data.dowjones.io,GMedia
 HOST,cdn-pci.optimizely.com,GMedia
@@ -36,6 +44,8 @@ HOST,www.rfa.org,GMedia
 HOST,www.aljazeera.com,GMedia
 HOST,www.dailymail.co.uk,GMedia
 HOST,asia.nikkei.com,GMedia
+HOST,assets.bwbx.io,GMedia
+HOST,www3.nhk.or.jp,GMedia
 HOST,api.cxense.com,GMedia
 HOST,cdn.cxense.com,GMedia
 HOST,meidasnews.com,GMedia
