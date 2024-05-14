@@ -47,16 +47,26 @@ payload:
 
   # Podcast & RSS
   - DOMAIN,reederapp.com
+  - DOMAIN,www.zerohedge.com
+  - DOMAIN,www.theguardian.com
+  - DOMAIN,foreignpolicy.com
+  - DOMAIN,thehill.com
+  - DOMAIN,www.thestreet.com
   - DOMAIN-SUFFIX,ocsp.sectigo.com
   - DOMAIN-SUFFIX,caixinglobal.com
   - DOMAIN-SUFFIX,apnews.com
   - DOMAIN-SUFFIX,ft.com
   - DOMAIN,buff.ly
+  - DOMAIN,nyti.ms
+  - DOMAIN,bloom.bg
+  - DOMAIN,trib.al
   - DOMAIN,shared-data.dowjones.io
   - DOMAIN,cdn-pci.optimizely.com
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
   - DOMAIN,sc.mp
+  - DOMAIN,assets.bwbx.io
+  - DOMAIN,www3.nhk.or.jp
   - DOMAIN,cdn.opecloud.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.privacy-mgmt.com
