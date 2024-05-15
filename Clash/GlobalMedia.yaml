@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,caixinglobal.com
   - DOMAIN-SUFFIX,apnews.com
   - DOMAIN-SUFFIX,ft.com
+  - DOMAIN,ft.trib.al
   - DOMAIN,buff.ly
   - DOMAIN,nyti.ms
   - DOMAIN,bloom.bg
