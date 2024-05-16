@@ -49,6 +49,7 @@ payload:
   - DOMAIN,reederapp.com
   - DOMAIN,www.zerohedge.com
   - DOMAIN,www.theguardian.com
+  - DOMAIN-SUFFIX,guim.co.uk
   - DOMAIN,foreignpolicy.com
   - DOMAIN,thehill.com
   - DOMAIN,www.thestreet.com
