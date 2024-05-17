@@ -2,23 +2,27 @@ payload:
   #Add by me Fake IP Mode
   - DOMAIN-KEYWORD,mastodon
   - DOMAIN,s3.eu-central-2.wasabisys.com
+
   - DOMAIN,api.raycast.app
   - DOMAIN,releases.raycast.com
   - DOMAIN,rbackend.raycast.com
   - DOMAIN-SUFFIX,raycast.com
-  - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN,r3.o.lencr.org
   - DOMAIN,status.rapidssl.com
   - DOMAIN,proxsee.pscp.tv
   - DOMAIN,ocsp.pki.goog
+  - DOMAIN,ocsp.digicert.com
   - DOMAIN-SUFFIX,amazontrust.com
-  - DOMAIN-SUFFIX,shdsvc.dowjones.io
+
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,cdn.polyfill.io
   - DOMAIN,cdn.statically.io
   - DOMAIN,cdn.iframe.ly
   - DOMAIN,cdn.v2ex.com
+  - DOMAIN-SUFFIX,tile.openstreetmap.org
   - DOMAIN,aqicn.org
+  - DOMAIN,api.waqi.info
+  - DOMAIN,aqi.aqicn.org
 
   # > RSS 
   - DOMAIN,clip.owenyoung.com
@@ -34,6 +38,55 @@ payload:
   - DOMAIN,blog.farmostwood.net
   - DOMAIN,www.iyouport.org
   - DOMAIN,nei.st
+
+# > Podcast and Reading Media
+  - DOMAIN,www.zerohedge.com
+  - DOMAIN,www.theguardian.com
+  - DOMAIN-SUFFIX,guim.co.uk
+  - DOMAIN,foreignpolicy.com
+  - DOMAIN,thehill.com
+  - DOMAIN,www.thestreet.com
+  - DOMAIN-SUFFIX,ocsp.sectigo.com
+  - DOMAIN-SUFFIX,caixinglobal.com
+  - DOMAIN-SUFFIX,apnews.com
+  - DOMAIN-SUFFIX,ft.com
+  - DOMAIN,ft.trib.al
+  - DOMAIN,trib.al
+  - DOMAIN,bloom.bg
+  - DOMAIN,nyti.ms
+  - DOMAIN,buff.ly
+  - DOMAIN,shared-data.dowjones.io
+  - DOMAIN,shdsvc.dowjones.io
+  - DOMAIN,cdn-pci.optimizely.com
+  - DOMAIN-SUFFIX,i-scmp.com
+  - DOMAIN-SUFFIX,scmp.com
+  - DOMAIN,sc.mp
+  - DOMAIN,cdn.opecloud.com
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdn.privacy-mgmt.com
+  - DOMAIN,cacerts.digicert.com
+  - DOMAIN,cdn.concert.io
+  - DOMAIN,apps.voxmedia.com
+  - DOMAIN,pdst.fm
+  - DOMAIN,traffic.megaphone.fm
+  - DOMAIN,dcs.megaphone.fm
+  - DOMAIN-SUFFIX,coralproject.net
+  - DOMAIN,audio.buzzsprout.com
+  - DOMAIN,www.buzzsprout.com
+  - DOMAIN,www.livemint.com
+  - DOMAIN,pd.cdnwidget.com
+  - DOMAIN,www.voanews.com
+  - DOMAIN,www.washingtonpost.com
+  - DOMAIN,wapo.st
+  - DOMAIN,www.rfa.org
+  - DOMAIN,www.aljazeera.com
+  - DOMAIN,www.dailymail.co.uk
+  - DOMAIN,asia.nikkei.com
+  - DOMAIN,assets.bwbx.io
+  - DOMAIN,www3.nhk.or.jp
+  - DOMAIN,api.cxense.com
+  - DOMAIN,cdn.cxense.com
+  - DOMAIN,meidasnews.com
 
   # > PayPal
   - DOMAIN-KEYWORD,paypal
