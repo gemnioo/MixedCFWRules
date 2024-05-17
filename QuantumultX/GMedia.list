@@ -3,8 +3,10 @@ HOST-SUFFIX,jable.tv,GMedia
 HOST,cdn.plyr.io,GMedia
 HOST-SUFFIX,mushroomtrack.com,GMedia
 
-# > Podcast and Reading Media
+# > RSS
 HOST,reederapp.com,GMedia
+
+# > Podcast and Reading Media
 HOST,www.zerohedge.com,GMedia
 HOST,www.theguardian.com,GMedia
 HOST-SUFFIX,guim.co.uk,GMedia
@@ -21,6 +23,7 @@ HOST,bloom.bg,GMedia
 HOST,nyti.ms,GMedia
 HOST,buff.ly,GMedia
 HOST,shared-data.dowjones.io,GMedia
+HOST,shdsvc.dowjones.io,GMedia
 HOST,cdn-pci.optimizely.com,GMedia
 HOST-SUFFIX,i-scmp.com,GMedia
 HOST-SUFFIX,scmp.com,GMedia
