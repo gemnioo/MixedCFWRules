@@ -11,7 +11,7 @@ HOST,proxsee.pscp.tv,Outside
 HOST,ocsp.pki.goog,Outside
 HOST,ocsp.digicert.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
-HOST-SUFFIX,shdsvc.dowjones.io,Outside
+
 HOST,ublockorigin.pages.dev,Outside
 HOST,cdn.polyfill.io,Outside
 HOST,cdn.statically.io,Outside
@@ -19,21 +19,9 @@ HOST,cdn.iframe.ly,Outside
 HOST,cdn.v2ex.com,Outside
 HOST-SUFFIX,tile.openstreetmap.org,Outside
 HOST,aqicn.org,Outside
+HOST,api.waqi.info,Outside
+HOST,aqi.aqicn.org,Outside
 
-# > Media
-HOST-SUFFIX,ocsp.sectigo.com,Outside
-HOST-SUFFIX,caixinglobal.com,Outside
-HOST-SUFFIX,ft.com,Outside
-HOST,cdn-pci.optimizely.com,Outside
-HOST-SUFFIX,i-scmp.com,Outside
-HOST-SUFFIX,scmp.com,Outside
-HOST,cdn.opecloud.com,Outside
-HOST,cdn.jsdelivr.net,Outside
-HOST,cdn.privacy-mgmt.com,Outside
-HOST,cacerts.digicert.com,Outside
-HOST,cdn.concert.io,Outside
-HOST,apps.voxmedia.com,Outside
-HOST-SUFFIX,coralproject.net,Outside
 
 # > RSS 
 HOST,clip.owenyoung.com,Outside
@@ -166,28 +154,27 @@ IP-CIDR,183.128.0.0/11,Outside
 IP-CIDR,183.131.48.0/20,Outside
 
 # > TikTok
-USER-AGENT,TikTok*,Outside
-HOST-KEYWORD,tiktokcdn-,Outside
-HOST-KEYWORD,musical.ly,Outside
-HOST-KEYWORD,tiktok,Outside
-HOST-KEYWORD,tiktokv,Outside
-HOST,p16-tiktokcdn-com.akamaized.net,Outside
-HOST-SUFFIX,byteoversea.com,Outside
-HOST-SUFFIX,ibytedtos.com,Outside
-HOST-SUFFIX,ibyteimg.com,Outside
-HOST-SUFFIX,ipstatp.com,Outside
-HOST-SUFFIX,muscdn.com,Outside
-HOST-SUFFIX,sgpstatp.com,Outside
-HOST-SUFFIX,tik-tokapi.com,Outside
+;USER-AGENT,TikTok*,Outside
+;HOST-KEYWORD,tiktokcdn-,Outside
+;HOST-KEYWORD,musical.ly,Outside
+;HOST-KEYWORD,tiktok,Outside
+;HOST-KEYWORD,tiktokv,Outside
+;HOST,p16-tiktokcdn-com.akamaized.net,Outside
+;HOST-SUFFIX,byteoversea.com,Outside
+;HOST-SUFFIX,ibytedtos.com,Outside
+;HOST-SUFFIX,ibyteimg.com,Outside
+;HOST-SUFFIX,ipstatp.com,Outside
+;HOST-SUFFIX,muscdn.com,Outside
+;HOST-SUFFIX,sgpstatp.com,Outside
+;HOST-SUFFIX,tik-tokapi.com,Outside
 
-# > WAQI
-HOST,api.waqi.info,Outside
-HOST,aqi.aqicn.org,Outside
 
 # > Zooba
 USER-AGENT,battleroyale*,Outside
 
 # > Top blocked sites
+HOST,x,com,Outside
+HOST,api.x.com,Outside
 HOST-SUFFIX,2o7.net,Outside
 HOST-SUFFIX,4everProxy.com,Outside
 HOST-SUFFIX,4shared.com,Outside
