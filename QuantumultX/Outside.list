@@ -22,22 +22,6 @@ HOST,aqicn.org,Outside
 HOST,api.waqi.info,Outside
 HOST,aqi.aqicn.org,Outside
 
-
-# > RSS 
-HOST,clip.owenyoung.com,Outside
-HOST,www.kivinsae.com,Outside
-HOST,e1.o.lencr.org,Outside
-HOST,thewirecutter.com,Outside
-HOST,byvoid.com,Outside
-HOST,daringfireball.net,Outside
-HOST,blog.ryouissei.com,Outside
-HOST,taresky.com,Outside
-HOST,www.byvoid.com,Outside
-HOST,thesweetsetup.com,Outside
-HOST,blog.farmostwood.net,Outside
-HOST,www.iyouport.org,Outside
-HOST,nei.st,Outside
-
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
 HOST,cdp.cloud.unity3d.com,Outside
