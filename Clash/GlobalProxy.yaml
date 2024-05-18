@@ -41,6 +41,7 @@ payload:
 
 # > Podcast and Reading Media
   - DOMAIN,www.zerohedge.com
+  - DOMAIN,assets.zerohedge.com
   - DOMAIN,www.theguardian.com
   - DOMAIN-SUFFIX,guim.co.uk
   - DOMAIN,foreignpolicy.com
@@ -84,6 +85,7 @@ payload:
   - DOMAIN,asia.nikkei.com
   - DOMAIN,assets.bwbx.io
   - DOMAIN,www3.nhk.or.jp
+  - DOMAIN,www.japantimes.co.jp
   - DOMAIN,api.cxense.com
   - DOMAIN,cdn.cxense.com
   - DOMAIN,meidasnews.com
