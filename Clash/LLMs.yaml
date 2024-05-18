@@ -41,8 +41,16 @@ payload:
 
  # stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
-  - DOMAIN,m.stripe.network
+  - DOMAIN,m.stripe.com
   - DOMAIN,r.stripe.com
+  - DOMAIN,api.stripe.com
+  - DOMAIN,m.stripe.network
+  - DOMAIN,b.stripecdn.com
+  - DOMAIN,merchant-ui-api.stripe.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN,hcaptcha.com
+  - DOMAIN,api2.hcaptcha.com
+  - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN,api.revenuecat.com
 
   # Claude
