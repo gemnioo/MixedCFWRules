@@ -2,10 +2,9 @@ For Surge Quantumult and Clash for Windows rules
 
 Please check the following offical and unoffical Manual
 
-Quantumult X with Scripts  
+Scripts  
 
-https://github.com/gemnioo/QuantumultX/blob/master/QuantumultX_Profiles.conf
-
+https://github.com/lainbo/gists-hub/tree/master/src
 
 Quantumult X  
 
@@ -48,8 +47,7 @@ https://github.com/BlueGrave/Surge/blob/master/General.conf
 
 https://github.com/scomper/Surge/blob/master/surge3.conf.ini
 
-
-https://manual.nssurge.com/book/understanding-surge/cn/
+https://manual.nssurge.com/book/understanding-surge/cn/  #官方 Surge 指南
 
 https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf    #Cloudflare ZeroTrust
 
