@@ -1,6 +1,7 @@
 # China Mainland ASN list
 # From VirgilClyne
 # https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list
+# May 18, 2024 废弃 改用 Loyalsoldier GeoIP mmdb
 
 IP-ASN,4134,Mainland
 IP-ASN,4538,Mainland
