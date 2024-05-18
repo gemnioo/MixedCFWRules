@@ -1,9 +1,11 @@
-# > OpenAI Claude and more coming 
+# Gemini 
 HOST,bard.google.com,Open AI
-HOST,ai.google.dev,Open AI
+HOST,gemini.google.com,Open AI
 HOST,alkalicore-pa.clients6.google.com,Open AI
 HOST,alkalimakersuite-pa.clients6.google.com,Open AI
-HOST-SUFFIX,gemini.google.com,Open AI
+HOST,alkalimetricsink-pa.clients6.google.com,Open AI
+HOST-SUFFIX,ai.google.dev,Open AI
+HOST-SUFFIX,aistudio.google.com,Open AI
 HOST-SUFFIX,deepmind.com,Open AI
 HOST-SUFFIX,deepmind.google,Open AI
 HOST-SUFFIX,generativelanguage.googleapis.com,Open AI
@@ -11,18 +13,16 @@ HOST-SUFFIX,geller-pa.googleapis.com,Open AI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,Open AI
 HOST-SUFFIX,makersuite.google.com,Open AI
 HOST-SUFFIX,generativeai.google,Open AI
-HOST-SUFFIX,claude.ai,Open AI
-HOST-SUFFIX,perplexity.ai,Open AI
-HOST-SUFFIX,anthropic.com,Open AI
-HOST,cdn.usefathom.com,Open AI
-HOST-SUFFIX,poe.com,Outside
-HOST-SUFFIX,meta.ai,Outside
+
+HOST,content-autofill.googleapis.com,Open AI
+HOST,content-developerprofiles-pa.googleapis.com,Open AI
+
+# OpenAI
 HOST-SUFFIX,openai.com,Open AI
 HOST-SUFFIX,chatgpt.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
 HOST-SUFFIX,oaiusercontent.com,Open AI
 HOST-SUFFIX,identrust.com,Open AI
-
 HOST,cdn.auth0.com,Open AI
 HOST,ios.chat.openai.com,Open AI
 HOST,challenges.cloudflare.com,Open AI
@@ -44,6 +44,19 @@ HOST,openaicom.imgix.net,REJECT
 HOST,o33249.ingest.sentry.io,REJECT
 HOST,o315582.ingest.sentry.io,REJECT
 HOST,o245571.ingest.sentry.io,REJECT
+
+# Claude Meta and poe
+HOST,cdn.usefathom.com,Open AI
+HOST-SUFFIX,claude.ai,Open AI
+HOST-SUFFIX,anthropic.com,Open AI
+HOST-SUFFIX,perplexity.ai,Outside
+HOST-SUFFIX,poe.com,Outside
+HOST-SUFFIX,meta.ai,Outside
+
+# Other LLMs
+HOST-SUFFIX,coze.com,Outside
+HOST-SUFFIX,ciciai.com,Outside
+HOST-SUFFIX,civitai.com,Outside
 
 # > Paypal 
 USER-AGENT,PayPal*,Outside
