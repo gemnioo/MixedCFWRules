@@ -61,3 +61,10 @@ https://raw.githubusercontent.com/zxfccmm4/Surge/main/Steve_SmartGroup.conf
 DNS 
 特别的 DNS 配置和使用技巧 
 https://blog.skk.moe/post/i-have-my-unique-surge-setup/
+
+GeoIP mmdb 格式文件
+https://github.com//Loyalsoldier/geoip
+
+解锁完整的Apple 功能和集成服务的脚本
+https://github.com/VirgilClyne/iRingo?tab=readme-ov-file
+
