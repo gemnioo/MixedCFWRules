@@ -64,6 +64,7 @@ https://blog.skk.moe/post/i-have-my-unique-surge-setup/
 
 GeoIP mmdb 格式文件
 https://github.com//Loyalsoldier/geoip
+注意使用 自定义ChinaIP ASN 还是 使用第三方 GeoIP mmdb 数据池！
 
 解锁完整的Apple 功能和集成服务的脚本
 https://github.com/VirgilClyne/iRingo?tab=readme-ov-file
