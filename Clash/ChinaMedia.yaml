@@ -1,6 +1,5 @@
 payload:
-  # 内容：中国媒体列表
-## ddrk 
+  # ddrk
   - DOMAIN,ddys.wiki
   - DOMAIN,ddys.site
   - DOMAIN,ddys.info
