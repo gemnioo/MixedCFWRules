@@ -47,6 +47,7 @@ payload:
   - DOMAIN,m.stripe.network
   - DOMAIN,b.stripecdn.com
   - DOMAIN,merchant-ui-api.stripe.com
+  - DOMAIN,stripe-camo.global.ssl.fastly.net
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN,hcaptcha.com
   - DOMAIN,api2.hcaptcha.com
