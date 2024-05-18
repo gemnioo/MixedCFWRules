@@ -11,6 +11,8 @@ Quantumult X
 
 https://github.com/crossutility/Quantumult-X/blob/master/sample.conf
 
+https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
+
 https://github.com/GeQ1an/Rules/blob/master/QuantumultX/QuantumultX.conf
 
 https://github.com/hly0928/Proxy-profiles/tree/master/QuantumultX
