@@ -41,3 +41,8 @@ payload:
   - DOMAIN,js.stripe.com 
   - DOMAIN,m.stripe.network
   - DOMAIN,r.stripe.com
+
+  # Claude
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
