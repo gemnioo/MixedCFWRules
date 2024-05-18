@@ -37,13 +37,25 @@ HOST,chatgpt.livekit.cloud,Open AI
 HOST-SUFFIX,turn.livekit.cloud,Open AI
 HOST,api.statsig.com,Open AI
 HOST,browser-intake-datadoghq.com,Open AI
-HOST,js.stripe.com,Open AI 
-HOST,m.stripe.network,Open AI
-HOST,r.stripe.com,Open AI
+
 HOST,openaicom.imgix.net,REJECT 
 HOST,o33249.ingest.sentry.io,REJECT
 HOST,o315582.ingest.sentry.io,REJECT
 HOST,o245571.ingest.sentry.io,REJECT
+
+# Stripe and IAP revenuecat
+HOST,js.stripe.com,Open AI  
+HOST,m.stripe.com,Open AI 
+HOST,r.stripe.com,Open AI 
+HOST,api.stripe.com,Open AI 
+HOST,m.stripe.network,Open AI 
+HOST,b.stripecdn.com,Open AI 
+HOST,merchant-ui-api.stripe.com,Open AI 
+HOST-SUFFIX,stripe.com,Open AI 
+HOST,hcaptcha.com,Open AI 
+HOST,api2.hcaptcha.com,Open AI 
+HOST-SUFFIX,hcaptcha.com,Open AI 
+HOST,api.revenuecat.com,Open AI 
 
 # Claude Meta and poe
 HOST,cdn.usefathom.com,Open AI
