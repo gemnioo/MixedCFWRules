@@ -50,7 +50,8 @@ HOST,r.stripe.com,Open AI
 HOST,api.stripe.com,Open AI 
 HOST,m.stripe.network,Open AI 
 HOST,b.stripecdn.com,Open AI 
-HOST,merchant-ui-api.stripe.com,Open AI 
+HOST,merchant-ui-api.stripe.com,Open AI
+HOST,stripe-camo.global.ssl.fastly.net,Open AI
 HOST-SUFFIX,stripe.com,Open AI 
 HOST,hcaptcha.com,Open AI 
 HOST,api2.hcaptcha.com,Open AI 
