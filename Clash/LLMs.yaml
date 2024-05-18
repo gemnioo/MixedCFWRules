@@ -38,9 +38,12 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN,api.statsig.com
   - DOMAIN,browser-intake-datadoghq.com
+
+ # stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
   - DOMAIN,m.stripe.network
   - DOMAIN,r.stripe.com
+  - DOMAIN,api.revenuecat.com
 
   # Claude
   - DOMAIN,cdn.usefathom.com
