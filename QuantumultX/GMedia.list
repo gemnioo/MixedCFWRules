@@ -1,7 +1,15 @@
-# > Porn Site
+# > Porn Site and 
+HOST,ddrk.me,GMedia
+HOST,ddys.art,GMedia
+
 HOST-SUFFIX,jable.tv,GMedia
 HOST,cdn.plyr.io,GMedia
 HOST-SUFFIX,mushroomtrack.com,GMedia
+
+HOST,cdp.livedoor.com,GMedia
+HOST,parts.blog.livedoor.jp,GMedia
+HOST,livedoor.sp.blogimg.jp,GMedia
+HOST,ippondemoninjin.livedoor.blog,GMedia
 
 # > FireTV 4k Max stick 
 HOST,msh.amazon.co.uk,GMedia
