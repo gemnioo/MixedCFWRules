@@ -41,6 +41,7 @@ HOST,nei.st,Outside
 
 # > Podcast and Reading Media
 HOST,www.zerohedge.com,Outside
+HOST,assets.zerohedge.com,Outside
 HOST,www.theguardian.com,Outside
 HOST-SUFFIX,guim.co.uk,Outside
 HOST,foreignpolicy.com,Outside
@@ -84,6 +85,7 @@ HOST,www.dailymail.co.uk,Outside
 HOST,asia.nikkei.com,Outside
 HOST,assets.bwbx.io,Outside
 HOST,www3.nhk.or.jp,Outside
+HOST,www.japantimes.co.jp,Outside
 HOST,api.cxense.com,Outside
 HOST,cdn.cxense.com,Outside
 HOST,meidasnews.com,Outside
