@@ -30,6 +30,9 @@ https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS污染对Clash（for-Wi
 
 https://github.com/iczrac/Parsers-for-clash
 
+Clash Verge/Meta(Mihomo DNS https://lainbo.com/article/clash-config
+
+
 Surge 
 
 https://github.com/BlueGrave/Surge/blob/master/General.conf
@@ -44,3 +47,8 @@ https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf    #Cloudflar
 https://github.com/SukkaW/Surge  #Clash Rule set 
 
 https://raw.githubusercontent.com/zxfccmm4/Surge/main/Steve_SmartGroup.conf
+
+
+DNS 
+特别的 DNS 配置和使用技巧 
+https://blog.skk.moe/post/i-have-my-unique-surge-setup/
