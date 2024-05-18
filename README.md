@@ -30,7 +30,11 @@ https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS污染对Clash（for-Wi
 
 https://github.com/iczrac/Parsers-for-clash
 
-Clash Verge/Meta(Mihomo DNS https://lainbo.com/article/clash-config
+Clash Meta(Mihomo 
+
+https://github.com/MetaCubeX/meta-rules-dat
+
+DNS https://lainbo.com/article/clash-config
 
 
 Surge 
