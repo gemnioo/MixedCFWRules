@@ -231,6 +231,7 @@ USER-AGENT,battleroyale*,Outside
 # > Top blocked sites
 HOST,x.com,Outside
 HOST,api.x.com,Outside
+HOST-SUFFIX,threads.net,Outside
 HOST-SUFFIX,2o7.net,Outside
 HOST-SUFFIX,4everProxy.com,Outside
 HOST-SUFFIX,4shared.com,Outside
