@@ -175,7 +175,7 @@ payload:
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney.demdex.net
-  ; DOMAIN-SUFFIX,disney.my.sentry.io
+  # DOMAIN-SUFFIX,disney.my.sentry.io
   - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
