@@ -34,6 +34,8 @@ https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS污染对Clash（for-Wi
 
 https://github.com/iczrac/Parsers-for-clash
 
+https://github.com/LM-Firefly/Rules
+
 Clash Meta(Mihomo 
 
 https://github.com/MetaCubeX/meta-rules-dat
