@@ -103,17 +103,40 @@ HOST,checkappexec.microsoft.com,Microsoft
 HOST,fe3cr.delivery.mp.microsoft.com,Microsoft 
 
   # > Add Firefox Mozilla.org 
-HOST,ocsp.digicert.com,Microsoft 
-HOST,ocsp.edge.digicert.com,Microsoft 
-HOST,fp2e7a.wpc.phicdn.net,Microsoft 
-HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft 
-HOST-SUFFIX,firefox.com,Microsoft 
-HOST-SUFFIX,services.mozilla.com,Microsoft 
-HOST-SUFFIX,mozilla.org,Microsoft 
-HOST-SUFFIX,cdn.mozilla.net,Microsoft 
-HOST,mozilla.cloudflare-dns.com,Microsoft 
-HOST,autopush.prod.mozaws.net,Microsoft 
-HOST-SUFFIX,webservices.mozgcp.net,Microsoft 
+HOST,ocsp.digicert.com,Microsoft
+HOST,ocsp.edge.digicert.com,Microsoft
+HOST,fp2e7a.wpc.phicdn.net,Microsoft
+HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft
+
+HOST-SUFFIX,firefox.com,Microsoft
+HOST-SUFFIX,firefox.com.cn,Microsoft
+HOST-SUFFIX,firefoxusercontent.com,Microsoft
+
+HOST-SUFFIX,cdn.mozilla.net,Microsoft
+HOST-SUFFIX,mdn.mozillademos.org,Microsoft
+HOST,media.prod.mdn.mozit.cloud,Microsoft
+HOST,mozilla.cloudflare-dns.com,Microsoft
+HOST,autopush.prod.mozaws.net,Microsoft
+HOST-SUFFIX,webservices.mozgcp.net,Microsoft
+  
+HOST-SUFFIX,bugzilla.org,Microsoft
+HOST-SUFFIX,crates.io,Microsoft
+HOST-SUFFIX,docs.rs,Microsoft
+HOST-SUFFIX,extensionworkshop.com,Microsoft
+HOST,pocket-image-cache.com,Microsoft
+HOST-SUFFIX,getpocket.com,Microsoft
+
+HOST-SUFFIX,mozilla.com,Microsoft
+HOST-SUFFIX,mozilla.net,Microsoft
+HOST-SUFFIX,mozilla.org,Microsoft
+HOST-SUFFIX,mofoprod.net,Microsoft
+HOST-SUFFIX,mozilla.community,Microsoft
+HOST-SUFFIX,services.mozilla.com,Microsoft
+HOST-SUFFIX,rust-lang.org,Microsoft
+HOST-SUFFIX,rustup.rs,Microsoft
+HOST-SUFFIX,seamonkey-project.org,Microsoft
+#-SUFFIX,sentry.prod.mozaws.net,Microsoft
+HOST-SUFFIX,thunderbird.net,Microsoft
 
   # > Microsoft Edge
 HOST,edge.activity.windows.com,Microsoft
