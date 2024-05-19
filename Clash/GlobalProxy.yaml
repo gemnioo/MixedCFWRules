@@ -86,6 +86,7 @@ payload:
   - DOMAIN,assets.bwbx.io
   - DOMAIN,www3.nhk.or.jp
   - DOMAIN,www.japantimes.co.jp
+  - DOMAIN,www.asahi.com
   - DOMAIN,api.cxense.com
   - DOMAIN,cdn.cxense.com
   - DOMAIN,meidasnews.com
