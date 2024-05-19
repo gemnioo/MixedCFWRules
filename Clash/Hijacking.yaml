@@ -1,9 +1,9 @@
 payload:
   # Internet Service Providers Hijacking
-  # source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
-  # update with Janlay's public ruleset blocked-domains-clash.txt 
+  # Source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
+  # Update with Janlay's public ruleset blocked-domains-clash.txt 
   
-  #unionpay aka Yunshanfu cup.cn ads test
+  # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,analytics.95516.com
   - DOMAIN,hotpatch.cup.com.cnotr
@@ -20,7 +20,14 @@ payload:
   - DOMAIN-KEYWORD,qanyzxuf416ihfqez95kndcpdeidmssxrrqkfx5iw
   - DOMAIN-KEYWORD,cncajhnds6bmhsp3n6b3xan
   - DOMAIN-KEYWORD,cn3s4e6zgxjlbz
-  
+ 
+  # National Anti-fraud Center
+  - DOMAIN,prpr.96110.cn.com,REJECT
+  - DOMAIN-SUFFIX,gjfzpt.cn,REJECT
+
+  # Safari IAP
+  - DOMAIN,app-site-association.cdn-apple.com,REJECT
+  # Janlay
   - DOMAIN,ads.mopub.com
   - DOMAIN,analytics.plex.tv
   - DOMAIN,analytics.yahoo.com
