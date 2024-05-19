@@ -2,6 +2,10 @@ payload:
   # Global Streaming Media  not include Spotify and Apple music as SONOS control App require
   - DOMAIN,ddrk.me
   - DOMAIN,ddys.art
+  - DOMAIN,sehuatang.org
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,cdn.plyr.io
+  - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN,cdp.livedoor.com
   - DOMAIN,parts.blog.livedoor.jp
   - DOMAIN,livedoor.sp.blogimg.jp
