@@ -1,6 +1,33 @@
-# Ads in Video apps
+# Internet Service Providers Hijacking
+# Source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
+# Update with Janlay's public ruleset blocked-domains-clash.txt 
+  
+# UnionPay aka Yunshanfu cup.cn ads test
+HOST,ads.cup.com.cn,AdBlock
+HOST,analytics.95516.com,AdBlock
+HOST,hotpatch.cup.com.cnotr,AdBlock
+HOST,hotpatch.cup.com.cnx9tm,AdBlock
+HOST,hotpatch.cup.com.cnfhzluz,AdBlock
+HOST,hotpatch.cup.com.cnwh6dn4,AdBlock
+HOST,hotpatch.cup.com.cnmzcglun3cjp710oiijo76b4mfx6gpvwet23mcvb0xgk,AdBlock
+HOST,hotpatch.cup.com.cnwjgt5ahwa1ehtpwyf8a3sl6xvw2j8mpg4hnbqeiziqa,AdBlock
+HOST-KEYWORD,cn0oz9ke5ph2dij0nyebyn,AdBlock
+HOST,hotpatch.cup.com.cnj8mrvtdmzxitdaoj6jmqe29xu,AdBlock
+HOST-KEYWORD,cnrokxelluwqmcnyakbmgkrwhpy47z42bn,AdBlock
+HOST-KEYWORD,cnekvgvjlzicbb56n9,AdBlock
+HOST-KEYWORD,cnqmerod5mi,AdBlock
+HOST-KEYWORD,qanyzxuf416ihfqez95kndcpdeidmssxrrqkfx5iw,AdBlock
+HOST-KEYWORD,cncajhnds6bmhsp3n6b3xan,AdBlock
+HOST-KEYWORD,cn3s4e6zgxjlbz,AdBlock
+ 
+# National Anti-fraud Center
+HOST,prpr.96110.cn.com,AdBlock
+HOST-SUFFIX,gjfzpt.cn,AdBlock
 
-# > by me and Janlay Rule
+# Safari IAP
+HOST,app-site-association.cdn-apple.com,AdBlock
+
+# add by me and Janlay
 HOST,ads.mopub.com,AdBlock
 HOST,analytics.plex.tv,AdBlock
 HOST,analytics.yahoo.com,AdBlock
@@ -53,7 +80,7 @@ HOST-SUFFIX,youmi.net,AdBlock
 HOST-SUFFIX,ingest.sentry.io,AdBlock
 HOST-SUFFIX,zhanzhang.baidu.com,AdBlock
 
-
+# Ads in Video apps
 # > iqiyi & pps
 HOST-SUFFIX,a.ckm.iqiyi.com,AdBlock
 HOST-SUFFIX,ad.m.iqiyi.com,AdBlock
