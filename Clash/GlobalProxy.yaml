@@ -141,6 +141,7 @@ payload:
   # > Top blocked sites
   - DOMAIN,x.com
   - DOMAIN,api.x.com
+  - DOMAIN-SUFFIX,threads.net
   - DOMAIN,freegpt.cc
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,4everProxy.com
