@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,rustup.rs
   - DOMAIN-SUFFIX,seamonkey-project.org
-  ； DOMAIN-SUFFIX,sentry.prod.mozaws.net
+  # DOMAIN-SUFFIX,sentry.prod.mozaws.net
   - DOMAIN-SUFFIX,thunderbird.net
   
   # > Microsoft Edge
