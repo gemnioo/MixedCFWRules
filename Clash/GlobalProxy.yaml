@@ -41,6 +41,7 @@ payload:
   - DOMAIN,nei.st
 
 # > Podcast and Reading Media
+  - DOMAIN,www.acquired.fm
   - DOMAIN,www.zerohedge.com
   - DOMAIN,assets.zerohedge.com
   - DOMAIN,www.theguardian.com
