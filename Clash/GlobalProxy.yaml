@@ -26,6 +26,7 @@ payload:
   - DOMAIN,aqi.aqicn.org
 
   # > RSS 
+  - DOMAIN,reederapp.com
   - DOMAIN,clip.owenyoung.com
   - DOMAIN,www.kivinsae.com
   - DOMAIN,e1.o.lencr.org
