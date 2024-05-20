@@ -41,7 +41,18 @@ payload:
   - DOMAIN,nei.st
 
 # > Podcast and Reading Media
+  - DOMAIN,pdst.fm
+  - DOMAIN,pscrb.fm
+  - DOMAIN,chrt.fm
   - DOMAIN,www.acquired.fm
+  - DOMAIN,audio.transistor.fm
+  - DOMAIN,media.transistor.fm
+  - DOMAIN,feeds.fireside.fm
+  - DOMAIN,assets.fireside.fm
+  - DOMAIN,dcs.megaphone.fm
+  - DOMAIN,feeds.megaphone.fm
+  - DOMAIN,traffic.megaphone.fm
+
   - DOMAIN,www.zerohedge.com
   - DOMAIN,assets.zerohedge.com
   - DOMAIN,www.theguardian.com
@@ -72,9 +83,6 @@ payload:
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,cdn.concert.io
   - DOMAIN,apps.voxmedia.com
-  - DOMAIN,pdst.fm
-  - DOMAIN,traffic.megaphone.fm
-  - DOMAIN,dcs.megaphone.fm
   - DOMAIN-SUFFIX,coralproject.net
   - DOMAIN,audio.buzzsprout.com
   - DOMAIN,www.buzzsprout.com
