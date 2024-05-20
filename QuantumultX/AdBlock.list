@@ -27,7 +27,7 @@ HOST-SUFFIX,gjfzpt.cn,AdBlock
 # Safari IAP
 HOST,app-site-association.cdn-apple.com,AdBlock
 
-# add by me and Janlay
+# Janlay's public ruleset blocked-domains-clash.txt 
 HOST,ads.mopub.com,AdBlock
 HOST,analytics.plex.tv,AdBlock
 HOST,analytics.yahoo.com,AdBlock
