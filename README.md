@@ -22,6 +22,10 @@ https://github.com/erdongchanyo/Rules/tree/main/Quantumult%20X/LazyConf
 
 https://github.com/zxfccmm4/Surge/blob/main/Steve_SmartGroup.conf
 
+Quantumult X 特有的 filter_remote ；filter_local 规则先后顺序问题和分流匹配优化问题
+
+https://divineengine.net/article/policy-and-filter-of-quantumult-x/
+
 Clash for Windows 
 
 https://github.com/Dreamacro/clash/wiki/configuration
