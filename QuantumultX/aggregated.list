@@ -1,0 +1,112 @@
+# aggregated Apple Music Disney+ Netflix Spotify YouTube into one 
+# 可取消配置文件 filter remove 各自 rules 前的注释实现分开使用 force policy 
+
+# > Apple Music
+USER-AGENT,Music*,Apple Music
+HOST-SUFFIX,applemusic.com,Apple Music
+
+HOST-SUFFIX,music.apple.com,Apple Music
+HOST,aod.itunes.apple.com,Apple Music
+HOST,aod-ssl.itunes.apple.com,Apple Music
+HOST,audio.itunes.apple.com,Apple Music
+HOST,audio-ssl.itunes.apple.com,Apple Music
+HOST,mvod.itunes.apple.com,Apple Music
+HOST,streamingaudio.itunes.apple.com,Apple Music
+# > iCloud Music Library
+HOST-SUFFIX,blobstore.apple.com,Apple Music
+
+# > Disney Plus
+USER-AGENT,Disney*,Disney+
+HOST-SUFFIX,adobedtm.com,Disney+
+HOST-SUFFIX,bam.nr-date.net,Disney+
+HOST-SUFFIX,bamgrid.com,Disney+
+HOST-SUFFIX,braze.com,Disney+
+HOST-SUFFIX,cdn.optimizely.com,Disney+
+HOST-SUFFIX,d9.flashtalking.com,Disney+
+HOST-SUFFIX,disney.demdex.net,Disney+
+HOST-SUFFIX,disney.my.sentry.io,Disney+
+HOST-SUFFIX,disneyplus.bn5x.net,Disney+
+HOST-SUFFIX,disneyplus.com,Disney+
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,Disney+
+HOST-SUFFIX,disney-plus.net,Disney+
+HOST-SUFFIX,disney-portal.my.onetrust.com,Disney+
+HOST-SUFFIX,dssott.com,Disney+
+HOST-SUFFIX,registerdisney.go.com,Disney+
+
+# > Netflix
+HOST-WILDCARD,netflixdnstest*.com,Netflix
+HOST-SUFFIX,flxvpn.net,Netflix
+HOST-SUFFIX,netflix.ca,Netflix
+HOST-SUFFIX,netflix.com,Netflix
+HOST-SUFFIX,netflix.com.au,Netflix
+HOST-SUFFIX,netflixinvestor.com,Netflix
+HOST-SUFFIX,netflix.net,Netflix
+HOST-SUFFIX,netflixstudios.com,Netflix
+HOST-SUFFIX,netflixtechblog.com,Netflix
+HOST-SUFFIX,nflxext.com,Netflix
+HOST-SUFFIX,nflximg.com,Netflix
+HOST-SUFFIX,nflximg.net,Netflix
+HOST-SUFFIX,nflxso.net,Netflix
+HOST-SUFFIX,nflxvideo.net,Netflix
+HOST,e13252.dscg.akamaiedge.net,Netflix
+HOST,h-netflix.online-metrix.net,Netflix
+HOST,netflix.com.edgesuite.net,Netflix
+
+HOST-SUFFIX,onetrust.com,Netflix
+HOST-SUFFIX,cookielaw.org,Netflix
+
+# > Spotify
+USER-AGENT,Spotify*,Spotify
+HOST-SUFFIX,pscdn.co,Spotify
+HOST-SUFFIX,scdn.co,Spotify
+HOST-SUFFIX,spoti.fi,Spotify
+HOST-SUFFIX,spotify.com,Spotify
+HOST-SUFFIX,spotifycdn.com,Spotify
+HOST-SUFFIX,spotifycdn.net,Spotify
+HOST-SUFFIX,spotifycharts.com,Spotify
+HOST-SUFFIX,spotifycodes.com,Spotify
+HOST-SUFFIX,spotifyjobs.com,Spotify
+HOST-SUFFIX,spotifynewsroom.jp,Spotify
+HOST-SUFFIX,spotilocal.com,Spotify
+HOST-SUFFIX,tospotify.com,Spotify
+
+# > Sonos control 增加了局域网 SONOS 音箱的控制
+HOST-SUFFIX,sonostime.pool.ntp.org,DIRECT
+HOST,braze-images.com,Spotify
+HOST,sonos-music.apple.com,Spotify
+HOST,sali.sonos.radio,Spotify
+HOST,oauth.ws.sonos.com,Spotify
+HOST,dcapps.ws.sonos.com,Spotify
+HOST,voiceconfig.ws.sonos.com,Spotify
+HOST-SUFFIX,ws.sonos.com,Spotify
+HOST,update-services.sonos.com,Spotify
+HOST,update-firmware.sonos.com,Spotify
+HOST-SUFFIX,sonos.com,Spotify
+HOST-SUFFIX,urbanairship.com,DIRECT
+HOST,o167642.ingest.sentry.io,REJECT
+
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*,Spotify
+USER-AGENT,*com.google.ios.youtubemusic*,Spotify
+
+# > YouTube 
+USER-AGENT,*youtube*,YouTube
+USER-AGENT,YouTube*,YouTube
+HOST-WILDCARD,youtube.*,YouTube
+HOST-WILDCARD,youtube.*.*,YouTube
+HOST-WILDCARD,youtube.com.*,YouTube
+HOST-SUFFIX,googlevideo.com,YouTube
+HOST-SUFFIX,gvt1.com,YouTube
+HOST-SUFFIX,video.google.com,YouTube
+HOST-SUFFIX,youtu.be,YouTube
+HOST-SUFFIX,youtube.com,YouTube
+HOST-SUFFIX,youtube.googleapis.com,YouTube
+HOST-SUFFIX,youtubeeducation.com,YouTube
+HOST-SUFFIX,youtubeembeddedplayer.googleapis.com,YouTube
+HOST-SUFFIX,youtubei.googleapis.com,YouTube
+HOST-SUFFIX,youtubekids.com,YouTube
+HOST-SUFFIX,youtube-nocookie.com,YouTube
+HOST-SUFFIX,youtube-ui.l.google.com,YouTube
+HOST-SUFFIX,yt.be,YouTube
+HOST-SUFFIX,yt3.ggpht.com,YouTube
+HOST-SUFFIX,ytimg.com,YouTube
