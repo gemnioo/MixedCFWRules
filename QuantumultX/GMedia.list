@@ -217,11 +217,6 @@ HOST,cs428.wpc.edgecastcdn.net,GMedia
 HOST,cws-hulu.conviva.com,GMedia
 HOST,hulu.com.c.footprint.net,GMedia
 HOST,hulu.map.fastly.net,GMedia
-IP-CIDR,8.28.124.0/23,GMedia
-IP-CIDR,199.60.116.0/24,GMedia
-IP-CIDR,199.200.48.0/22,GMedia
-IP-CIDR,208.91.156.0/22,GMedia
-IP6-CIDR,2620:100:3000::/40,GMedia
 
 # > Japonx
 HOST-KEYWORD,japonx,GMedia
@@ -283,28 +278,7 @@ HOST-SUFFIX,tvb.com,GMedia
 ;HOST,e13252.dscg.akamaiedge.net,GMedia
 ;HOST,h-netflix.online-metrix.net,GMedia
 ;HOST,netflix.com.edgesuite.net,GMedia
-;IP-CIDR,23.246.0.0/18,GMedia
-;IP-CIDR,34.210.42.111/32,GMedia
-;IP-CIDR,37.77.184.0/21,GMedia
-;IP-CIDR,38.72.126.0/24,GMedia
-;IP-CIDR,45.57.0.0/17,GMedia
-;IP-CIDR,52.89.124.203/32,GMedia
-;IP-CIDR,54.148.37.5/32,GMedia
-;IP-CIDR,64.120.128.0/17,GMedia
-;IP-CIDR,66.197.128.0/17,GMedia
-;IP-CIDR,69.53.224.0/19,GMedia
-;IP-CIDR,103.87.204.0/22,GMedia
-;IP-CIDR,108.175.32.0/20,GMedia
-;IP-CIDR,185.2.220.0/22,GMedia
-;IP-CIDR,185.9.188.0/22,GMedia
-;IP-CIDR,192.173.64.0/18,GMedia
-;IP-CIDR,198.38.96.0/19,GMedia
-;IP-CIDR,198.45.48.0/20,GMedia
-;IP-CIDR,208.75.76.0/22,GMedia
-;IP6-CIDR,2607:fb10::/32,GMedia
-;IP6-CIDR,2620:10c:7000::/44,GMedia
-;IP6-CIDR,2a00:86c0::/32,GMedia
-;IP6-CIDR,2a03:5640::/32,GMedia
+
 
 # > Niconico
 HOST-SUFFIX,dmc.nico,GMedia
