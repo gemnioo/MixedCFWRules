@@ -15,6 +15,7 @@ HOST-SUFFIX,tospotify.com,Spotify
 
 #Sonos control 增加了局域网 SONOS 音箱的控制
 HOST-SUFFIX,sonostime.pool.ntp.org,DIRECT
+HOST,braze-images.com,Spotify
 HOST,sonos-music.apple.com,Spotify
 HOST,sali.sonos.radio,Spotify
 HOST,oauth.ws.sonos.com,Spotify
