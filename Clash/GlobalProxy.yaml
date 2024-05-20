@@ -40,6 +40,7 @@ payload:
   - DOMAIN,blog.farmostwood.net
   - DOMAIN,www.iyouport.org
   - DOMAIN,nei.st
+  - DOMAIN,limboy.me
 
 # > Podcast and Reading Media
   - DOMAIN,pdst.fm
