@@ -62,6 +62,7 @@ HOST,interactive.guim.co.uk,Outside
 HOST,www.theguardian.com,Outside
 HOST-SUFFIX,theguardian.com,Outside
 HOST-SUFFIX,guardianapis.com,Outside
+HOST,cdn.confiant-integrations.net,Outside
 
 HOST-SUFFIX,guim.co.uk,Outside
 HOST,nyer.cm,Outside
