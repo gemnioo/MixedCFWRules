@@ -56,7 +56,13 @@ HOST,traffic.megaphone.fm,Outside
 
 HOST,www.zerohedge.com,Outside
 HOST,assets.zerohedge.com,Outside
+HOST,j.ophan.co.uk,Outside
+HOST,api.nextgen.guardianapps.co.uk,Outside
+HOST,interactive.guim.co.uk,Outside
 HOST,www.theguardian.com,Outside
+HOST-SUFFIX,theguardian.com,Outside
+HOST-SUFFIX,guardianapis.com,Outside
+
 HOST-SUFFIX,guim.co.uk,Outside
 HOST,nyer.cm,Outside
 HOST,www.newyorker.com,Outside
@@ -73,7 +79,7 @@ HOST,bloom.bg,Outside
 HOST,nyti.ms,Outside
 HOST,buff.ly,Outside
 HOST,shared-data.dowjones.io,Outside
-HOST,shdsvc.dowjones.io,Outside
+HOST,segment-data.zqtk.net,Outside
 HOST,cdn-pci.optimizely.com,Outside
 HOST-SUFFIX,i-scmp.com,Outside
 HOST-SUFFIX,scmp.com,Outside
