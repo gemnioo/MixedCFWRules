@@ -5,6 +5,9 @@
 # add by me 
 HOST,support.theguardian.com,AdBlock
 HOST,static.theguardian.com,AdBlock
+HOST,cdn.brandmetrics.com,AdBlock
+HOST,collector.brandmetrics.com,AdBlock
+HOST-SUFFIX,brandmetrics.com,AdBlock
 
 # UnionPay aka Yunshanfu cup.cn ads test
 HOST,ads.cup.com.cn,AdBlock
