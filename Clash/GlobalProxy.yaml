@@ -57,7 +57,12 @@ payload:
 
   - DOMAIN,www.zerohedge.com
   - DOMAIN,assets.zerohedge.com
+  - DOMAIN,j.ophan.co.uk:443
+  - DOMAIN,api.nextgen.guardianapps.co.uk
+  - DOMAIN,interactive.guim.co.uk
   - DOMAIN,www.theguardian.com
+  - DOMAIN-SUFFIX,theguardian.com
+  - DOMAIN-SUFFIX,guardianapis.com
   - DOMAIN-SUFFIX,guim.co.uk
   - DOMAIN,nyer.cm
   - DOMAIN,www.newyorker.com 
@@ -75,6 +80,7 @@ payload:
   - DOMAIN,buff.ly
   - DOMAIN,shared-data.dowjones.io
   - DOMAIN,shdsvc.dowjones.io
+  - DOMAIN,segment-data.zqtk.net
   - DOMAIN,cdn-pci.optimizely.com
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
