@@ -63,6 +63,7 @@ payload:
   - DOMAIN,www.theguardian.com
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,guardianapis.com
+  - DOMAIN,cdn.confiant-integrations.net
   - DOMAIN-SUFFIX,guim.co.uk
   - DOMAIN,nyer.cm
   - DOMAIN,www.newyorker.com 
