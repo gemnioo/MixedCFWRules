@@ -5,6 +5,7 @@ payload:
 
   # add by me 
   - DOMAIN,support.theguardian.com
+  - DOMAIN,static.theguardian.com
 
   # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
