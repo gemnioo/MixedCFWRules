@@ -57,7 +57,7 @@ payload:
 
   - DOMAIN,www.zerohedge.com
   - DOMAIN,assets.zerohedge.com
-  - DOMAIN,j.ophan.co.uk:443
+  - DOMAIN,j.ophan.co.uk
   - DOMAIN,api.nextgen.guardianapps.co.uk
   - DOMAIN,interactive.guim.co.uk
   - DOMAIN,www.theguardian.com
