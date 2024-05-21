@@ -1,7 +1,11 @@
 # Internet Service Providers Hijacking
 # Source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
 # Update with Janlay's public ruleset blocked-domains-clash.txt 
-  
+
+# add by me 
+HOST,support.theguardian.com,AdBlock
+HOST,static.theguardian.com,AdBlock
+
 # UnionPay aka Yunshanfu cup.cn ads test
 HOST,ads.cup.com.cn,AdBlock
 HOST,analytics.95516.com,AdBlock
