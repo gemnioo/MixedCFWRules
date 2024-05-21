@@ -2,7 +2,10 @@ payload:
   # Internet Service Providers Hijacking
   # Source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
   # Update with Janlay's public ruleset blocked-domains-clash.txt 
-  
+
+  # add by me 
+  - DOMAIN,support.theguardian.com
+
   # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,analytics.95516.com
