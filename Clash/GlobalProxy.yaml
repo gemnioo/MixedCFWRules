@@ -24,6 +24,12 @@ payload:
   - DOMAIN,aqicn.org
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
+  
+  - DOMAIN,cdn.opecloud.com
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdn.privacy-mgmt.com
+  - DOMAIN,cacerts.digicert.com
+  - DOMAIN,cdn.concert.io
 
   # > RSS 
   - DOMAIN,reederapp.com
@@ -86,13 +92,7 @@ payload:
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
   - DOMAIN,sc.mp
-  
-  - DOMAIN,cdn.opecloud.com
-  - DOMAIN,cdn.jsdelivr.net
-  - DOMAIN,cdn.privacy-mgmt.com
-  - DOMAIN,cacerts.digicert.com
-  - DOMAIN,cdn.concert.io
-  
+
   - DOMAIN,apps.voxmedia.com
   - DOMAIN-SUFFIX,coralproject.net
   - DOMAIN,audio.buzzsprout.com
