@@ -24,6 +24,9 @@ HOST,qqwry.api.skk.moe,Speedtest
 HOST,api-ipv4.ip.sb,Speedtest
 HOST,ftp.jaist.ac.jp,Speedtest
 
+# block wsj video auto play
+HOST,video-api.shdsvc.dowjones.io,Speedtest
+
 # Linsys LAN 
 HOST-SUFFIX,pool.ntp.org,DIRECT  
 HOST,connect.linksys.com,DIRECT
