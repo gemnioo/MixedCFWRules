@@ -58,12 +58,13 @@ payload:
   - DOMAIN,www.zerohedge.com
   - DOMAIN,assets.zerohedge.com
   - DOMAIN,j.ophan.co.uk
-  - DOMAIN,api.nextgen.guardianapps.co.uk
+  - DOMAIN,phar.gu-web.net
+
   - DOMAIN,interactive.guim.co.uk
-  - DOMAIN,www.theguardian.com
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,guardianapis.com
   - DOMAIN,cdn.confiant-integrations.net
+  - DOMAIN,api.nextgen.guardianapps.co.uk
   - DOMAIN-SUFFIX,guim.co.uk
   - DOMAIN,nyer.cm
   - DOMAIN,www.newyorker.com 
@@ -111,6 +112,10 @@ payload:
   - DOMAIN,api.cxense.com
   - DOMAIN,cdn.cxense.com
   - DOMAIN,meidasnews.com
+  - DOMAIN,jacobin.com
+  - DOMAIN-SUFFIX,abcnews.com
+  - DOMAIN,econ.trib.al
+  - DOMAIN,econ.st
 
   # > PayPal
   - DOMAIN-KEYWORD,paypal
