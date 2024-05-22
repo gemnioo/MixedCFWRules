@@ -38,8 +38,6 @@ payload:
 
   # Safari IAP jump
   - DOMAIN,app-site-association.cdn-apple.com
-  # WSJ jump 
-  - DOMAIN,dowjones.sc.omtrdc.net
   
   # Janlay
   - DOMAIN,ads.mopub.com
