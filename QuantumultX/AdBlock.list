@@ -34,8 +34,10 @@ HOST-KEYWORD,cn3s4e6zgxjlbz,AdBlock
 HOST,prpr.96110.cn.com,AdBlock
 HOST-SUFFIX,gjfzpt.cn,AdBlock
 
-# Safari IAP
+# Safari IAP jump
 HOST,app-site-association.cdn-apple.com,AdBlock
+# WSJ jump
+HOST,dowjones.sc.omtrdc.net,AdBlock
 
 # Janlay's public ruleset blocked-domains-clash.txt 
 HOST,ads.mopub.com,AdBlock
