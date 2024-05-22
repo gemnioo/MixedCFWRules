@@ -15,6 +15,7 @@ HOST-SUFFIX,optoutadvertising.com,AdBlock
 
 # Dow Jones cookies collector
 HOST,collector.archimedes.dowjones.io,AdBlock
+HOST,oms.dowjoneson.com,AdBlock
 HOST,remote-data.urbanairship.com,AdBlock
 HOST,p1.parsely.com,AdBlock
 HOST,api.permutive.app,AdBlock
