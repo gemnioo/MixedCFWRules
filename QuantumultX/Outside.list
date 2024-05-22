@@ -24,6 +24,12 @@ HOST,aqicn.org,Outside
 HOST,api.waqi.info,Outside
 HOST,aqi.aqicn.org,Outside
 
+HOST,cdn.opecloud.com,Outside
+HOST,cdn.jsdelivr.net,Outside
+HOST,cdn.privacy-mgmt.com,Outside
+HOST,cacerts.digicert.com,Outside
+HOST,cdn.concert.io,Outside
+
 # > RSS
 HOST,reederapp.com,Outside
 HOST,clip.owenyoung.com,Outside
@@ -45,7 +51,7 @@ HOST,limboy.me,Outside
 HOST,pdst.fm,Outside
 HOST,pscrb.fm,Outside
 HOST,chrt.fm,Outside
-HOST,www.acquired.fm,Outside
+HOST-SUFFIX,acquired.fm,Outside
 HOST,audio.transistor.fm,Outside
 HOST,media.transistor.fm,Outside
 HOST,feeds.fireside.fm,Outside
@@ -54,10 +60,9 @@ HOST,dcs.megaphone.fm,Outside
 HOST,feeds.megaphone.fm,Outside
 HOST,traffic.megaphone.fm,Outside
 
-HOST,www.zerohedge.com,Outside
+HOST-SUFFIX,zerohedge.com,Outside
 HOST,assets.zerohedge.com,Outside
 HOST,j.ophan.co.uk,Outside
-
 HOST,interactive.guim.co.uk,Outside
 HOST-SUFFIX,theguardian.com,Outside
 HOST-SUFFIX,guardianapis.com,Outside
@@ -66,10 +71,10 @@ HOST,api.nextgen.guardianapps.co.uk,Outside
 
 HOST-SUFFIX,guim.co.uk,Outside
 HOST,nyer.cm,Outside
-HOST,www.newyorker.com,Outside
-HOST,foreignpolicy.com,Outside
-HOST,thehill.com,Outside
-HOST,www.thestreet.com,Outside
+HOST-SUFFIX,newyorker.com,Outside
+HOST-SUFFIX,foreignpolicy.com,Outside
+HOST-SUFFIX,thehill.com,Outside
+HOST-SUFFIX,thestreet.com,Outside
 HOST-SUFFIX,ocsp.sectigo.com,Outside
 HOST-SUFFIX,caixinglobal.com,Outside
 HOST-SUFFIX,apnews.com,Outside
@@ -86,11 +91,7 @@ HOST,cdn-pci.optimizely.com,Outside
 HOST-SUFFIX,i-scmp.com,Outside
 HOST-SUFFIX,scmp.com,Outside
 HOST,sc.mp,Outside
-HOST,cdn.opecloud.com,Outside
-HOST,cdn.jsdelivr.net,Outside
-HOST,cdn.privacy-mgmt.com,Outside
-HOST,cacerts.digicert.com,Outside
-HOST,cdn.concert.io,Outside
+
 HOST,apps.voxmedia.com,Outside
 HOST,pdst.fm,Outside
 HOST,traffic.megaphone.fm,Outside
@@ -100,7 +101,7 @@ HOST,audio.buzzsprout.com,Outside
 HOST,www.buzzsprout.com,Outside
 HOST,www.livemint.com,Outside
 HOST,pd.cdnwidget.com,Outside
-HOST-SUFFIX,www.voanews.com,Outside
+HOST-SUFFIX,voanews.com,Outside
 HOST-SUFFIX,washingtonpost.com,Outside
 HOST,wapo.st,Outside
 HOST-SUFFIX,rfa.org,Outside
