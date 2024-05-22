@@ -86,7 +86,7 @@ payload:
   - DOMAIN,nyti.ms
   - DOMAIN,buff.ly
   - DOMAIN,shared-data.dowjones.io
-  - DOMAIN,shdsvc.dowjones.io
+  - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,segment-data.zqtk.net
   - DOMAIN,cdn-pci.optimizely.com
   - DOMAIN-SUFFIX,i-scmp.com
