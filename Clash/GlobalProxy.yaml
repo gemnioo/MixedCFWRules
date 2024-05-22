@@ -49,6 +49,7 @@ payload:
   - DOMAIN,limboy.me
 
 # > Podcast and Reading Media
+  - DOMAIN,link.chtbl.com
   - DOMAIN,pdst.fm
   - DOMAIN,pscrb.fm
   - DOMAIN,chrt.fm
