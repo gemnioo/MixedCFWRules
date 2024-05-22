@@ -35,8 +35,10 @@ payload:
   - DOMAIN,prpr.96110.cn.com
   - DOMAIN-SUFFIX,gjfzpt.cn
 
-  # Safari IAP
+  # Safari IAP jump
   - DOMAIN,app-site-association.cdn-apple.com
+  # WSJ jump 
+  - DOMAIN,dowjones.sc.omtrdc.net
   
   # Janlay
   - DOMAIN,ads.mopub.com
