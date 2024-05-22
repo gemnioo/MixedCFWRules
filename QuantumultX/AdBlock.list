@@ -4,6 +4,7 @@
 
 # add by me 
 HOST,support.theguardian.com,AdBlock
+HOST,contributions.guardianapis.com,AdBlock
 HOST,static.theguardian.com,AdBlock
 HOST,cdn.brandmetrics.com,AdBlock
 HOST,collector.brandmetrics.com,AdBlock
