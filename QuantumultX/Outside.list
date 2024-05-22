@@ -85,9 +85,13 @@ HOST,bloom.bg,Outside
 HOST,nyti.ms,Outside
 HOST,buff.ly,Outside
 HOST,reut.rs,Outside
-HOST,shared-data.dowjones.io,Outside
+
+HOST,video-api.wsj.com,Outside
+HOST,follow-api.wsj.com,Outside
+HOST,optimizely.wsj.com,Outside
 HOST-SUFFIX,shdsvc.dowjones.io,Outside
 HOST,segment-data.zqtk.net,Outside
+HOST,shared-data.dowjones.io,Outside
 HOST,cdn-pci.optimizely.com,Outside
 HOST-SUFFIX,i-scmp.com,Outside
 HOST-SUFFIX,scmp.com,Outside
@@ -109,6 +113,7 @@ HOST-SUFFIX,rfa.org,Outside
 HOST-SUFFIX,aljazeera.com,Outside
 HOST-SUFFIX,dailymail.co.uk,Outside
 HOST,asia.nikkei.com,Outside
+HOST-SUFFIX,cn.nikkei.com,Outside
 HOST,assets.bwbx.io,Outside
 HOST,www3.nhk.or.jp,Outside
 HOST-SUFFIX,nhk.or.jp,Outside
