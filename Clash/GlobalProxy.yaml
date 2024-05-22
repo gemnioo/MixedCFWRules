@@ -109,6 +109,7 @@ payload:
   - DOMAIN,asia.nikkei.com
   - DOMAIN,assets.bwbx.io
   - DOMAIN,www3.nhk.or.jp
+  - DOMAIN-SUFFIX,nhk.or.jp
   - DOMAIN-SUFFIX,japantimes.co.jp
   - DOMAIN-SUFFIX,asahi.com
   - DOMAIN,api.cxense.com
