@@ -21,6 +21,9 @@ HOST,api.permutive.app,AdBlock
 HOST,cdn.permutive.app,AdBlock
 HOST-SUFFIX,edge.permutive.app,AdBlock
 
+HOST,app-analytics-services.com,AdBlock
+HOST,dowjones.sc.omtrdc.net,AdBlock
+
 # UnionPay aka Yunshanfu cup.cn ads test
 HOST,ads.cup.com.cn,AdBlock
 HOST,analytics.95516.com,AdBlock
