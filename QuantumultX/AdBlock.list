@@ -19,7 +19,7 @@ HOST,remote-data.urbanairship.com,AdBlock
 HOST,p1.parsely.com,AdBlock
 HOST,api.permutive.app,AdBlock
 HOST,cdn.permutive.app,AdBlock
-HOST-SUFFIX,edge.permutive.app
+HOST-SUFFIX,edge.permutive.app,AdBlock
 
 # UnionPay aka Yunshanfu cup.cn ads test
 HOST,ads.cup.com.cn,AdBlock
