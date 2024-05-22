@@ -60,8 +60,8 @@ HOST,dcs.megaphone.fm,Outside
 HOST,feeds.megaphone.fm,Outside
 HOST,traffic.megaphone.fm,Outside
 
-HOST-SUFFIX,zerohedge.com,Outside
 HOST,assets.zerohedge.com,Outside
+HOST-SUFFIX,zerohedge.com,Outside
 HOST,j.ophan.co.uk,Outside
 HOST,interactive.guim.co.uk,Outside
 HOST-SUFFIX,theguardian.com,Outside
