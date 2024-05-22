@@ -22,6 +22,9 @@ payload:
   - DOMAIN,cdn.permutive.app
   - DOMAIN-SUFFIX,edge.permutive.app
 
+  - DOMAIN,app-analytics-services.com
+  - DOMAIN,dowjones.sc.omtrdc.net
+
 
   # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
