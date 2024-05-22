@@ -8,6 +8,9 @@ HOST,static.theguardian.com,AdBlock
 HOST,cdn.brandmetrics.com,AdBlock
 HOST,collector.brandmetrics.com,AdBlock
 HOST-SUFFIX,brandmetrics.com,AdBlock
+HOST,cdn.optoutadvertising.com,AdBlock
+HOST,adserving.optoutadvertising.com,AdBlock
+HOST-SUFFIX,optoutadvertising.com,AdBlock
 
 # UnionPay aka Yunshanfu cup.cn ads test
 HOST,ads.cup.com.cn,AdBlock
