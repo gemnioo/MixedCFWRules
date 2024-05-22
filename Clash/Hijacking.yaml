@@ -16,6 +16,7 @@ payload:
 
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
+  - DOMAIN,oms.dowjoneson.com
   - DOMAIN,remote-data.urbanairship.com
   - DOMAIN,p1.parsely.com
   - DOMAIN,api.permutive.app
