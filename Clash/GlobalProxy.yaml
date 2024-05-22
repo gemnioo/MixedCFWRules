@@ -61,8 +61,8 @@ payload:
   - DOMAIN,feeds.megaphone.fm
   - DOMAIN,traffic.megaphone.fm
 
+  - DOMAIN,assets.zerohedge.com  
   - DOMAIN-SUFFIX,zerohedge.com
-  - DOMAIN,assets.zerohedge.com
   - DOMAIN,j.ophan.co.uk
   - DOMAIN,phar.gu-web.net
   - DOMAIN,interactive.guim.co.uk
