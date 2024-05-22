@@ -14,7 +14,6 @@ HOST-SUFFIX,proactivebackend-pa.googleapis.com,Open AI
 HOST-SUFFIX,makersuite.google.com,Open AI
 HOST-SUFFIX,generativeai.google,Open AI
 
-HOST,content-autofill.googleapis.com,Open AI
 HOST,content-developerprofiles-pa.googleapis.com,Open AI
 
 # OpenAI
