@@ -6,6 +6,9 @@ payload:
   # add by me 
   - DOMAIN,support.theguardian.com
   - DOMAIN,static.theguardian.com
+  - DOMAIN,cdn.brandmetrics.com
+  - DOMAIN,collector.brandmetrics.com
+  - DOMAIN-SUFFIX,brandmetrics.com
   - DOMAIN,cdn.optoutadvertising.com
   - DOMAIN,adserving.optoutadvertising.com
   - DOMAIN-SUFFIX,optoutadvertising.com
