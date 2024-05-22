@@ -85,6 +85,7 @@ payload:
   - DOMAIN,bloom.bg
   - DOMAIN,nyti.ms
   - DOMAIN,buff.ly
+  - DOMAIN,reut.rs
   - DOMAIN,shared-data.dowjones.io
   - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,segment-data.zqtk.net
