@@ -85,7 +85,7 @@ HOST,bloom.bg,Outside
 HOST,nyti.ms,Outside
 HOST,buff.ly,Outside
 HOST,shared-data.dowjones.io,Outside
-HOST,shdsvc.dowjones.io,Outside
+HOST-SUFFIX,shdsvc.dowjones.io,Outside
 HOST,segment-data.zqtk.net,Outside
 HOST,cdn-pci.optimizely.com,Outside
 HOST-SUFFIX,i-scmp.com,Outside
