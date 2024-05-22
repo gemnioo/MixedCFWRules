@@ -86,9 +86,13 @@ payload:
   - DOMAIN,nyti.ms
   - DOMAIN,buff.ly
   - DOMAIN,reut.rs
+  
+  - DOMAIN,optimizely.wsj.com
+  - DOMAIN,video-api.wsj.com
+  - DOMAIN,follow-api.wsj.com
   - DOMAIN,shared-data.dowjones.io
-  - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,segment-data.zqtk.net
+  - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,cdn-pci.optimizely.com
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
@@ -107,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,aljazeera.com
   - DOMAIN-SUFFIX,dailymail.co.uk
   - DOMAIN,asia.nikkei.com
+  - DOMAIN-SUFFIX,cn.nikkei.com
   - DOMAIN,assets.bwbx.io
   - DOMAIN,www3.nhk.or.jp
   - DOMAIN-SUFFIX,nhk.or.jp
