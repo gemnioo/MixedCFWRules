@@ -5,6 +5,7 @@ payload:
 
   # add by me 
   - DOMAIN,support.theguardian.com
+  - DOMAIN,contributions.guardianapis.com
   - DOMAIN,static.theguardian.com
   - DOMAIN,cdn.brandmetrics.com
   - DOMAIN,collector.brandmetrics.com
