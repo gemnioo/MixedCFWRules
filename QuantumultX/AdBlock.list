@@ -13,6 +13,14 @@ HOST,cdn.optoutadvertising.com,AdBlock
 HOST,adserving.optoutadvertising.com,AdBlock
 HOST-SUFFIX,optoutadvertising.com,AdBlock
 
+# Dow Jones cookies collector
+HOST,collector.archimedes.dowjones.io,AdBlock
+HOST,remote-data.urbanairship.com,AdBlock
+HOST,p1.parsely.com,AdBlock
+HOST,api.permutive.app,AdBlock
+HOST,cdn.permutive.app,AdBlock
+HOST-SUFFIX,edge.permutive.app
+
 # UnionPay aka Yunshanfu cup.cn ads test
 HOST,ads.cup.com.cn,AdBlock
 HOST,analytics.95516.com,AdBlock
