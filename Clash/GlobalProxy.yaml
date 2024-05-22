@@ -46,7 +46,7 @@ payload:
   - DOMAIN,pdst.fm
   - DOMAIN,pscrb.fm
   - DOMAIN,chrt.fm
-  - DOMAIN,www.acquired.fm
+  - DOMAIN-SUFFIX,acquired.fm
   - DOMAIN,audio.transistor.fm
   - DOMAIN,media.transistor.fm
   - DOMAIN,feeds.fireside.fm
@@ -55,11 +55,10 @@ payload:
   - DOMAIN,feeds.megaphone.fm
   - DOMAIN,traffic.megaphone.fm
 
-  - DOMAIN,www.zerohedge.com
+  - DOMAIN-SUFFIX,zerohedge.com
   - DOMAIN,assets.zerohedge.com
   - DOMAIN,j.ophan.co.uk
   - DOMAIN,phar.gu-web.net
-
   - DOMAIN,interactive.guim.co.uk
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,guardianapis.com
@@ -67,10 +66,10 @@ payload:
   - DOMAIN,api.nextgen.guardianapps.co.uk
   - DOMAIN-SUFFIX,guim.co.uk
   - DOMAIN,nyer.cm
-  - DOMAIN,www.newyorker.com 
-  - DOMAIN,foreignpolicy.com
-  - DOMAIN,thehill.com
-  - DOMAIN,www.thestreet.com
+  - DOMAIN-SUFFIX,newyorker.com 
+  - DOMAIN-SUFFIX,foreignpolicy.com
+  - DOMAIN-SUFFIX,thehill.com
+  - DOMAIN-SUFFIX,thestreet.com
   - DOMAIN-SUFFIX,ocsp.sectigo.com
   - DOMAIN-SUFFIX,caixinglobal.com
   - DOMAIN-SUFFIX,apnews.com
@@ -87,35 +86,37 @@ payload:
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
   - DOMAIN,sc.mp
+  
   - DOMAIN,cdn.opecloud.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.privacy-mgmt.com
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,cdn.concert.io
+  
   - DOMAIN,apps.voxmedia.com
   - DOMAIN-SUFFIX,coralproject.net
   - DOMAIN,audio.buzzsprout.com
   - DOMAIN,www.buzzsprout.com
   - DOMAIN,www.livemint.com
   - DOMAIN,pd.cdnwidget.com
-  - DOMAIN,www.voanews.com
-  - DOMAIN,www.washingtonpost.com
+  - DOMAIN-SUFFIX,voanews.com
+  - DOMAIN-SUFFIX,washingtonpost.com
   - DOMAIN,wapo.st
-  - DOMAIN,www.rfa.org
-  - DOMAIN,www.aljazeera.com
-  - DOMAIN,www.dailymail.co.uk
+  - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-SUFFIX,aljazeera.com
+  - DOMAIN-SUFFIX,dailymail.co.uk
   - DOMAIN,asia.nikkei.com
   - DOMAIN,assets.bwbx.io
   - DOMAIN,www3.nhk.or.jp
-  - DOMAIN,www.japantimes.co.jp
-  - DOMAIN,www.asahi.com
+  - DOMAIN-SUFFIX,japantimes.co.jp
+  - DOMAIN-SUFFIX,asahi.com
   - DOMAIN,api.cxense.com
   - DOMAIN,cdn.cxense.com
   - DOMAIN,meidasnews.com
-  - DOMAIN,jacobin.com
-  - DOMAIN-SUFFIX,abcnews.com
+  - DOMAIN-SUFFIX,jacobin.com
   - DOMAIN,econ.trib.al
   - DOMAIN,econ.st
+  - DOMAIN-SUFFIX,abcnews.com
 
   # > PayPal
   - DOMAIN-KEYWORD,paypal
