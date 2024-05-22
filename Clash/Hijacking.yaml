@@ -6,6 +6,9 @@ payload:
   # add by me 
   - DOMAIN,support.theguardian.com
   - DOMAIN,static.theguardian.com
+  - DOMAIN,cdn.optoutadvertising.com
+  - DOMAIN,adserving.optoutadvertising.com
+  - DOMAIN-SUFFIX,optoutadvertising.com
 
   # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
