@@ -14,8 +14,7 @@ payload:
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,generativeai.google
-
-  - DOMAIN,content-autofill.googleapis.com
+  
   - DOMAIN,content-developerprofiles-pa.googleapis.com
 
   # OpenAI
