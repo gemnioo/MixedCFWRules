@@ -57,12 +57,12 @@ HOST,traffic.megaphone.fm,Outside
 HOST,www.zerohedge.com,Outside
 HOST,assets.zerohedge.com,Outside
 HOST,j.ophan.co.uk,Outside
-HOST,api.nextgen.guardianapps.co.uk,Outside
+
 HOST,interactive.guim.co.uk,Outside
-HOST,www.theguardian.com,Outside
 HOST-SUFFIX,theguardian.com,Outside
 HOST-SUFFIX,guardianapis.com,Outside
 HOST,cdn.confiant-integrations.net,Outside
+HOST,api.nextgen.guardianapps.co.uk,Outside
 
 HOST-SUFFIX,guim.co.uk,Outside
 HOST,nyer.cm,Outside
@@ -100,20 +100,24 @@ HOST,audio.buzzsprout.com,Outside
 HOST,www.buzzsprout.com,Outside
 HOST,www.livemint.com,Outside
 HOST,pd.cdnwidget.com,Outside
-HOST,www.voanews.com,Outside
-HOST,www.washingtonpost.com,Outside
+HOST-SUFFIX,www.voanews.com,Outside
+HOST-SUFFIX,washingtonpost.com,Outside
 HOST,wapo.st,Outside
-HOST,www.rfa.org,Outside
-HOST,www.aljazeera.com,Outside
-HOST,www.dailymail.co.uk,Outside
+HOST-SUFFIX,rfa.org,Outside
+HOST-SUFFIX,aljazeera.com,Outside
+HOST-SUFFIX,dailymail.co.uk,Outside
 HOST,asia.nikkei.com,Outside
 HOST,assets.bwbx.io,Outside
 HOST,www3.nhk.or.jp,Outside
-HOST,www.japantimes.co.jp,Outside
+HOST-SUFFIX,japantimes.co.jp,Outside
 HOST,api.cxense.com,Outside
-HOST,www.asahi.com,Outside
+HOST-SUFFIX,asahi.com,Outside
 HOST,cdn.cxense.com,Outside
 HOST,meidasnews.com,Outside
+HOST-SUFFIX,jacobin.com,Outside
+HOST,econ.trib.al,Outside
+HOST,econ.st,Outside
+HOST-SUFFIX,abcnews.com,Outside
 
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
