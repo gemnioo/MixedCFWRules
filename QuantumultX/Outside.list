@@ -111,7 +111,7 @@ HOST-SUFFIX,dailymail.co.uk,Outside
 HOST,asia.nikkei.com,Outside
 HOST,assets.bwbx.io,Outside
 HOST,www3.nhk.or.jp,Outside
-HOST-SUFFIX,nhk.or.jp
+HOST-SUFFIX,nhk.or.jp,Outside
 HOST-SUFFIX,japantimes.co.jp,Outside
 HOST,api.cxense.com,Outside
 HOST-SUFFIX,asahi.com,Outside
