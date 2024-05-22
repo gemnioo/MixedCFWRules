@@ -14,6 +14,15 @@ payload:
   - DOMAIN,adserving.optoutadvertising.com
   - DOMAIN-SUFFIX,optoutadvertising.com
 
+  # Dow Jones cookies collector
+  - DOMAIN,collector.archimedes.dowjones.io
+  - DOMAIN,remote-data.urbanairship.com
+  - DOMAIN,p1.parsely.com
+  - DOMAIN,api.permutive.app
+  - DOMAIN,cdn.permutive.app
+  - DOMAIN-SUFFIX,edge.permutive.app
+
+
   # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,analytics.95516.com
