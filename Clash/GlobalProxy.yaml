@@ -124,6 +124,7 @@ payload:
   - DOMAIN-SUFFIX,jacobin.com
   - DOMAIN,econ.trib.al
   - DOMAIN,econ.st
+  - DOMAIN-SUFFIX,fivethirtyeight.com
   - DOMAIN-SUFFIX,abcnews.com
   - DOMAIN-SUFFIX,icij.org
 
