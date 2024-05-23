@@ -126,6 +126,7 @@ payload:
   - DOMAIN,econ.st
   - DOMAIN-SUFFIX,fivethirtyeight.com
   - DOMAIN-SUFFIX,abcnews.com
+  - DOMAIN-SUFFIX,nypost.com
   - DOMAIN-SUFFIX,icij.org
 
   # > PayPal
