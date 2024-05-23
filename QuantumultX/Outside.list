@@ -128,6 +128,7 @@ HOST,econ.trib.al,Outside
 HOST,econ.st,Outside
 HOST-SUFFIX,fivethirtyeight.com,Outside
 HOST-SUFFIX,abcnews.com,Outside
+HOST-SUFFIX,nypost.com,Outside
 HOST-SUFFIX,icij.org,Outside
 
 # > Blizzard
