@@ -94,6 +94,7 @@ HOST-SUFFIX,shdsvc.dowjones.io,Outside
 HOST,segment-data.zqtk.net,Outside
 HOST,shared-data.dowjones.io,Outside
 HOST,cdn-pci.optimizely.com,Outside
+HOST,images.wsjcommerce.net,Outside
 HOST-SUFFIX,i-scmp.com,Outside
 HOST-SUFFIX,scmp.com,Outside
 HOST,sc.mp,Outside
