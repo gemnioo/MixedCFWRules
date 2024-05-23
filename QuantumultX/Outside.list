@@ -127,6 +127,7 @@ HOST-SUFFIX,jacobin.com,Outside
 HOST,econ.trib.al,Outside
 HOST,econ.st,Outside
 HOST-SUFFIX,abcnews.com,Outside
+HOST-SUFFIX,icij.org,Outside
 
 # > Blizzard
 USER-AGENT,hearthstone*,Outside
