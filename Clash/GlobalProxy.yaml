@@ -125,6 +125,7 @@ payload:
   - DOMAIN,econ.trib.al
   - DOMAIN,econ.st
   - DOMAIN-SUFFIX,abcnews.com
+  - DOMAIN-SUFFIX,icij.org
 
   # > PayPal
   - DOMAIN-KEYWORD,paypal
