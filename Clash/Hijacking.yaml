@@ -7,7 +7,7 @@ payload:
   - DOMAIN,support.theguardian.com
   - DOMAIN,contributions.guardianapis.com
   - DOMAIN,static.theguardian.com
-  - DOMAIN,cdn.brandmetrics.com
+  - DOMAIN,cdn.brandmetrics.com  
   - DOMAIN,collector.brandmetrics.com
   - DOMAIN-SUFFIX,brandmetrics.com
   - DOMAIN,cdn.optoutadvertising.com
@@ -15,9 +15,9 @@ payload:
   - DOMAIN-SUFFIX,optoutadvertising.com
 
   - DOMAIN,datum.jsdelivr.com
-  - DOMAIN,loader.unblockia.com
-  - DOMAIN,cdn-ext.spiny.ai
-  - DOMAIN,merequartz.com
+  - DOMAIN-SUFFIX,unblockia.com
+  # DOMAIN,cdn-ext.spiny.ai  //need black hole 
+  # DOMAIN,merequartz.com
   - DOMAIN,images.getadmiral.com
   - DOMAIN,get.civicscience.com
 
