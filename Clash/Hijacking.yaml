@@ -13,9 +13,6 @@ payload:
   - DOMAIN,cdn.optoutadvertising.com
   - DOMAIN,adserving.optoutadvertising.com
   - DOMAIN-SUFFIX,optoutadvertising.com
-  
-  # ChatGPT voice mode UDP 3478 request  
-  - DOMAIN-SUFFIX,host.livekit.cloud
 
   - DOMAIN,datum.jsdelivr.com
   - DOMAIN-SUFFIX,unblockia.com
