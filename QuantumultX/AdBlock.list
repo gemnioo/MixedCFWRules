@@ -13,9 +13,6 @@ HOST,cdn.optoutadvertising.com,AdBlock
 HOST,adserving.optoutadvertising.com,AdBlock
 HOST-SUFFIX,optoutadvertising.com,AdBlock
 
-# ChatGPT voice mode UDP 3478 request 
-HOST-SUFFIX,host.livekit.cloud,AdBlock
-
 # Dow Jones cookies collector
 HOST,collector.archimedes.dowjones.io,AdBlock
 HOST,oms.dowjoneson.com,AdBlock
