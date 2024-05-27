@@ -35,7 +35,7 @@ payload:
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,turn.livekit.cloud
-  - DOMAIN-SUFFIX,host.livekit.cloud
+  # DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN,api.statsig.com
   - DOMAIN,browser-intake-datadoghq.com
 
