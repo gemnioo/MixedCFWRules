@@ -5,9 +5,11 @@
 ;host-keyword, ., proxy  //防止 DNS 泄露
 
 # ChatGPT voice mode
+IP-CIDR,132.145.123.240/32,Open AI
 IP-CIDR,138.3.210.144/32,Open AI
 IP-CIDR,140.238.51.65/32,Open AI
 IP-CIDR,168.138.215.123/32,Open AI
+
 
 # tailscale and 
 IP-CIDR,47.97.8.34/32,DIRECT
