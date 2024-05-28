@@ -6,6 +6,8 @@ Scripts
 
 https://github.com/lainbo/gists-hub/tree/master/src
 
+https://github.com/Repcz/Tool/tree/X
+
 Quantumult X  
 
 https://github.com/crossutility/Quantumult-X/blob/master/sample.conf
