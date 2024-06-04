@@ -21,12 +21,7 @@ payload:
   - DOMAIN,images.getadmiral.com
   - DOMAIN,get.civicscience.com
   # ddrk ads
-  - DOMAIN-SUFFIX,pstatp.com
-  - DOMAIN-SUFFIX,58cdn.com.cn
   - DOMAIN,help-ol.bj.bcebos.com
-
-  - DOMAIN-SUFFIX,ctyunxs.cn
-  - DOMAIN-SUFFIX,bytecdntp.com
 
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
