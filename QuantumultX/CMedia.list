@@ -8,12 +8,7 @@ HOST,ddys.mov,CMedia
 HOST,vip1.loli.net,CMedia
 HOST,vip2.loli.net,CMedia
 HOST,vip3.loli.net,CMedia
-HOST-SUFFIX,pstatp.com,CMedia
-HOST-SUFFIX,58cdn.com.cn,CMedia
-HOST-SUFFIX,360buyimg.com,CMedia
-HOST,help-ol.bj.bcebos.com,CMedia
-HOST-SUFFIX,ctyunxs.cn,CMedia
-HOST-SUFFIX,bytecdntp.com,CMedia
+
 
 # > AcFun
 USER-AGENT,AcFun*,CMedia
