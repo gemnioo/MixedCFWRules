@@ -13,6 +13,22 @@ HOST,cdn.optoutadvertising.com,AdBlock
 HOST,adserving.optoutadvertising.com,AdBlock
 HOST-SUFFIX,optoutadvertising.com,AdBlock
 
+
+HOST,datum.jsdelivr.com,AdBlock
+HOST-SUFFIX,unblockia.com,AdBlock
+  # HOST,cdn-ext.spiny.ai  //need black hole 
+  # HOST,merequartz.com,AdBlock
+HOST,images.getadmiral.com,AdBlock
+HOST,get.civicscience.com,AdBlock
+
+#ddrk ads
+HOST-SUFFIX,pstatp.com,AdBlock
+HOST-SUFFIX,58cdn.com.cn,AdBlock
+HOST-SUFFIX,360buyimg.com,AdBlock
+HOST,help-ol.bj.bcebos.com,AdBlock
+HOST-SUFFIX,ctyunxs.cn,AdBlock
+HOST-SUFFIX,bytecdntp.com,AdBlock
+
 # Dow Jones cookies collector
 HOST,collector.archimedes.dowjones.io,AdBlock
 HOST,oms.dowjoneson.com,AdBlock
