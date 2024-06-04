@@ -8,10 +8,7 @@ payload:
   - DOMAIN,vip1.loli.net
   - DOMAIN,vip2.loli.net
   - DOMAIN,vip3.loli.net
-  - DOMAIN-SUFFIX,pstatp.com
-  - DOMAIN-SUFFIX,58cdn.com.cn
-  - DOMAIN-SUFFIX,360buyimg.com
-  - DOMAIN,help-ol.bj.bcebos.com
+
   - DOMAIN-SUFFIX,ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
 
