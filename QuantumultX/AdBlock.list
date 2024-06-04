@@ -22,12 +22,7 @@ HOST,images.getadmiral.com,AdBlock
 HOST,get.civicscience.com,AdBlock
 
 #ddrk ads
-HOST-SUFFIX,pstatp.com,AdBlock
-HOST-SUFFIX,58cdn.com.cn,AdBlock
-HOST-SUFFIX,360buyimg.com,AdBlock
 HOST,help-ol.bj.bcebos.com,AdBlock
-HOST-SUFFIX,ctyunxs.cn,AdBlock
-HOST-SUFFIX,bytecdntp.com,AdBlock
 
 # Dow Jones cookies collector
 HOST,collector.archimedes.dowjones.io,AdBlock
