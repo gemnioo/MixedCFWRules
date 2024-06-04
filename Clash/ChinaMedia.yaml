@@ -9,6 +9,10 @@ payload:
   - DOMAIN,vip2.loli.net
   - DOMAIN,vip3.loli.net
   - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,58cdn.com.cn
+  - DOMAIN-SUFFIX,ctyunxs.cn
+  - DOMAIN-SUFFIX,bytecdntp.com
 
   # Bilibili 哔哩哔哩
   - DOMAIN,apiintl.biliapi.net
