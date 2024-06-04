@@ -20,6 +20,11 @@ payload:
   # DOMAIN,merequartz.com
   - DOMAIN,images.getadmiral.com
   - DOMAIN,get.civicscience.com
+  # ddrk ads
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,58cdn.com.cn
+  - DOMAIN,help-ol.bj.bcebos.com
+  - DOMAIN-SUFFIX,360buyimg.com
 
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
