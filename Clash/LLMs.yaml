@@ -35,9 +35,9 @@ payload:
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,chatgpt.livekit.cloud
  # ChatGPT voice mode TCP 443 request 
-  # DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,turn.livekit.cloud
  # ChatGPT voice mode UDP 3478 request
-  # DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN,api.statsig.com
   - DOMAIN,browser-intake-datadoghq.com
 
