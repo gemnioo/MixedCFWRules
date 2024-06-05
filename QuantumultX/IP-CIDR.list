@@ -4,18 +4,20 @@
 # You can add below host-keyword rule to skip the DNS query for all the non-matched hosts. Pure IP requests won't be matched by the host related rules.
 ;host-keyword, ., proxy  //防止 DNS 泄露
 
-# ChatGPT voice mode
+# ChatGPT voice mode Oracle
 IP-CIDR,132.145.123.240/32,Open AI
 IP-CIDR,138.3.210.144/32,Open AI
 IP-CIDR,140.238.51.65/32,Open AI
+IP-CIDR,150.230.211.251/32,Open AI
+IP-CIDR,150.230.216.120/32,Open AI
 IP-CIDR,168.138.215.123/32,Open AI
-
 
 # tailscale and 
 IP-CIDR,47.97.8.34/32,DIRECT
 IP-CIDR,39.105.112.152/32,DIRECT
 IP-CIDR,120.79.217.40/32,DIRECT
 IP-CIDR,113.207.105.140/32,DIRECT
+
 # cloudflare endpoint
 IP-CIDR,162.159.193.10/24,DIRECT
 IP-CIDR,203.0.113.1/32,DIRECT
