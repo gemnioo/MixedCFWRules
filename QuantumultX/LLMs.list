@@ -32,11 +32,11 @@ HOST,openaicomproductionae4b.blob.core.windows.net,Open AI
 HOST,production-openaicom-storage.azureedge.net,Open AI
 HOST,nexus-websocket-a.intercom.io,Open AI
 HOST,openai-api.arkoselabs.com,Open AI
-HOST,chatgpt.livekit.cloud,Open AI
+HOST,chatgpt.livekit.cloud,Japan
 # ChatGPT voice mode TCP 443 request
-HOST-SUFFIX,turn.livekit.cloud,Open AI
+HOST-SUFFIX,turn.livekit.cloud,Japan
 # ChatGPT voice mode UDP 3478 request 
-HOST-SUFFIX,host.livekit.cloud,Open AI
+HOST-SUFFIX,host.livekit.cloud,Japan
 HOST,api.statsig.com,Open AI
 HOST,browser-intake-datadoghq.com,Open AI
 
