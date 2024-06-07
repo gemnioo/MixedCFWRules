@@ -37,19 +37,21 @@ HOST,cloud1.linksyssmartwifi.com,DIRECT
 HOST,http-inputs-belkin.splunkcloud.com,DIRECT
 
 # IPleak check DNS leak
+HOST,video-api.shdsvc.dowjones.io,Speedtest
 HOST,ipv4.ping0.cc,Outside
 HOST,ipv6.ping0.cc,Outside
-HOST-SUFFIX,ipleak.net,Outside
 HOST-SUFFIX,dnsleaktest.com,Outside
 HOST-SUFFIX,dnsleak.com,Outside
 HOST-SUFFIX,expressvpn.com,Outside
 HOST-SUFFIX,nordvpn.com,Outside
 HOST-SUFFIX,surfshark.com,Outside
+HOST-SUFFIX,ipleak.net,Outside
+HOST-SUFFIX,ipcheck.ing,Outside
+HOST-SUFFIX,edns.ip-api.com,Outside
+HOST-SUFFIX,ipv4.surfsharkdns.com,Outside
 HOST-SUFFIX,perfect-privacy.com,Outside
 HOST-SUFFIX,browserleaks.com,Outside
 HOST-SUFFIX,browserleaks.org,Outside
 HOST-SUFFIX,vpnunlimited.com,Outside
 HOST-SUFFIX,whoer.net,Outside
 HOST-SUFFIX,whrq.net,Outside
-HOST-SUFFIX,ipcheck.ing,Outside
-
