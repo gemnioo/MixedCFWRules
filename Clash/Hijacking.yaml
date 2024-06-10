@@ -14,6 +14,7 @@ payload:
   - DOMAIN,adserving.optoutadvertising.com
   - DOMAIN-SUFFIX,optoutadvertising.com
 
+  - DOMAIN,ads-api.x.com
   - DOMAIN,datum.jsdelivr.com
   - DOMAIN-SUFFIX,unblockia.com
   # DOMAIN,cdn-ext.spiny.ai  //need black hole 
