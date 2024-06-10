@@ -13,7 +13,7 @@ HOST,cdn.optoutadvertising.com,AdBlock
 HOST,adserving.optoutadvertising.com,AdBlock
 HOST-SUFFIX,optoutadvertising.com,AdBlock
 
-
+HOST,ads-api.x.com,AdBlock
 HOST,datum.jsdelivr.com,AdBlock
 HOST-SUFFIX,unblockia.com,AdBlock
   # HOST,cdn-ext.spiny.ai  //need black hole 
