@@ -24,6 +24,8 @@ payload:
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
 
+  - DOMAIN,a-fds.youborafds01.com
+
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
   - DOMAIN,oms.dowjoneson.com
