@@ -32,6 +32,8 @@ HOST,cdn.concert.io,Outside
 
 # > RSS
 HOST,reederapp.com,Outside
+HOST,stratechery.com,Outside
+HOST-SUFFIX,pressablecdn.com,Outside
 HOST,clip.owenyoung.com,Outside
 HOST,www.kivinsae.com,Outside
 HOST,e1.o.lencr.org,Outside
