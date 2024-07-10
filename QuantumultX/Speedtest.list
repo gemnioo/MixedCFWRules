@@ -24,7 +24,11 @@ HOST,qqwry.api.skk.moe,Speedtest
 HOST,api-ipv4.ip.sb,Speedtest
 HOST,ftp.jaist.ac.jp,Speedtest
 
-# block wsj video auto play
+# Control jsDliver
+HOST,cdn.jsdelivr.net,Speedtest
+HOST-SUFFIX,jsdelivr.net,Speedtest
+
+# Block wsj video auto play
 HOST,video-api.shdsvc.dowjones.io,Speedtest
 
 # Linsys LAN 
@@ -37,7 +41,6 @@ HOST,cloud1.linksyssmartwifi.com,DIRECT
 HOST,http-inputs-belkin.splunkcloud.com,DIRECT
 
 # IPleak check DNS leak
-HOST,video-api.shdsvc.dowjones.io,Speedtest
 HOST,ipv4.ping0.cc,Outside
 HOST,ipv6.ping0.cc,Outside
 HOST-SUFFIX,dnsleaktest.com,Outside
