@@ -33,6 +33,7 @@ payload:
 
   # > RSS 
   - DOMAIN,reederapp.com
+  - DOMAIN,stratechery.com
   - DOMAIN,clip.owenyoung.com
   - DOMAIN,www.kivinsae.com
   - DOMAIN,e1.o.lencr.org
