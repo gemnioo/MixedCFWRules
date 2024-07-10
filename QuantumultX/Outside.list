@@ -25,7 +25,7 @@ HOST,api.waqi.info,Outside
 HOST,aqi.aqicn.org,Outside
 
 HOST,cdn.opecloud.com,Outside
-HOST,cdn.jsdelivr.net,Outside
+# > cdn.jsdelivr.net,Outside
 HOST,cdn.privacy-mgmt.com,Outside
 HOST,cacerts.digicert.com,Outside
 HOST,cdn.concert.io,Outside
