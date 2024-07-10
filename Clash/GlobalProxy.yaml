@@ -26,7 +26,7 @@ payload:
   - DOMAIN,aqi.aqicn.org
   
   - DOMAIN,cdn.opecloud.com
-  - DOMAIN,cdn.jsdelivr.net
+  # DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.privacy-mgmt.com
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,cdn.concert.io
