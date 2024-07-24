@@ -1,6 +1,9 @@
 # > Mastdoton.world
 HOST-KEYWORD,mastodon,Outside
 HOST,s3.eu-central-2.wasabisys.com,Outside
+HOST,trusting-glitter-4f0.notion.site,Outside
+HOST,ocmacro.com,Outside
+HOST,zhencgeku.fun,Outside
 
 HOST-SUFFIX,vercel.app,Outside
 HOST,api.raycast.app,Outside
