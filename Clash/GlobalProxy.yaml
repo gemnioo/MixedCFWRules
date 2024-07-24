@@ -2,6 +2,9 @@ payload:
   # add by me Fake IP Mode
   - DOMAIN-KEYWORD,mastodon
   - DOMAIN,s3.eu-central-2.wasabisys.com
+  - DOMAIN,trusting-glitter-4f0.notion.site
+  - DOMAIN,ocmacro.com
+  - DOMAIN,zhencgeku.fun
 
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,api.raycast.app
