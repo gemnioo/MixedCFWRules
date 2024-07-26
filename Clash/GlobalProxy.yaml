@@ -8,7 +8,7 @@ payload:
   - DOMAIN,zhencgeku.fun
 
   - DOMAIN,api.fish.audio
-  - DOMAIN-SUFFIX,r2.fish.audio
+  - DOMAIN-SUFFIX,fish.audio
 
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,api.raycast.app
