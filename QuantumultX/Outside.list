@@ -7,7 +7,7 @@ HOST,ocmacro.com,Outside
 HOST,zhencgeku.fun,Outside
 
 HOST,api.fish.audio,Outside
-HOST-SUFFIX,r2.fish.audio,Outside
+HOST-SUFFIX,fish.audio,Outside
 
 HOST-SUFFIX,vercel.app,Outside
 HOST,api.raycast.app,Outside
