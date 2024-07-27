@@ -14,6 +14,11 @@ payload:
   - DOMAIN-SUFFIX,ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
 
+  # m3u8
+  - DOMAIN,heimuer.tv
+  - DOMAIN,assets.heimuer.tv
+  - DOMAIN,m3u8.heimuertv.com
+
   # Bilibili 哔哩哔哩
   - DOMAIN,apiintl.biliapi.net
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
