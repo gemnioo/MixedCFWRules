@@ -23,6 +23,8 @@ payload:
   - DOMAIN,get.civicscience.com
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
+  - DOMAIN,analy.heimuer.cc
+  - DOMAIN,static.heimuer.tv
 
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
