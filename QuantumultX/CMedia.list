@@ -18,6 +18,9 @@ HOST-SUFFIX,bytecdntp.com,CMedia
 HOST,heimuer.tv,CMedia
 HOST,assets.heimuer.tv,CMedia
 HOST,m3u8.heimuertv.com,CMedia
+HOST,m3u.nikanba.live,CMedia
+HOST,hpnoualts.com,CMedia
+HOST,player.hw8.lol,CMedia
 
 # > AcFun
 USER-AGENT,AcFun*,CMedia
