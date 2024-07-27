@@ -14,10 +14,13 @@ payload:
   - DOMAIN-SUFFIX,ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
 
-  # m3u8
+  # vod m3u8
   - DOMAIN,heimuer.tv
   - DOMAIN,assets.heimuer.tv
   - DOMAIN,m3u8.heimuertv.com
+  - DOMAIN,player.hw8.lol
+  - DOMAIN,hpnoualts.com
+  - DOMAIN,m3u.nikanba.live
 
   # Bilibili 哔哩哔哩
   - DOMAIN,apiintl.biliapi.net
