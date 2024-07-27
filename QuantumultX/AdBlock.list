@@ -23,6 +23,8 @@ HOST,get.civicscience.com,AdBlock
 
 #ddrk ads
 HOST,help-ol.bj.bcebos.com,AdBlock
+HOST,analy.heimuer.cc,AdBlock
+HOST,static.heimuer.tv,AdBlock
 
 # Dow Jones cookies collector
 HOST,collector.archimedes.dowjones.io,AdBlock
