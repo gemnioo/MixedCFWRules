@@ -60,3 +60,7 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
+
+  # Perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN,pplx-res.cloudinary.com
