@@ -6,9 +6,18 @@ payload:
   - DOMAIN,trusting-glitter-4f0.notion.site
   - DOMAIN,ocmacro.com
   - DOMAIN,zhencgeku.fun
-
+ 
+  # some llms non restricted
   - DOMAIN,api.fish.audio
   - DOMAIN-SUFFIX,fish.audio
+  - DOMAIN,api.hf.space
+  - DOMAIN,huggingface.co
+  - DOMAIN,cdn-avatars.huggingface.co
+  - DOMAIN-SUFFIX,edge.sdk.awswaf.com
+  - DOMAIN,m-ric-agent-data-analyst.hf.space
+  - DOMAIN-SUFFIX,token.awswaf.com
+  # Hugging Face de5282c3ca0c
+  - DOMAIN-KEYWORD,de5282c3ca0c
 
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,api.raycast.app
