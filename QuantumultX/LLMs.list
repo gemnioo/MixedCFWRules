@@ -74,6 +74,18 @@ HOST-SUFFIX,meta.ai,Outside
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
 HOST-SUFFIX,civitai.com,Outside
+HOST,api.fish.audio,Outside
+HOST-SUFFIX,fish.audio,Outside
+HOST,api.hf.space,Outside
+HOST,huggingface.co,Outside
+HOST,cdn-avatars.huggingface.co,Outside
+HOST-SUFFIX,edge.sdk.awswaf.com,Outside
+HOST,m-ric-agent-data-analyst.hf.space,Outside
+HOST-SUFFIX,token.awswaf.com,Outside
+# Hugging Face de5282c3ca0c
+HOST-KEYWORD,de5282c3ca0c,Outside
+
+
 
 # > Paypal 
 USER-AGENT,PayPal*,Outside
