@@ -7,7 +7,12 @@ payload:
   - DOMAIN,ocmacro.com
   - DOMAIN,zhencgeku.fun
  
-  # some llms non restricted
+  # Some LLMs non restricted
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,meta.ai
+  # DOMAIN-SUFFIX,perplexity.ai
+  # DOMAIN,pplx-res.cloudinary.com
+  # DOMAIN,fscdn.eppo.cloud
   - DOMAIN,api.fish.audio
   - DOMAIN-SUFFIX,fish.audio
   - DOMAIN,api.hf.space
