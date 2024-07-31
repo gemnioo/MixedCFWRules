@@ -22,6 +22,9 @@ payload:
   - DOMAIN,hpnoualts.com
   - DOMAIN,m3u.nikanba.live
 
+  # Podcase 
+  - DOMAIN,beyondcodefm.com
+
   # Bilibili 哔哩哔哩
   - DOMAIN,apiintl.biliapi.net
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
