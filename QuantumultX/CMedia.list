@@ -22,6 +22,9 @@ HOST,m3u.nikanba.live,CMedia
 HOST,hpnoualts.com,CMedia
 HOST,player.hw8.lol,CMedia
 
+# > Podcast 
+HOST,beyondcodefm.com,CMedia
+
 # > AcFun
 USER-AGENT,AcFun*,CMedia
 HOST-SUFFIX,acfun.cn,CMedia
