@@ -5,6 +5,7 @@ payload:
   - DOMAIN,ocsp.crlocsp.cn
   - DOMAIN,vod.volcengineapi.com
   - DOMAIN,cixigj.tongda.cc
+  - DOMAIN.linkeless.com
   - DOMAIN-SUFFIX,shimo.im
   - DOMAIN,wj.qq.com
   
