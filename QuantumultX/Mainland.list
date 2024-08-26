@@ -1,11 +1,25 @@
 # > Special
-HOST-SUFFIX,caixin.com,Mainland
+HOST,wj.qq.com,Mainland
 HOST,ocsp.crlocsp.cn,Mainland
 HOST,vod.volcengineapi.com,Mainland
 HOST,cixigj.tongda.cc,Mainland
-HOST,linkeless.com,Mainland
+HOST-SUFFIX,caixin.com,Mainland
 HOST-SUFFIX,shimo.im,Mainland
-HOST,wj.qq.com,Mainland
+
+HOST,api.deepseek.com,Mainland
+HOST,cdn.deepseek.com,Mainland
+HOST,platform.deepseek.com,Mainland
+HOST,api.siliconflow.cn,Mainland
+HOST,gf.gpt.ge,Mainland
+HOST,shop.openai.sb,Mainland
+HOST,shop.openai-sb.cn,Mainland
+HOST-SUFFIX,openai-sb.com,Mainland
+HOST,api.ohmygpt.com,Mainland
+HOST-SUFFIX,aihubmix.com,Mainland
+HOST-SUFFIX,aigcbest.top,Mainland
+HOST,api.turboai.one,Mainland
+HOST,api.gptsapi.net,Mainland
+HOST,linkeless.com,Mainland
 
 # > China Banks
 # > Agricultural Bank of China
