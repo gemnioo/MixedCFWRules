@@ -1,13 +1,27 @@
 payload:
   # 直连列表
-    # > Fake IP Mode Special
-  - DOMAIN-SUFFIX,caixin.com
+  # API Proxy local
+  - DOMAIN,wj.qq.com
   - DOMAIN,ocsp.crlocsp.cn
   - DOMAIN,vod.volcengineapi.com
   - DOMAIN,cixigj.tongda.cc
-  - DOMAIN,linkeless.com
+  - DOMAIN-SUFFIX,caixin.com
   - DOMAIN-SUFFIX,shimo.im
-  - DOMAIN,wj.qq.com
+
+  - DOMAIN,api.deepseek.com
+  - DOMAIN,cdn.deepseek.com
+  - DOMAIN,platform.deepseek.com
+  - DOMAIN,api.siliconflow.cn
+  - DOMAIN,gf.gpt.ge
+  - DOMAIN,shop.openai.sb
+  - DOMAIN,shop.openai-sb.cn
+  - DOMAIN-SUFFIX,openai-sb.com
+  - DOMAIN,api.ohmygpt.com
+  - DOMAIN-SUFFIX,aihubmix.com
+  - DOMAIN-SUFFIX,aigcbest.top
+  - DOMAIN,api.turboai.one
+  - DOMAIN,api.gptsapi.net
+  - DOMAIN,linkeless.com
   
   # MyList
   - DOMAIN-SUFFIX,13th.tech
