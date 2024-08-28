@@ -71,6 +71,12 @@ payload:
   - DOMAIN,www.twreporter.org
   - DOMAIN,nei.st
   - DOMAIN,limboy.me
+  - DOMAIN,cdn.quartr.com
+  - DOMAIN,auth.quartr.com
+  - DOMAIN,file.quartr.com
+  - DOMAIN,private.quartr.com
+  - DOMAIN,qcast.page.link
+
 
 # > Podcast and Reading Media
   - DOMAIN,link.chtbl.com
