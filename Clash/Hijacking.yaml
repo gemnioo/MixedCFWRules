@@ -22,6 +22,7 @@ payload:
   # DOMAIN,merequartz.com
   - DOMAIN,images.getadmiral.com
   - DOMAIN,get.civicscience.com
+  - DOMAIN,track-sdk-eu.customer.io
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
   - DOMAIN,analy.heimuer.cc
