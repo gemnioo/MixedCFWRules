@@ -56,6 +56,11 @@ HOST,www.iyouport.org,Outside
 HOST,www.twreporter.org,Outside
 HOST,nei.st,Outside
 HOST,limboy.me,Outside
+HOST,cdn.quartr.com,Outside
+HOST,auth.quartr.com,Outside
+HOST,file.quartr.com,Outside
+HOST,private.quartr.com,Outside
+HOST,qcast.page.link,Outside
 
 # > Podcast and Reading Media
 HOST,link.chtbl.com,Outside
