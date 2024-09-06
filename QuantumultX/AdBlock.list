@@ -23,6 +23,13 @@ HOST-SUFFIX,unblockia.com,AdBlock
 HOST,images.getadmiral.com,AdBlock
 HOST,get.civicscience.com,AdBlock
 
+#sentry tracker
+HOST,openaicom.imgix.net,AdBlock
+HOST,o33249.ingest.sentry.io,AdBlock
+HOST,o315582.ingest.sentry.io,AdBlock
+HOST,o245571.ingest.sentry.io,AdBlock
+HOST,o33249.ingest.us.sentry.io,AdBlock
+
 #ddrk ads
 HOST,help-ol.bj.bcebos.com,AdBlock
 HOST,analy.heimuer.cc,AdBlock
