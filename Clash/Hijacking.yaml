@@ -23,6 +23,14 @@ payload:
   - DOMAIN,images.getadmiral.com
   - DOMAIN,get.civicscience.com
   - DOMAIN,track-sdk-eu.customer.io
+
+  # sentry tracker
+  - DOMAIN,openaicom.imgix.net
+  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o315582.ingest.sentry.io
+  - DOMAIN,o245571.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
+  
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
   - DOMAIN,analy.heimuer.cc
