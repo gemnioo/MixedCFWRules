@@ -22,6 +22,10 @@ payload:
   - DOMAIN,api.turboai.one
   - DOMAIN,api.gptsapi.net
   - DOMAIN,linkeless.com
+
+  # IDC
+  - DOMAIN-SUFFIX,aait.io
+  # DOMAIN-SUFFIX,lain.sh
   
   # MyList
   - DOMAIN-SUFFIX,13th.tech
