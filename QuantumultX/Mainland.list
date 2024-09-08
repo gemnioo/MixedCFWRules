@@ -20,6 +20,8 @@ HOST-SUFFIX,aigcbest.top,Mainland
 HOST,api.turboai.one,Mainland
 HOST,api.gptsapi.net,Mainland
 HOST,linkeless.com,Mainland
+HOST-SUFFIX,bewildcard.com,Mainland
+HOST,widget.intercom.io,Mainland
 
 # > China Banks
 # > Agricultural Bank of China
