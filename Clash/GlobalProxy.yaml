@@ -6,6 +6,7 @@ payload:
   - DOMAIN,trusting-glitter-4f0.notion.site
   - DOMAIN,ocmacro.com
   - DOMAIN,zhencgeku.fun
+  - DOMAIN,chat.wildcard.com.cn
  
   # Some LLMs non restricted
   - DOMAIN-SUFFIX,poe.com
