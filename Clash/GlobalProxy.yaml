@@ -119,6 +119,7 @@ payload:
   - DOMAIN,nyti.ms
   - DOMAIN,buff.ly
   - DOMAIN,reut.rs
+  - DOMAIN,restofworld.org
   
   - DOMAIN,optimizely.wsj.com
   - DOMAIN,video-api.wsj.com
