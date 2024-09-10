@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.prod.ota-cloudfront.net
   - DOMAIN-SUFFIX,api.discomax.com
   - DOMAIN-SUFFIX,amazonfirenews.wurl.tv
+  - DOMAIN-SUFFIX,mediatailor.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,associates-amazon.com
   - DOMAIN-SUFFIX,backblazeb2.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
