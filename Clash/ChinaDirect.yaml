@@ -28,6 +28,7 @@ payload:
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
   # DOMAIN-SUFFIX,lain.sh
+  - DOMAIN,derper.maxd.cloud
   
   # MyList
   - DOMAIN-SUFFIX,13th.tech
