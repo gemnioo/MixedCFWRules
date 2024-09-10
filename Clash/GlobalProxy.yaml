@@ -52,6 +52,7 @@ payload:
   - DOMAIN,cdn.privacy-mgmt.com
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,cdn.concert.io
+  - DOMAIN,cdn.sanity.io
 
   # > RSS 
   - DOMAIN,reederapp.com
