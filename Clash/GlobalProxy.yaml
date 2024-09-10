@@ -52,7 +52,11 @@ payload:
   - DOMAIN,cdn.privacy-mgmt.com
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,cdn.concert.io
+  # Tailscale login
   - DOMAIN,cdn.sanity.io
+  - DOMAIN-SUFFIX,api.sanity.io
+  - DOMAIN,api.rudderstack.com
+  - DOMAIN,api.getkoala.com
 
   # > RSS 
   - DOMAIN,reederapp.com
