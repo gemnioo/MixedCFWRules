@@ -37,6 +37,12 @@ HOST,cdn.privacy-mgmt.com,Outside
 HOST,cacerts.digicert.com,Outside
 HOST,cdn.concert.io,Outside
 
+# > Tailscale
+HOST,cdn.sanity.io,Outside
+HOST-SUFFIX,api.sanity.io,Outside
+HOST,api.rudderstack.com,Outside
+HOST,api.getkoala.com,Outside
+
 # > RSS
 HOST,reederapp.com,Outside
 HOST,stratechery.com,Outside
