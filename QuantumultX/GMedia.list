@@ -23,17 +23,28 @@ HOST,fireoscaptiveportal.com,GMedia
 HOST,firetvcaptiveportal.com,GMedia
 HOST-SUFFIX,service.amazonsilk.com,GMedia
 HOST-SUFFIX,prime-video.amazon.dev,GMedia
+HOST-SUFFIX,imdbtv.amazon.dev,GMedia
+HOST-SUFFIX,imdbtv-services.amazon.dev,GMedia
 HOST-SUFFIX,digital.amazon.dev,GMedia
 HOST-SUFFIX,diagnostic.networking.aws.dev,GMedia
 HOST-SUFFIX,prod.service.minerva.devices.a2z.com,GMedia
 HOST-SUFFIX,cloudfront.prod.ota-cloudfront.net,GMedia
 HOST-SUFFIX,api.discomax.com,GMedia
+HOST-SUFFIX,amazonfirenews.wurl.tv,GMedia
+HOST-SUFFIX,mediatailor.us-east-1.amazonaws.com,GMedia
+HOST-SUFFIX,associates-amazon.com,GMedia
+HOST-SUFFIX,backblazeb2.com,GMedia
+HOST-SUFFIX,ssl-images-amazon.com,GMedia
+HOST-SUFFIX,prod.gamehub.amazon.dev,GMedia
 HOST,wl.amazon-dss.com,GMedia
 HOST,aviary.amazon.com,GMedia
 HOST,avs-alexa-18-na.amazon.com,GMedia
-HOST,images-na.ssl-images-amazon.com,GMedia
+HOST,estrellanews-amazon.amagi.tv,GMedia
+
 HOST,ocsp.rootca1.amazontrust.com,GMedia
 HOST,ocsp.r2m02.amazontrust.com,GMedia
+HOST,cdn-ue1-prod.tsv2.amagi.tv,GMedia
+HOST-SUFFIX,amagi.tv,GMedia
 
 # > ABC
 HOST-SUFFIX,edgedatg.com,GMedia
