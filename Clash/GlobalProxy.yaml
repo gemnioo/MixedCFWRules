@@ -27,6 +27,14 @@ payload:
   # Hugging Face de5282c3ca0c
   - DOMAIN-KEYWORD,de5282c3ca0c
 
+  # Intercom Customer sevice
+  - DOMAIN,api-iam.intercom.io
+  - DOMAIN,js.intercomcdn.com
+  - DOMAIN,downloads.intercomcdn.com
+  - DOMAIN,wwww.intercom.com
+  - DOMAIN,www.intercom-reporting.com
+  - DOMAIN,intercom.help   
+
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,api.raycast.app
   - DOMAIN,releases.raycast.com
