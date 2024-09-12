@@ -15,12 +15,15 @@ HOST-SUFFIX,fish.audio,Outside
 
 # > Intercom Customer sevice
 HOST,api-iam.intercom.io,Outside
+HOST,widget.intercom.io,Outside
 HOST,js.intercomcdn.com,Outside
 HOST,downloads.intercomcdn.com,Outside
 HOST,wwww.intercom.com,Outside
 HOST,www.intercom-reporting.com,Outside
 HOST,static.intercomassets.com,Outside
 HOST,intercom.help,Outside
+HOST,nexus-websocket-a.intercom.io,Outside
+
 
 HOST-SUFFIX,vercel.app,Outside
 HOST,api.raycast.app,Outside
