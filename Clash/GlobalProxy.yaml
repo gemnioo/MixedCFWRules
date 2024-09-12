@@ -7,7 +7,7 @@ payload:
   - DOMAIN,ocmacro.com
   - DOMAIN,zhencgeku.fun
   - DOMAIN,chat.wildcard.com.cn
-  - DOMAIN.chat.bewildcard.com
+  - DOMAIN,chat.bewildcard.com
   - DOMAIN,docs.dler.io 
  
   # Some LLMs non restricted
