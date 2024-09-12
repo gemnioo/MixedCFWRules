@@ -131,6 +131,8 @@ payload:
   - DOMAIN,buff.ly
   - DOMAIN,reut.rs
   - DOMAIN,restofworld.org
+  - DOMAIN-SUFFIX,patreon.com
+  - DOMAIN-SUFFIX,patreonusercontent.com
   
   - DOMAIN,optimizely.wsj.com
   - DOMAIN,video-api.wsj.com
