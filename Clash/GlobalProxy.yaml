@@ -8,6 +8,7 @@ payload:
   - DOMAIN,zhencgeku.fun
   - DOMAIN,chat.wildcard.com.cn
   - DOMAIN,chat.bewildcard.com
+  - DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
   - DOMAIN,docs.dler.io 
  
   # Some LLMs non restricted
