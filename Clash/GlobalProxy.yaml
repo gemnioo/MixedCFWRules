@@ -36,6 +36,7 @@ payload:
   - DOMAIN,ocsp.pki.goog
   - DOMAIN,ocsp.digicert.com
   - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN,pypi.org
 
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,cdn.polyfill.io
