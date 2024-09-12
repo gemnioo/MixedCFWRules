@@ -24,6 +24,12 @@ payload:
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,firefoxusercontent.com
 
+  # > Let's Encrypt,
+  - DOMAIN,r10.o.lencr.org
+  - DOMAIN-SUFFIX,o.lencr.org
+  - DOMAIN-SUFFIX,c.lencr.org
+  - DOMAIN-SUFFIX,i.lencr.org
+  
   - DOMAIN-SUFFIX,cdn.mozilla.net
   - DOMAIN-SUFFIX,mdn.mozillademos.org
   - DOMAIN,media.prod.mdn.mozit.cloud
