@@ -12,8 +12,8 @@ payload:
   - DOMAIN,docs.dler.io 
  
   # Some LLMs non restricted
-  - DOMAIN-SUFFIX,poe.com
-  - DOMAIN-SUFFIX,meta.ai
+  # DOMAIN-SUFFIX,poe.com
+  # DOMAIN-SUFFIX,meta.ai
   # DOMAIN-SUFFIX,perplexity.ai
   # DOMAIN,pplx-res.cloudinary.com
   # DOMAIN,fscdn.eppo.cloud
