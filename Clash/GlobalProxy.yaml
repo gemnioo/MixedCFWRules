@@ -30,12 +30,14 @@ payload:
 
   # Intercom Customer sevice
   - DOMAIN,api-iam.intercom.io
+  - DOMAIN,widget.intercom.io
   - DOMAIN,js.intercomcdn.com
   - DOMAIN,downloads.intercomcdn.com
   - DOMAIN,wwww.intercom.com
   - DOMAIN,www.intercom-reporting.com
   - DOMAIN,static.intercomassets.com
-  - DOMAIN,intercom.help   
+  - DOMAIN,intercom.help
+  - DOMAIN,nexus-websocket-a.intercom.io
 
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,api.raycast.app
