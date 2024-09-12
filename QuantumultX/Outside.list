@@ -7,10 +7,20 @@ HOST,ocmacro.com,Outside
 HOST,zhencgeku.fun,Outside
 HOST,chat.wildcard.com.cn,Outside
 HOST,chat.bewildcard.com,Outside
+HOST,wildcard-b0518949163b.intercom-attachments-7.com,Outside
 HOST,docs.dler.io,Outside
 
 HOST,api.fish.audio,Outside
 HOST-SUFFIX,fish.audio,Outside
+
+# > Intercom Customer sevice
+HOST,api-iam.intercom.io,Outside
+HOST,js.intercomcdn.com,Outside
+HOST,downloads.intercomcdn.com,Outside
+HOST,wwww.intercom.com,Outside
+HOST,www.intercom-reporting.com,Outside
+HOST,static.intercomassets.com,Outside
+HOST,intercom.help,Outside
 
 HOST-SUFFIX,vercel.app,Outside
 HOST,api.raycast.app,Outside
