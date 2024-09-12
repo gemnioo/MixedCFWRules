@@ -33,6 +33,7 @@ payload:
   - DOMAIN,downloads.intercomcdn.com
   - DOMAIN,wwww.intercom.com
   - DOMAIN,www.intercom-reporting.com
+  - DOMAIN,static.intercomassets.com
   - DOMAIN,intercom.help   
 
   - DOMAIN-SUFFIX,vercel.app
