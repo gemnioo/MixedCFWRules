@@ -112,6 +112,8 @@ HOST,bloom.bg,Outside
 HOST,nyti.ms,Outside
 HOST,buff.ly,Outside
 HOST,reut.rs,Outside
+HOST-SUFFIX,patreon.com,Outside
+HOST-SUFFIX,patreonusercontent.com,Outside
 
 HOST,video-api.wsj.com,Outside
 HOST,follow-api.wsj.com,Outside
