@@ -112,6 +112,12 @@ HOST-SUFFIX,firefox.com,Microsoft
 HOST-SUFFIX,firefox.com.cn,Microsoft
 HOST-SUFFIX,firefoxusercontent.com,Microsoft
 
+  # > Let's Encrypt,
+HOST,r10.o.lencr.org,Microsoft
+HOST-SUFFIX,o.lencr.org,Microsoft
+HOST-SUFFIX,c.lencr.org,Microsoft
+HOST-SUFFIX,i.lencr.org,Microsoft
+
 HOST-SUFFIX,cdn.mozilla.net,Microsoft
 HOST-SUFFIX,mdn.mozillademos.org,Microsoft
 HOST,media.prod.mdn.mozit.cloud,Microsoft
