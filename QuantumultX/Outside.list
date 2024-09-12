@@ -20,6 +20,7 @@ HOST,proxsee.pscp.tv,Outside
 HOST,ocsp.pki.goog,Outside
 HOST,ocsp.digicert.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
+HOST,pypi.org,Outside
 
 HOST,ublockorigin.pages.dev,Outside
 HOST,cdn.polyfill.io,Outside
