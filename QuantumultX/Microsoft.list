@@ -96,6 +96,7 @@ HOST-SUFFIX,here.net,Microsoft
 HOST,eas.outlook.com,Microsoft 
 HOST,m.hotmail.com,Microsoft 
 HOST,login.microsoftonline.com,Microsoft 
+HOST,aadcdn.msftauth.net,Microsoft
 HOST,pti.store.microsoft.com,Microsoft 
 HOST,checkappexec.microsoft.com,Microsoft 
 
