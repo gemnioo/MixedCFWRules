@@ -7,6 +7,7 @@ payload:
   - DOMAIN,eas.outlook.com
   - DOMAIN,m.hotmail.com
   - DOMAIN,login.microsoftonline.com  
+  - DOMAIN,aadcdn.msftauth.net
   - DOMAIN,pti.store.microsoft.com
   - DOMAIN,checkappexec.microsoft.com
 
