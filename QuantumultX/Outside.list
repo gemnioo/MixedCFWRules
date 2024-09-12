@@ -37,6 +37,11 @@ HOST,cdn.privacy-mgmt.com,Outside
 HOST,cacerts.digicert.com,Outside
 HOST,cdn.concert.io,Outside
 
+# > Discourse forums
+HOST,global.discourse-cdn.com,Outside
+HOST,avatars.discourse-cdn.com,Outside
+HOST-SUFFIX,discourse-cdn.com,Outside
+
 # > Tailscale
 HOST,cdn.sanity.io,Outside
 HOST-SUFFIX,api.sanity.io,Outside
