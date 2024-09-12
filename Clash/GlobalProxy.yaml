@@ -61,6 +61,7 @@ payload:
 
   # Discourse forums
   - DOMAIN,global.discourse-cdn.com
+  - DOMAIN,avatars.discourse-cdn.com
   - DOMAIN-SUFFIX,discourse-cdn.com
 
   # > RSS 
