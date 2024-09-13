@@ -6,10 +6,7 @@ payload:
   - DOMAIN,trusting-glitter-4f0.notion.site
   - DOMAIN,ocmacro.com
   - DOMAIN,zhencgeku.fun
-  - DOMAIN,2233.ai
-  - DOMAIN,chat.wildcard.com.cn
-  - DOMAIN,chat.bewildcard.com
-  - DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
+  - DOMAIN-SUFFIX,giter.club
   - DOMAIN,docs.dler.io 
  
   # Some LLMs non restricted
@@ -28,6 +25,14 @@ payload:
   - DOMAIN-SUFFIX,token.awswaf.com
   # Hugging Face de5282c3ca0c
   - DOMAIN-KEYWORD,de5282c3ca0c
+
+  # WildCard 
+  - DOMAIN,chatgpt.2233.ai
+  - DOMAIN,claude.2233.ai
+  - DOAMIN-SUFFIX,2233,ai
+  - DOMAIN,chat.wildcard.com
+  - DOMAIN,chat.bewildcard.com
+  - DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
 
   # Intercom Customer sevice
   - DOMAIN,api-iam.intercom.io
