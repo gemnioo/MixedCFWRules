@@ -5,7 +5,7 @@ HOST,s3.eu-central-2.wasabisys.com,Outside
 HOST,trusting-glitter-4f0.notion.site,Outside
 HOST,ocmacro.com,Outside
 HOST,zhencgeku.fun,Outside
-HOST-SUFFIX,giter.club
+HOST-SUFFIX,giter.club,Outside
 HOST,docs.dler.io,Outside
 
 HOST,api.fish.audio,Outside
