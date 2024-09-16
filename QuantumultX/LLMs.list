@@ -65,10 +65,10 @@ HOST,cdn.usefathom.com,Open AI
 HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,anthropic.com,Open AI
 
-HOST-SUFFIX,perplexity.ai,Open AI
 HOST,pplx-res.cloudinary.com,Open AI
 HOST,pplx-next-static-public.perplexity.ai,REJECT
 HOST,fscdn.eppo.cloud,Outside
+HOST-SUFFIX,perplexity.ai,Open AI
 HOST-SUFFIX,poe.com,Outside
 HOST-SUFFIX,meta.ai,Outside
 
