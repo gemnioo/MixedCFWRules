@@ -14,7 +14,7 @@ HOST-SUFFIX,fish.audio,Outside
 # > WildCard 
 HOST,chatgpt.2233.ai,Outside
 HOST,claude.2233.ai,Outside
-HOST-SUFFIX,2233,ai,Outside
+HOST-SUFFIX,2233.ai,Outside
 HOST,chat.wildcard.com,Outside
 HOST,chat.bewildcard.com,Outside
 HOST,wildcard-b0518949163b.intercom-attachments-7.com,Outside
