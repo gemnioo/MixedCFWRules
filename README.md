@@ -48,6 +48,16 @@ https://github.com/MetaCubeX/meta-rules-dat
 
 DNS https://lainbo.com/article/clash-config
 
+sing-box
+
+https://github.com/fscarmen/sing-box  \\ 一键脚本
+
+https://github.com/Toperlock/sing-box-subscribe/blob/main/instructions/README.md  \\ 订阅转换
+
+https://youtu.be/BAfbkLizFGc?feature=shared  \\不良林 
+
+
+
 
 Surge 
 
