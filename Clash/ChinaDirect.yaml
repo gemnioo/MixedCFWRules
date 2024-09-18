@@ -27,13 +27,6 @@ payload:
   - DOMAIN-SUFFIX,aait.io
   # DOMAIN-SUFFIX,lain.sh
   - DOMAIN,derper.maxd.cloud
-
-  # openclash console test
-  - DOMAIN,s1.music.126.net
-  - DOMAIN,api-ipv4.ip.sb
-  - DOMAIN,whois.pconline.com.cn
-  - DOMAIN,forge.speedtest.cn
-  - DOMAIN,qqwry.api.skk.moe
   
   # MyList
   - DOMAIN-SUFFIX,13th.tech
