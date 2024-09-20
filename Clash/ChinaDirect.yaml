@@ -11,6 +11,7 @@ payload:
   # Github Acce
   - DOMAIN,ghproxy.com
   - DOMAIN,ghp.p3terx.com
+  - DOMAIN,github.tmby.shop
   # LLMs Proxy API add 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
