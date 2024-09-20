@@ -36,6 +36,7 @@ payload:
   - DOMAIN,analy.heimuer.cc
   - DOMAIN,static.heimuer.tv
   - DOMAIN,www.vyh9v.app
+  - DOMAIN,qz1gy.app
 
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
