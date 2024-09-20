@@ -23,6 +23,7 @@ payload:
   - DOMAIN,images.getadmiral.com
   - DOMAIN,get.civicscience.com
   - DOMAIN,track-sdk-eu.customer.io
+  - DOMAIN,api2.amplitude.com
 
   # sentry tracker
   - DOMAIN,openaicom.imgix.net
