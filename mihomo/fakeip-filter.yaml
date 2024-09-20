@@ -1,0 +1,107 @@
+payload:
+  - '*.lan'
+  - '*.battlenet.com.cn'
+  - '*.battlenet.com'
+  - '*.blzstatic.cn'
+  - '*.battle.net'
+  # === Linksys Wireless Router ===
+  - '*.linksys.com'
+  - '*.linksyssmartwifi.com'
+  # === Apple Software Update Service ===
+  - swscan.apple.com
+  - mesu.apple.com
+  # === Windows 10 Connnect Detection ===
+  - '*.msftconnecttest.com'
+  - '*.msftncsi.com'
+  # === NTP Service ===
+  - 'time.*.com'
+  - 'time.*.gov'
+  - 'time.*.edu.cn'
+  - 'time.*.apple.com'
+  - 'time1.*.com'
+  - 'time2.*.com'
+  - 'time3.*.com'
+  - 'time4.*.com'
+  - 'time5.*.com'
+  - 'time6.*.com'
+  - 'time7.*.com'
+  - 'ntp.*.com'
+  - 'ntp.*.com'
+  - 'ntp1.*.com'
+  - 'ntp2.*.com'
+  - 'ntp3.*.com'
+  - 'ntp4.*.com'
+  - 'ntp5.*.com'
+  - 'ntp6.*.com'
+  - 'ntp7.*.com'
+  - '*.time.edu.cn'
+  - '*.ntp.org.cn'
+  - '+.pool.ntp.org'
+  - time1.cloud.tencent.com
+  # === Music Service ===
+  ## NetEase
+  - '+.music.163.com'
+  - '*.126.net'
+  ## Baidu
+  - musicapi.taihe.com
+  - music.taihe.com
+  ## Kugou
+  - songsearch.kugou.com
+  - trackercdn.kugou.com
+  ## Kuwo
+  - '*.kuwo.cn'
+  ## JOOX
+  - api-jooxtt.sanook.com
+  - api.joox.com
+  - joox.com
+  ## QQ
+  - '*.qq.com'
+  - report.url.cn
+  ## Xiami
+  - '*.xiami.com'
+  ## Migu
+  - '+.music.migu.cn'
+  # === Game Service ===
+  ## Nintendo Switch
+  - '+.srv.nintendo.net'
+  ## Sony PlayStation
+  - '+.playstation.net'
+  - '+.playstation.com'
+  - '+.stun.playstation.net'
+  ## Microsoft Xbox
+  - 'xbox.*.microsoft.com'
+  - '+.xboxlive.com'
+  # === Other ===
+  ## QQ Quick Login
+  - localhost.ptlogin2.qq.com
+  ## Golang
+  - proxy.golang.org
+  ## STUN Server
+  - 'stun.*.*'
+  - 'stun.*.*.*'
+  ## Bilibili CDN
+  - '*.mcdn.bilivideo.cn'
+  # === Other ===
+  - '*.bilibili.com'
+  - '*.1huizhan.com'
+  - '*.3.cn'
+  - '*.300hu.com'
+  - '*.360buy.cn'
+  - '*.360buy.com'
+  - '*.360buy.com.cn'
+  - '*.360buyimg.com'
+  - '*.360buyinternational.com'
+  - '*.360top.com'
+  - '*.jd.com'
+  # WiFi-Calling 如果你发现你的WiFi Calling不能发图片 大概率是节点UDP问题
+  - t-mobile.com
+  - crl.t-mobile.com
+  - eas3.msg.t-mobile.com
+  - mascns.t-mobile.com
+  - ns.sipgeo.t-mobile.com
+  - epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+  - epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org 
+  # Others
+  - services.googleapis.cn
