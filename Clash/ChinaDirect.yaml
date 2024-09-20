@@ -1,6 +1,6 @@
 payload:
   # 直连列表
-  # API Proxy local
+  # local
   - DOMAIN,wj.qq.com
   - DOMAIN,ocsp.crlocsp.cn
   - DOMAIN,vod.volcengineapi.com
@@ -8,6 +8,10 @@ payload:
   - DOMAIN-SUFFIX,caixin.com
   - DOMAIN-SUFFIX,shimo.im
 
+  # Github Acce
+  - DOMAIN,ghproxy.com
+  - DOMAIN,ghp.p3terx.com
+  # LLMs Proxy API add 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
   - DOMAIN,platform.deepseek.com
