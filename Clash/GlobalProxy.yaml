@@ -107,7 +107,7 @@ payload:
   - DOMAIN,readit.site
   - DOMAIN,cdn.quartr.com
   - DOMAIN,auth.quartr.com
-  - DOMAIN,file.quartr.com
+  - DOMAIN,files.quartr.com 
   - DOMAIN,private.quartr.com
   - DOMAIN,qcast.page.link
 
