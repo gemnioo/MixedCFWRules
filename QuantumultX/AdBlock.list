@@ -37,6 +37,8 @@ HOST,o33249.ingest.us.sentry.io,AdBlock
 HOST,help-ol.bj.bcebos.com,AdBlock
 HOST,analy.heimuer.cc,AdBlock
 HOST,static.heimuer.tv,AdBlock
+HOST,www.vyh9v.app,AdBlock
+HOST,qz1gy.app,AdBlock
 
 # Dow Jones cookies collector
 HOST,collector.archimedes.dowjones.io,AdBlock
