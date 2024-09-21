@@ -22,6 +22,9 @@ HOST-SUFFIX,unblockia.com,AdBlock
   # HOST,merequartz.com,AdBlock
 HOST,images.getadmiral.com,AdBlock
 HOST,get.civicscience.com,AdBlock
+HOST,track-sdk-eu.customer.io,AdBlock
+HOST,api2.amplitude.com,AdBlock
+
 
 #sentry tracker
 HOST,openaicom.imgix.net,AdBlock
