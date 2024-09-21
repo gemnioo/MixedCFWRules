@@ -6,6 +6,11 @@ HOST,cixigj.tongda.cc,Mainland
 HOST-SUFFIX,caixin.com,Mainland
 HOST-SUFFIX,shimo.im,Mainland
 
+# > Github Acce
+HOST,ghproxy.com,Mainland
+HOST,ghp.p3terx.com,Mainland
+HOST,github.tmby.shop,Mainland
+
 HOST,api.deepseek.com,Mainland
 HOST,cdn.deepseek.com,Mainland
 HOST,platform.deepseek.com,Mainland
@@ -20,8 +25,7 @@ HOST-SUFFIX,aigcbest.top,Mainland
 HOST,api.turboai.one,Mainland
 HOST,api.gptsapi.net,Mainland
 HOST,linkeless.com,Mainland
-HOST-SUFFIX,bewildcard.com,Mainland
-HOST,widget.intercom.io,Mainland
+HOST,www.linkeless.com,Mainland
 
 # > China Banks
 # > Agricultural Bank of China
