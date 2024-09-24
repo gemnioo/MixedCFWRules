@@ -26,6 +26,10 @@ payload:
   # Hugging Face de5282c3ca0c
   - DOMAIN-KEYWORD,de5282c3ca0c
 
+  # lobechat
+  - DOMAIN,chat-agents.lobehub.com
+  - DOMAIN,chat-plugins.lobehub.com
+  - DOMAIN-SUFFIX,lobehub.com
   # WildCard 
   - DOMAIN,chatgpt.2233.ai
   - DOMAIN,claude.2233.ai
