@@ -30,6 +30,10 @@ payload:
   - DOMAIN,chat-agents.lobehub.com
   - DOMAIN,chat-plugins.lobehub.com
   - DOMAIN-SUFFIX,lobehub.com
+
+  # docker pull
+  - DOMAIN,registry-1.docker.io
+  - DOMAIN,auth.docker.io
   # WildCard 
   - DOMAIN,chatgpt.2233.ai
   - DOMAIN,claude.2233.ai
