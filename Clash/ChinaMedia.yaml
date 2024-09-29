@@ -21,6 +21,8 @@ payload:
   - DOMAIN,forge.speedtest.cn
   - DOMAIN,qqwry.api.skk.moe
 
+  # IPTV
+  - DOMAIN-SUFFIX,ottdns.com 
   # vod m3u8
   - DOMAIN,heimuer.tv
   - DOMAIN,assets.heimuer.tv
