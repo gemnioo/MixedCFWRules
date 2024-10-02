@@ -24,6 +24,7 @@ payload:
   - DOMAIN,get.civicscience.com
   - DOMAIN,track-sdk-eu.customer.io
   - DOMAIN,api2.amplitude.com
+  - DOMAIN,cdn-f.adsmoloco.com
 
   # sentry tracker
   - DOMAIN,openaicom.imgix.net
