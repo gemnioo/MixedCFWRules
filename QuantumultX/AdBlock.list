@@ -24,6 +24,7 @@ HOST,images.getadmiral.com,AdBlock
 HOST,get.civicscience.com,AdBlock
 HOST,track-sdk-eu.customer.io,AdBlock
 HOST,api2.amplitude.com,AdBlock
+HOST,cdn-f.adsmoloco.com,AdBlock
 
 
 #sentry tracker
