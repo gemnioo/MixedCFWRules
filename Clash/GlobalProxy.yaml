@@ -8,6 +8,7 @@ payload:
   - DOMAIN,zhencgeku.fun
   - DOMAIN-SUFFIX,giter.club
   - DOMAIN,docs.dler.io 
+  - DOMAIN,bilin.ai
  
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
