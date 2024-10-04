@@ -53,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,amagi.tv
 
     # > Amazon Fire TV Stick 
-  - IP-CIDR,3.124.0.0/14,no-resolve
+  # IP-CIDR,3.124.0.0/14,no-resolve
   # IP-CIDR,3.64.0.0/12,no-resolve
 
   # (Live)
