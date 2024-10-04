@@ -112,3 +112,4 @@ payload:
   # IPTV
   - 'feiyangdigital.tg.*.ottdns.com'
   - '*.cctv.cn'
+  - '+.itv.cmvideo.cn'
