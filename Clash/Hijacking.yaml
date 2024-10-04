@@ -26,6 +26,11 @@ payload:
   - DOMAIN,api2.amplitude.com
   - DOMAIN,cdn-f.adsmoloco.com
 
+  # Amazon Device tracker
+  - DOMAIN,device-metrics-us-2.amazon.com
+  - DOMAIN,device-metrics-us-1.amazon.com
+  - DOMAIN,device-metrics-us.amazon.com
+
   # sentry tracker
   - DOMAIN,openaicom.imgix.net
   - DOMAIN,o33249.ingest.sentry.io
