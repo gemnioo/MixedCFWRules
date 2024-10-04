@@ -43,9 +43,9 @@ payload:
   - DOMAIN,estrellanews-amazon.amagi.tv
   - DOMAIN,aca-livecards-service.amazon.com
   - DOMAIN,firetv-news-content-ingestion.amazon.com
-  - DOMAIN,device-metrics-us-2.amazon.com
-  - DOMAIN,device-metrics-us-1.amazon.com
-  - DOMAIN,device-metrics-us.amazon.com
+  # DOMAIN,device-metrics-us-2.amazon.com
+  # DOMAIN,device-metrics-us-1.amazon.com
+  # DOMAIN,device-metrics-us.amazon.com
   - DOMAIN,arcus-uswest.amazon.com
   - DOMAIN,dp-gw-na.amazon.com
   - DOMAIN,mas-ext.amazon.com
