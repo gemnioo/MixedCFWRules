@@ -105,3 +105,10 @@ payload:
   - ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org 
   # Others
   - services.googleapis.cn
+  # Tailscale 
+  - '*.tailscale.com'
+  - '*.tailscale.io'
+  - '*.ts.net'
+  # IPTV
+  - 'feiyangdigital.tg.*.ottdns.com'
+  - '*.cctv.cn'
