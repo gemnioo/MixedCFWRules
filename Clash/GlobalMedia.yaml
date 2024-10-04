@@ -14,6 +14,7 @@ payload:
   - DOMAIN,ippondemoninjin.livedoor.blog
   
   # FireTV Stick 4k or Max 
+  - DOMAIN,msh.amazon.com
   - DOMAIN,msh.amazon.co.uk
   - DOMAIN,prod.amazoncrl.com
   - DOMAIN,api.amazonalexa.com
@@ -40,11 +41,20 @@ payload:
   - DOMAIN,aviary.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
   - DOMAIN,estrellanews-amazon.amagi.tv
+  - DOMAIN,aca-livecards-service.amazon.com
+  - DOMAIN,firetv-news-content-ingestion.amazon.com
+  - DOMAIN,device-metrics-us-2.amazon.com
+  - DOMAIN,arcus-uswest.amazon.com
+  - DOMAIN,mas-ext.amazon.com
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,ocsp.rootca1.amazontrust.com
   - DOMAIN,ocsp.r2m02.amazontrust.com
   - DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
   - DOMAIN-SUFFIX,amagi.tv
+
+    # > Amazon Fire TV Stick 
+  - IP-CIDR,3.124.0.0/14,no-resolve
+  - IP-CIDR,3.64.0.0/12,no-resolve
 
   # (Live)
   # > Twitch
