@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,giter.club
   - DOMAIN,docs.dler.io 
   - DOMAIN,bilin.ai
+  - DOMAIN,epg.v1.mk
+  - DOMAIN,v1.mk
  
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
