@@ -44,7 +44,10 @@ payload:
   - DOMAIN,aca-livecards-service.amazon.com
   - DOMAIN,firetv-news-content-ingestion.amazon.com
   - DOMAIN,device-metrics-us-2.amazon.com
+  - DOMAIN,device-metrics-us-1.amazon.com
+  - DOMAIN,device-metrics-us.amazon.com
   - DOMAIN,arcus-uswest.amazon.com
+  - DOMAIN,dp-gw-na.amazon.com
   - DOMAIN,mas-ext.amazon.com
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,ocsp.rootca1.amazontrust.com
