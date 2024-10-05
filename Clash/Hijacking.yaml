@@ -30,6 +30,7 @@ payload:
   - DOMAIN,device-metrics-us-2.amazon.com
   - DOMAIN,device-metrics-us-1.amazon.com
   - DOMAIN,device-metrics-us.amazon.com
+  - DOMAIN,trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 
   # sentry tracker
   - DOMAIN,openaicom.imgix.net
