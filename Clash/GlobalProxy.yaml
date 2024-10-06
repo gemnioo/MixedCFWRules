@@ -8,9 +8,25 @@ payload:
   - DOMAIN,zhencgeku.fun
   - DOMAIN-SUFFIX,giter.club
   - DOMAIN,docs.dler.io 
+  - DOMAIN,nodeseek.com
+  - DOMAIN,linux.do
   - DOMAIN,bilin.ai
   - DOMAIN,epg.v1.mk
   - DOMAIN,v1.mk
+
+  # Maunal 
+  - DOMAIN,sing-box.sagernet.org
+  - DOMAIN,wiki.metacubex.one
+  - DOMAIN,manual.nssurge.com
+  - DOMAIN,community.nssurge.com
+  - DOMAIN-SUFFIX,nssurge.com
+  - DOMAIN-SUFFIX,v2ray.com
+  - DOMAIN-SUFFIX,v2fly.org
+  - DOMAIN-SUFFIX,hysteria.network
+  - DOMAIN-SUFFIX,clash.wiki
+  - DOMAIN,stash.wiki
+  - DOMAIN,getsurfboard.com
+
  
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
