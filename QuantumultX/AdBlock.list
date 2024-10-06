@@ -26,6 +26,13 @@ HOST,track-sdk-eu.customer.io,AdBlock
 HOST,api2.amplitude.com,AdBlock
 HOST,cdn-f.adsmoloco.com,AdBlock
 
+# Amazon Device tracker
+HOST,device-metrics-us-2.amazon.com,AdBlock
+HOST,device-metrics-us-1.amazon.com,AdBlock
+HOST,device-metrics-us.amazon.com,AdBlock
+HOST,trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev,AdBlock
+HOST-SUFFIX,prod.bugs.firebat.prime-video.amazon.dev,AdBlock
+HOST-SUFFIX,prod.service.minerva.devices.a2z.com,AdBlock
 
 #sentry tracker
 HOST,openaicom.imgix.net,AdBlock
