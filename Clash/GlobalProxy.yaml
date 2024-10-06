@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,hysteria.network
   - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN,stash.wiki
+  - DOMAIN,stash.ws
   - DOMAIN,getsurfboard.com
 
  
