@@ -11,6 +11,13 @@ HOST,ghproxy.com,Mainland
 HOST,ghp.p3terx.com,Mainland
 HOST,github.tmby.shop,Mainland
 
+# > Docker Pull
+HOST,hub-mirror.c.163.com,Mainland
+HOST,mirror.baidubce.com,Mainland
+HOST,docker.m.daocloud.io,Mainland
+HOST,docker.nju.edu.cn,Mainland
+HOST,ghcr.io,Mainland
+
 HOST,api.deepseek.com,Mainland
 HOST,cdn.deepseek.com,Mainland
 HOST,platform.deepseek.com,Mainland
