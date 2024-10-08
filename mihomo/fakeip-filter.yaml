@@ -113,3 +113,9 @@ payload:
   - 'feiyangdigital.tg.*.ottdns.com'
   - '*.cctv.cn'
   - '+.itv.cmvideo.cn'
+  # Docker PULL
+  - hub-mirror.c.163.com
+  - mirror.baidubce.com
+  - docker.m.daocloud.io
+  - docker.nju.edu.cn
+  - ghcr.io
