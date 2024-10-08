@@ -103,6 +103,7 @@ payload:
   - DOMAIN,cdn.concert.io
   
   # Tailscale login
+  - DOMAIN,decagon.ai
   - DOMAIN,cdn.sanity.io
   - DOMAIN-SUFFIX,api.sanity.io
   - DOMAIN,api.rudderstack.com
