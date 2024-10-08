@@ -18,6 +18,7 @@ HOST,docker.m.daocloud.io,Mainland
 HOST,docker.nju.edu.cn,Mainland
 HOST,ghcr.io,Mainland
 
+# > LLMs Proxy API add 
 HOST,api.deepseek.com,Mainland
 HOST,cdn.deepseek.com,Mainland
 HOST,platform.deepseek.com,Mainland
