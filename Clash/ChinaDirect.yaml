@@ -12,6 +12,13 @@ payload:
   - DOMAIN,ghproxy.com
   - DOMAIN,ghp.p3terx.com
   - DOMAIN,github.tmby.shop
+  # Docker Pull
+  - DOMAIN,hub-mirror.c.163.com
+  - DOMAIN,mirror.baidubce.com
+  - DOMAIN,docker.m.daocloud.io
+  - DOMAIN,docker.nju.edu.cn
+  - DOMAIN,ghcr.io
+  
   # LLMs Proxy API add 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
