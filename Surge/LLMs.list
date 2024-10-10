@@ -1,0 +1,65 @@
+# Gemini 
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,alkalimetricsink-pa.clients6.google.com
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,generativeai.google
+  
+DOMAIN,content-developerprofiles-pa.googleapis.com
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN,cdn.auth0.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+# DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,chatgpt.livekit.cloud
+# ChatGPT voice mode TCP 443 request 
+DOMAIN-SUFFIX,turn.livekit.cloud
+# ChatGPT voice mode UDP 3478 request
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN,api.statsig.com
+DOMAIN,browser-intake-datadoghq.com
+
+# Stripe IAP revenuecat
+DOMAIN,js.stripe.com 
+DOMAIN,m.stripe.com
+DOMAIN,r.stripe.com
+DOMAIN,api.stripe.com
+DOMAIN,m.stripe.network
+DOMAIN,b.stripecdn.com
+DOMAIN,merchant-ui-api.stripe.com
+DOMAIN,stripe-camo.global.ssl.fastly.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN,hcaptcha.com
+DOMAIN,api2.hcaptcha.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN,api.revenuecat.com
+
+# Claude
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,pplx-res.cloudinary.com
