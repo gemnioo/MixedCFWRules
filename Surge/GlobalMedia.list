@@ -48,18 +48,18 @@ DOMAIN,firetv-news-content-ingestion.amazon.com
 DOMAIN,arcus-uswest.amazon.com
 DOMAIN,dp-gw-na.amazon.com
 DOMAIN,mas-ext.amazon.com
-  # DOMAIN,sentry.admin.tempo.digital.a2z.com
+# DOMAIN,sentry.admin.tempo.digital.a2z.com
 DOMAIN,ocsp.rootca1.amazontrust.com
 DOMAIN,ocsp.r2m02.amazontrust.com
 DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
 DOMAIN-SUFFIX,amagi.tv
 
-    # > Amazon Fire TV Stick 
-  # IP-CIDR,3.124.0.0/14,no-resolve
-  # IP-CIDR,3.64.0.0/12,no-resolve
+  # > Amazon Fire TV Stick 
+# IP-CIDR,3.124.0.0/14
+# IP-CIDR,3.64.0.0/12
 
-  # (Live)
-  # > Twitch
+# (Live)
+# > Twitch
 PROCESS-NAME,tv.twitch.android.app
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
@@ -68,12 +68,12 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 
-  # > Himalaya
-  # PROCESS-NAME,com.ximalaya.ting.himalaya
-  # DOMAIN-SUFFIX,himalaya.com
+# > Himalaya
+# PROCESS-NAME,com.ximalaya.ting.himalaya
+# DOMAIN-SUFFIX,himalaya.com
 
-  # (Video)
-  # > AbemaTV
+# (Video)
+# > AbemaTV
 PROCESS-NAME,tv.abema
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -310,21 +310,21 @@ DOMAIN-SUFFIX,kkbox.com.tw
 # DOMAIN,intl.iqiyi.com
 # DOMAIN,intl-rcd.iqiyi.com
 # DOMAIN,intl-subscription.iqiyi.com
-# IP-CIDR,23.53.32.88/32,no-resolve
-# IP-CIDR,23.211.15.99/32,no-resolve
-# IP-CIDR,103.5.34.153/32,no-resolve
-# IP-CIDR,104.109.129.153/32,no-resolve
-# IP-CIDR,110.238.107.47/32,no-resolve
-# IP-CIDR,118.26.32.178/32,no-resolve
-# IP-CIDR,203.74.95.131/32,no-resolve
-# IP-CIDR,203.74.95.139/32,no-resolve
-# IP-CIDR,203.74.95.153/32,no-resolve
-# IP-CIDR,203.211.4.169/32,no-resolve
-# IP-CIDR,203.211.4.193/32,no-resolve
-# IP-CIDR,210.71.227.200/32,no-resolve
-# IP-CIDR,210.71.227.202/32,no-resolve
-# IP-CIDR,210.201.32.8/32,no-resolve
-# IP-CIDR,210.201.32.11/32,no-resolve
+# IP-CIDR,23.53.32.88/32
+# IP-CIDR,23.211.15.99/32
+# IP-CIDR,103.5.34.153/32
+# IP-CIDR,104.109.129.153/32
+# IP-CIDR,110.238.107.47/32
+# IP-CIDR,118.26.32.178/32
+# IP-CIDR,203.74.95.131/32
+# IP-CIDR,203.74.95.139/32
+# IP-CIDR,203.74.95.153/32
+# IP-CIDR,203.211.4.169/32
+# IP-CIDR,203.211.4.193/32
+# IP-CIDR,210.71.227.200/32
+# IP-CIDR,210.71.227.202/32
+# IP-CIDR,210.201.32.8/32
+# IP-CIDR,210.201.32.11/32
   
   # KKTV
   # USER-AGENT,KKTV*
@@ -390,23 +390,23 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
-IP-CIDR,8.41.4.0/24,no-resolve
-IP-CIDR,23.246.0.0/18,no-resolve
-IP-CIDR,37.77.184.0/21,no-resolve
-IP-CIDR,38.72.126.0/24,no-resolve
-IP-CIDR,45.57.0.0/17,no-resolve
-IP-CIDR,64.120.128.0/17,no-resolve
-IP-CIDR,66.197.128.0/17,no-resolve
-IP-CIDR,69.53.224.0/19,no-resolve
-IP-CIDR,103.87.204.0/22,no-resolve
-IP-CIDR,108.175.32.0/20,no-resolve
-IP-CIDR,185.2.220.0/22,no-resolve
-IP-CIDR,185.9.188.0/22,no-resolve
-IP-CIDR,192.173.64.0/18,no-resolve
-IP-CIDR,198.38.96.0/19,no-resolve
-IP-CIDR,198.45.48.0/20,no-resolve
-IP-CIDR,207.45.72.0/22,no-resolve
-IP-CIDR,208.75.76.0/22,no-resolve
+IP-CIDR,8.41.4.0/24
+IP-CIDR,23.246.0.0/18
+IP-CIDR,37.77.184.0/21
+IP-CIDR,38.72.126.0/24
+IP-CIDR,45.57.0.0/17
+IP-CIDR,64.120.128.0/17
+IP-CIDR,66.197.128.0/17
+IP-CIDR,69.53.224.0/19
+IP-CIDR,103.87.204.0/22
+IP-CIDR,108.175.32.0/20
+IP-CIDR,185.2.220.0/22
+IP-CIDR,185.9.188.0/22
+IP-CIDR,192.173.64.0/18
+IP-CIDR,198.38.96.0/19
+IP-CIDR,198.45.48.0/20
+IP-CIDR,207.45.72.0/22
+IP-CIDR,208.75.76.0/22
   
   # > Niconico
 PROCESS-NAME,jp.nicovideo.android
@@ -502,7 +502,7 @@ DOMAIN-SUFFIX,viu.tv
 PROCESS-NAME,com.tencent.qqlivei18n
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
-IP-CIDR,150.109.28.51/32,no-resolve
+IP-CIDR,150.109.28.51/32
   # > YouTube
 PROCESS-NAME,com.google.android.youtube
 PROCESS-NAME,com.google.android.youtube.tv
