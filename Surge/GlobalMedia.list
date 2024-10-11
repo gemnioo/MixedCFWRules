@@ -52,6 +52,7 @@ DOMAIN,mas-ext.amazon.com
 DOMAIN,ocsp.rootca1.amazontrust.com
 DOMAIN,ocsp.r2m02.amazontrust.com
 DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
+DOMAIN,preprod.amazoncrl.com
 DOMAIN-SUFFIX,amagi.tv
 
   # > Amazon Fire TV Stick 
