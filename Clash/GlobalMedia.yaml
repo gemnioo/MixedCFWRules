@@ -52,8 +52,9 @@ payload:
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,ocsp.rootca1.amazontrust.com
   - DOMAIN,ocsp.r2m02.amazontrust.com
-  - DOMAIN,preprod.amazoncrl.com
   - DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
+  - DOMAIN,keyboard.amazonfiretvapp.com
+  - DOMAIN,preprod.amazoncrl.com
   - DOMAIN-SUFFIX,amagi.tv
 
     # > Amazon Fire TV Stick 
