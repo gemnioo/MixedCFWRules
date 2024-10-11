@@ -49,6 +49,7 @@ HOST,dp-gw-na.amazon.com,GMedia
 HOST,mas-ext.amazon.com,GMedia
 HOST,ocsp.rootca1.amazontrust.com,GMedia
 HOST,ocsp.r2m02.amazontrust.com,GMedia
+HOST,preprod.amazoncrl.com,GMedia
 HOST,cdn-ue1-prod.tsv2.amagi.tv,GMedia
 HOST-SUFFIX,amagi.tv,GMedia
 
