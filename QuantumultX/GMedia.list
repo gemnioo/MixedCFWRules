@@ -52,6 +52,7 @@ HOST,ocsp.r2m02.amazontrust.com,GMedia
 HOST,preprod.amazoncrl.com,GMedia
 HOST,cdn-ue1-prod.tsv2.amagi.tv,GMedia
 HOST,keyboard.amazonfiretvapp.com,GMedia
+HOST,connect.keyboard-na.amazonfiretvapp.com,GMedia
 HOST-SUFFIX,amagi.tv,GMedia
 
 # > ABC
