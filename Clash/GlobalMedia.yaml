@@ -54,6 +54,7 @@ payload:
   - DOMAIN,ocsp.r2m02.amazontrust.com
   - DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
   - DOMAIN,keyboard.amazonfiretvapp.com
+  - DOMAIN,connect.keyboard-na.amazonfiretvapp.com
   - DOMAIN,preprod.amazoncrl.com
   - DOMAIN-SUFFIX,amagi.tv
 
