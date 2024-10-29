@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN,files.oaiusercontent.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN,cdn.auth0.com
