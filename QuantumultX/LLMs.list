@@ -17,6 +17,7 @@ HOST-SUFFIX,generativeai.google,Open AI
 HOST,content-developerprofiles-pa.googleapis.com,Open AI
 
 # OpenAI
+HOST,chat.com,Open AI
 HOST-SUFFIX,openai.com,Open AI
 HOST-SUFFIX,chatgpt.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
