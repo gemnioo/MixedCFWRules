@@ -60,6 +60,7 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
+# aws bedrock
 DOMAIN,bedrock.us-east-1.amazonaws.com 
 DOMAIN,bedrock-fips.us-east-1.amazonaws.com 
 DOMAIN,bedrock.us-east-2.amazonaws.com 
