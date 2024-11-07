@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN,content-developerprofiles-pa.googleapis.com
 
 # OpenAI
+DOMAIN,chat.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
