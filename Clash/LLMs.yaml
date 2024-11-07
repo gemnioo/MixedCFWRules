@@ -64,25 +64,15 @@ payload:
 
   #aws bedrock
   - DOMAIN,bedrock.us-east-1.amazonaws.com 
-  - DOMAIN,bedrock-fips.us-east-1.amazonaws.com 
   - DOMAIN,bedrock.us-east-2.amazonaws.com 
-  - DOMAIN,bedrock-fips.us-east-2.amazonaws.com 
   - DOMAIN,bedrock.us-west-2.amazonaws.com 
-  - DOMAIN,bedrock-fips.us-west-2.amazonaws.com
   - DOMAIN,bedrock-runtime.us-east-1.amazonaws.com 
-  - DOMAIN,bedrock-runtime-fips.us-east-1.amazonaws.com
   - DOMAIN,bedrock-runtime.us-east-2.amazonaws.com 
-  - DOMAIN,bedrock-runtime-fips.us-east-2.amazonaws.com
   - DOMAIN,bedrock-runtime.us-west-2.amazonaws.com
-  - DOMAIN,bedrock-runtime-fips.us-west-2.amazonaws.com
   - DOMAIN,bedrock-agent.us-east-1.amazonaws.com
-  - DOMAIN,bedrock-agent-fips.us-east-1.amazonaws.com
   - DOMAIN,bedrock-agent.us-west-2.amazonaws.com
-  - DOMAIN,bedrock-agent-fips.us-west-2.amazonaws.com
   - DOMAIN,bedrock-agent-runtime.us-east-1.amazonaws.com
-  - DOMAIN,bedrock-agent-runtime-fips.us-east-1.amazonaws.com
   - DOMAIN,bedrock-agent-runtime.us-west-2.amazonaws.com
-  - DOMAIN,bedrock-agent-runtime-fips.us-west-2.amazonaws.com
 
   # Perplexity
   - DOMAIN-SUFFIX,perplexity.ai
