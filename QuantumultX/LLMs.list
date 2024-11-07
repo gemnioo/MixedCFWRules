@@ -65,6 +65,28 @@ HOST,cdn.usefathom.com,Open AI
 HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,anthropic.com,Open AI
 
+# aws bedrock
+HOST,bedrock.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-fips.us-east-1.amazonaws.com,Open AI
+HOST,bedrock.us-east-2.amazonaws.com,Open AI
+HOST,bedrock-fips.us-east-2.amazonaws.com,Open AI
+HOST,bedrock.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-fips.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-runtime.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-runtime-fips.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-runtime.us-east-2.amazonaws.com,Open AI
+HOST,bedrock-runtime-fips.us-east-2.amazonaws.com,Open AI
+HOST,bedrock-runtime.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-runtime-fips.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-agent.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-agent-fips.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-agent.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-agent-fips.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-agent-runtime.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-agent-runtime-fips.us-east-1.amazonaws.com,Open AI
+HOST,bedrock-agent-runtime.us-west-2.amazonaws.com,Open AI
+HOST,bedrock-agent-runtime-fips.us-west-2.amazonaws.com,Open AI
+
 HOST,pplx-res.cloudinary.com,Open AI
 HOST,pplx-next-static-public.perplexity.ai,REJECT
 HOST,fscdn.eppo.cloud,Outside
