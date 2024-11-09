@@ -23,7 +23,8 @@ payload:
   - DOMAIN,qqwry.api.skk.moe
 
   # IPTV
-  - DOMAIN-SUFFIX,ottdns.com 
+  - DOMAIN-SUFFIX,ottdns.com
+  - DOMAIN,api.livednow.org
   # vod m3u8
   - DOMAIN,heimuer.tv
   - DOMAIN,assets.heimuer.tv
