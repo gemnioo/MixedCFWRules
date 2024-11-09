@@ -115,11 +115,9 @@ payload:
   - '+.itv.cmvideo.cn'
   - tptvo.mobaibox.com
   - '+.playauth.gitv.tv'
-  - newa.yuk.jb-aiwei.cc
-  - d3pxo1qcgzxtxs.cloudfront.net
-  - d12jejjhkd2rcw.cloudfront.net
-  - jmp2.uk
-  - yang-1989.eu.org
+  - tinyurl.com
+  - api.livednow.org
+  - apd-vlive.apdcdn.tc.qq.com
   # Docker PULL
   - hub-mirror.c.163.com
   - mirror.baidubce.com
