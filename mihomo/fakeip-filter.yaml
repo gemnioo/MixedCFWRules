@@ -115,6 +115,7 @@ payload:
   - '+.itv.cmvideo.cn'
   - tptvo.mobaibox.com
   - '+.playauth.gitv.tv'
+  - newa.yuk.jb-aiwei.cc
   # Docker PULL
   - hub-mirror.c.163.com
   - mirror.baidubce.com
