@@ -25,6 +25,7 @@ payload:
   # IPTV
   - DOMAIN-SUFFIX,ottdns.com
   - DOMAIN,api.livednow.org
+  - DOMAIN,oss.rw.bbmmic2.com
   # vod m3u8
   - DOMAIN,heimuer.tv
   - DOMAIN,assets.heimuer.tv
