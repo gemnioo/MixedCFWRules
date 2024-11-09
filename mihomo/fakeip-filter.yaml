@@ -115,7 +115,6 @@ payload:
   - '+.itv.cmvideo.cn'
   - tptvo.mobaibox.com
   - '+.playauth.gitv.tv'
-  - tinyurl.com
   - api.livednow.org
   - apd-vlive.apdcdn.tc.qq.com
   # Docker PULL
