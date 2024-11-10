@@ -12,14 +12,17 @@ HOST,parts.blog.livedoor.jp,GMedia
 HOST,livedoor.sp.blogimg.jp,GMedia
 HOST,ippondemoninjin.livedoor.blog,GMedia
 
-HOST,d3pxo1qcgzxtxs.cloudfront.net,GMedia
-HOST,d12jejjhkd2rcw.cloudfront.net,GMedia
+HOST,oss.rw.bbmmic2.com,Japan
+HOST,gcyivjc.qrneryt.com,Japan
+HOST,newa.yuk.jb-aiwei.cc,Japan
+HOST,erswgeregr.d4s000ejiic.com,Japan
+HOST,d3pxo1qcgzxtxs.cloudfront.net,Japan
+HOST,d12jejjhkd2rcw.cloudfront.net,Japan
+
 HOST,jmp2.uk,GMedia
 HOST,tinyurl.com,GMedia
 HOST,yang-1989.eu.org,GMedia
-HOST,newa.yuk.jb-aiwei.cc,GMedia
 HOST,www.stream-link.org,GMedia
-HOST,epg.aptv.app,GMedia
 
 # > FireTV 4k Max stick 
 HOST,msh.amazon.com,GMedia
