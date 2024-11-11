@@ -20,6 +20,7 @@ HOST,api.livednow.org,CMedia
 HOST,epg.aptv.app,CMedia
 HOST,tv.iill.top,CMedia
 HOST,epg.iill.top,CMedia
+HOST,epg.v1.mk,CMedia
 
 # > vod 
 HOST,heimuer.tv,CMedia
