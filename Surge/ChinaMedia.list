@@ -27,6 +27,7 @@ DOMAIN,api.livednow.org
 DOMAIN,tv.iill.top
 DOMAIN,epg.iill.top
 DOMAIN,epg.aptv.app
+DOMAIN,epg.v1.mk
 
 # vod m3u8
 DOMAIN,heimuer.tv
