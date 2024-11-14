@@ -105,6 +105,9 @@ HOST-SUFFIX,discourse-cdn.com,Outside
 
 # > Tailscale
 HOST,cdn.sanity.io,Outside
+HOST,clerk.decagon.ai,Outside
+HOST,metadata.decagon.ai,Outside
+HOST,cdn.getkoala.com,Outside
 HOST-SUFFIX,api.sanity.io,Outside
 HOST,api.rudderstack.com,Outside
 HOST,api.getkoala.com,Outside
