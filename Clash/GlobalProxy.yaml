@@ -104,6 +104,9 @@ payload:
   
   # Tailscale login
   - DOMAIN,decagon.ai
+  - DOMAIN,clerk.decagon.ai
+  - DOMAIN,metadata.decagon.ai
+  - DOMAIN,cdn.getkoala.com
   - DOMAIN,cdn.sanity.io
   - DOMAIN-SUFFIX,api.sanity.io
   - DOMAIN,api.rudderstack.com
