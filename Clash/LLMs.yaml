@@ -80,3 +80,11 @@ payload:
   # Perplexity
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN,pplx-res.cloudinary.com
+
+  # Jina
+  - DOMAIN,segment.jina.ai
+  - DOMAIN,api.jina.ai
+  - DOMAIN,r.jina.ai
+  - DOMAIN,s.jina.ai
+  - DOMAIN,g.jina.ai
+  - DOMAIN-SUFFIX,jina.ai
