@@ -80,6 +80,7 @@ HOST,bedrock-agent.us-west-2.amazonaws.com,Open AI
 HOST,bedrock-agent-runtime.us-east-1.amazonaws.com,Open AI
 HOST,bedrock-agent-runtime.us-west-2.amazonaws.com,Open AI
 
+# Perplexity
 HOST,pplx-res.cloudinary.com,Open AI
 HOST,pplx-next-static-public.perplexity.ai,REJECT
 HOST,fscdn.eppo.cloud,Outside
@@ -87,6 +88,13 @@ HOST-SUFFIX,perplexity.ai,Open AI
 HOST-SUFFIX,poe.com,Outside
 HOST-SUFFIX,meta.ai,Outside
 
+# Jina
+HOST,segment.jina.ai,Open AI
+HOST,api.jina.ai,Open AI
+HOST,r.jina.ai,Open AI
+HOST,s.jina.ai,Open AI
+HOST,g.jina.ai,Open AI
+HOST-SUFFIX,jina.ai,Open AI
 
 # Other LLMs
 HOST-SUFFIX,coze.com,Outside
@@ -110,18 +118,3 @@ USER-AGENT,PayPal*,Outside
 HOST-KEYWORD,paypal,Outside
 HOST-SUFFIX,paypal.com,Outside
 HOST-SUFFIX,paypalobjects.com,Outside
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
