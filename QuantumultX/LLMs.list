@@ -8,6 +8,7 @@ HOST-SUFFIX,ai.google.dev,Open AI
 HOST-SUFFIX,aistudio.google.com,Open AI
 HOST-SUFFIX,deepmind.com,Open AI
 HOST-SUFFIX,deepmind.google,Open AI
+HOST,generativelanguage.googleapis.com,Open AI
 HOST-SUFFIX,generativelanguage.googleapis.com,Open AI
 HOST-SUFFIX,geller-pa.googleapis.com,Open AI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,Open AI
