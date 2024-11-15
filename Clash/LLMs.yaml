@@ -60,6 +60,7 @@ payload:
 
   # Claude
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,api.anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
 
