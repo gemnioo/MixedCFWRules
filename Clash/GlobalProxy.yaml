@@ -39,6 +39,10 @@ payload:
   - DOMAIN-SUFFIX,fish.audio
   - DOMAIN,api.hf.space
   - DOMAIN,huggingface.co
+  - DOMAIN,openwebui.com
+  - DOMIAN,docs.openwebui.com
+  - DOMAIN,litellm.ai
+  - DOMAIN,docs.litellm.ai
   - DOMAIN,cdn-avatars.huggingface.co
   - DOMAIN-SUFFIX,edge.sdk.awswaf.com
   - DOMAIN,m-ric-agent-data-analyst.hf.space
