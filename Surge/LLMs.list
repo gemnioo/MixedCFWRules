@@ -79,6 +79,12 @@ DOMAIN,bedrock-agent-runtime.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,pplx-res.cloudinary.com
 
+# Mistral 
+DOMAIN,chat.mistral.ai
+DOMAIN,auth.mistral.ai
+DOMAIN,console.mistral.ai
+DOMAIN-SUFFIX,mistral.ai
+
   # Jina
 DOMAIN,segment.jina.ai
 DOMAIN,api.jina.ai
