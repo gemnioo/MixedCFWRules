@@ -88,6 +88,12 @@ HOST-SUFFIX,perplexity.ai,Open AI
 HOST-SUFFIX,poe.com,Outside
 HOST-SUFFIX,meta.ai,Outside
 
+# Mistral
+HOST,chat.mistral.ai,Outside
+HOST,auth.mistral.ai,Outside
+HOST,console.mistral.ai,Outside
+HOST-SUFFIX,mistral.ai,Outside
+
 # Jina
 HOST,segment.jina.ai,Open AI
 HOST,api.jina.ai,Open AI
