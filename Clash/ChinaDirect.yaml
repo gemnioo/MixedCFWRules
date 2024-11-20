@@ -25,9 +25,6 @@ payload:
   - DOMAIN,platform.deepseek.com
   - DOMAIN,api.siliconflow.cn
   - DOMAIN,gf.gpt.ge
-  - DOMAIN,shop.openai.sb
-  - DOMAIN,shop.openai-sb.cn
-  - DOMAIN-SUFFIX,openai-sb.com
   - DOMAIN,api.ohmygpt.com
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
