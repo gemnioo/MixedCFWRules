@@ -64,6 +64,7 @@ HOST,api.revenuecat.com,Open AI
 
 # Claude Meta and poe
 HOST,cdn.usefathom.com,Open AI
+HOST,claudeusercontent.com,Open AI
 HOST,api.anthropic.com,Open AI
 HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,anthropic.com,Open AI
