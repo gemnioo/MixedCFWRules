@@ -59,6 +59,7 @@ DOMAIN,api.revenuecat.com
 
 # Claude
 DOMAIN,cdn.usefathom.com
+DOMAIN,claudeusercontent.com
 DOMAIN,api.anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
