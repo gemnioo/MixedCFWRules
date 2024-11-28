@@ -67,7 +67,7 @@ payload:
   - DOMAIN,www.claudeusercontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
 
-  #aws bedrock
+  # aws bedrock
   - DOMAIN,bedrock.us-east-1.amazonaws.com 
   - DOMAIN,bedrock.us-east-2.amazonaws.com 
   - DOMAIN,bedrock.us-west-2.amazonaws.com 
@@ -96,3 +96,6 @@ payload:
   - DOMAIN,s.jina.ai
   - DOMAIN,g.jina.ai
   - DOMAIN-SUFFIX,jina.ai
+  # Others
+  - DOMAIN,kpu.maisa.ai
+  - DOMAIN-SUFFIX,maisa.ai
