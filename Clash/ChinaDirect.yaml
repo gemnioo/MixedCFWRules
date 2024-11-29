@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,aigcbest.top
   - DOMAIN,api.turboai.one
   - DOMAIN,api.gptsapi.net
+  - DOMAIN,api.iois.me
   - DOMAIN,linkeless.com
   - DOMAIN,www.linkeless.com
 
