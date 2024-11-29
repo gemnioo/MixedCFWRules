@@ -89,6 +89,7 @@ payload:
   - DOMAIN,ocsp.digicert.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN,pypi.org
+  - DOMAIN,kagi.com
 
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,cdn.polyfill.io
