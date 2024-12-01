@@ -13,6 +13,7 @@ payload:
   - DOMAIN,bilin.ai
   - DOMAIN,epg.v1.mk
   - DOMAIN,v1.mk
+  - DOMAIN-SUFFIX,qq-ex.com
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
