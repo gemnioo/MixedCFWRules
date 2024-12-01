@@ -94,7 +94,13 @@ payload:
   - DOMAIN,ocsp.digicert.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN,pypi.org
+  # kago search
   - DOMAIN,kagi.com
+  - DOMAIN,assets.kagi.com
+  - DOMAIN,staticmedia.kagi.com
+  - DOMAIN,sidekick-ui.kagi.com
+  - DOMAIN-SUFFIX,kagi.com
+
 
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,cdn.polyfill.io
