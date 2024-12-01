@@ -49,9 +49,13 @@ HOST,chat-agents.lobehub.com,Outside
 HOST,chat-plugins.lobehub.com,Outside
 HOST-SUFFIX,lobehub.com,Outside
 
-# > docker pull
+# > docker hub
+HOST,registry.hub.docker.com,Outside
 HOST,registry-1.docker.io,Outside
+HOST,index.docker.io,Outside
 HOST,auth.docker.io,Outside
+HOST,hub.docker.com,Outside
+HOST,docker.com,Outside
 
 # > WildCard 
 HOST,chatgpt.2233.ai,Outside
