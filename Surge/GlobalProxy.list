@@ -106,8 +106,10 @@ DOMAIN,cdn.iframe.ly
 DOMAIN,cdn.v2ex.com
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN,aqicn.org
+DOMAIN,mapq.waqi.info
 DOMAIN,api.waqi.info
-DOMAIN,aqi.aqicn.org
+DOMAIN,api2.waqi.info
+DOMAIN-SUFFIX,waqi.info
   
 DOMAIN,cdn.opecloud.com
   # DOMAIN,cdn.jsdelivr.net
