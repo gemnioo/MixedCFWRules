@@ -103,8 +103,10 @@ HOST,cdn.iframe.ly,Outside
 HOST,cdn.v2ex.com,Outside
 HOST-SUFFIX,tile.openstreetmap.org,Outside
 HOST,aqicn.org,Outside
+HOST,mapq.waqi.info,Outside
 HOST,api.waqi.info,Outside
-HOST,aqi.aqicn.org,Outside
+HOST,api2.waqi.info,Outside
+HOST-SUFFIX,waqi.info,Outside
 
 HOST,cdn.opecloud.com,Outside
 # > cdn.jsdelivr.net,Outside
