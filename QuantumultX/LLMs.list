@@ -19,13 +19,16 @@ HOST,content-developerprofiles-pa.googleapis.com,Open AI
 
 # OpenAI
 HOST,chat.com,Open AI
+HOST,ios.chat.openai.com,Open AI
+HOST,android.chat.openai.com,Open AI
+HOST,desktop.chat.openai.com,Open AI
 HOST-SUFFIX,openai.com,Open AI
 HOST-SUFFIX,chatgpt.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
+HOST,files.oaiusercontent.com,Open AI
 HOST-SUFFIX,oaiusercontent.com,Open AI
 HOST-SUFFIX,identrust.com,Open AI
 HOST,cdn.auth0.com,Open AI
-HOST,ios.chat.openai.com,Open AI
 HOST,challenges.cloudflare.com,Open AI
 HOST,chat.openai.com.cdn.cloudflare.net,Open AI
 HOST,openaiapi-site.azureedge.net,Open AI
@@ -41,6 +44,8 @@ HOST-SUFFIX,turn.livekit.cloud,Open AI
 HOST-SUFFIX,host.livekit.cloud,Open AI
 HOST,api.statsig.com,Open AI
 HOST,browser-intake-datadoghq.com,Open AI
+HOST,prodregistryv2.org,Open AI
+HOST,featureassets.org,Open AI
 
 HOST,openaicom.imgix.net,REJECT 
 HOST,o33249.ingest.sentry.io,REJECT
@@ -69,6 +74,7 @@ HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,anthropic.com,Open AI
 HOST,www.claudeusercontent.com,Open AI
 HOST-SUFFIX,claudeusercontent.com,Open AI
+HOST,api3.siftscience.com,Open AI
 
 # aws bedrock
 HOST,bedrock.us-east-1.amazonaws.com,Open AI
