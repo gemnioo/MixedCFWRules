@@ -45,6 +45,7 @@ payload:
   - DOMAIN,o245571.ingest.sentry.io
   - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,o1118313.ingest.us.sentry.io
+  - DOMAIN,o1158394.ingest.us.sentry.io
   
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
