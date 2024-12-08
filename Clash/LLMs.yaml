@@ -20,6 +20,9 @@ payload:
 
   # OpenAI
   - DOMAIN,chat.com
+  - DOMAIN,ios.chat.openai.com
+  - DOMAIN,android.chat.openai.com
+  - DOMAIN,desktop.chat.openai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
@@ -27,7 +30,6 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN,cdn.auth0.com
-  - DOMAIN,ios.chat.openai.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,openaiapi-site.azureedge.net
@@ -42,7 +44,10 @@ payload:
  # ChatGPT voice mode UDP 3478 request
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN,api.statsig.com
-  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,rum.browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN,prodregistryv2.org
+  - DOMAIN,featureassets.org
 
  # Stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
@@ -66,6 +71,8 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,www.claudeusercontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  # Claude iOS app Sift API
+  - DOMAIN,api3.siftscience.com
 
   # aws bedrock
   - DOMAIN,bedrock.us-east-1.amazonaws.com 
