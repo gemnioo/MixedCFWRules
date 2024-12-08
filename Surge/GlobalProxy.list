@@ -12,6 +12,8 @@ DOMAIN,linux.do
 DOMAIN,bilin.ai
 DOMAIN,epg.v1.mk
 DOMAIN,v1.mk
+DOMAIN-SUFFIX,qq-ex.com
+DOMAIN-SUFFIX,speed.misaka.one
 
   # Maunal 
 DOMAIN,sing-box.sagernet.org
@@ -72,8 +74,10 @@ DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
   # Intercom Customer sevice
 DOMAIN,api-iam.intercom.io
 DOMAIN,widget.intercom.io
+DOMAIN-SUFFIX,intercom.io
 DOMAIN,js.intercomcdn.com
 DOMAIN,downloads.intercomcdn.com
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,wwww.intercom.com
 DOMAIN,www.intercom-reporting.com
 DOMAIN,static.intercomassets.com
