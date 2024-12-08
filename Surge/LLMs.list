@@ -19,28 +19,34 @@ DOMAIN,content-developerprofiles-pa.googleapis.com
 
 # OpenAI
 DOMAIN,chat.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,android.chat.openai.com
+DOMAIN,desktop.chat.openai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN,files.oaiusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN,cdn.auth0.com
-DOMAIN,ios.chat.openai.com
 DOMAIN,challenges.cloudflare.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-# DOMAIN,nexus-websocket-a.intercom.io
+  # DOMAIN,nexus-websocket-a.intercom.io
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,chatgpt.livekit.cloud
-# ChatGPT voice mode TCP 443 request 
+ # ChatGPT voice mode TCP 443 request 
 DOMAIN-SUFFIX,turn.livekit.cloud
-# ChatGPT voice mode UDP 3478 request
+ # ChatGPT voice mode UDP 3478 request
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN,api.statsig.com
-DOMAIN,browser-intake-datadoghq.com
+DOMAIN,rum.browser-intake-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN,prodregistryv2.org
+DOMAIN,featureassets.org
 
 # Stripe IAP revenuecat
 DOMAIN,js.stripe.com 
@@ -64,6 +70,8 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN,www.claudeusercontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
+# Claude iOS app Sift API
+DOMAIN,api3.siftscience.com
 
 # aws bedrock
 DOMAIN,bedrock.us-east-1.amazonaws.com 
