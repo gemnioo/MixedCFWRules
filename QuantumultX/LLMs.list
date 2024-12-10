@@ -46,6 +46,11 @@ HOST,api.statsig.com,Open AI
 HOST,browser-intake-datadoghq.com,Open AI
 HOST,prodregistryv2.org,Open AI
 HOST,featureassets.org,Open AI
+# Sora
+HOST,www.sora.com,Open AI
+HOST,sora-cdn.oaistatic.com,Open AI
+HOST-SUFFIX,sora.com,Open AI
+HOST,videos.openai.com,Open AI
 
 HOST,openaicom.imgix.net,REJECT 
 HOST,o33249.ingest.sentry.io,REJECT
