@@ -81,6 +81,9 @@ HOST,www.claudeusercontent.com,Open AI
 HOST-SUFFIX,claudeusercontent.com,Open AI
 HOST,api3.siftscience.com,Open AI
 
+HOST,o1158394.ingest.us.sentry.io,REJECT
+HOST,o1158394.ingest.us.sentry.io,REJECT
+
 # aws bedrock
 HOST,bedrock.us-east-1.amazonaws.com,Open AI
 HOST,bedrock.us-east-2.amazonaws.com,Open AI
