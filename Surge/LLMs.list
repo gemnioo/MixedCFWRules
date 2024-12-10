@@ -47,6 +47,11 @@ DOMAIN,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN,prodregistryv2.org
 DOMAIN,featureassets.org
+# Sora
+DOMAIN,www.sora.com
+DOMAIN,sora-cdn.oaistatic.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN,videos.openai.com
 
 # Stripe IAP revenuecat
 DOMAIN,js.stripe.com 
