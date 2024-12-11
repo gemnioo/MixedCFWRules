@@ -29,6 +29,8 @@ payload:
   - DOMAIN,stash.wiki
   - DOMAIN,stash.ws
   - DOMAIN,getsurfboard.com
+  - DOMAIN,formulae.brew.sh
+  - DOMAIN-SUFFIX,aws.cloud2.influxdata.com
 
  
   # Some LLMs non restricted
