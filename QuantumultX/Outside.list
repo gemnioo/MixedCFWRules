@@ -26,6 +26,8 @@ HOST-SUFFIX,clash.wiki,Outside
 HOST,stash.wiki,Outside
 HOST,stash.ws,Outside
 HOST,getsurfboard.com,Outside
+HOST,formulae.brew.sh,Outside
+HOST-SUFFIX,aws.cloud2.influxdata.com,Outside
 
  
 # > Some LLMs non restricted
