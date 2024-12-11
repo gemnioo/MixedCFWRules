@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,caixin.com
   - DOMAIN-SUFFIX,shimo.im
   - DOMAIN,ghp.p3terx.com
+  - DOMAIN,shidianguji.com
 
   # Github Acce
   - DOMAIN,ghproxy.com
