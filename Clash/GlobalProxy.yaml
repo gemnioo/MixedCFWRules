@@ -58,6 +58,8 @@ payload:
   - DOMAIN,chat-agents.lobehub.com
   - DOMAIN,chat-plugins.lobehub.com
   - DOMAIN-SUFFIX,lobehub.com
+  - DOMAIN,lobehub.search1api.com
+  - DOMAIN,pics.fatwang2.com
 
   # Docker Hub
   - DOMAIN,registry.hub.docker.com
