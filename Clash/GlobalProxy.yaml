@@ -14,6 +14,8 @@ payload:
   - DOMAIN,epg.v1.mk
   - DOMAIN,v1.mk
   - DOMAIN-SUFFIX,qq-ex.com
+  - DOMAIN,uspto.report
+  - DOMAIN,ramuk.intertekconnect.com
   - DOMAIN-SUFFIX,speed.misaka.one
 
   # Maunal 
