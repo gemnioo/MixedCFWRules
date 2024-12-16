@@ -49,6 +49,7 @@ payload:
   - DOMAIN,docs.openwebui.com
   - DOMAIN,litellm.ai
   - DOMAIN,docs.litellm.ai
+  - DOMAIN-SUFFIX,bolt.new
   - DOMAIN,cdn-avatars.huggingface.co
   - DOMAIN-SUFFIX,edge.sdk.awswaf.com
   - DOMAIN,m-ric-agent-data-analyst.hf.space
