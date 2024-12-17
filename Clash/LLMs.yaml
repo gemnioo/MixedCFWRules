@@ -7,6 +7,7 @@ payload:
   - DOMAIN,alkalimetricsink-pa.clients6.google.com
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
+  - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN,generativelanguage.googleapis.com
