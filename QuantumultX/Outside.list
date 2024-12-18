@@ -122,10 +122,13 @@ HOST,avatars.discourse-cdn.com,Outside
 HOST-SUFFIX,discourse-cdn.com,Outside
 
 # > Tailscale
-HOST,cdn.sanity.io,Outside
+HOST,decagon.ai,Outside
+HOST,api.decagon.ai,Outside
 HOST,clerk.decagon.ai,Outside
 HOST,metadata.decagon.ai,Outside
+HOST-SUFFIX,decagon.ai,Outside
 HOST,cdn.getkoala.com,Outside
+HOST,cdn.sanity.io,Outside
 HOST-SUFFIX,api.sanity.io,Outside
 HOST,api.rudderstack.com,Outside
 HOST,api.getkoala.com,Outside
