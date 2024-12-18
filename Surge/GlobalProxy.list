@@ -125,8 +125,10 @@ DOMAIN,cdn.concert.io
   
   # Tailscale login
 DOMAIN,decagon.ai
+DOMAIN,api.decagon.ai
 DOMAIN,clerk.decagon.ai
 DOMAIN,metadata.decagon.ai
+DOMAIN-SUFFIX,decagon.ai
 DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.sanity.io
 DOMAIN-SUFFIX,api.sanity.io
