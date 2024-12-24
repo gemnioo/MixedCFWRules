@@ -222,6 +222,9 @@ DOMAIN,images.wsjcommerce.net
 DOMAIN-SUFFIX,i-scmp.com
 DOMAIN-SUFFIX,scmp.com
 DOMAIN,sc.mp
+DOMAIN-SUFFIX,sphdigital.com.sg
+DOMAIN-SUFFIX,mysph.sph.com.sg
+DOMAIN-SUFFIX,activation.sph.com.sg
 
 DOMAIN,apps.voxmedia.com
 DOMAIN-SUFFIX,coralproject.net
