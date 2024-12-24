@@ -212,6 +212,9 @@ HOST,images.wsjcommerce.net,Outside
 HOST-SUFFIX,i-scmp.com,Outside
 HOST-SUFFIX,scmp.com,Outside
 HOST,sc.mp,Outside
+HOST-SUFFIX,sphdigital.com.sg,Outside
+HOST-SUFFIX,mysph.sph.com.sg,Outside
+HOST-SUFFIX,activation.sph.com.sg,Outside
 
 HOST,apps.voxmedia.com,Outside
 HOST,pdst.fm,Outside
