@@ -32,6 +32,7 @@ payload:
   - DOMAIN,stash.ws
   - DOMAIN,getsurfboard.com
   - DOMAIN,formulae.brew.sh
+  - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,aws.cloud2.influxdata.com
 
  
