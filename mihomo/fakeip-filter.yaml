@@ -111,6 +111,14 @@ payload:
   - '*.ts.net'
   # IPTV
   - 'feiyangdigital.tg.*.ottdns.com'
+  - ott.wasulive.cmdns.xyz
+  - ott.bestlive.cmdns.xyz
+  - ott.hnbblive.cmdns.xyz
+  - ott.ystenlive.cmdns.xyz
+  - ott.fifalive.cmdns.xyz
+  - gslbserv.itv.cmvideo.cn
+  - liveali-tp4k.cctv.cn
+  - liveali-tpgq.cctv.cn
   - '*.cctv.cn'
   - '+.itv.cmvideo.cn'
   - tptvo.mobaibox.com
