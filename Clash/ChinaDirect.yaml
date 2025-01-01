@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,shimo.im
   - DOMAIN,ghp.p3terx.com
   - DOMAIN,shidianguji.com
+  - DOMAIN,iptv.cc
 
   # Github Acce
   - DOMAIN,ghproxy.com
