@@ -6,21 +6,23 @@ DOMAIN,vod.volcengineapi.com
 DOMAIN,cixigj.tongda.cc
 DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,shimo.im
+DOMAIN,ghp.p3terx.com
+DOMAIN,shidianguji.com
+DOMAIN,iptv.cc
 
   # Github Acce
 DOMAIN,ghproxy.com
 DOMAIN,ghp.p3terx.com
-DOMAIN,github.tmby.shop
   # Docker Pull
 DOMAIN,hub-mirror.c.163.com
 DOMAIN,mirror.baidubce.com
 DOMAIN,docker.m.daocloud.io
 DOMAIN,docker.nju.edu.cn
-DOMAIN,ghcr.io
   
   # LLMs Proxy API add 
 DOMAIN,api.deepseek.com
 DOMAIN,cdn.deepseek.com
+DOMAIN,status.deepseek.com
 DOMAIN,platform.deepseek.com
 DOMAIN,api.siliconflow.cn
 DOMAIN,gf.gpt.ge
