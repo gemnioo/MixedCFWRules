@@ -70,6 +70,8 @@ DOMAIN,index.docker.io
 DOMAIN,auth.docker.io
 DOMAIN,hub.docker.com
 DOMAIN,docker.com
+DOMAIN,ghcr.io
+
   # WildCard 
 DOMAIN,chatgpt.2233.ai
 DOMAIN,claude.2233.ai
