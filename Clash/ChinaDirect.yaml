@@ -25,6 +25,7 @@ payload:
   # LLMs Proxy API add 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
+  - DOMAIN,status.deepseek.com
   - DOMAIN,platform.deepseek.com
   - DOMAIN,api.siliconflow.cn
   - DOMAIN,gf.gpt.ge
