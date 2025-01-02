@@ -17,6 +17,10 @@ DOMAIN,hub-mirror.c.163.com
 DOMAIN,mirror.baidubce.com
 DOMAIN,docker.m.daocloud.io
 DOMAIN,docker.nju.edu.cn
+  # DigiCert for CN
+DOMAIN,crl.digicert-cn.com
+DOMAIN,ocsp.digicert.cn
+DOMAIN,crl.digicert.cn
   
   # LLMs Proxy API add 
 DOMAIN,api.deepseek.com
