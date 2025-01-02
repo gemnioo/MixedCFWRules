@@ -66,6 +66,7 @@ HOST,index.docker.io,Outside
 HOST,auth.docker.io,Outside
 HOST,hub.docker.com,Outside
 HOST,docker.com,Outside
+HOST,ghcr.io,Outside
 
 # > WildCard 
 HOST,chatgpt.2233.ai,Outside
