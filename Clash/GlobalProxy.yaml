@@ -75,6 +75,7 @@ payload:
   - DOMAIN,auth.docker.io
   - DOMAIN,hub.docker.com
   - DOMAIN,docker.com
+  - DOMAIN,ghcr.io
   
   # WildCard 
   - DOMAIN,chatgpt.2233.ai
