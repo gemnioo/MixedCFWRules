@@ -5,11 +5,12 @@ HOST,vod.volcengineapi.com,Mainland
 HOST,cixigj.tongda.cc,Mainland
 HOST-SUFFIX,caixin.com,Mainland
 HOST-SUFFIX,shimo.im,Mainland
+HOST,shidianguji.com,Mainland
+HOST,iptv.cc,Mainland
 
 # > Github Acce
 HOST,ghproxy.com,Mainland
 HOST,ghp.p3terx.com,Mainland
-HOST,github.tmby.shop,Mainland
 
 # > Docker Pull
 HOST,hub-mirror.c.163.com,Mainland
