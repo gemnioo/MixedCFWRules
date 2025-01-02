@@ -18,6 +18,11 @@ HOST,mirror.baidubce.com,Mainland
 HOST,docker.m.daocloud.io,Mainland
 HOST,docker.nju.edu.cn,Mainland
 
+# > DigiCert for CN
+HOST,crl.digicert-cn.com,Mainland
+HOST,ocsp.digicert.cn,Mainland
+HOST,crl.digicert.cn,Mainland
+
 # > LLMs Proxy API add 
 HOST,api.deepseek.com,Mainland
 HOST,cdn.deepseek.com,Mainland
