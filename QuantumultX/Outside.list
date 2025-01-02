@@ -6,12 +6,17 @@ HOST,trusting-glitter-4f0.notion.site,Outside
 HOST,ocmacro.com,Outside
 HOST,zhencgeku.fun,Outside
 HOST-SUFFIX,giter.club,Outside
+HOST,claw.cloud,Outside
 HOST,docs.dler.io,Outside
 HOST,nodeseek.com,Outside
 HOST,linux.do,Outside
 HOST,bilin.ai,Outside
 HOST,epg.v1.mk,Outside
 HOST,v1.mk,Outside
+HOST-SUFFIX,qq-ex.com,Outside
+HOST,uspto.report,Outside
+HOST,ramuk.intertekconnect.com,Outside
+HOST-SUFFIX,speed.misaka.one,Outside
 
 # > Maunal 
 HOST,sing-box.sagernet.org,Outside
@@ -29,6 +34,8 @@ HOST,getsurfboard.com,Outside
 HOST,formulae.brew.sh,Outside
 HOST-SUFFIX,vscode-cdn.net,Outside
 HOST-SUFFIX,aws.cloud2.influxdata.com,Outside
+HOST,www.linkeless.com,Outside
+HOST-SUFFIX,linkeless.com,Outside
 
  
 # > Some LLMs non restricted
@@ -79,7 +86,6 @@ HOST,static.intercomassets.com,Outside
 HOST,intercom.help,Outside
 HOST,nexus-websocket-a.intercom.io,Outside
 
-
 HOST-SUFFIX,vercel.app,Outside
 HOST,api.raycast.app,Outside
 HOST,releases.raycast.com,Outside
@@ -92,6 +98,10 @@ HOST,ocsp.pki.goog,Outside
 HOST,ocsp.digicert.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
 HOST,pypi.org,Outside
+HOST,app.cal.com,Outside
+HOST,twenty.com,Outside
+HOST,framerusercontent.com,Outside
+HOST,framer.com,Outside
 
 HOST,kagi.com,Outside
 HOST,assets.kagi.com,Outside
