@@ -13,7 +13,6 @@ payload:
   # Github Acce
   - DOMAIN,ghproxy.com
   - DOMAIN,ghp.p3terx.com
-  - DOMAIN,github.tmby.shop
   # Docker Pull
   - DOMAIN,hub-mirror.c.163.com
   - DOMAIN,mirror.baidubce.com
