@@ -110,6 +110,11 @@ payload:
   - DOMAIN,ocsp.digicert.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN,pypi.org
+  - DOMAIN,app.cal.com
+  - DOMAIN,twenty.com
+  - DOMAIN,framerusercontent.com
+  - DOMAIN,framer.com
+  
   
   # kagi search
   - DOMAIN,kagi.com
