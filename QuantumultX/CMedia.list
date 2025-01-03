@@ -17,6 +17,7 @@ HOST-SUFFIX,bytecdntp.com,CMedia
 # > m3u
 HOST-SUFFIX,ottdns.com,CMedia
 HOST,live.fanmingming.com,CMedia
+HOST,live.fanmingming.cn,CMedia
 HOST,api.livednow.org,CMedia
 HOST,epg.aptv.app,CMedia
 HOST,tv.iill.top,CMedia
