@@ -17,9 +17,13 @@ payload:
   - DOMAIN-SUFFIX,qq-ex.com
   - DOMAIN,uspto.report
   - DOMAIN,ramuk.intertekconnect.com
-  - DOMAIN-SUFFIX,speed.misaka.one
+  # need merge to IP test Part
+  - DOMAIN,v4.ident.me
+  - DOMAIN,v6.ident.me
+  - DOMAIN-SUFFIX,ident.me
   - DOMAIN,ipv4.icanhazip.com
   - DOMAIN,ipv6.icanhazip.com
+  - DOMAIN-SUFFIX,speed.misaka.one
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
