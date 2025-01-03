@@ -24,6 +24,10 @@ HOST,qqwry.api.skk.moe,Speedtest
 HOST,api-ipv4.ip.sb,Speedtest
 HOST,ftp.jaist.ac.jp,Speedtest
 
+# Surfboard IP check
+HOST,ipv4.icanhazip.com,Outside
+HOST,ipv6.icanhazip.com,Outside
+
 # Control jsDliver
 HOST,cdn.jsdelivr.net,Speedtest
 HOST-SUFFIX,jsdelivr.net,Speedtest
