@@ -18,6 +18,8 @@ payload:
   - DOMAIN,uspto.report
   - DOMAIN,ramuk.intertekconnect.com
   - DOMAIN-SUFFIX,speed.misaka.one
+  - DMOAIN,ipv4.icanhazip.com
+  - DMOAIN,ipv6.icanhazip.com
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
