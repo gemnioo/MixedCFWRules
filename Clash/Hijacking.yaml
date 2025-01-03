@@ -55,6 +55,12 @@ payload:
   - DOMAIN,www.vyh9v.app
   - DOMAIN,qz1gy.app
 
+  # PotPlayer ads
+  - DOMAIN,tat.tiara.kaokao.com
+  - DOMAIN,p1-play.edge4k.com
+  - DOMAIN,p1-play.kgslb.com
+  - DOMAIN,track.tiara.g.daum.net
+
   # Dow Jones cookies collector
   - DOMAIN,collector.archimedes.dowjones.io
   - DOMAIN,oms.dowjoneson.com
