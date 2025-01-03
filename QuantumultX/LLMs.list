@@ -101,6 +101,8 @@ HOST,bedrock-agent-runtime.us-west-2.amazonaws.com,Open AI
 HOST,pplx-res.cloudinary.com,Open AI
 HOST,pplx-next-static-public.perplexity.ai,REJECT
 HOST,fscdn.eppo.cloud,Outside
+HOST,www.perplexity.ai,Open AI
+HOST,discover-audio.perplexity.ai,Open AI
 HOST-SUFFIX,perplexity.ai,Open AI
 HOST-SUFFIX,poe.com,Outside
 HOST-SUFFIX,meta.ai,Outside
