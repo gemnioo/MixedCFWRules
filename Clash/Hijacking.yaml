@@ -28,6 +28,7 @@ payload:
   - DOMAIN,track-sdk-eu.customer.io
   - DOMAIN,api2.amplitude.com
   - DOMAIN,cdn-f.adsmoloco.com
+  - DOMIAN,static-content-1.smadex.com
 
   # Amazon Device tracker
   - DOMAIN,device-metrics-us-2.amazon.com
