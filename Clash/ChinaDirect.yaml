@@ -5,6 +5,7 @@ payload:
   - DOMAIN,ocsp.crlocsp.cn
   - DOMAIN,vod.volcengineapi.com
   - DOMAIN,cixigj.tongda.cc
+  - DOMAIN-SUFFIX,cxhr.com
   - DOMAIN-SUFFIX,caixin.com
   - DOMAIN-SUFFIX,shimo.im
   - DOMAIN,shidianguji.com
