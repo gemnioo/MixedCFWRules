@@ -2,6 +2,7 @@
 HOST,wj.qq.com,Mainland
 HOST,ocsp.crlocsp.cn,Mainland
 HOST,vod.volcengineapi.com,Mainland
+HOST-SUFFIX,cxhr.com,Mainland
 HOST,cixigj.tongda.cc,Mainland
 HOST-SUFFIX,caixin.com,Mainland
 HOST-SUFFIX,shimo.im,Mainland
