@@ -113,6 +113,10 @@ HOST-SUFFIX,firefox.com,Microsoft
 HOST-SUFFIX,firefox.com.cn,Microsoft
 HOST-SUFFIX,firefoxusercontent.com,Microsoft
 
+  # > Fastly Oblivious HTTP Relay
+HOST,ohttp-relay1.fastly-edge.com,Microsoft
+HOST-SUFFIX,fastly-edge.com,Microsoft
+
   # > Let's Encrypt,
 HOST,r10.o.lencr.org,Microsoft
 HOST-SUFFIX,o.lencr.org,Microsoft
