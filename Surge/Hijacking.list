@@ -25,6 +25,7 @@ DOMAIN,get.civicscience.com
 DOMAIN,track-sdk-eu.customer.io
 DOMAIN,api2.amplitude.com
 DOMAIN,cdn-f.adsmoloco.com
+DOMAIN.static-content-1.smadex.com
 
   # Amazon Device tracker
 DOMAIN,device-metrics-us-2.amazon.com
