@@ -24,6 +24,10 @@ DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.com.cn
 DOMAIN-SUFFIX,firefoxusercontent.com
 
+# > Fastly Oblivious HTTP Relay
+DOMAIN,ohttp-relay1.fastly-edge.com
+DOMAIN-SUFFIX,fastly-edge.com
+
 # > Let's Encrypt
 DOMAIN,r10.o.lencr.org
 DOMAIN-SUFFIX,o.lencr.org
