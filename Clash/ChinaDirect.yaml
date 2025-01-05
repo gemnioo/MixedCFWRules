@@ -32,6 +32,9 @@ payload:
   - DOMAIN,status.deepseek.com
   - DOMAIN,platform.deepseek.com
   - DOMAIN,api.siliconflow.cn
+  - DOMAIN,sso.openxlab.org.cn
+  - DOMAIN,internlm.intern-ai.org.cn
+  - DOMAIN,internlm-chat.intern-ai.org.cn
   - DOMAIN,gf.gpt.ge
   - DOMAIN,api.ohmygpt.com
   - DOMAIN-SUFFIX,aihubmix.com
