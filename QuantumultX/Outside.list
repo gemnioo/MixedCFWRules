@@ -17,6 +17,7 @@ HOST-SUFFIX,qq-ex.com,Outside
 HOST,uspto.report,Outside
 HOST,ramuk.intertekconnect.com,Outside
 HOST-SUFFIX,speed.misaka.one,Outside
+HOST,api.nxtrace.org,Outside
 
 # > Maunal 
 HOST,sing-box.sagernet.org,Outside
