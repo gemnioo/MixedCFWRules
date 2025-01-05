@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,ident.me
 DOMAIN,ipv4.icanhazip.com
 DOMAIN,ipv6.icanhazip.com
 DOMAIN-SUFFIX,speed.misaka.one
+DOMAIN,api.nxtrace.org
 
   # Maunal 
 DOMAIN,sing-box.sagernet.org
