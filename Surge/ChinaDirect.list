@@ -31,6 +31,9 @@ DOMAIN,cdn.deepseek.com
 DOMAIN,status.deepseek.com
 DOMAIN,platform.deepseek.com
 DOMAIN,api.siliconflow.cn
+DOMAIN,sso.openxlab.org.cn
+DOMAIN,internlm.intern-ai.org.cn
+DOMAIN,internlm-chat.intern-ai.org.cn
 DOMAIN,gf.gpt.ge
 DOMAIN,shop.openai.sb
 DOMAIN,shop.openai-sb.cn
