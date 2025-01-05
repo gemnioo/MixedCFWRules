@@ -122,6 +122,10 @@ HOST,g.jina.ai,Open AI
 HOST-SUFFIX,jina.ai,Open AI
 
 # Other LLMs
+HOST,x.ai,Open AI
+HOST,ai.gitee.com,Open AI
+HOST,kpu.maisa.ai,Open AI
+HOST-SUFFIX,maisa.ai,Open AI
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
 HOST-SUFFIX,civitai.com,Outside
