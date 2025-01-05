@@ -31,6 +31,9 @@ HOST,cdn.deepseek.com,Mainland
 HOST,status.deepseek.com,Mainland
 HOST,platform.deepseek.com,Mainland
 HOST,api.siliconflow.cn,Mainland
+HOST,sso.openxlab.org.cn,Mainland
+HOST,internlm.intern-ai.org.cn,Mainland
+HOST,internlm-chat.intern-ai.org.cn,Mainland
 HOST,gf.gpt.ge,Mainland
 HOST,shop.openai.sb,Mainland
 HOST,shop.openai-sb.cn,Mainland
