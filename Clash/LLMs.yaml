@@ -110,5 +110,7 @@ payload:
   - DOMAIN,g.jina.ai
   - DOMAIN-SUFFIX,jina.ai
   # Others
+  - DOMAIN,x.ai
+  - DOMAIN,ai.gitee.com
   - DOMAIN,kpu.maisa.ai
   - DOMAIN-SUFFIX,maisa.ai
