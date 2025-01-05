@@ -140,8 +140,6 @@ HOST-SUFFIX,token.awswaf.com,Outside
 # Hugging Face de5282c3ca0c
 HOST-KEYWORD,de5282c3ca0c,Outside
 
-
-
 # > Paypal 
 USER-AGENT,PayPal*,Outside
 HOST-KEYWORD,paypal,Outside
