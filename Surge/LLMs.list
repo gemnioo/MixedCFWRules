@@ -100,10 +100,16 @@ DOMAIN,auth.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
 
-  # Jina
+# Jina
 DOMAIN,segment.jina.ai
 DOMAIN,api.jina.ai
 DOMAIN,r.jina.ai
 DOMAIN,s.jina.ai
 DOMAIN,g.jina.ai
 DOMAIN-SUFFIX,jina.ai
+
+#others
+DOMAIN,x.ai
+DOMAIN,ai.gitee.com
+DOMAIN,kpu.maisa.ai
+DOMAIN-SUFFIX,maisa.ai
