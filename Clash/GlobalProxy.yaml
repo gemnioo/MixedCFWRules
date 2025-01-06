@@ -1000,6 +1000,7 @@ payload:
   - IP-CIDR,13.35.0.0/17,no-resolve
   - IP-CIDR,18.184.0.0/15,no-resolve
   - IP-CIDR,18.194.0.0/15,no-resolve
+  - IP-CIDR,18.198.0.0/15,no-resolve
   - IP-CIDR,18.208.0.0/13,no-resolve
   - IP-CIDR,18.232.0.0/14,no-resolve
   - IP-CIDR,52.200.0.0/13,no-resolve
