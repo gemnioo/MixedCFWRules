@@ -203,6 +203,8 @@ payload:
   - DOMAIN-SUFFIX,go-mpulse
   - DOMAIN-SUFFIX,go-mpulse.net
   - DOMAIN-SUFFIX,godloveme.cn
+  - DOMAIN-SUFFIX,googleadservices-cn.com
+  - DOMAIN-SUFFIX,googlesyndication-cn.com
   - DOMAIN-SUFFIX,gridsum.com
   - DOMAIN-SUFFIX,gridsumdissector.cn
   - DOMAIN-SUFFIX,gridsumdissector.com
