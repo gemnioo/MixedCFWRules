@@ -26,6 +26,8 @@ DOMAIN,track-sdk-eu.customer.io
 DOMAIN,api2.amplitude.com
 DOMAIN,cdn-f.adsmoloco.com
 DOMAIN.static-content-1.smadex.com
+DOMAIN-SUFFIX,googleadservices-cn.com
+DOMAIN-SUFFIX,googlesyndication-cn.com
 
   # Amazon Device tracker
 DOMAIN,device-metrics-us-2.amazon.com
