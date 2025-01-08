@@ -31,6 +31,7 @@ payload:
   - DOMAIN,cdn.deepseek.com
   - DOMAIN,status.deepseek.com
   - DOMAIN,platform.deepseek.com
+  - DOMAIN,castatic.fengkongcloud.cn
   - DOMAIN,api.siliconflow.cn
   - DOMAIN,sso.openxlab.org.cn
   - DOMAIN,internlm.intern-ai.org.cn
