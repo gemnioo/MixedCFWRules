@@ -7,6 +7,7 @@ payload:
   - DOMAIN,ocmacro.com
   - DOMAIN,zhencgeku.fun
   - DOMAIN-SUFFIX,giter.club
+  - DOMAIN-SUFFIX,deepl.com
   - DOMAIN,claw.cloud
   - DOMAIN,docs.dler.io 
   - DOMAIN,nodeseek.com
