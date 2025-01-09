@@ -3,7 +3,7 @@ HOST-SUFFIX,fast.com,Speedtest
 
 # Speedtest by Ookla
 USER-AGENT,SpeedTest*,Speedtest
-HOST-SUFFIX,fast.com,Speedtest
+HOST,www.speedtest.net,Speedtest
 HOST-KEYWORD,speedtest,Speedtest
 HOST-SUFFIX,ooklaserver.net,Speedtest
 HOST,speedtest.wasu.cn,Speedtest
@@ -14,6 +14,8 @@ HOST,cdn.cookielaw.org,Speedtest
 HOST,geolocation.onetrust.com,Speedtest
 
 HOST-SUFFIX,speed.misaka.one,Speedtest
+HOST,lg-hkg.fdcservers.net,Speedtest
+HOST,cugspeed.chinaunicomglobal.com,Speedtest
 HOST,ookla-speedtest-central.hgconair.hgc.com.hk,Speedtest
 HOST,suntechspeedtest.com.prod.hosts.ooklaserver.net,Speedtest
 HOST,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,Speedtest
@@ -21,9 +23,7 @@ HOST,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,Speedtest
 HOST,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,Speedtest
 HOST,kami.smartone.com.prod.hosts.ooklaserver.net,Speedtest
 HOST-SUFFIX,prod.hosts.ooklaserver.net,Speedtest
-HOST,cugspeed.chinaunicomglobal.com,Speedtest
-HOST,lg-hkg.fdcservers.net,Speedtest
-
+HOST-SUFFIX,hosts.ooklaserver.net,Speedtest
 
 # Speed Test by Cloudflare
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
@@ -42,7 +42,6 @@ HOST,v6.ident.me,Outside
 HOST-SUFFIX,ident.me,Outside
 HOST,ipv4.icanhazip.com,Outside
 HOST,ipv6.icanhazip.com,Outside
-HOST-SUFFIX,speed.misaka.one,Outside
 
 # Control jsDliver
 HOST,cdn.jsdelivr.net,Speedtest
