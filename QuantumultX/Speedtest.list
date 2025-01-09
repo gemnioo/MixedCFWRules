@@ -14,6 +14,13 @@ HOST,cdn.cookielaw.org,Speedtest
 HOST,geolocation.onetrust.com,Speedtest
 
 HOST-SUFFIX,speed.misaka.one,Speedtest
+HOST,ookla-speedtest-central.hgconair.hgc.com.hk,Speedtest
+HOST,suntechspeedtest.com.prod.hosts.ooklaserver.net,Speedtest
+HOST,1010.hkspeedtest.com.prod.hosts.ooklaserver.net,Speedtest
+HOST,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net,Speedtest
+HOST,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,Speedtest
+HOST,kami.smartone.com.prod.hosts.ooklaserver.net,Speedtest
+HOST-SUFFIX,prod.hosts.ooklaserver.net,Speedtest
 HOST,cugspeed.chinaunicomglobal.com,Speedtest
 HOST,lg-hkg.fdcservers.net,Speedtest
 
