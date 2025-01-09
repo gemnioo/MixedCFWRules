@@ -1,0 +1,73 @@
+payload:
+  # add for Speedtest node 
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN,www.speedtest.net
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN,speedtest.wasu.cn
+  - DOMAIN,cesu-nb.zjtelecom.com.cn
+  - DOMAIN,5g.shunicomtest.com
+  - DOMAIN,cdn.jwplayer.com
+  - DOMAIN,cdn.cookielaw.org
+  - DOMAIN,geolocation.onetrust.com
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  
+  # openclash ui test endpoint
+  - DOMAIN,d.skk.moe
+  - DOMAIN,api.ttt.sh
+  - DOMAIN,api.ipify.org
+  - DOMAIN,ftp.jaist.ac.jp
+  - DOMAIN,api.ttt.sh.cdn.cloudflare.net
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,fastly.jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.net
+
+  # speedtest hongkong node
+  - DOMAIN,lg-hkg.fdcservers.net
+  - DOMAIN-SUFFIX,speed.misaka.one
+  - DOMAIN,cugspeed.chinaunicomglobal.com
+  - DOMAIN,ookla-speedtest-central.hgconair.hgc.com.hk
+  - DOMAIN,suntechspeedtest.com.prod.hosts.ooklaserver.net
+  - DOMAIN,1010.hkspeedtest.com.prod.hosts.ooklaserver.net
+  - DOMAIN,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net
+  - DOMAIN,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
+  - DOMAIN,kami.smartone.com.prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
+
+  # ipinfo 
+  - DOMAIN,ipinfo.io
+  - DOMAIN,cdn.ipinfo.io
+  - DOMAIN,pixel.ipinfo.io
+  - DOMAIN,website-cdn.ipinfo.io
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN,v4.bgp.tools
+  - DOMAIN,v6.bgp.tools
+  - DOMAIN-SUFFIX,bgp.tools
+  - DOMAIN-SUFFIX,dns.bgp.tools
+  
+  # 3rd party test website
+  - DOMAIN,ipv4.ping0.cc
+  - DOMAIN,ipv6.ping0.cc
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,dnsleak.com
+  - DOMAIN-SUFFIX,expressvpn.com
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,surfshark.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,ipcheck.ing
+  - DOMAIN-SUFFIX,edns.ip-api.com
+  - DOMAIN-SUFFIX,ipv4.surfsharkdns.com
+  - DOMAIN-SUFFIX,perfect-privacy.com
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,vpnunlimited.com
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,whrq.net
+
+  # added
+  - DOMAIN,api.nxtrace.org
+  - DOMAIN,ip.fm
+  - DOMAIN,v4.ident.me
+  - DOMAIN,v6.ident.me
+  - DOMAIN-SUFFIX,ident.me
+  - DOMAIN,ipv4.icanhazip.com
+  - DOMAIN,ipv6.icanhazip.com
