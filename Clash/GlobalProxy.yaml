@@ -200,6 +200,7 @@ payload:
   - DOMAIN,feeds.megaphone.fm
   - DOMAIN,traffic.megaphone.fm
   - DOMAIN,dcs-spotify.megaphone.fm
+  - DOMAIN-SUFFIX,megaphone.fm
   - DOMAIN,content.blubrry.com
 
   - DOMAIN,assets.zerohedge.com  
