@@ -15,6 +15,11 @@ DOMAIN,tinyurl.com
 DOMAIN,yang-1989.eu.org
 DOMAIN,www.stream-link.org
 DOMAIN,t1.daumcdn.net
+
+# add for Speedtest node 
+DOMAIN-SUFFIX,speed.misaka.one
+DOMAIN,cugspeed.chinaunicomglobal.com
+DOMAIN,lg-hkg.fdcservers.net
   
 # FireTV Stick 4k or Max 
 DOMAIN,msh.amazon.com
