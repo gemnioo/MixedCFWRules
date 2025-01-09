@@ -4,8 +4,7 @@ HOST-SUFFIX,fast.com,Speedtest
 # Speedtest by Ookla
 USER-AGENT,SpeedTest*,Speedtest
 HOST,www.speedtest.net,Speedtest
-HOST-KEYWORD,speedtest,Speedtest
-HOST-SUFFIX,ooklaserver.net,Speedtest
+
 HOST,speedtest.wasu.cn,Speedtest
 HOST,cesu-nb.zjtelecom.com.cn,Speedtest
 HOST,5g.shunicomtest.com,Speedtest
@@ -24,6 +23,7 @@ HOST,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net,Speedtest
 HOST,kami.smartone.com.prod.hosts.ooklaserver.net,Speedtest
 HOST-SUFFIX,prod.hosts.ooklaserver.net,Speedtest
 HOST-SUFFIX,hosts.ooklaserver.net,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
 
 # Speed Test by Cloudflare
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
