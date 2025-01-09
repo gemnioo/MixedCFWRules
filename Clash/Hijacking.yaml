@@ -16,6 +16,7 @@ payload:
   - DOMAIN,fbthirdpartypixel.com
   - DOMAIN,diffuser-cdn.app-us1.com
   - DOMAIN,b-code.liadm.com
+  - DOMAIN,www.podtrac.com
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
