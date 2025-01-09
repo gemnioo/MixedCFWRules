@@ -17,8 +17,15 @@ HOST,v1.mk,Outside
 HOST-SUFFIX,qq-ex.com,Outside
 HOST,uspto.report,Outside
 HOST,ramuk.intertekconnect.com,Outside
-HOST-SUFFIX,speed.misaka.one,Outside
+
+# > need merge to IP test Part
+HOST,v4.ident.me,Outside
+HOST,v6.ident.me,Outside
+HOST-SUFFIX,ident.me,Outside
+HOST,ipv4.icanhazip.com,Outside
+HOST,ipv6.icanhazip.com,Outside
 HOST,api.nxtrace.org,Outside
+
 
 # > Maunal 
 HOST,sing-box.sagernet.org,Outside
