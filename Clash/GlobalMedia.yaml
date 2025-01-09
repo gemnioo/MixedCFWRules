@@ -18,6 +18,11 @@ payload:
   - DOMAIN,www.stream-link.org
   # PotPlayer Daum 
   - DOMAIN,t1.daumcdn.net
+
+  # add for Speedtest node 
+  - DOMAIN-SUFFIX,speed.misaka.one
+  - DOMAIN,cugspeed.chinaunicomglobal.com
+  - DOMAIN,lg-hkg.fdcservers.net
   
   # FireTV Stick 4k or Max 
   - DOMAIN,msh.amazon.com
