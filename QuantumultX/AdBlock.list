@@ -12,7 +12,7 @@ HOST-SUFFIX,brandmetrics.com,AdBlock
 HOST,cdn.optoutadvertising.com,AdBlock
 HOST,adserving.optoutadvertising.com,AdBlock
 HOST-SUFFIX,optoutadvertising.com,AdBlock
-HOST,track-sdk-eu.customer.io,AdBlock
+
 HOST,diffuser-cdn.app-us1.com,AdBlock
 HOST,b-code.liadm.com,AdBlock
 
