@@ -13,6 +13,8 @@ payload:
   - DOMAIN,cdn.optoutadvertising.com
   - DOMAIN,adserving.optoutadvertising.com
   - DOMAIN-SUFFIX,optoutadvertising.com
+  - DOMAIN,diffuser-cdn.app-us1.com
+  - DOMAIN,b-code.liadm.com
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
