@@ -15,18 +15,6 @@ DOMAIN,tinyurl.com
 DOMAIN,yang-1989.eu.org
 DOMAIN,www.stream-link.org
 DOMAIN,t1.daumcdn.net
-
-# add for Speedtest node 
-DOMAIN-SUFFIX,speed.misaka.one
-DOMAIN,ookla-speedtest-central.hgconair.hgc.com.hk
-DOMAIN,suntechspeedtest.com.prod.hosts.ooklaserver.net
-DOMAIN,1010.hkspeedtest.com.prod.hosts.ooklaserver.net
-DOMAIN,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net
-DOMAIN,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
-DOMAIN,kami.smartone.com.prod.hosts.ooklaserver.net
-DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
-DOMAIN,cugspeed.chinaunicomglobal.com
-DOMAIN,lg-hkg.fdcservers.net
   
 # FireTV Stick 4k or Max 
 DOMAIN,msh.amazon.com
