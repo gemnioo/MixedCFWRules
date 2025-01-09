@@ -13,6 +13,9 @@ HOST,cdn.jwplayer.com,Speedtest
 HOST,cdn.cookielaw.org,Speedtest
 HOST,geolocation.onetrust.com,Speedtest
 
+HOST-SUFFIX,speed.misaka.one,Speedtest
+HOST,cugspeed.chinaunicomglobal.com,Speedtest
+HOST,lg-hkg.fdcservers.net,Speedtest
 
 
 # Speed Test by Cloudflare
