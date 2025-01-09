@@ -13,6 +13,7 @@ payload:
   - DOMAIN,cdn.optoutadvertising.com
   - DOMAIN,adserving.optoutadvertising.com
   - DOMAIN-SUFFIX,optoutadvertising.com
+  - DOMAIN,fbthirdpartypixel.com
   - DOMAIN,diffuser-cdn.app-us1.com
   - DOMAIN,b-code.liadm.com
 
