@@ -1,7 +1,7 @@
 # add for Speedtest node 
 DOMAIN-SUFFIX,fast.com
 DOMAIN,www.speedtest.net
-DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-KEYWORD,speedtest
 DOMAIN,speedtest.wasu.cn
 DOMAIN,cesu-nb.zjtelecom.com.cn
 DOMAIN,5g.shunicomtest.com
@@ -31,6 +31,7 @@ DOMAIN,hkspeedtest.netvigator.com.prod.hosts.ooklaserver.net
 DOMAIN,hoshiyomi.ratatoskr.org.prod.hosts.ooklaserver.net
 DOMAIN,kami.smartone.com.prod.hosts.ooklaserver.net
 DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
+DOMAIN-SUFFIX,hosts.ooklaserver.net
 
 # ipinfo 
 DOMAIN,ipinfo.io
