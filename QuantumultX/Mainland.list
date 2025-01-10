@@ -30,8 +30,12 @@ HOST,api.deepseek.com,Mainland
 HOST,cdn.deepseek.com,Mainland
 HOST,status.deepseek.com,Mainland
 HOST,platform.deepseek.com,Mainland
+HOST-SUFFIX,deepseek.com,Mainland
 HOST,castatic.fengkongcloud.cn,Mainland
 HOST,api.siliconflow.cn,Mainland
+HOST,chat.qwenlm.ai,Mainland
+HOST-SUFFIX,qwenlm.ai,Mainland
+
 HOST,sso.openxlab.org.cn,Mainland
 HOST,internlm.intern-ai.org.cn,Mainland
 HOST,internlm-chat.intern-ai.org.cn,Mainland
