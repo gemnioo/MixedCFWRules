@@ -30,8 +30,11 @@ DOMAIN,api.deepseek.com
 DOMAIN,cdn.deepseek.com
 DOMAIN,status.deepseek.com
 DOMAIN,platform.deepseek.com
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN,castatic.fengkongcloud.cn
 DOMAIN,api.siliconflow.cn
+DOMAIN,chat.qwenlm.ai
+DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN,sso.openxlab.org.cn
 DOMAIN,internlm.intern-ai.org.cn
 DOMAIN,internlm-chat.intern-ai.org.cn
