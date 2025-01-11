@@ -101,6 +101,8 @@ HOST,proxsee.pscp.tv,Outside
 HOST,ocsp.pki.goog,Outside
 HOST,ocsp.digicert.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
+HOST,privacyportal.onetrust.com,Outside
+HOST-SUFFIX,onetrust.com,Outside
 HOST,pypi.org,Outside
 HOST,app.cal.com,Outside
 HOST,twenty.com,Outside
