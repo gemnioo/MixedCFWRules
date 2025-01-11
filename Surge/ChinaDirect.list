@@ -31,6 +31,7 @@ DOMAIN,cdn.deepseek.com
 DOMAIN,status.deepseek.com
 DOMAIN,platform.deepseek.com
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN,apmplus.volces.com
 DOMAIN,castatic.fengkongcloud.cn
 DOMAIN,api.siliconflow.cn
 DOMAIN,chat.qwenlm.ai
