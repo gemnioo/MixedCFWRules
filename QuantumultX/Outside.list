@@ -18,15 +18,6 @@ HOST-SUFFIX,qq-ex.com,Outside
 HOST,uspto.report,Outside
 HOST,ramuk.intertekconnect.com,Outside
 
-# > need merge to IP test Part
-HOST,v4.ident.me,Outside
-HOST,v6.ident.me,Outside
-HOST-SUFFIX,ident.me,Outside
-HOST,ipv4.icanhazip.com,Outside
-HOST,ipv6.icanhazip.com,Outside
-HOST,api.nxtrace.org,Outside
-
-
 # > Maunal 
 HOST,sing-box.sagernet.org,Outside
 HOST,wiki.metacubex.one,Outside
@@ -39,6 +30,9 @@ HOST-SUFFIX,hysteria.network,Outside
 HOST-SUFFIX,clash.wiki,Outside
 HOST,stash.wiki,Outside
 HOST,stash.ws,Outside
+HOST,pmxu.wiki,Outside
+HOST,nyanpass.pages.dev,Outside
+HOST-SUFFIX,pages.dev,Outside
 HOST,getsurfboard.com,Outside
 HOST,formulae.brew.sh,Outside
 HOST-SUFFIX,vscode-cdn.net,Outside
