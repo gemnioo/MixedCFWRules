@@ -1,3 +1,9 @@
+#NVIDIA
+HOST,build.nvidia.com,Open AI
+HOST,api.ngc.nvidia.com,Open AI
+HOST,brand-assets.cne.ngc.nvidia.com,Open AI
+HOST-SUFFIX,ngc.nvidia.com,Open AI
+
 # Gemini 
 HOST,bard.google.com,Open AI
 HOST,gemini.google.com,Open AI
