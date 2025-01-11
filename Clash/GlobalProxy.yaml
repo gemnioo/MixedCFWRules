@@ -31,6 +31,9 @@ payload:
   - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN,stash.wiki
   - DOMAIN,stash.ws
+  - DOMAIN,pmxu.wiki
+  - DOMAIN,nyanpass.pages.dev
+  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN,getsurfboard.com
   - DOMAIN,formulae.brew.sh
   - DOMAIN-SUFFIX,vscode-cdn.net
@@ -999,6 +1002,7 @@ payload:
   - IP-CIDR,18.208.0.0/13,no-resolve
   - IP-CIDR,18.232.0.0/14,no-resolve
   - IP-CIDR,35.156.0.0/14,no-resolve
+  - IP-CIDR,52.5.0.0/16,no-resolve  
   - IP-CIDR,52.200.0.0/13,no-resolve
   - IP-CIDR,52.58.0.0/15,no-resolve
   - IP-CIDR,52.74.0.0/16,no-resolve
