@@ -31,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN,stash.wiki
   - DOMAIN,stash.ws
-  - DOMAIN,pmxu.wiki
   - DOMAIN,nyanpass.pages.dev
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN,getsurfboard.com
@@ -40,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,aws.cloud2.influxdata.com
   - DOMAIN,www.linkeless.com
   - DOMAIN-SUFFIX,linkeless.com
+  - DOMAIN-SUFFIX,rfchost.com
 
  
   # Some LLMs non restricted
