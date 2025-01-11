@@ -31,6 +31,7 @@ HOST,cdn.deepseek.com,Mainland
 HOST,status.deepseek.com,Mainland
 HOST,platform.deepseek.com,Mainland
 HOST-SUFFIX,deepseek.com,Mainland
+HOST,apmplus.volces.com,Mainland
 HOST,castatic.fengkongcloud.cn,Mainland
 HOST,api.siliconflow.cn,Mainland
 HOST,chat.qwenlm.ai,Mainland
