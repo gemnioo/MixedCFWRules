@@ -115,3 +115,4 @@ payload:
   - DOMAIN,ai.gitee.com
   - DOMAIN,kpu.maisa.ai
   - DOMAIN-SUFFIX,maisa.ai
+  - DOMAIN-SUFFIX,dify.ai
