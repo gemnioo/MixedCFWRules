@@ -1,3 +1,9 @@
+#NVIDIA
+DOMAIN,build.nvidia.com
+DOMAIN,api.ngc.nvidia.com
+DOMAIN,brand-assets.cne.ngc.nvidia.com
+DOMAIN-SUFFIX,ngc.nvidia.com
+
 # Gemini 
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
