@@ -621,6 +621,7 @@ payload:
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,name.com
   - DOMAIN-SUFFIX,nasa.gov
+  - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,ndr.de
   - DOMAIN-SUFFIX,netdna-cdn.com
   - DOMAIN-SUFFIX,newipnow.com
