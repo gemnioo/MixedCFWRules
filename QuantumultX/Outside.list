@@ -39,6 +39,7 @@ HOST-SUFFIX,vscode-cdn.net,Outside
 HOST-SUFFIX,aws.cloud2.influxdata.com,Outside
 HOST,www.linkeless.com,Outside
 HOST-SUFFIX,linkeless.com,Outside
+HOST-SUFFIX,rfchost.com,Outside
 
  
 # > Some LLMs non restricted
