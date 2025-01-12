@@ -23,6 +23,7 @@ payload:
   - DOMAIN,qqwry.api.skk.moe
 
   # IPTV
+  - DOMAIN-SUFFIX,cmdns.xyz
   - DOMAIN-SUFFIX,ottdns.com
   - DOMAIN,live.fanmingming.com
   - DOMAIN,live.fanmingming.cn
