@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,aws.cloud2.influxdata.com
 DOMAIN,www.linkeless.com
 DOMAIN-SUFFIX,linkeless.com
+DOMAIN-SUFFIX,rfchost.com
 
 # Some LLMs non restricted
 # DOMAIN-SUFFIX,poe.com
