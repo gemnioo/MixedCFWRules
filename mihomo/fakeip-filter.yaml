@@ -110,14 +110,14 @@ payload:
   - '*.tailscale.io'
   - '*.ts.net'
   # IPTV
-  - 'feiyangdigital.tg.*.ottdns.com'
+  - '+.cmdns.xyz'
   - '*.cctv.cn'
   - '+.itv.cmvideo.cn'
   - tptvo.mobaibox.com
   - '+.playauth.gitv.tv'
   - api.livednow.org
   - apd-vlive.apdcdn.tc.qq.com
-  # Docker PULL
+  # Docker Pull
   - hub-mirror.c.163.com
   - mirror.baidubce.com
   - docker.m.daocloud.io
