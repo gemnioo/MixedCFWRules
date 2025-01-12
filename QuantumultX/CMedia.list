@@ -1,5 +1,4 @@
-
-## update ddrk as ddys
+## > update ddrk as ddys
 HOST,ddys.wiki,CMedia
 HOST,ddys.site,CMedia
 HOST,ddys.info,CMedia
@@ -14,7 +13,8 @@ HOST-SUFFIX,58cdn.com.cn,CMedia
 HOST-SUFFIX,360buyimg.com,CMedia
 HOST-SUFFIX,bytecdntp.com,CMedia
 
-# > m3u
+# > IPTV m3u
+HOST-SUFFIX,cmdns.xyz,CMedia
 HOST-SUFFIX,ottdns.com,CMedia
 HOST,live.fanmingming.com,CMedia
 HOST,live.fanmingming.cn,CMedia
