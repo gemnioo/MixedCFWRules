@@ -103,12 +103,14 @@ HOST,checkappexec.microsoft.com,Microsoft
   # > Download OS patches, updates, and apps from Microsoft Store. Xbox ！！
 HOST,fe3cr.delivery.mp.microsoft.com,Microsoft 
 
-  # > Add Firefox Mozilla.org 
+  # > Add Firefox Mozilla.org
+HOST,status.thawte.com,Microsoft
 HOST,ocsp.digicert.com,Microsoft
 HOST,ocsp.edge.digicert.com,Microsoft
 HOST,fp2e7a.wpc.phicdn.net,Microsoft
 HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft
 
+HOST-SUFFIX,eff.org,Microsoft
 HOST-SUFFIX,firefox.com,Microsoft
 HOST-SUFFIX,firefox.com.cn,Microsoft
 HOST-SUFFIX,firefoxusercontent.com,Microsoft
