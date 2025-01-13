@@ -22,6 +22,7 @@ payload:
   - DOMAIN,fp2e7a.wpc.phicdn.net
   - DOMAIN,fp2e7a.wpc.2be4.phicdn.net
 
+  - DOMAIN-SUFFIX,eff.org
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,firefoxusercontent.com
