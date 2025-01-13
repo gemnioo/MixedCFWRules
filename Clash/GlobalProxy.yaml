@@ -932,6 +932,9 @@ payload:
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,twitter
