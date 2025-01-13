@@ -45,6 +45,8 @@ payload:
   - DOMAIN,v6.bgp.tools
   - DOMAIN-SUFFIX,bgp.tools
   - DOMAIN-SUFFIX,dns.bgp.tools
+  - DOMAIN,api6.ipify.org
+  - DOMAIN-SUFFIX,ipify.org
   
   # 3rd party test website
   - DOMAIN,ipv4.ping0.cc
