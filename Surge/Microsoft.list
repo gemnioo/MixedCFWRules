@@ -14,12 +14,14 @@ DOMAIN,checkappexec.microsoft.com
 DOMAIN,fe3cr.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,tile.openstreetmap.org
   
-# > Add Firefox Mozilla.org 
+# > Add Firefox Mozilla.org
+DOMAIN,status.thawte.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.edge.digicert.com
 DOMAIN,fp2e7a.wpc.phicdn.net
 DOMAIN,fp2e7a.wpc.2be4.phicdn.net
 
+DOMAIN-SUFFIX,eff.org
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.com.cn
 DOMAIN-SUFFIX,firefoxusercontent.com
