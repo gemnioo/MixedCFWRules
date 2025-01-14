@@ -14,6 +14,8 @@ HOST-SUFFIX,360buyimg.com,CMedia
 HOST-SUFFIX,bytecdntp.com,CMedia
 
 # > IPTV m3u
+HOST-SUFFIX,playauth.gitv.tv,CMedia
+HOST-SUFFIX,mobaibox.com,CMedia
 HOST-SUFFIX,cmdns.xyz,CMedia
 HOST-SUFFIX,ottdns.com,CMedia
 HOST,live.fanmingming.com,CMedia
