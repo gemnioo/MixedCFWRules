@@ -29,19 +29,22 @@ HOST-KEYWORD,speedtest,Speedtest
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
 
 # OpenClash Login IP Test 
-HOST,ip.fm,Speedtest
 HOST,d.skk.moe,Speedtest
 HOST,api.ttt.sh,Speedtest
 HOST,api.ipify.org,Speedtest
 HOST,ftp.jaist.ac.jp,Speedtest
 HOST,api.ttt.sh.cdn.cloudflare.net,Outside
 
-# need merge to IP test part 
-HOST,v4.ident.me,Outside
-HOST,v6.ident.me,Outside
-HOST-SUFFIX,ident.me,Outside
-HOST,ipv4.icanhazip.com,Outside
-HOST,ipv6.icanhazip.com,Outside
+#merged to IP test part
+HOST,api.nxtrace.org,Speedtest
+HOST,ping.nxtrace.org,Speedtest
+HOST-SUFFIX,nxtrace.org,Speedtest
+HOST,ip.fm,Speedtest
+HOST,v4.ident.me,Speedtest
+HOST,v6.ident.me,Speedtest
+HOST-SUFFIX,ident.me,Speedtest
+HOST,ipv4.icanhazip.com,Speedtest
+HOST,ipv6.icanhazip.com,Speedtest
 
 # Control jsDliver
 HOST,cdn.jsdelivr.net,Speedtest
@@ -49,6 +52,11 @@ HOST,fastly.jsdelivr.net,Speedtest
 HOST-SUFFIX,jsdelivr.net,Speedtest
 
 # BGP tools
+HOST,ipinfo.io,Speedtest
+HOST,cdn.ipinfo.io,Speedtest
+HOST,pixel.ipinfo.io,Speedtest
+HOST,website-cdn.ipinfo.io,Speedtest
+HOST-SUFFIX,ipinfo.io,Speedtest
 HOST,v4.bgp.tools,Speedtest
 HOST,v6.bgp.tools,Speedtest
 HOST-SUFFIX,bgp.tools,Speedtest
@@ -60,6 +68,7 @@ HOST,video-api.shdsvc.dowjones.io,Speedtest
 HOST-SUFFIX,pool.ntp.org,DIRECT  
 HOST,connect.linksys.com,DIRECT
 HOST,update1.linksys.com,DIRECT
+HOST,download.linksys.com,DIRECT
 HOST,cloudhealth.lswf.net,DIRECT
 HOST,xmpp.linksyssmartwifi.com,DIRECT
 HOST,cloud1.linksyssmartwifi.com,DIRECT
