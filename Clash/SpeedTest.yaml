@@ -69,6 +69,8 @@ payload:
 
   # added
   - DOMAIN,api.nxtrace.org
+  - DOMAIN,ping.nxtrace.org
+  - DOMAIN-SUFFIX,nxtrace.org
   - DOMAIN,ip.fm
   - DOMAIN,v4.ident.me
   - DOMAIN,v6.ident.me
