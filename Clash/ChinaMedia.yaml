@@ -25,6 +25,8 @@ payload:
   # IPTV
   - DOMAIN-SUFFIX,cmdns.xyz
   - DOMAIN-SUFFIX,ottdns.com
+  - DOMAIN-SUFFIX,playauth.gitv.tv
+  - DOMAIN-SUFFIX,mobaibox.com
   - DOMAIN,live.fanmingming.com
   - DOMAIN,live.fanmingming.cn
   - DOMAIN,api.livednow.org
