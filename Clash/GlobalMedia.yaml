@@ -12,7 +12,9 @@ payload:
   - DOMAIN,parts.blog.livedoor.jp
   - DOMAIN,livedoor.sp.blogimg.jp
   - DOMAIN,ippondemoninjin.livedoor.blog
-  - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN,missav.ai
+  - DOMAIN,fourhoi.com
+  - DOMAIN,client-rapi-missav.recombee.com
 
   - DOMAIN,tinyurl.com
   - DOMAIN,yang-1989.eu.org
