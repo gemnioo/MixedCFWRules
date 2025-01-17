@@ -60,9 +60,19 @@ payload:
   # DOMAIN,device-metrics-us-1.amazon.com
   # DOMAIN,device-metrics-us.amazon.com
   - DOMAIN,arcus-uswest.amazon.com
-  - DOMAIN,dp-gw-na.amazon.com
   - DOMAIN,mas-ext.amazon.com
   - DOMAIN,juggler.amazon.com
+  - DOMAIN,softwareupdates.amazon.com
+  - DOMAIN,appstore-tv-prod-na.amazon.com
+  - DOMAIN,dp-discovery-na-ext.amazon.com
+  - DOMAIN,device-messaging-na.amazon.com
+  - DOMAIN,avs-alexa-18-na.amazon.com
+  - DOMAIN,dp-gw-na.amazon.com
+  - DOMAIN,dcape-na.amazon.com
+  - DOMAIN,ftvpes-na.amazon.com
+  - DOMAIN,ftvr-na.amazon.com
+
+  
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,ocsp.rootca1.amazontrust.com
   - DOMAIN,ocsp.r2m02.amazontrust.com
