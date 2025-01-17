@@ -10,8 +10,10 @@ HOST,shidianguji.com,Mainland
 HOST,iptv.cc,Mainland
 
 # > Github Acce
+HOST,ghp.ci,Mainland
 HOST,ghgo.xyz,Mainland
 HOST,ghproxy.com,Mainland
+HOST,gh-proxy.com,Mainland
 HOST,ghp.p3terx.com,Mainland
 
 # > Docker Pull
