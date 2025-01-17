@@ -117,12 +117,12 @@ DOMAIN,twenty.com
 DOMAIN,framerusercontent.com
 DOMAIN,framer.com
 
-DOMAINN,static-cdn.spot.im
-DOMAINN-SUFFIX,spot.im
-DOMAINN,pandas.pydata.org
-DOMAINN-SUFFIX,pydata.org
-DOMAINN-SUFFIX,arcticdb.io
-DOMAINN-SUFFIX,scientific-python.org
+DOMAIN,static-cdn.spot.im
+DOMAIN-SUFFIX,spot.im
+DOMAIN,pandas.pydata.org
+DOMAIN-SUFFIX,pydata.org
+DOMAIN-SUFFIX,arcticdb.io
+DOMAIN-SUFFIX,scientific-python.org
   
 # kagi search
 DOMAIN,kagi.com
