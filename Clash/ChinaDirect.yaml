@@ -15,6 +15,7 @@ payload:
   - DOMAIN,ghp.ci
   - DOMAIN,ghgo.xyz
   - DOMAIN,ghproxy.com
+  - DOMAIN,gh-proxy.com
   - DOMAIN,ghp.p3terx.com
   # Docker Pull
   - DOMAIN,hub-mirror.c.163.com
