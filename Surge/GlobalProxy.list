@@ -108,6 +108,10 @@ DOMAIN,status.rapidssl.com
 DOMAIN,proxsee.pscp.tv
 DOMAIN,ocsp.pki.goog
  # DOMAIN,ocsp.digicert.com
+DOMAIN,api.amazon.com
+DOMAIN,msh.amazon.com
+DOMAIN,msh.amazon.co.uk
+DOMAIN,prime.amazon.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN,privacyportal.onetrust.com
@@ -352,6 +356,7 @@ DOMAIN-SUFFIX,allconnected.co
 DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
