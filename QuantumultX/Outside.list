@@ -111,6 +111,13 @@ HOST,twenty.com,Outside
 HOST,framerusercontent.com,Outside
 HOST,framer.com,Outside
 
+HOST,static-cdn.spot.im,Outside
+HOST-SUFFIX,spot.im,Outside
+HOST,pandas.pydata.org,Outside
+HOST-SUFFIX,pydata.org,Outside
+HOST-SUFFIX,arcticdb.io,Outside
+HOST-SUFFIX,scientific-python.org,Outside
+
 HOST,kagi.com,Outside
 HOST,assets.kagi.com,Outside
 HOST,staticmedia.kagi.com,Outside
@@ -582,7 +589,7 @@ HOST-SUFFIX,getpricetag.com,Outside
 HOST-SUFFIX,gfw.press,Outside
 HOST-SUFFIX,gfx.ms,Outside
 HOST-SUFFIX,ggpht.com,Outside
-HOST-SUFFIX,ghostnoteapp.com,Outside
+HOST-SUFFIX,gHOSToteapp.com,Outside
 HOST-SUFFIX,ghcr.io,Outside
 HOST-SUFFIX,git.io,Outside
 HOST-SUFFIX,gitbook.com,Outside
