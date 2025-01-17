@@ -27,8 +27,8 @@ payload:
   # Downloader App
   - DOMAIN,aftvnews.com
   # FireTV Stick 4k or Max 
-  - DOMAIN,msh.amazon.com
-  - DOMAIN,msh.amazon.co.uk
+  # DOMAIN,msh.amazon.com
+  # DOMAIN,msh.amazon.co.uk
   - DOMAIN,prod.amazoncrl.com
   - DOMAIN,api.amazonalexa.com
   - DOMAIN,2.android.pool.ntp.org
