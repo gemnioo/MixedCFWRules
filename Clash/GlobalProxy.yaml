@@ -42,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,rfchost.com
 
- 
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
   # DOMAIN-SUFFIX,meta.ai
@@ -121,14 +120,13 @@ payload:
   - DOMAIN,twenty.com
   - DOMAIN,framerusercontent.com
   - DOMAIN,framer.com
+  
   - DOMAIN,static-cdn.spot.im
   - DOMAIN-SUFFIX,spot.im
   - DOMAIN,pandas.pydata.org
   - DOMAIN-SUFFIX,pydata.org
   - DOMAIN-SUFFIX,arcticdb.io
   - DOMAIN-SUFFIX,scientific-python.org
-  
-  
   
   # kagi search
   - DOMAIN,kagi.com
