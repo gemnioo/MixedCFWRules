@@ -17,6 +17,7 @@ payload:
   - DOMAIN,diffuser-cdn.app-us1.com
   - DOMAIN,b-code.liadm.com
   - DOMAIN,www.podtrac.com
+  - DOMAIN,metrics-logger.spot.im
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
