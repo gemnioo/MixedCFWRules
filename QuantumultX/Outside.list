@@ -101,7 +101,8 @@ HOST,r3.o.lencr.org,Outside
 HOST,status.rapidssl.com,Outside
 HOST,proxsee.pscp.tv,Outside
 HOST,ocsp.pki.goog,Outside
-HOST,ocsp.digicert.com,Outside
+ # HOST,ocsp.digicert.com,Outside
+HOST,unagi-na.amazon.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
 HOST,privacyportal.onetrust.com,Outside
 HOST-SUFFIX,onetrust.com,Outside
