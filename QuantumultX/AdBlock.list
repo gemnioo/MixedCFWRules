@@ -16,6 +16,9 @@ HOST-SUFFIX,optoutadvertising.com,AdBlock
 HOST,fbthirdpartypixel.com,AdBlock
 HOST,diffuser-cdn.app-us1.com,AdBlock
 HOST,b-code.liadm.com,AdBlock
+HOST,www.podtrac.com,AdBlock
+HOST,metrics-logger.spot.im,AdBlock
+HOST,p2-play.edge4k.com,AdBlock
 
 HOST,ads-api.x.com,AdBlock
 HOST,static.ads-twitter.com,AdBlock
