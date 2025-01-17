@@ -19,8 +19,13 @@ DOMAIN,unpkg.com
 DOMAIN,tinyurl.com
 DOMAIN,yang-1989.eu.org
 DOMAIN,www.stream-link.org
+
+# PotPlayer Daum 
 DOMAIN,t1.daumcdn.net
-  
+DOMAIN,stat.tiara.kakaopay.com  
+  # Downloader App
+DOMAIN,aftvnews.com
+
 # FireTV Stick 4k or Max 
 DOMAIN,msh.amazon.com
 DOMAIN,msh.amazon.co.uk
