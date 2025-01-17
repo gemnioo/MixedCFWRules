@@ -111,7 +111,8 @@ payload:
   - DOMAIN,status.rapidssl.com
   - DOMAIN,proxsee.pscp.tv
   - DOMAIN,ocsp.pki.goog
-  - DOMAIN,ocsp.digicert.com
+  # DOMAIN,ocsp.digicert.com
+  - DOMAIN,unagi-na.amazon.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN,privacyportal.onetrust.com
   - DOMAIN-SUFFIX,onetrust.com
