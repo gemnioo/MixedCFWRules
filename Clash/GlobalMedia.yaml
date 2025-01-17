@@ -23,7 +23,9 @@ payload:
   - DOMAIN,unpkg.com
   # PotPlayer Daum 
   - DOMAIN,t1.daumcdn.net
-  
+  - DOMAIN,stat.tiara.kakaopay.com
+  # Downloader App
+  - DOMAIN,aftvnews.com
   # FireTV Stick 4k or Max 
   - DOMAIN,msh.amazon.com
   - DOMAIN,msh.amazon.co.uk
@@ -60,6 +62,7 @@ payload:
   - DOMAIN,arcus-uswest.amazon.com
   - DOMAIN,dp-gw-na.amazon.com
   - DOMAIN,mas-ext.amazon.com
+  - DOMAIN,juggler.amazon.com
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,ocsp.rootca1.amazontrust.com
   - DOMAIN,ocsp.r2m02.amazontrust.com
