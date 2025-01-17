@@ -18,6 +18,7 @@ payload:
   - DOMAIN,b-code.liadm.com
   - DOMAIN,www.podtrac.com
   - DOMAIN,metrics-logger.spot.im
+  - DOMAIN,p2-play.edge4k.com
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
