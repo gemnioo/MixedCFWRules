@@ -222,6 +222,7 @@ payload:
 
   - DOMAIN,assets.zerohedge.com  
   - DOMAIN-SUFFIX,zerohedge.com
+  - DOMAIN,hindenburgresearch.com
   - DOMAIN,j.ophan.co.uk
   - DOMAIN,phar.gu-web.net
   - DOMAIN,interactive.guim.co.uk
