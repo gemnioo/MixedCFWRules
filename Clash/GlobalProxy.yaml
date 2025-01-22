@@ -80,7 +80,8 @@ payload:
   - DOMAIN,docker.com
   - DOMAIN,ghcr.io
   
-  # WildCard 
+  # WildCard
+  - DOMAIN,yeka.ai
   - DOMAIN,chatgpt.2233.ai
   - DOMAIN,claude.2233.ai
   - DOMAIN-SUFFIX,2233,ai
