@@ -26,6 +26,8 @@ payload:
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,firefoxusercontent.com
+  - DOMAIN,stun.services.mozilla1.com
+  - DOMAIN-SUFFIX,services.mozilla1.com
 
   # > Fastly Oblivious HTTP Relay
   - DOMAIN,ohttp-relay1.fastly-edge.com
