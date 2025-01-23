@@ -237,6 +237,7 @@ IP-CIDR,54.93.0.0/16,Outside
 
 IP-CIDR,3.124.0.0/14,Outside
 IP-CIDR,3.64.0.0/12,Outside
+IP-CIDR,34.192.0.0/12,Outside
 IP-CIDR,54.160.0.0/14,Outside
 IP-CIDR,18.156.0.0/14,Outside
 IP-CIDR,18.196.0.0/15,Outside
