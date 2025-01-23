@@ -27,7 +27,7 @@ HOST,tv.iill.top,CMedia
 HOST,epg.iill.top,CMedia
 HOST,epg.v1.mk,CMedia
 # > backup solution RevenueCat witin CFW
-HOST,api.rc-backup.com
+HOST,api.rc-backup.com,CMedia
 
 # > vod 
 HOST,heimuer.tv,CMedia
