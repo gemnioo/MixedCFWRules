@@ -22,10 +22,11 @@ DOMAIN,forge.speedtest.cn
 DOMAIN,qqwry.api.skk.moe
 
 # IPTV
-DOMAIN-SUFFIX,playauth.gitv.tv
 DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,cmdns.xyz
-DOMAIN-SUFFIX,ottdns.com 
+DOMAIN-SUFFIX,ottdns.com
+DOMAIN-SUFFIX,itv.cmvideo.cn
+DOMAIN-SUFFIX,playauth.gitv.tv
 DOMAIN,api.livednow.org
 DOMAIN,live.fanmingming.com
 DOMAIN,live.fanmingming.cn
