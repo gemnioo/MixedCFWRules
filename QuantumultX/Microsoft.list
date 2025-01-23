@@ -91,8 +91,8 @@ HOST,fe2cr.update.microsoft.com,DIRECT
   # > Microsoft
 HOST-SUFFIX,here.com,Microsoft 
 HOST-SUFFIX,here.net,Microsoft 
-  # DOMAIN-SUFFIX,heremaps.cn,Microsoft 
-  # DOMAIN-SUFFIX,ovi.com.cn,Microsoft 
+  # HOST-SUFFIX,heremaps.cn,Microsoft 
+  # HOST-SUFFIX,ovi.com.cn,Microsoft 
 HOST,eas.outlook.com,Microsoft 
 HOST,m.hotmail.com,Microsoft 
 HOST,login.microsoftonline.com,Microsoft 
@@ -114,6 +114,9 @@ HOST-SUFFIX,eff.org,Microsoft
 HOST-SUFFIX,firefox.com,Microsoft
 HOST-SUFFIX,firefox.com.cn,Microsoft
 HOST-SUFFIX,firefoxusercontent.com,Microsoft
+
+HOST,stun.services.mozilla1.com,Microsoft
+HOST-SUFFIX,services.mozilla1.com,Microsoft
 
   # > Fastly Oblivious HTTP Relay
 HOST,ohttp-relay1.fastly-edge.com,Microsoft
@@ -370,8 +373,8 @@ HOST-SUFFIX,spoprod-a.akamaihd.net,Microsoft
 HOST-SUFFIX,storage.live.com,Microsoft
 HOST-SUFFIX,storage.msn.com,Microsoft
 HOST-KEYWORD,1drv,Microsoft
-   # DOMAIN-KEYWORD,onedrive,Microsoft
-   # DOMAIN-KEYWORD,skydrive,Microsoft
+   # HOST-KEYWORD,onedrive,Microsoft
+   # HOST-KEYWORD,skydrive,Microsoft
 USER-AGENT,OneDrive,Microsoft
 USER-AGENT,OneDriveUpdater,Microsoft
 
