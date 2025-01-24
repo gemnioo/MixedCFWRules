@@ -30,6 +30,7 @@ HOST,ios.chat.openai.com,Open AI
 HOST,android.chat.openai.com,Open AI
 HOST,desktop.chat.openai.com,Open AI
 HOST-SUFFIX,openai.com,Open AI
+HOST,operator.chatgpt.com,Open AI
 HOST-SUFFIX,chatgpt.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
 HOST,files.oaiusercontent.com,Open AI
