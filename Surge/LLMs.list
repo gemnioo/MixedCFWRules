@@ -29,6 +29,7 @@ DOMAIN,ios.chat.openai.com
 DOMAIN,android.chat.openai.com
 DOMAIN,desktop.chat.openai.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN,operator.chatgpt.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN,files.oaiusercontent.com
