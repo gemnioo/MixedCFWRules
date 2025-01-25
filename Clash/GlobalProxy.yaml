@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN,claw.cloud
   - DOMAIN,docs.dler.io 
-  - DOMAIN,www.nodeseek.com
+  # DOMAIN,www.nodeseek.com
   - DOMAIN,linux.do
   - DOMAIN,bilin.ai
   - DOMAIN,epg.v1.mk
