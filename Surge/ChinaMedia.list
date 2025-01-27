@@ -22,17 +22,19 @@ DOMAIN,forge.speedtest.cn
 DOMAIN,qqwry.api.skk.moe
 
 # IPTV
-DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,cmdns.xyz
 DOMAIN-SUFFIX,ottdns.com
 DOMAIN-SUFFIX,itv.cmvideo.cn
 DOMAIN-SUFFIX,playauth.gitv.tv
-DOMAIN,api.livednow.org
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN,www.freetv.top
+DOMAIN-SUFFIX,freetv.top
 DOMAIN,live.fanmingming.com
 DOMAIN,live.fanmingming.cn
+DOMAIN,api.livednow.org
+DOMAIN,epg.aptv.app
 DOMAIN,tv.iill.top
 DOMAIN,epg.iill.top
-DOMAIN,epg.aptv.app
 DOMAIN,epg.v1.mk
 
 #RevenueCat backup solution within GFW
