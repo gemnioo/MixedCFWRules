@@ -28,6 +28,8 @@ payload:
   - DOMAIN-SUFFIX,itv.cmvideo.cn
   - DOMAIN-SUFFIX,playauth.gitv.tv
   - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN,www.freetv.top
+  - DOMAIN-SUFFIX,freetv.top
   - DOMAIN,live.fanmingming.com
   - DOMAIN,live.fanmingming.cn
   - DOMAIN,api.livednow.org
