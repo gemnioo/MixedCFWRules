@@ -69,6 +69,7 @@ DOMAIN,chat-plugins.lobehub.com
 DOMAIN-SUFFIX,lobehub.com
 
 # Docker hub
+DOMAIN-SUFFIX,r2.cloudflarestorage.com
 DOMAIN,registry.hub.docker.com
 DOMAIN,registry-1.docker.io
 DOMAIN,index.docker.io
