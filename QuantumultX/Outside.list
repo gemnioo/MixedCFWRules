@@ -65,6 +65,7 @@ HOST,chat-plugins.lobehub.com,Outside
 HOST-SUFFIX,lobehub.com,Outside
 
 # > docker hub
+HOST-SUFFIX,r2.cloudflarestorage.com,Outside
 HOST,registry.hub.docker.com,Outside
 HOST,registry-1.docker.io,Outside
 HOST,index.docker.io,Outside
