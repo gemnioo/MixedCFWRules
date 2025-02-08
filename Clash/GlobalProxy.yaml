@@ -72,6 +72,7 @@ payload:
   - DOMAIN,pics.fatwang2.com
 
   # Docker Hub
+  - DOMAIN-SUFFIX,r2.cloudflarestorage.com
   - DOMAIN,registry.hub.docker.com
   - DOMAIN,registry-1.docker.io
   - DOMAIN,index.docker.io
