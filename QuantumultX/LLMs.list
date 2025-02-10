@@ -130,6 +130,7 @@ HOST-SUFFIX,jina.ai,Open AI
 
 # Other LLMs
 HOST,x.ai,Open AI
+HOST,ai.com,Open AI
 HOST,ai.gitee.com,Open AI
 HOST,kpu.maisa.ai,Open AI
 HOST-SUFFIX,maisa.ai,Open AI
