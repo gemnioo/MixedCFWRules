@@ -20,6 +20,9 @@ HOST,www.podtrac.com,AdBlock
 HOST,metrics-logger.spot.im,AdBlock
 HOST,p2-play.edge4k.com,AdBlock
 
+HOST,www.n.cn,AdBlock
+HOST,bot.n.cn,AdBlock
+
 HOST,ads-api.x.com,AdBlock
 HOST,static.ads-twitter.com,AdBlock
 HOST,datum.jsdelivr.com,AdBlock
