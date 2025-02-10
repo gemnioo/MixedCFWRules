@@ -24,6 +24,8 @@ payload:
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
+  - DOMAIN,www.n.cn
+  - DOMAIN,bot.n.cn
 
   - DOMAIN,ads-api.x.com
   - DOMAIN,static.ads-twitter.com
