@@ -42,6 +42,7 @@ HOST-SUFFIX,qwenlm.ai,Mainland
 HOST,sso.openxlab.org.cn,Mainland
 HOST,internlm.intern-ai.org.cn,Mainland
 HOST,internlm-chat.intern-ai.org.cn,Mainland
+HOST,api.lkeap.cloud.tencent.com,Mainland
 HOST,gf.gpt.ge,Mainland
 HOST,shop.openai.sb,Mainland
 HOST,shop.openai-sb.cn,Mainland
