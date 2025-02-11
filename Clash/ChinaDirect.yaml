@@ -42,6 +42,7 @@ payload:
   - DOMAIN,internlm.intern-ai.org.cn
   - DOMAIN,internlm-chat.intern-ai.org.cn
   - DOMAIN,api.lkeap.cloud.tencent.com
+  - DOMAIN,dashscope.aliyuncs.com
   - DOMAIN,gf.gpt.ge
   - DOMAIN,api.ohmygpt.com
   - DOMAIN-SUFFIX,aihubmix.com
