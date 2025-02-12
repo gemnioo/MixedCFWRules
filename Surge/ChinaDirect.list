@@ -42,11 +42,12 @@ DOMAIN,internlm.intern-ai.org.cn
 DOMAIN,internlm-chat.intern-ai.org.cn
 DOMAIN,api.lkeap.cloud.tencent.com
 DOMAIN,dashscope.aliyuncs.com
+DOMAIN,ark.cn-beijing.volces.com
+DOMAIN,qianfan.baidubce.com
 DOMAIN,gf.gpt.ge
 DOMAIN,shop.openai.sb
 DOMAIN,shop.openai-sb.cn
 DOMAIN-SUFFIX,openai-sb.com
-DOMAIN,api.ohmygpt.com
 DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,aigcbest.top
 DOMAIN,api.turboai.one
