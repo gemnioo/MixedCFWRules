@@ -124,6 +124,7 @@ payload:
   - DOMAIN-SUFFIX,fireworks.ai
   - DOMAIN,api.together.xyz
   - DOMAIN-SUFFIX,together.ai
+  - DOMAIN,api.replicate.com
   
   # Others
   - DOMAIN,x.ai
