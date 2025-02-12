@@ -130,6 +130,7 @@ HOST,g.jina.ai,Open AI
 HOST-SUFFIX,jina.ai,Open AI
 
 # Cluster
+HOST,api.groq.com,Open AI
 HOST,api.fireworks.ai,Open AI
 HOST-SUFFIX,fireworks.ai,Open AI
 HOST,api.together.xyz,Open AI
