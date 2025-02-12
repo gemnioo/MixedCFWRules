@@ -53,8 +53,12 @@ HOST-SUFFIX,aihubmix.com,Mainland
 HOST-SUFFIX,aigcbest.top,Mainland
 HOST,api.turboai.one,Mainland
 HOST,api.gptsapi.net,Mainland
-HOST,linkeless.com,Mainland
-HOST,www.linkeless.com,Mainland
+
+HOST,c-z0-api-01.hash070.com,Mainland
+HOST,cn2us02.opapi.win,Mainland
+HOST,www.aigptx.top,Mainland
+HOST,api.ifopen.ai,Mainland
+HOST,api2.aigcbest.top,Mainland
 
 # > China Banks
 # > Agricultural Bank of China
