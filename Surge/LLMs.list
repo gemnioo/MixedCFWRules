@@ -1,5 +1,6 @@
 #NVIDIA
 DOMAIN,build.nvidia.com
+DOMAIN,integrate.api.nvidia.com
 DOMAIN,api.ngc.nvidia.com
 DOMAIN,brand-assets.cne.ngc.nvidia.com
 DOMAIN-SUFFIX,ngc.nvidia.com
@@ -114,6 +115,12 @@ DOMAIN,r.jina.ai
 DOMAIN,s.jina.ai
 DOMAIN,g.jina.ai
 DOMAIN-SUFFIX,jina.ai
+
+  # Cluster
+DOMAIN,api.fireworks.ai
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN,api.together.xyz
+DOMAIN-SUFFIX,together.ai
 
 #others
 DOMAIN,x.ai
