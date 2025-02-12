@@ -48,6 +48,9 @@ DOMAIN-SUFFIX,rfchost.com
 # DOMAIN-SUFFIX,perplexity.ai
 # DOMAIN,pplx-res.cloudinary.com
 # DOMAIN,fscdn.eppo.cloud
+DOMAIN,replicate.com
+DOMAIN,replicatestatus.com
+DOMAIN-SUFFIX,replicate.delivery
 DOMAIN,api.fish.audio
 DOMAIN-SUFFIX,fish.audio
 DOMAIN,api.hf.space
