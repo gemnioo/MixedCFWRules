@@ -135,6 +135,7 @@ HOST,api.fireworks.ai,Open AI
 HOST-SUFFIX,fireworks.ai,Open AI
 HOST,api.together.xyz,Open AI
 HOST-SUFFIX,together.ai,Open AI
+HOST,api.replicate.com,Open AI
 
 # Other LLMs
 HOST,x.ai,Open AI
