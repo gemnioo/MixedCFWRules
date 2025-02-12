@@ -52,6 +52,9 @@ HOST,openwebui.com,Outside
 HOST,docs.openwebui.com,Outside
 HOST,litellm.ai,Outside
 HOST,docs.litellm.ai,Outside
+HOST,api.ohmygpt.com,Outside
+HOST,apic.ohmygpt.com,Outside
+HOST-SUFFIX,ohmygpt.com,Outside
 HOST,cdn-avatars.huggingface.co,Outside
 HOST-SUFFIX,edge.sdk.awswaf.com,Outside
 HOST,m-ric-agent-data-analyst.hf.space,Outside
