@@ -119,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,jina.ai
 
   # Cluster
+  - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
   - DOMAIN-SUFFIX,fireworks.ai
   - DOMAIN,api.together.xyz
