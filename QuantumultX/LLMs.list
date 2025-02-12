@@ -1,5 +1,6 @@
 #NVIDIA
 HOST,build.nvidia.com,Open AI
+HOST,integrate.api.nvidia.com,Open AI
 HOST,api.ngc.nvidia.com,Open AI
 HOST,brand-assets.cne.ngc.nvidia.com,Open AI
 HOST-SUFFIX,ngc.nvidia.com,Open AI
@@ -127,6 +128,12 @@ HOST,r.jina.ai,Open AI
 HOST,s.jina.ai,Open AI
 HOST,g.jina.ai,Open AI
 HOST-SUFFIX,jina.ai,Open AI
+
+# Cluster
+HOST,api.fireworks.ai,Open AI
+HOST-SUFFIX,fireworks.ai,Open AI
+HOST,api.together.xyz,Open AI
+HOST-SUFFIX,together.ai,Open AI
 
 # Other LLMs
 HOST,x.ai,Open AI
