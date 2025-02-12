@@ -56,6 +56,8 @@ payload:
   - DOMAIN,docs.openwebui.com
   - DOMAIN,litellm.ai
   - DOMAIN,docs.litellm.ai
+  - DOMAIN,api.ohmygpt.com
+  - DOMAIN,apic.ohmygpt.com
   - DOMAIN-SUFFIX,ohmygpt.com
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN,cdn-avatars.huggingface.co
