@@ -51,6 +51,12 @@ payload:
   - DOMAIN,api.gptsapi.net
   - DOMAIN,api.iois.me
 
+  - DOMAIN,c-z0-api-01.hash070.com
+  - DOMAIN,cn2us02.opapi.win
+  - DOMAIN,www.aigptx.top
+  - DOMAIN,api.ifopen.ai
+  - DOMAIN,api2.aigcbest.top
+
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
   # DOMAIN-SUFFIX,lain.sh
