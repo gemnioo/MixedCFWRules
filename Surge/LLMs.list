@@ -116,7 +116,8 @@ DOMAIN,s.jina.ai
 DOMAIN,g.jina.ai
 DOMAIN-SUFFIX,jina.ai
 
-  # Cluster
+# Cluster
+DOMAIN,api.groq.com
 DOMAIN,api.fireworks.ai
 DOMAIN-SUFFIX,fireworks.ai
 DOMAIN,api.together.xyz
