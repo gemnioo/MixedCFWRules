@@ -44,11 +44,13 @@ HOST,internlm.intern-ai.org.cn,Mainland
 HOST,internlm-chat.intern-ai.org.cn,Mainland
 HOST,api.lkeap.cloud.tencent.com,Mainland
 HOST,dashscope.aliyuncs.com,Mainland
+HOST,ark.cn-beijing.volces.com,Mainland
+HOST,qianfan.baidubce.com,Mainland
+
 HOST,gf.gpt.ge,Mainland
 HOST,shop.openai.sb,Mainland
 HOST,shop.openai-sb.cn,Mainland
 HOST-SUFFIX,openai-sb.com,Mainland
-HOST,api.ohmygpt.com,Mainland
 HOST-SUFFIX,aihubmix.com,Mainland
 HOST-SUFFIX,aigcbest.top,Mainland
 HOST,api.turboai.one,Mainland
