@@ -56,6 +56,9 @@ DOMAIN,openwebui.com
 DOMAIN,docs.openwebui.com
 DOMAIN,litellm.ai
 DOMAIN,docs.litellm.ai
+DOMAIN,api.ohmygpt.com
+DOMAIN,apic.ohmygpt.com
+DOMAIN-SUFFIX,ohmygpt.com
 DOMAIN,cdn-avatars.huggingface.co
 DOMAIN-SUFFIX,edge.sdk.awswaf.com
 DOMAIN,m-ric-agent-data-analyst.hf.space
