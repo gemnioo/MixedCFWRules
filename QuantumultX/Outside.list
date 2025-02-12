@@ -44,6 +44,9 @@ HOST-SUFFIX,rfchost.com,Outside
 
  
 # > Some LLMs non restricted
+HOST,replicate.com,Outside
+HOST,replicatestatus.com,Outside
+HOST-SUFFIX,replicate.delivery,Outside
 HOST,api.fish.audio,Outside
 HOST-SUFFIX,fish.audio,Outside
 HOST,api.hf.space,Outside
