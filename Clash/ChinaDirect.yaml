@@ -45,6 +45,7 @@ payload:
   - DOMAIN,dashscope.aliyuncs.com
   - DOMAIN,ark.cn-beijing.volces.com
   - DOMAIN,qianfan.baidubce.com
+  - DOMAIN,xiaoyi.huawei.com
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
