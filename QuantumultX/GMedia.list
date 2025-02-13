@@ -28,6 +28,10 @@ HOST,3a27f423.wurl.com,Japan
 HOST,jmp2.uk,Japan
 
 HOST,pan.v1.mk,GMedia
+HOST,rptv.v1.mk,GMedia
+HOST,suburl.v1.mk,GMedia
+HOST,imgtool.v1.mk,GMedia
+HOST-SUFFIX,v1.mk,GMedia
 HOST,unpkg.com,GMedia
 HOST,tinyurl.com,GMedia
 HOST,yang-1989.eu.org,GMedia
