@@ -46,6 +46,9 @@ HOST,api.lkeap.cloud.tencent.com,Mainland
 HOST,dashscope.aliyuncs.com,Mainland
 HOST,ark.cn-beijing.volces.com,Mainland
 HOST,qianfan.baidubce.com,Mainland
+HOST,xiaoyi.huawei.com,Mainland
+HOST-SUFFIX,dbankcdn.com,Mainland
+HOST-SUFFIX,myhuaweicloud.cn,Mainland
 
 HOST,gf.gpt.ge,Mainland
 HOST,shop.openai.sb,Mainland
