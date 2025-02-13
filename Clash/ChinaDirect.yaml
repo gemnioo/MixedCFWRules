@@ -27,7 +27,7 @@ payload:
   - DOMAIN,ocsp.digicert.cn
   - DOMAIN,crl.digicert.cn
   
-  # LLMs Proxy API add 
+  # LLMs Proxy API within CN 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
   - DOMAIN,status.deepseek.com
@@ -46,6 +46,8 @@ payload:
   - DOMAIN,ark.cn-beijing.volces.com
   - DOMAIN,qianfan.baidubce.com
   - DOMAIN,xiaoyi.huawei.com
+  - DOMAIN-SUFFIX,dbankcdn.com
+  - DOMAIN-SUFFIX,myhuaweicloud.cn
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
