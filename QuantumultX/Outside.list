@@ -192,6 +192,10 @@ HOST,auth.quartr.com,Outside
 HOST,files.quartr.com,Outside
 HOST,private.quartr.com,Outside
 HOST,qcast.page.link,Outside
+HOST,substack.com,Outside
+HOST-SUFFIX,open.substack.com,Outside
+HOST,substackcdn.com,Outside
+HOST-SUFFIX,sbstck.com,Outside
 
 # > Podcast and Reading Media
 HOST,link.chtbl.com,Outside
