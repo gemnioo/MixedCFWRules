@@ -204,6 +204,10 @@ DOMAIN,auth.quartr.com
 DOMAIN,files.quartr.com 
 DOMAIN,private.quartr.com
 DOMAIN,qcast.page.link
+DOMAIN,substack.com
+DOMAIN-SUFFIX,open.substack.com
+DOMAIN,substackcdn.com
+DOMAIN-SUFFIX,sbstck.com
 
 
 # > Podcast and Reading Media
