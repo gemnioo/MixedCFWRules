@@ -125,6 +125,7 @@ payload:
   - DOMAIN,api.together.xyz
   - DOMAIN-SUFFIX,together.ai
   - DOMAIN,api.replicate.com
+  - DOMAIN-SUFFIX,sambanova.ai
   
   # Others
   - DOMAIN,x.ai
