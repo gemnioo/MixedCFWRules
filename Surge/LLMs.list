@@ -123,6 +123,10 @@ DOMAIN-SUFFIX,fireworks.ai
 DOMAIN,api.together.xyz
 DOMAIN-SUFFIX,together.ai
 DOMAIN,api.replicate.com
+DOMAIN,api.eu.nebius.cloud
+DOMAIN-SUFFIX,nebius.cloud
+DOMAIN-SUFFIX,nebius.com
+DOMAIN-SUFFIX,nebius.ai
 
 #others
 DOMAIN,x.ai
