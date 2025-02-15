@@ -48,6 +48,7 @@ payload:
   - DOMAIN,xiaoyi.huawei.com
   - DOMAIN-SUFFIX,dbankcdn.com
   - DOMAIN-SUFFIX,myhuaweicloud.cn
+  - DOMAIN,metaso.cn
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
