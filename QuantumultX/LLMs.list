@@ -136,6 +136,10 @@ HOST-SUFFIX,fireworks.ai,Open AI
 HOST,api.together.xyz,Open AI
 HOST-SUFFIX,together.ai,Open AI
 HOST,api.replicate.com,Open AI
+HOST,api.eu.nebius.cloud,Open AI
+HOST-SUFFIX,nebius.cloud,Open AI
+HOST-SUFFIX,nebius.com,Open AI
+HOST-SUFFIX,nebius.ai,Open AI
 
 # Other LLMs
 HOST,x.ai,Open AI
