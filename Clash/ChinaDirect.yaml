@@ -49,6 +49,10 @@ payload:
   - DOMAIN-SUFFIX,dbankcdn.com
   - DOMAIN-SUFFIX,myhuaweicloud.cn
   - DOMAIN,metaso.cn
+  - DOMAIN,chat.minimax.io
+  - DOMAIN,cdn.hailuo.ai
+  - DOMAIN,data.hailuo.ai
+  - DOMAIN,cdn.hailuoai.video
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
