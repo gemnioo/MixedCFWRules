@@ -38,6 +38,7 @@ HOST,castatic.fengkongcloud.cn,Mainland
 HOST,api.siliconflow.cn,Mainland
 HOST,chat.qwenlm.ai,Mainland
 HOST-SUFFIX,qwenlm.ai,Mainland
+HOST,metaso.cn,Mainland
 
 HOST,sso.openxlab.org.cn,Mainland
 HOST,internlm.intern-ai.org.cn,Mainland
