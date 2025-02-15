@@ -52,7 +52,9 @@ payload:
   - DOMAIN,chat.minimax.io
   - DOMAIN,cdn.hailuo.ai
   - DOMAIN,data.hailuo.ai
+  - DOMAIN,hailuoai.video
   - DOMAIN,cdn.hailuoai.video
+  - DOMAIN,data.hailuoai.video
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
