@@ -140,6 +140,8 @@ HOST,api.eu.nebius.cloud,Open AI
 HOST-SUFFIX,nebius.cloud,Open AI
 HOST-SUFFIX,nebius.com,Open AI
 HOST-SUFFIX,nebius.ai,Open AI
+HOST,api.hyperbolic.xyz,Open AI
+HOST-SUFFIX,hyperbolic.xyz,Open AI
 
 # Other LLMs
 HOST,x.ai,Open AI
