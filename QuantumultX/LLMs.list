@@ -147,6 +147,9 @@ HOST,ai.com,Open AI
 HOST,ai.gitee.com,Open AI
 HOST,kpu.maisa.ai,Open AI
 HOST-SUFFIX,maisa.ai,Open AI
+HOST-SUFFIX,dify.ai,Open AI
+HOST-SUFFIX,arxiv.org,Open AI
+
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
 HOST-SUFFIX,civitai.com,Outside
