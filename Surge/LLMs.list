@@ -127,6 +127,8 @@ DOMAIN,api.eu.nebius.cloud
 DOMAIN-SUFFIX,nebius.cloud
 DOMAIN-SUFFIX,nebius.com
 DOMAIN-SUFFIX,nebius.ai
+DOMAIN,api.hyperbolic.xyz
+DOMAIN-SUFFIX,hyperbolic.xyz
 
 #others
 DOMAIN,x.ai
