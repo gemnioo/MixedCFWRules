@@ -8,6 +8,7 @@ HOST-SUFFIX,caixin.com,Mainland
 HOST-SUFFIX,shimo.im,Mainland
 HOST,shidianguji.com,Mainland
 HOST,iptv.cc,Mainland
+HOST-SUFFIX,msdmanuals.cn,Mainland
 
 # > Github Acce
 HOST,ghp.ci,Mainland
