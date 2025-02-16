@@ -43,7 +43,9 @@ HOST,metaso.cn,Mainland
 HOST,chat.minimax.io,Mainland
 HOST,cdn.hailuo.ai,Mainland
 HOST,data.hailuo.ai,Mainland
+HOST,hailuoai.video,Mainland
 HOST,cdn.hailuoai.video,Mainland
+HOST,data.hailuoai.video,Mainland
 
 HOST,sso.openxlab.org.cn,Mainland
 HOST,internlm.intern-ai.org.cn,Mainland
