@@ -127,7 +127,7 @@ payload:
   - DOMAIN,api.replicate.com
   - DOMAIN-SUFFIX,sambanova.ai
   - DOMAIN,api.studio.nebius.ai
-  - api.eu.nebius.cloud
+  - DOMAIN,api.eu.nebius.cloud
   - DOMAIN-SUFFIX,nebius.cloud
   - DOMAIN-SUFFIX,nebius.com
   - DOMAIN-SUFFIX,nebius.ai
