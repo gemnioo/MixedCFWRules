@@ -118,6 +118,10 @@ payload:
   - DOMAIN,g.jina.ai
   - DOMAIN-SUFFIX,jina.ai
 
+  - DOMAIN-SUFFIX,cohere.com
+  - DOMAIN,api.voyageai.com
+  - DOMAIN-SUFFIX,voyageai.com
+
   # Cluster
   - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
