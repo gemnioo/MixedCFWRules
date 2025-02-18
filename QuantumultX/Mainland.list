@@ -58,6 +58,8 @@ HOST,xiaoyi.huawei.com,Mainland
 HOST-SUFFIX,dbankcdn.com,Mainland
 HOST-SUFFIX,myhuaweicloud.cn,Mainland
 
+HOST-SUFFIX,chatboxai.app,Mainland
+HOST-SUFFIX,cherry-ai.com,Mainland
 HOST,gf.gpt.ge,Mainland
 HOST,shop.openai.sb,Mainland
 HOST,shop.openai-sb.cn,Mainland
