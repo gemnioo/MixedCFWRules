@@ -55,6 +55,9 @@ DOMAIN,data.hailuo.ai
 DOMAIN,hailuoai.video
 DOMAIN,cdn.hailuoai.video
 DOMAIN,data.hailuoai.video
+
+DOMAIN-SUFFIX,chatboxai.app
+DOMAIN-SUFFIX,cherry-ai.com
 DOMAIN,gf.gpt.ge
 DOMAIN,shop.openai.sb
 DOMAIN,shop.openai-sb.cn
