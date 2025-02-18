@@ -56,6 +56,9 @@ payload:
   - DOMAIN,hailuoai.video
   - DOMAIN,cdn.hailuoai.video
   - DOMAIN,data.hailuoai.video
+  
+  - DOMAIN-SUFFIX,chatboxai.app
+  - DOMAIN-SUFFIX,cherry-ai.com
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN-SUFFIX,aigcbest.top
