@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,api3.siftscience.com
 
 # aws bedrock
+DOMAIN-SUFFIX,console.api.aws
 DOMAIN,bedrock.us-east-1.amazonaws.com 
 DOMAIN,bedrock.us-east-2.amazonaws.com 
 DOMAIN,bedrock.us-west-2.amazonaws.com 
