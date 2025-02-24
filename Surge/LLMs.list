@@ -131,7 +131,9 @@ DOMAIN,api.hyperbolic.xyz
 DOMAIN-SUFFIX,hyperbolic.xyz
 
 #others
-DOMAIN,x.ai
+DOMAIN,docs.x.ai
+DOMAIN,accounts.x.ai
+DOMAIN-SUFFIX,x.ai
 DOMAIN,ai.com
 DOMAIN,ai.gitee.com
 DOMAIN,kpu.maisa.ai
