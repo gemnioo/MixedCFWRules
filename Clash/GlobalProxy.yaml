@@ -98,7 +98,7 @@ payload:
   - DOMAIN,chat.bewildcard.com
   - DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
   - DOMAIN-SUFFIX,electronhub.top
-
+  - DOMAIN-SUFFIX,bewildcard.com
   # Intercom Customer sevice
   - DOMAIN,api-iam.intercom.io
   - DOMAIN,widget.intercom.io
