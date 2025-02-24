@@ -37,15 +37,10 @@ HOST-SUFFIX,deepseek.com,Mainland
 HOST,apmplus.volces.com,Mainland
 HOST,castatic.fengkongcloud.cn,Mainland
 HOST,api.siliconflow.cn,Mainland
+HOST,chat.qwen.ai,Mainland
+HOST-SUFFIX,qwen.ai,Mainland
 HOST,chat.qwenlm.ai,Mainland
 HOST-SUFFIX,qwenlm.ai,Mainland
-HOST,metaso.cn,Mainland
-HOST,chat.minimax.io,Mainland
-HOST,cdn.hailuo.ai,Mainland
-HOST,data.hailuo.ai,Mainland
-HOST,hailuoai.video,Mainland
-HOST,cdn.hailuoai.video,Mainland
-HOST,data.hailuoai.video,Mainland
 
 HOST,sso.openxlab.org.cn,Mainland
 HOST,internlm.intern-ai.org.cn,Mainland
@@ -57,6 +52,20 @@ HOST,qianfan.baidubce.com,Mainland
 HOST,xiaoyi.huawei.com,Mainland
 HOST-SUFFIX,dbankcdn.com,Mainland
 HOST-SUFFIX,myhuaweicloud.cn,Mainland
+
+HOST,metaso.cn,Mainland
+HOST,chat.minimax.io,Mainland
+HOST,cdn.hailuo.ai,Mainland
+HOST,data.hailuo.ai,Mainland
+HOST,hailuoai.video,Mainland
+HOST,cdn.hailuoai.video,Mainland
+HOST,data.hailuoai.video,Mainland
+
+HOST,console.volcengine.com,Mainland
+HOST-SUFFIX,volcengine.com,Mainland
+HOST,portal.volccdn.com,Mainland
+HOST-SUFFIX,volccdn.com,Mainland
+HOST-SUFFIX,volcanicengine.com,Mainland
 
 HOST-SUFFIX,chatboxai.app,Mainland
 HOST-SUFFIX,cherry-ai.com,Mainland
