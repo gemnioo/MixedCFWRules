@@ -82,13 +82,16 @@ HOST,hub.docker.com,Outside
 HOST,docker.com,Outside
 HOST,ghcr.io,Outside
 
-# > WildCard 
+# > WildCard
+HOST,yeka.ai,Outside
 HOST,chatgpt.2233.ai,Outside
 HOST,claude.2233.ai,Outside
 HOST-SUFFIX,2233.ai,Outside
 HOST,chat.wildcard.com,Outside
 HOST,chat.bewildcard.com,Outside
 HOST,wildcard-b0518949163b.intercom-attachments-7.com,Outside
+HOST-SUFFIX,electronhub.top,Outside
+HOST-SUFFIX,bewildcard.com,Outside
 
 # > Intercom Customer sevice
 HOST,api-iam.intercom.io,Outside
