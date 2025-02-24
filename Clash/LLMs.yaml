@@ -139,7 +139,8 @@ payload:
   - DOMAIN-SUFFIX,hyperbolic.xyz
   
   # Others
-  - DOMAIN,x.ai
+  - DOMAIN,docs.x.ai
+  - DOMAIN-SUFFIX,x.ai
   - DOMAIN,ai.com
   - DOMAIN,ai.meta.com
   - DOMAIN,ai.gitee.com
