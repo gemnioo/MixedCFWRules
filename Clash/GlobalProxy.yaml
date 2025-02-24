@@ -468,6 +468,7 @@ payload:
   - DOMAIN-SUFFIX,chromium.org
   - DOMAIN-SUFFIX,cl.ly
   - DOMAIN-SUFFIX,clien.net
+  - DOMAIN,imagedelivery.net
   - DOMAIN,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudfront.net
