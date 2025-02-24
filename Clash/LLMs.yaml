@@ -140,6 +140,7 @@ payload:
   
   # Others
   - DOMAIN,docs.x.ai
+  - DOMAIN,accounts.x.ai
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN,ai.com
   - DOMAIN,ai.meta.com
