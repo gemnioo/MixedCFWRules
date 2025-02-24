@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,rfchost.com
 # DOMAIN-SUFFIX,perplexity.ai
 # DOMAIN,pplx-res.cloudinary.com
 # DOMAIN,fscdn.eppo.cloud
+DOMAIN-SUFFIX,arxiv.org
 DOMAIN,replicate.com
 DOMAIN,replicatestatus.com
 DOMAIN-SUFFIX,replicate.delivery
@@ -85,6 +86,9 @@ DOMAIN,auth.docker.io
 DOMAIN,hub.docker.com
 DOMAIN,docker.com
 DOMAIN,ghcr.io
+DOMAIN,docs.kapa.ai
+DOMAIN,widget.kapa.ai
+DOMAIN-SUFFIX,kapa.ai
 
 # WildCard 
 DOMAIN,yeka.ai
@@ -456,6 +460,9 @@ DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clien.net
+DOMAIN,o.cf-b.ssl.com
+DOMAIN-SUFFIX,ssl.com
+DOMAIN,imagedelivery.net
 DOMAIN,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
@@ -542,6 +549,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmocloud.com
