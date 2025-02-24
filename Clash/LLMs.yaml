@@ -90,6 +90,7 @@ payload:
 
   # aws bedrock
   - DOMAIN-SUFFIX,console.api.aws
+  - DOMAIN-SUFFIX,notifications.aws.dev
   - DOMAIN,bedrock.us-east-1.amazonaws.com 
   - DOMAIN,bedrock.us-east-2.amazonaws.com 
   - DOMAIN,bedrock.us-west-2.amazonaws.com 
@@ -146,7 +147,6 @@ payload:
   - DOMAIN,ai.com
   - DOMAIN,ai.meta.com
   - DOMAIN,ai.gitee.com
-  - DOMAIN,kpu.maisa.ai
   - DOMAIN-SUFFIX,maisa.ai
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,arxiv.org
