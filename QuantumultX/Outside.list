@@ -46,6 +46,7 @@ HOST-SUFFIX,rfchost.com,Outside
 
  
 # > Some LLMs non restricted
+HOST-SUFFIX,arxiv.org,Outside
 HOST,replicate.com,Outside
 HOST,replicatestatus.com,Outside
 HOST-SUFFIX,replicate.delivery,Outside
@@ -81,6 +82,9 @@ HOST,auth.docker.io,Outside
 HOST,hub.docker.com,Outside
 HOST,docker.com,Outside
 HOST,ghcr.io,Outside
+HOST,docs.kapa.ai,Outside
+HOST,widget.kapa.ai,Outside
+HOST-SUFFIX,kapa.ai,Outside
 
 # > WildCard
 HOST,yeka.ai,Outside
@@ -123,6 +127,10 @@ HOST,app.cal.com,Outside
 HOST,twenty.com,Outside
 HOST,framerusercontent.com,Outside
 HOST,framer.com,Outside
+
+HOST,mail.proton.me,Outside
+HOST,account.proton.me,Outside
+HOST-SUFFIX,proton.me,Outside
 
 HOST,static-cdn.spot.im,Outside
 HOST-SUFFIX,spot.im,Outside
@@ -523,6 +531,9 @@ HOST-SUFFIX,chromium.org,Outside
 HOST-SUFFIX,cl.ly,Outside
 HOST-SUFFIX,clien.net,Outside
 HOST-SUFFIX,cloud.cupronickel.goog,Outside
+HOST,o.cf-b.ssl.com,Outside
+HOST-SUFFIX,ssl.com,Outside
+HOST,imagedelivery.net,Outside
 HOST,cloudflare-dns.com,Outside
 HOST-SUFFIX,cloudflare.com,Outside
 HOST-SUFFIX,cloudfront.net,Outside
@@ -610,6 +621,7 @@ HOST-SUFFIX,ggpht.com,Outside
 HOST-SUFFIX,gHOSToteapp.com,Outside
 HOST-SUFFIX,ghcr.io,Outside
 HOST-SUFFIX,git.io,Outside
+HOST-SUFFIX,gitbook.io,Outside
 HOST-SUFFIX,gitbook.com,Outside
 HOST-SUFFIX,globalsign.com,Outside
 HOST-SUFFIX,gmocloud.com,Outside
