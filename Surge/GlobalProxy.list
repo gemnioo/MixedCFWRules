@@ -87,12 +87,15 @@ DOMAIN,docker.com
 DOMAIN,ghcr.io
 
 # WildCard 
+DOMAIN,yeka.ai
 DOMAIN,chatgpt.2233.ai
 DOMAIN,claude.2233.ai
 DOMAIN-SUFFIX,2233,ai
 DOMAIN,chat.wildcard.com
 DOMAIN,chat.bewildcard.com
 DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
+DOMAIN-SUFFIX,electronhub.top
+DOMAIN-SUFFIX,bewildcard.com
 
 # Intercom Customer sevice
 DOMAIN,api-iam.intercom.io
