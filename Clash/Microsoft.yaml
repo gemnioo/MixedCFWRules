@@ -29,9 +29,6 @@ payload:
   - DOMAIN,stun.services.mozilla1.com
   - DOMAIN-SUFFIX,services.mozilla1.com
 
-  - DOMAIN,o.cf-b.ssl.com
-  - DOMAIN-SUFFIX,ssl.com
-
   # > Fastly Oblivious HTTP Relay
   - DOMAIN,ohttp-relay1.fastly-edge.com
   - DOMAIN-SUFFIX,fastly-edge.com
