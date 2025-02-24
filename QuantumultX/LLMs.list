@@ -95,6 +95,7 @@ HOST,o1158394.ingest.us.sentry.io,REJECT
 
 # aws bedrock
 HOST-SUFFIX,console.api.aws,Open AI
+HOST-SUFFIX,notifications.aws.dev,Open AI
 HOST,bedrock.us-east-1.amazonaws.com,Open AI
 HOST,bedrock.us-east-2.amazonaws.com,Open AI
 HOST,bedrock.us-west-2.amazonaws.com,Open AI
@@ -150,7 +151,6 @@ HOST,accounts.x.ai,Open AI
 HOST-SUFFIX,x.ai,Open AI
 HOST,ai.com,Open AI
 HOST,ai.gitee.com,Open AI
-HOST,kpu.maisa.ai,Open AI
 HOST-SUFFIX,maisa.ai,Open AI
 HOST-SUFFIX,dify.ai,Open AI
 HOST-SUFFIX,arxiv.org,Open AI
