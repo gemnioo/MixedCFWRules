@@ -138,6 +138,10 @@ DOMAIN,twenty.com
 DOMAIN,framerusercontent.com
 DOMAIN,framer.com
 
+DOMAIN,mail.proton.me
+DOMAIN,account.proton.me
+DOMAIN-SUFFIX,proton.me
+
 DOMAIN,static-cdn.spot.im
 DOMAIN-SUFFIX,spot.im
 DOMAIN,pandas.pydata.org
