@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,deepseek.com
 DOMAIN,apmplus.volces.com
 DOMAIN,castatic.fengkongcloud.cn
 DOMAIN,api.siliconflow.cn
+DOMAIN,chat.qwen.ai
+DOMAIN-SUFFIX,qwen.ai
 DOMAIN,chat.qwenlm.ai
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN,sso.openxlab.org.cn
@@ -55,6 +57,11 @@ DOMAIN,data.hailuo.ai
 DOMAIN,hailuoai.video
 DOMAIN,cdn.hailuoai.video
 DOMAIN,data.hailuoai.video
+DOMAIN,console.volcengine.com
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN,portal.volccdn.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volcanicengine.com
 
 DOMAIN-SUFFIX,chatboxai.app
 DOMAIN-SUFFIX,cherry-ai.com
