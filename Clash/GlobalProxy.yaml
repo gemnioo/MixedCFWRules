@@ -554,6 +554,7 @@ payload:
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,gmocloud.com
