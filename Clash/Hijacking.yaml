@@ -21,6 +21,7 @@ payload:
   - DOMAIN,p1-play.edge4k.com
   - DOMAIN,p2-play.edge4k.com
   - DOMAIN,analytics.ad.daum.net
+  - DOMAIN,dk-api-v1.singular.net
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
