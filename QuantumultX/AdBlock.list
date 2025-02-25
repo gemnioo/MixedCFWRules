@@ -1,6 +1,6 @@
 # Internet Service Providers Hijacking
 # Source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
-# Update with Janlay's public ruleset blocked-domains-clash.txt 
+# Update with Janlay's public ruleset blocked-HOSTs-clash.txt 
 
 # add by me 
 HOST,support.theguardian.com,AdBlock
@@ -18,7 +18,11 @@ HOST,diffuser-cdn.app-us1.com,AdBlock
 HOST,b-code.liadm.com,AdBlock
 HOST,www.podtrac.com,AdBlock
 HOST,metrics-logger.spot.im,AdBlock
+HOST,p1-play.edge4k.com,AdBlock
 HOST,p2-play.edge4k.com,AdBlock
+HOST,analytics.ad.daum.net,AdBlock
+HOST,dk-api-v1.singular.net,AdBlock
+HOST,analytics.immersivetranslate.com,AdBlock
 
 HOST,www.n.cn,AdBlock
 HOST,bot.n.cn,AdBlock
@@ -104,7 +108,7 @@ HOST-SUFFIX,gjfzpt.cn,AdBlock
 # Safari IAP jump
 HOST,app-site-association.cdn-apple.com,AdBlock
 
-# Janlay's public ruleset blocked-domains-clash.txt 
+# Janlay's public ruleset blocked-HOSTs-clash.txt 
 HOST,ads.mopub.com,AdBlock
 HOST,analytics.plex.tv,AdBlock
 HOST,analytics.yahoo.com,AdBlock
@@ -5940,9 +5944,9 @@ HOST-SUFFIX,panoramio.com,AdBlock
 HOST-SUFFIX,papajia55.com,AdBlock
 HOST-SUFFIX,parking.zunmi.cn,AdBlock
 HOST-SUFFIX,parser.houyi.baofeng.net,AdBlock
-HOST-SUFFIX,partner.bargaindomains.com,AdBlock
+HOST-SUFFIX,partner.bargainHOSTs.com,AdBlock
 HOST-SUFFIX,partner.catchy.com,AdBlock
-HOST-SUFFIX,partner.premiumdomains.com,AdBlock
+HOST-SUFFIX,partner.premiumHOSTs.com,AdBlock
 HOST-SUFFIX,partner.toutiao.com,AdBlock
 HOST-SUFFIX,partners.fshealth.com,AdBlock
 HOST-SUFFIX,partners.keezmovies.com,AdBlock
@@ -6770,7 +6774,7 @@ HOST-SUFFIX,shangz99991.com,AdBlock
 HOST-SUFFIX,shankejingling.com,AdBlock
 HOST-SUFFIX,share.gzdsw.com,AdBlock
 HOST-SUFFIX,shared.youdao.com,AdBlock
-HOST-SUFFIX,sharedaddomain.com,AdBlock
+HOST-SUFFIX,sharedadHOST.com,AdBlock
 HOST-SUFFIX,sharrysweb.com,AdBlock
 HOST-SUFFIX,shbywsd.cn,AdBlock
 HOST-SUFFIX,shenghuo.xiaomi.com,AdBlock
