@@ -18,7 +18,11 @@ DOMAIN,diffuser-cdn.app-us1.com
 DOMAIN,b-code.liadm.com
 DOMAIN,www.podtrac.com
 DOMAIN,metrics-logger.spot.im
+DOMAIN,p1-play.edge4k.com
 DOMAIN,p2-play.edge4k.com
+DOMAIN,analytics.ad.daum.net
+DOMAIN,dk-api-v1.singular.net
+DOMAIN,analytics.immersivetranslate.com
 
 DOMAIN,www.n.cn
 DOMAIN,bot.n.cn
