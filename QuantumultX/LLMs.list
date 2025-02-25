@@ -152,7 +152,7 @@ HOST,accounts.x.ai,Open AI
 HOST-SUFFIX,x.ai,Open AI
 HOST-SUFFIX,grok.com,Open AI
 HOST,ai.gitee.com,Open AI
-HOST-SUFFIX,maisa.ai,Open AI
+HOST-SUFFIX,genspark.ai,Open AI
 HOST-SUFFIX,dify.ai,Open AI
 
 HOST-SUFFIX,coze.com,Outside
