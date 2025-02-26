@@ -133,6 +133,8 @@ DOMAIN,api.hyperbolic.xyz
 DOMAIN-SUFFIX,hyperbolic.xyz
 
 #others
+DOMAIN,api.exa.ai
+DOMAIN-SUFFIX,exa.ai
 DOMAIN,api.x.ai
 DOMAIN,docs.x.ai
 DOMAIN,accounts.x.ai
