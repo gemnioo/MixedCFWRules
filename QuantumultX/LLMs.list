@@ -146,6 +146,8 @@ HOST,api.hyperbolic.xyz,Open AI
 HOST-SUFFIX,hyperbolic.xyz,Open AI
 
 # Other LLMs
+HOST,api.exa.ai,Open AI
+HOST-SUFFIX,exa.ai,Open AI
 HOST,api.x.ai,Open AI
 HOST,docs.x.ai,Open AI
 HOST,accounts.x.ai,Open AI
