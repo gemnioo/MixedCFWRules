@@ -141,6 +141,8 @@ payload:
   - DOMAIN-SUFFIX,hyperbolic.xyz
   
   # Others
+  - DOMAIN,api.exa.ai
+  - DOMAIN-SUFFIX,exa.ai
   - DOMAIN,api.x.ai
   - DOMAIN,docs.x.ai
   - DOMAIN,accounts.x.ai
