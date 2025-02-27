@@ -68,6 +68,9 @@ payload:
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN-SUFFIX,chatwise.app
   - DOMAIN-SUFFIX,egoist.dev
+  - DOMAIN,openrouter.ai
+  - DOMAIN-SUFFIX,ferndocs.com
+  - DOMAIN,files.buildwithfern.com
   - DOMAIN,cdn-avatars.huggingface.co
   - DOMAIN-SUFFIX,edge.sdk.awswaf.com
   - DOMAIN,m-ric-agent-data-analyst.hf.space
