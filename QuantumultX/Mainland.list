@@ -9,6 +9,7 @@ HOST-SUFFIX,shimo.im,Mainland
 HOST,shidianguji.com,Mainland
 HOST,iptv.cc,Mainland
 HOST-SUFFIX,msdmanuals.cn,Mainland
+HOST-SUFFIX,1ms.run,Mainland
 
 # > Github Acce
 HOST,ghp.ci,Mainland
@@ -18,6 +19,7 @@ HOST,gh-proxy.com,Mainland
 HOST,ghp.p3terx.com,Mainland
 
 # > Docker Pull
+HOST,docker.1ms.run,Mainland
 HOST,hub-mirror.c.163.com,Mainland
 HOST,mirror.baidubce.com,Mainland
 HOST,docker.m.daocloud.io,Mainland
