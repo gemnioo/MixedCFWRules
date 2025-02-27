@@ -21,6 +21,7 @@ payload:
   - DOMAIN,ghp.p3terx.com
   # Docker Pull
   - DOMAIN,docker.1ms.run
+  - DOMAIN,docker.1panel.dev
   - DOMAIN,hub-mirror.c.163.com
   - DOMAIN,mirror.baidubce.com
   - DOMAIN,docker.m.daocloud.io
