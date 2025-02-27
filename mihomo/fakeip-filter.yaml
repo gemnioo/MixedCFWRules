@@ -119,6 +119,7 @@ payload:
   - api.livednow.org
   - apd-vlive.apdcdn.tc.qq.com
   # Docker Pull
+  - docker.1ms.run
   - hub-mirror.c.163.com
   - mirror.baidubce.com
   - docker.m.daocloud.io
