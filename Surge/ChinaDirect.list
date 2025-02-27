@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,shimo.im
 DOMAIN,shidianguji.com
 DOMAIN,iptv.cc
 DOMAIN-SUFFIX,msdmanuals.cn
+DOMAIN-SUFFIX,1ms.run
 
   # Github Acce
 DOMAIN,ghp.ci
@@ -18,6 +19,7 @@ DOMAIN,ghproxy.com
 DOMAIN,gh-proxy.com
 DOMAIN,ghp.p3terx.com
   # Docker Pull
+DOMAIN,docker.1ms.run
 DOMAIN,hub-mirror.c.163.com
 DOMAIN,mirror.baidubce.com
 DOMAIN,docker.m.daocloud.io
