@@ -101,8 +101,11 @@ DOMAIN,bedrock-agent-runtime.us-east-1.amazonaws.com
 DOMAIN,bedrock-agent-runtime.us-west-2.amazonaws.com
 
 # Perplexity
+DOMAIN,www.perplexity.ai
+DOMAIN,discover-audio.perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN,fscdn.eppo.cloud  
 
 # Mistral 
 DOMAIN,chat.mistral.ai
@@ -118,6 +121,10 @@ DOMAIN,s.jina.ai
 DOMAIN,g.jina.ai
 DOMAIN-SUFFIX,jina.ai
 
+DOMAIN-SUFFIX,cohere.com
+DOMAIN,api.voyageai.com
+DOMAIN-SUFFIX,voyageai.com
+
 # Cluster
 DOMAIN,api.groq.com
 DOMAIN,api.fireworks.ai
@@ -132,14 +139,28 @@ DOMAIN-SUFFIX,nebius.ai
 DOMAIN,api.hyperbolic.xyz
 DOMAIN-SUFFIX,hyperbolic.xyz
 
-#others
+# Arena
+DOMAIN,web.lmarena.ai
+DOMAIN-SUFFIX,lmarena.ai
+DOMAIN,artificialanalysis.ai
+# Hugging Face
+DOMAIN,cdn-avatars.huggingface.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN,api.hf.space
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,token.awswaf.com
+DOMAIN-SUFFIX,edge.sdk.awswaf.com
+
+# Others
 DOMAIN,api.exa.ai
 DOMAIN-SUFFIX,exa.ai
 DOMAIN,api.x.ai
 DOMAIN,docs.x.ai
 DOMAIN,accounts.x.ai
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.comm
+DOMAIN,ai.meta.com
 DOMAIN,ai.gitee.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,dify.ai
+DOMAIN,chat.inceptionlabs.ai
