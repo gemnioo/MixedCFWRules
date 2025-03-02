@@ -162,6 +162,8 @@ payload:
   - DOMAIN,accounts.x.ai
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.comm
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN,ai.meta.com
   - DOMAIN,ai.gitee.com
   - DOMAIN-SUFFIX,genspark.ai
