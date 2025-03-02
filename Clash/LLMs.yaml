@@ -142,10 +142,17 @@ payload:
   - DOMAIN,api.hyperbolic.xyz
   - DOMAIN-SUFFIX,hyperbolic.xyz
 
-  # arena
+  # Arena
   - DOMAIN,web.lmarena.ai
   - DOMAIN-SUFFIX,lmarena.ai
   - DOMAIN,artificialanalysis.ai
+  # Hugging Face
+  - DOMAIN,cdn-avatars.huggingface.co
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN,api.hf.space
+  - DOMAIN-SUFFIX,hf.space
+  - DOMAIN-SUFFIX,token.awswaf.com
+  - DOMAIN-SUFFIX,edge.sdk.awswaf.com
   
   # Others
   - DOMAIN,api.exa.ai
