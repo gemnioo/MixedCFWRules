@@ -56,8 +56,7 @@ DOMAIN,replicatestatus.com
 DOMAIN-SUFFIX,replicate.delivery
 DOMAIN,api.fish.audio
 DOMAIN-SUFFIX,fish.audio
-DOMAIN,api.hf.space
-DOMAIN,huggingface.co
+
 DOMAIN,openwebui.com
 DOMAIN,docs.openwebui.com
 DOMAIN,litellm.ai
@@ -67,12 +66,9 @@ DOMAIN,apic.ohmygpt.com
 DOMAIN-SUFFIX,ohmygpt.com
 DOMAIN-SUFFIX,chatwise.app
 DOMAIN-SUFFIX,egoist.dev
-DOMAIN,cdn-avatars.huggingface.co
-DOMAIN-SUFFIX,edge.sdk.awswaf.com
-DOMAIN,m-ric-agent-data-analyst.hf.space
-DOMAIN-SUFFIX,token.awswaf.com
 # Hugging Face de5282c3ca0c
 DOMAIN-KEYWORD,de5282c3ca0c
+DOMAIN,m-ric-agent-data-analyst.hf.space
 
 # lobechat
 DOMAIN,chat-agents.lobehub.com
