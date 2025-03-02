@@ -141,6 +141,11 @@ payload:
   - DOMAIN-SUFFIX,nebius.ai
   - DOMAIN,api.hyperbolic.xyz
   - DOMAIN-SUFFIX,hyperbolic.xyz
+
+  # arena
+  - DOMAIN,web.lmarena.ai
+  - DOMAIN-SUFFIX,lmarena.ai
+  - DOMAIN,artificialanalysis.ai
   
   # Others
   - DOMAIN,api.exa.ai
