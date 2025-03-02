@@ -168,4 +168,4 @@ payload:
   - DOMAIN,ai.gitee.com
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,dify.ai
-  - DOMAIN,chat.inceptionlabs.ai
+  - DOMAIN-SUFFIX,inceptionlabs.ai
