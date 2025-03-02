@@ -5,6 +5,7 @@ payload:
   - DOMAIN,ddys.info
   - DOMAIN,ddys.pro
   - DOMAIN,v.ddys.pro
+  - DOMAIN-SUFFIX,ddys.pro
   - DOMAIN,ddys.mov
   - DOMAIN,vip1.loli.net
   - DOMAIN,vip2.loli.net
@@ -14,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,58cdn.com.cn
   - DOMAIN-SUFFIX,ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
-  - DOMAIN,wantwatch.me
 
   # openclash console test
   - DOMAIN,s1.music.126.net
