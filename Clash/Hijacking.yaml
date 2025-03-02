@@ -23,6 +23,7 @@ payload:
   - DOMAIN,analytics.ad.daum.net
   - DOMAIN,dk-api-v1.singular.net
   - DOMAIN,analytics.immersivetranslate.com
+  - DOMAIN,pplx-next-static-public.perplexity.ai
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
