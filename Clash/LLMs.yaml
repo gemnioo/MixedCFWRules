@@ -48,21 +48,21 @@ payload:
   # DOMAIN,nexus-websocket-a.intercom.io
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,chatgpt.livekit.cloud
- # ChatGPT voice mode TCP 443 request 
+  # ChatGPT voice mode TCP 443 request 
   - DOMAIN-SUFFIX,turn.livekit.cloud
- # ChatGPT voice mode UDP 3478 request
+  # ChatGPT voice mode UDP 3478 request
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN,api.statsig.com
   - DOMAIN,rum.browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN,prodregistryv2.org
   - DOMAIN,featureassets.org
- # Sora
+  # Sora
   - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,videos.openai.com
 
- # Stripe IAP revenuecat
+  # Stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
   - DOMAIN,m.stripe.com
   - DOMAIN,r.stripe.com
