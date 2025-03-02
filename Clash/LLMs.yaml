@@ -102,8 +102,11 @@ payload:
   - DOMAIN,bedrock-agent-runtime.us-west-2.amazonaws.com
 
   # Perplexity
+  - DOMAIN,www.perplexity.ai
+  - DOMAIN,discover-audio.perplexity.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN,pplx-res.cloudinary.com
+  - DOMAIN,fscdn.eppo.cloud  
 
   # Mistral
   - DOMAIN,chat.mistral.ai
