@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,aait.io
   # DOMAIN-SUFFIX,lain.sh
   - DOMAIN,derper.maxd.cloud
+  - DOMAIN,lowendaff.com
   
   # MyList
   - DOMAIN-SUFFIX,13th.tech
