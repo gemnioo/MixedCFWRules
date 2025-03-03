@@ -4,6 +4,7 @@ HOST,ddys.site,CMedia
 HOST,ddys.info,CMedia
 HOST,ddys.pro,CMedia
 HOST,v.ddys.pro,CMedia
+HOST-SUFFIX,ddys.pro,CMedia
 HOST,ddys.mov,CMedia
 HOST,vip1.loli.net,CMedia
 HOST,vip2.loli.net,CMedia
@@ -13,6 +14,9 @@ HOST-SUFFIX,pstatp.com,CMedia
 HOST-SUFFIX,58cdn.com.cn,CMedia
 HOST-SUFFIX,360buyimg.com,CMedia
 HOST-SUFFIX,bytecdntp.com,CMedia
+HOST,wantwatch.me,CMedia
+HOST,widget.tianqiapi.com,CMedia
+HOST,api.codetabs.com,CMedia
 
 # > IPTV m3u
 HOST-SUFFIX,cmdns.xyz,CMedia
