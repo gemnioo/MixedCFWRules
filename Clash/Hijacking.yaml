@@ -24,6 +24,7 @@ payload:
   - DOMAIN,dk-api-v1.singular.net
   - DOMAIN,analytics.immersivetranslate.com
   - DOMAIN,pplx-next-static-public.perplexity.ai
+  - DOMAIN,static.wixstatic.com
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
