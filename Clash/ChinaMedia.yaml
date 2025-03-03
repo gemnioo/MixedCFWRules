@@ -15,6 +15,9 @@ payload:
   - DOMAIN-SUFFIX,58cdn.com.cn
   - DOMAIN-SUFFIX,ctyunxs.cn
   - DOMAIN-SUFFIX,bytecdntp.com
+  - DOMAIN,wantwatch.me
+  - DOMAIN,widget.tianqiapi.com
+  - DOMAIN,api.codetabs.com
 
   # openclash console test
   - DOMAIN,s1.music.126.net
