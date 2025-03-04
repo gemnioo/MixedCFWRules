@@ -70,6 +70,8 @@ payload:
   - DOMAIN,openrouter.ai
   - DOMAIN-SUFFIX,ferndocs.com
   - DOMAIN,files.buildwithfern.com
+  - DOMAIN,docs.botgem.com
+  - DOMAIN-SUFFIX,botgem.com
   # Hugging Face de5282c3ca0c
   # DOMAIN,m-ric-agent-data-analyst.hf.space
   - DOMAIN-KEYWORD,de5282c3ca0c
