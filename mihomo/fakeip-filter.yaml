@@ -120,6 +120,7 @@ payload:
   - apd-vlive.apdcdn.tc.qq.com
   # Docker Pull
   - docker.1ms.run
+  - docker.kejilion.pro
   - hub-mirror.c.163.com
   - mirror.baidubce.com
   - docker.m.daocloud.io
