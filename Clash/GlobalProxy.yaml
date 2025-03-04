@@ -21,6 +21,9 @@ payload:
   - DOMAIN,uspto.report
   - DOMAIN-SUFFIX,importyeti.com
   - DOMAIN,ramuk.intertekconnect.com
+  - DOMAIN,pizza.openevidence.com
+  - DOMAIN-SUFFIX,openevidence.com
+  - DOMAIN,vitals.vercel-insights.com
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
