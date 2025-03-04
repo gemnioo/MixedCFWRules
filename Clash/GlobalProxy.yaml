@@ -120,6 +120,12 @@ payload:
   - DOMAIN,intercom.help
   - DOMAIN,nexus-websocket-a.intercom.io
 
+  - DOMAIN,api.ray.so
+  - DOMAIN,favicon.ray.so
+  - DOMAIN-SUFFIX,ray.so
+  - DOMAIN,developers.raycast.com
+  - DOMAIN,manual.raycast.com
+  - DOMAIN-SUFFIX,raycast.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,api.raycast.app
   - DOMAIN,releases.raycast.com
