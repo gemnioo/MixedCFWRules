@@ -127,6 +127,7 @@ payload:
   - DOMAIN-SUFFIX,cohere.com
   - DOMAIN,api.voyageai.com
   - DOMAIN-SUFFIX,voyageai.com
+  - DOMAIN-SUFFIX,thinkingmachines.ai
 
   # Cluster
   - DOMAIN,api.groq.com
