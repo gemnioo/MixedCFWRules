@@ -108,11 +108,15 @@ HOST,static.intercomassets.com,Outside
 HOST,intercom.help,Outside
 HOST,nexus-websocket-a.intercom.io,Outside
 
-HOST-SUFFIX,vercel.app,Outside
+HOST,api.ray.so,Outside
+HOST,favicon.ray.so,Outside
+HOST-SUFFIX,ray.so,Outside
 HOST,api.raycast.app,Outside
 HOST,releases.raycast.com,Outside
-HOST,rbackend.raycast.com,Outside
+HOST,developers.raycast.com,Outside
+HOST,manual.raycast.com,Outside
 HOST-SUFFIX,raycast.com,Outside
+HOST-SUFFIX,vercel.app,Outside
 HOST,r3.o.lencr.org,Outside
 HOST,status.rapidssl.com,Outside
 HOST,proxsee.pscp.tv,Outside
