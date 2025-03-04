@@ -22,6 +22,7 @@ payload:
   # Docker Pull
   - DOMAIN,docker.1ms.run
   - DOMAIN,docker.1panel.dev
+  - DOMAIN,docker.kejilion.pro
   - DOMAIN,hub-mirror.c.163.com
   - DOMAIN,mirror.baidubce.com
   - DOMAIN,docker.m.daocloud.io
