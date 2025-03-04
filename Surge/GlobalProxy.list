@@ -112,11 +112,15 @@ DOMAIN,static.intercomassets.com
 DOMAIN,intercom.help
 DOMAIN,nexus-websocket-a.intercom.io
 
-DOMAIN-SUFFIX,vercel.app
+DOMAIN,api.ray.so
+DOMAIN,favicon.ray.so
+DOMAIN-SUFFIX,ray.so
 DOMAIN,api.raycast.app
 DOMAIN,releases.raycast.com
-DOMAIN,rbackend.raycast.com
+DOMAIN,developers.raycast.com
+DOMAIN,manual.raycast.com
 DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,vercel.app
 DOMAIN,r3.o.lencr.org
 DOMAIN,status.rapidssl.com
 DOMAIN,proxsee.pscp.tv
