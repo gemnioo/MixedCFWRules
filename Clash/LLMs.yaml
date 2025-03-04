@@ -169,6 +169,11 @@ payload:
   - DOMAIN,cdn-lfs-us-1.hf.co
   - DOMAIN,distill.pub
   - DOMAIN,cdn.plot.ly
+  # IDEs
+  - DOMAIN,docs.cursor.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN,docs.codeium.com
+  - DOMAIN-SUFFIX,codeium.com
   
   # Others
   - DOMAIN,api.x.ai
