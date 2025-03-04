@@ -106,7 +106,7 @@ payload:
   - DOMAIN,discover-audio.perplexity.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN,pplx-res.cloudinary.com
-  - DOMAIN,fscdn.eppo.cloud  
+  - DOMAIN,fscdn.eppo.cloud
 
   # Mistral
   - DOMAIN,chat.mistral.ai
@@ -120,15 +120,22 @@ payload:
   - DOMAIN,r.jina.ai
   - DOMAIN,s.jina.ai
   - DOMAIN,g.jina.ai
+  - DOMAIN,deepsearch.jina.ai
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN,jina-ai-gmbh.ghost.io
   - DOMAIN,img.spacergif.org
-
+ # Search
+  - DOMAIN,api.exa.ai
+  - DOMAIN-SUFFIX,exa.ai
+  - DOMAIN,api.tavily.com
+  - DOMAIN,docs.tavily.com
+  - DOMAIN-SUFFIX,tavily.com
+  - DOMAIN,api.search.brave.com
+ # RAGs
   - DOMAIN-SUFFIX,cohere.com
   - DOMAIN,api.voyageai.com
   - DOMAIN-SUFFIX,voyageai.com
-  - DOMAIN-SUFFIX,thinkingmachines.ai
-
+  
   # Cluster
   - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
@@ -150,6 +157,8 @@ payload:
   - DOMAIN,web.lmarena.ai
   - DOMAIN-SUFFIX,lmarena.ai
   - DOMAIN,artificialanalysis.ai
+  - DOMAIN-SUFFIX,thinkingmachines.ai
+  
   # Hugging Face
   - DOMAIN,cdn-avatars.huggingface.co
   - DOMAIN-SUFFIX,huggingface.co
@@ -162,8 +171,6 @@ payload:
   - DOMAIN,cdn.plot.ly
   
   # Others
-  - DOMAIN,api.exa.ai
-  - DOMAIN-SUFFIX,exa.ai
   - DOMAIN,api.x.ai
   - DOMAIN,docs.x.ai
   - DOMAIN,accounts.x.ai
