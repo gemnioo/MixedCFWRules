@@ -136,7 +136,7 @@ payload:
   - DOMAIN,api.voyageai.com
   - DOMAIN-SUFFIX,voyageai.com
   - DOMAIN,cloud.llamaindex.ai
-  - DOMAIN_SUFFIX,llamaindex.ai
+  - DOMAIN-SUFFIX,llamaindex.ai
   # Cluster
   - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
