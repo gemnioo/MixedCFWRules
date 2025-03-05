@@ -235,6 +235,7 @@ payload:
   - DOMAIN-SUFFIX,open.substack.com
   - DOMAIN,substackcdn.com
   - DOMAIN-SUFFIX,sbstck.com
+  - DOMAIN,ihower.tw
 
 
 # > Podcast and Reading Media
