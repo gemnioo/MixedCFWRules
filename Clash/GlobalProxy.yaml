@@ -78,6 +78,8 @@ payload:
   # Hugging Face de5282c3ca0c
   # DOMAIN,m-ric-agent-data-analyst.hf.space
   - DOMAIN-KEYWORD,de5282c3ca0c
+  - DOMAIN,mcp.composio.dev
+  - DOMAIN-SUFFIX,composio.dev
 
   # lobechat
   - DOMAIN,chat-agents.lobehub.com
@@ -187,7 +189,7 @@ payload:
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,cdn.concert.io
   
-  # Tailscale login
+  # Tailscale support
   - DOMAIN,decagon.ai
   - DOMAIN,api.decagon.ai
   - DOMAIN,clerk.decagon.ai
