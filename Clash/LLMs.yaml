@@ -124,18 +124,19 @@ payload:
   - DOMAIN-SUFFIX,jina.ai
   - DOMAIN,jina-ai-gmbh.ghost.io
   - DOMAIN,img.spacergif.org
- # Search
+  # Search
   - DOMAIN,api.exa.ai
   - DOMAIN-SUFFIX,exa.ai
   - DOMAIN,api.tavily.com
   - DOMAIN,docs.tavily.com
   - DOMAIN-SUFFIX,tavily.com
   - DOMAIN,api.search.brave.com
- # RAGs
+  # RAGs
   - DOMAIN-SUFFIX,cohere.com
   - DOMAIN,api.voyageai.com
   - DOMAIN-SUFFIX,voyageai.com
-  
+  - DOMAIN,cloud.llamaindex.ai
+  - DOMAIN_SUFFIX,llamaindex.ai
   # Cluster
   - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
