@@ -138,6 +138,7 @@ payload:
   - DOMAIN-SUFFIX,voyageai.com
   - DOMAIN,cloud.llamaindex.ai
   - DOMAIN-SUFFIX,llamaindex.ai
+  
   # Cluster
   - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
@@ -190,5 +191,5 @@ payload:
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,inceptionlabs.ai
+  - DOMAIN-SUFFIX,deeplearning.ai
   - DOMAIN-SUFFIX,unsloth.ai
-  - DOMAIN_SUFFIX,deeplearning.ai
