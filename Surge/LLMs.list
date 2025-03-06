@@ -27,6 +27,7 @@ DOMAIN,content-developerprofiles-pa.googleapis.com
 # OpenAI
 DOMAIN,chat.com
 DOMAIN,ios.chat.openai.com
+DOMAIN,cookbook.openai.com
 DOMAIN,android.chat.openai.com
 DOMAIN,desktop.chat.openai.com
 DOMAIN-SUFFIX,openai.com
@@ -124,6 +125,8 @@ DOMAIN-SUFFIX,jina.ai
 DOMAIN-SUFFIX,cohere.com
 DOMAIN,api.voyageai.com
 DOMAIN-SUFFIX,voyageai.com
+DOMAIN,cloud.llamaindex.ai
+DOMAIN-SUFFIX,llamaindex.ai
 
 # Cluster
 DOMAIN,api.groq.com
@@ -164,3 +167,6 @@ DOMAIN,ai.gitee.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN,chat.inceptionlabs.ai
+DOMAIN-SUFFIX,deeplearning.ai
+DOMAIN-SUFFIX,unsloth.ai
+
