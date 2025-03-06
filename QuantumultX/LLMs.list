@@ -27,6 +27,7 @@ HOST,content-developerprofiles-pa.googleapis.com,Open AI
 
 # OpenAI
 HOST,chat.com,Open AI
+HOST,cookbook.openai.com,Open AI
 HOST,ios.chat.openai.com,Open AI
 HOST,android.chat.openai.com,Open AI
 HOST,desktop.chat.openai.com,Open AI
@@ -132,6 +133,8 @@ HOST-SUFFIX,jina.ai,Open AI
 HOST-SUFFIX,cohere.com,Open AI
 HOST,api.voyageai.com,Open AI
 HOST-SUFFIX,voyageai.com,Open AI
+HOST,cloud.llamaindex.ai,Open AI
+HOST-SUFFIX,llamaindex.ai,Open AI
 
 # Cluster
 HOST,api.groq.com,Open AI
@@ -146,11 +149,14 @@ HOST-SUFFIX,nebius.com,Open AI
 HOST-SUFFIX,nebius.ai,Open AI
 HOST,api.hyperbolic.xyz,Open AI
 HOST-SUFFIX,hyperbolic.xyz,Open AI
+HOST-SUFFIX,lmstudio.ai,Open AI
 
 # Arena
 HOST,web.lmarena.ai,Open AI
 HOST-SUFFIX,lmarena.ai,Open AI
 HOST,artificialanalysis.ai,Open AI
+HOST-SUFFIX,thinkingmachines.aianalysis.ai,Open AI
+
 # Hugging Face
 HOST,cdn-avatars.huggingface.co,Open AI
 HOST-SUFFIX,huggingface.co,Open AI
@@ -158,6 +164,15 @@ HOST,api.hf.space,Open AI
 HOST-SUFFIX,hf.space,Open AI
 HOST-SUFFIX,token.awswaf.com,Open AI
 HOST-SUFFIX,edge.sdk.awswaf.com,Open AI
+HOST,cdn-lfs-us-1.hf.co,Open AI
+HOST,distill.pub,Open AI
+HOST,cdn.plot.ly,Open AI
+
+# IDEs
+HOST,docs.cursor.com,Open AI
+HOST-SUFFIX,cursor.com,Open AI
+HOST,docs.codeium.com,Open AI
+HOST-SUFFIX,codeium.co,Open AI
 
 # Other LLMs
 HOST-SUFFIX,poe.com,Open AI
@@ -172,12 +187,17 @@ HOST-SUFFIX,grok.com,Open AI
 HOST,ai.gitee.com,Open AI
 HOST-SUFFIX,genspark.ai,Open AI
 HOST-SUFFIX,dify.ai,Open AI
+HOST-SUFFIX,inceptionlabs.ai,Open AI
+HOST-SUFFIX,deeplearning.ai,Open AI
+HOST-SUFFIX,unsloth.ai,Open AI
 
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
 HOST-SUFFIX,civitai.com,Outside
 HOST,api.fish.audio,Outside
 HOST-SUFFIX,fish.audio,Outside
+HOST-SUFFIX,monica.im,Outside
+HOST-SUFFIX,manus.im,Outside
 
 # Hugging Face de5282c3ca0c
 HOST-KEYWORD,de5282c3ca0c,Outside
