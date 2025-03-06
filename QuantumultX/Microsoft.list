@@ -106,6 +106,7 @@ HOST,fe3cr.delivery.mp.microsoft.com,Microsoft
   # > Add Firefox Mozilla.org
 HOST,status.thawte.com,Microsoft
 HOST,ocsp.digicert.com,Microsoft
+HOST,oneocsp.microsoft.com,Microsoft
 HOST,ocsp.edge.digicert.com,Microsoft
 HOST,fp2e7a.wpc.phicdn.net,Microsoft
 HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft
