@@ -172,7 +172,7 @@ HOST,global.discourse-cdn.com,Outside
 HOST,avatars.discourse-cdn.com,Outside
 HOST-SUFFIX,discourse-cdn.com,Outside
 
-# > Tailscale
+# > Tailscale support
 HOST,decagon.ai,Outside
 HOST,api.decagon.ai,Outside
 HOST,clerk.decagon.ai,Outside
@@ -212,6 +212,8 @@ HOST,substack.com,Outside
 HOST-SUFFIX,open.substack.com,Outside
 HOST,substackcdn.com,Outside
 HOST-SUFFIX,sbstck.com,Outside
+HOST,ihower.tw,Outside
+HOST-SUFFIX,sequoiacap.com,Outside
 
 # > Podcast and Reading Media
 HOST,link.chtbl.com,Outside
