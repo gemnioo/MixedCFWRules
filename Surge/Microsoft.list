@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN,status.thawte.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.edge.digicert.com
+DOMAIN,oneocsp.microsoft.com
 DOMAIN,fp2e7a.wpc.phicdn.net
 DOMAIN,fp2e7a.wpc.2be4.phicdn.net
 
