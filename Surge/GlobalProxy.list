@@ -59,6 +59,8 @@ DOMAIN,replicatestatus.com
 DOMAIN-SUFFIX,replicate.delivery
 DOMAIN,api.fish.audio
 DOMAIN-SUFFIX,fish.audio
+DOMAIN-SUFFIX,monica.im
+DOMAIN-SUFFIX,manus.im
 
 DOMAIN,openwebui.com
 DOMAIN,docs.openwebui.com
@@ -225,7 +227,8 @@ DOMAIN,substack.com
 DOMAIN-SUFFIX,open.substack.com
 DOMAIN,substackcdn.com
 DOMAIN-SUFFIX,sbstck.com
-
+DOMAIN,ihower.tw
+DOMAIN-SUFFIX,sequoiacap.com
 
 # > Podcast and Reading Media
 DOMAIN,link.chtbl.com
