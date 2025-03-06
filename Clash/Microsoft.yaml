@@ -9,6 +9,7 @@ payload:
   - DOMAIN,login.microsoftonline.com  
   - DOMAIN,aadcdn.msftauth.net
   - DOMAIN,pti.store.microsoft.com
+  - DOMAIN,oneocsp.microsoft.com
   - DOMAIN,checkappexec.microsoft.com
 
   #download OS patches, updates, and apps from Microsoft Store. Xbox ！！
