@@ -41,8 +41,7 @@ HOST,castatic.fengkongcloud.cn,Mainland
 HOST,api.siliconflow.cn,Mainland
 HOST,chat.qwen.ai,Mainland
 HOST-SUFFIX,qwen.ai,Mainland
-HOST,chat.qwenlm.ai,Mainland
-HOST-SUFFIX,qwenlm.ai,Mainland
+HOST-SUFFIX,wan.video,Mainland
 
 HOST,sso.openxlab.org.cn,Mainland
 HOST,internlm.intern-ai.org.cn,Mainland
