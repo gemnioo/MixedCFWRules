@@ -29,6 +29,7 @@ payload:
   # OpenAI
   - DOMAIN,chat.com
   - DOMAIN,ios.chat.openai.com
+  - DOMAIN,cookbook.openai.com
   - DOMAIN,android.chat.openai.com
   - DOMAIN,desktop.chat.openai.com
   - DOMAIN-SUFFIX,openai.com
@@ -190,3 +191,4 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,inceptionlabs.ai
   - DOMAIN-SUFFIX,unsloth.ai
+  - DOMAIN_SUFFIX,deeplearning.ai
