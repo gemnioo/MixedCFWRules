@@ -43,8 +43,7 @@ payload:
   - DOMAIN,api.siliconflow.cn
   - DOMAIN,chat.qwen.ai
   - DOMAIN-SUFFIX,qwen.ai
-  - DOMAIN,chat.qwenlm.ai
-  - DOMAIN-SUFFIX,qwenlm.ai
+  - DOMAIN-SUFFIX,wan.video
   - DOMAIN,sso.openxlab.org.cn
   - DOMAIN,internlm.intern-ai.org.cn
   - DOMAIN,internlm-chat.intern-ai.org.cn
