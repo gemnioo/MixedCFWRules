@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,replicate.delivery
   - DOMAIN,api.fish.audio
   - DOMAIN-SUFFIX,fish.audio
+  - DOMAIN-SUFFIX,manus.im
 
   - DOMAIN,openwebui.com
   - DOMAIN,docs.openwebui.com
