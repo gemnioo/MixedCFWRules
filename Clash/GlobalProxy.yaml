@@ -196,9 +196,11 @@ payload:
   - DOMAIN-SUFFIX,api.sanity.io
   - DOMAIN,api.rudderstack.com
   - DOMAIN,api.getkoala.com
+  
   # Mintlify docs
   - DOMAIN,api.mintlifytrieve.com
   - DOMAIN,mintlify.b-cdn.net
+  - DOMAIN,status.mintlify.com
   - DOMAIN,widget.kapa.ai
   - DOMAIN,docs.kapa.ai
   - DOMAIN-SUFFIX,kapa.ai
