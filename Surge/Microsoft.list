@@ -15,12 +15,14 @@ DOMAIN,fe3cr.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,tile.openstreetmap.org
   
 # > Add Firefox Mozilla.org
+DOMAIN,ocsp.pki.goog
 DOMAIN,status.thawte.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.edge.digicert.com
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,fp2e7a.wpc.phicdn.net
 DOMAIN,fp2e7a.wpc.2be4.phicdn.net
+DOMAIN,status.rapidssl.com
 
 DOMAIN-SUFFIX,eff.org
 DOMAIN-SUFFIX,firefox.com
@@ -34,6 +36,7 @@ DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN-SUFFIX,fastly-edge.com
 
 # > Let's Encrypt
+DOMAIN,r3.o.lencr.org
 DOMAIN,r10.o.lencr.org
 DOMAIN-SUFFIX,o.lencr.org
 DOMAIN-SUFFIX,c.lencr.org
