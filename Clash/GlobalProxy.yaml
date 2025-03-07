@@ -102,9 +102,6 @@ payload:
   - DOMAIN,hub.docker.com
   - DOMAIN,docker.com
   - DOMAIN,ghcr.io
-  - DOMAIN,widget.kapa.ai
-  - DOMAIN,docs.kapa.ai
-  - DOMAIN-SUFFIX,kapa.ai
   
   # WildCard
   - DOMAIN,yeka.ai
@@ -205,6 +202,12 @@ payload:
   - DOMAIN-SUFFIX,api.sanity.io
   - DOMAIN,api.rudderstack.com
   - DOMAIN,api.getkoala.com
+    # Mintlify
+  - DOMAIN,api.mintlifytrieve.com
+  - DOMAIN,mintlify.b-cdn.net
+  - DOMAIN,widget.kapa.ai
+  - DOMAIN,docs.kapa.ai
+  - DOMAIN-SUFFIX,kapa.ai
 
   # Discourse forums
   - DOMAIN,global.discourse-cdn.com
