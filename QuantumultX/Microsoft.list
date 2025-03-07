@@ -104,12 +104,14 @@ HOST,checkappexec.microsoft.com,Microsoft
 HOST,fe3cr.delivery.mp.microsoft.com,Microsoft 
 
   # > Add Firefox Mozilla.org
+HOST,ocsp.pki.goog,Microsoft
 HOST,status.thawte.com,Microsoft
 HOST,ocsp.digicert.com,Microsoft
 HOST,oneocsp.microsoft.com,Microsoft
 HOST,ocsp.edge.digicert.com,Microsoft
 HOST,fp2e7a.wpc.phicdn.net,Microsoft
 HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft
+HOST,status.rapidssl.com,Microsoft
 
 HOST-SUFFIX,eff.org,Microsoft
 HOST-SUFFIX,firefox.com,Microsoft
@@ -124,6 +126,7 @@ HOST,ohttp-relay1.fastly-edge.com,Microsoft
 HOST-SUFFIX,fastly-edge.com,Microsoft
 
   # > Let's Encrypt,
+HOST,r3.o.lencr.org,Microsoft
 HOST,r10.o.lencr.org,Microsoft
 HOST-SUFFIX,o.lencr.org,Microsoft
 HOST-SUFFIX,c.lencr.org,Microsoft
