@@ -198,6 +198,7 @@ HOST,api.fish.audio,Outside
 HOST-SUFFIX,fish.audio,Outside
 HOST-SUFFIX,monica.im,Outside
 HOST-SUFFIX,manus.im,Outside
+HOST-SUFFIX,flowdown.ai,Outside
 
 # Hugging Face de5282c3ca0c
 HOST-KEYWORD,de5282c3ca0c,Outside
