@@ -50,10 +50,7 @@ HOST-SUFFIX,arxiv.org,Outside
 HOST,replicate.com,Outside
 HOST,replicatestatus.com,Outside
 HOST-SUFFIX,replicate.delivery,Outside
-HOST,api.fish.audio,Outside
-HOST-SUFFIX,fish.audio,Outside
-HOST,api.hf.space,Outside
-HOST,huggingface.co,Outside
+
 HOST,openwebui.com,Outside
 HOST,docs.openwebui.com,Outside
 HOST,litellm.ai,Outside
