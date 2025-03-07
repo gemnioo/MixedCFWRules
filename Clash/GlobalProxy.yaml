@@ -62,6 +62,8 @@ payload:
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-SUFFIX,flowdown.ai
+  - DOMAIN,dorian.qaq.wiki
+  - DOMAIN,apps.qaq.wiki
 
   - DOMAIN,openwebui.com
   - DOMAIN,docs.openwebui.com
