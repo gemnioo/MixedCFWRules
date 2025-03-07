@@ -90,9 +90,6 @@ DOMAIN,auth.docker.io
 DOMAIN,hub.docker.com
 DOMAIN,docker.com
 DOMAIN,ghcr.io
-DOMAIN,docs.kapa.ai
-DOMAIN,widget.kapa.ai
-DOMAIN-SUFFIX,kapa.ai
 
 # WildCard 
 DOMAIN,yeka.ai
@@ -101,22 +98,8 @@ DOMAIN,claude.2233.ai
 DOMAIN-SUFFIX,2233,ai
 DOMAIN,chat.wildcard.com
 DOMAIN,chat.bewildcard.com
-DOMAIN,wildcard-b0518949163b.intercom-attachments-7.com
 DOMAIN-SUFFIX,electronhub.top
 DOMAIN-SUFFIX,bewildcard.com
-
-# Intercom Customer sevice
-DOMAIN,api-iam.intercom.io
-DOMAIN,widget.intercom.io
-DOMAIN-SUFFIX,intercom.io
-DOMAIN,js.intercomcdn.com
-DOMAIN,downloads.intercomcdn.com
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN,wwww.intercom.com
-DOMAIN,www.intercom-reporting.com
-DOMAIN,static.intercomassets.com
-DOMAIN,intercom.help
-DOMAIN,nexus-websocket-a.intercom.io
 
 DOMAIN,api.ray.so
 DOMAIN,favicon.ray.so
@@ -127,11 +110,8 @@ DOMAIN,developers.raycast.com
 DOMAIN,manual.raycast.com
 DOMAIN-SUFFIX,raycast.com
 DOMAIN-SUFFIX,vercel.app
-DOMAIN,r3.o.lencr.org
-DOMAIN,status.rapidssl.com
 DOMAIN,proxsee.pscp.tv
-DOMAIN,ocsp.pki.goog
- # DOMAIN,ocsp.digicert.com
+
 DOMAIN,api.amazon.com
 DOMAIN,msh.amazon.com
 DOMAIN,msh.amazon.co.uk
@@ -182,7 +162,19 @@ DOMAIN,cdn.privacy-mgmt.com
 DOMAIN,cacerts.digicert.com
 DOMAIN,cdn.concert.io
   
-# Tailscale login
+# Intercom Customer sevice
+DOMAIN,api-iam.intercom.io
+DOMAIN,widget.intercom.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN,js.intercomcdn.com
+DOMAIN,downloads.intercomcdn.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN,wwww.intercom.com
+DOMAIN,www.intercom-reporting.com
+DOMAIN,static.intercomassets.com
+DOMAIN,intercom.help
+DOMAIN,nexus-websocket-a.intercom.io
+# Decagon support
 DOMAIN,decagon.ai
 DOMAIN,api.decagon.ai
 DOMAIN,clerk.decagon.ai
@@ -193,6 +185,12 @@ DOMAIN,cdn.sanity.io
 DOMAIN-SUFFIX,api.sanity.io
 DOMAIN,api.rudderstack.com
 DOMAIN,api.getkoala.com
+# Mintlify docs
+DOMAIN,api.mintlifytrieve.com
+DOMAIN,mintlify.b-cdn.net
+DOMAIN,widget.kapa.ai
+DOMAIN,docs.kapa.ai
+DOMAIN-SUFFIX,kapa.ai
 
 # Discourse forums
 DOMAIN,global.discourse-cdn.com
