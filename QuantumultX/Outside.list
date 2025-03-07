@@ -178,7 +178,7 @@ HOST,api.getkoala.com,Outside
 # > Mintlify docs
 HOST,api.mintlifytrieve.com,Outside
 HOST,mintlify.b-cdn.net,Outside
-HOST,status.mintlify.com,Outside
+HOST-SUFFIX,mintlify.com,Outside
 HOST,docs.kapa.ai,Outside
 HOST,widget.kapa.ai,Outside
 HOST-SUFFIX,kapa.ai,Outside
