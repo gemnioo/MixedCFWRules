@@ -79,9 +79,7 @@ HOST,auth.docker.io,Outside
 HOST,hub.docker.com,Outside
 HOST,docker.com,Outside
 HOST,ghcr.io,Outside
-HOST,docs.kapa.ai,Outside
-HOST,widget.kapa.ai,Outside
-HOST-SUFFIX,kapa.ai,Outside
+
 
 # > WildCard
 HOST,yeka.ai,Outside
@@ -90,20 +88,8 @@ HOST,claude.2233.ai,Outside
 HOST-SUFFIX,2233.ai,Outside
 HOST,chat.wildcard.com,Outside
 HOST,chat.bewildcard.com,Outside
-HOST,wildcard-b0518949163b.intercom-attachments-7.com,Outside
 HOST-SUFFIX,electronhub.top,Outside
 HOST-SUFFIX,bewildcard.com,Outside
-
-# > Intercom Customer sevice
-HOST,api-iam.intercom.io,Outside
-HOST,widget.intercom.io,Outside
-HOST,js.intercomcdn.com,Outside
-HOST,downloads.intercomcdn.com,Outside
-HOST,wwww.intercom.com,Outside
-HOST,www.intercom-reporting.com,Outside
-HOST,static.intercomassets.com,Outside
-HOST,intercom.help,Outside
-HOST,nexus-websocket-a.intercom.io,Outside
 
 HOST,api.ray.so,Outside
 HOST,favicon.ray.so,Outside
@@ -114,11 +100,8 @@ HOST,developers.raycast.com,Outside
 HOST,manual.raycast.com,Outside
 HOST-SUFFIX,raycast.com,Outside
 HOST-SUFFIX,vercel.app,Outside
-HOST,r3.o.lencr.org,Outside
-HOST,status.rapidssl.com,Outside
 HOST,proxsee.pscp.tv,Outside
-HOST,ocsp.pki.goog,Outside
- # HOST,ocsp.digicert.com,Outside
+
 HOST,unagi-na.amazon.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
 HOST,privacyportal.onetrust.com,Outside
@@ -169,7 +152,18 @@ HOST,global.discourse-cdn.com,Outside
 HOST,avatars.discourse-cdn.com,Outside
 HOST-SUFFIX,discourse-cdn.com,Outside
 
-# > Tailscale support
+# > Intercom Customer sevice
+HOST,api-iam.intercom.io,Outside
+HOST,widget.intercom.io,Outside
+HOST,js.intercomcdn.com,Outside
+HOST,downloads.intercomcdn.com,Outside
+HOST,wwww.intercom.com,Outside
+HOST,www.intercom-reporting.com,Outside
+HOST,static.intercomassets.com,Outside
+HOST,intercom.help,Outside
+HOST,nexus-websocket-a.intercom.io,Outside
+
+# > Decagon support
 HOST,decagon.ai,Outside
 HOST,api.decagon.ai,Outside
 HOST,clerk.decagon.ai,Outside
@@ -180,6 +174,13 @@ HOST,cdn.sanity.io,Outside
 HOST-SUFFIX,api.sanity.io,Outside
 HOST,api.rudderstack.com,Outside
 HOST,api.getkoala.com,Outside
+
+# > Mintlify docs
+HOST,api.mintlifytrieve.com,Outside
+HOST,mintlify.b-cdn.net,Outside
+HOST,docs.kapa.ai,Outside
+HOST,widget.kapa.ai,Outside
+HOST-SUFFIX,kapa.ai,Outside
 
 # > RSS
 HOST,reederapp.com,Outside
