@@ -93,6 +93,13 @@ payload:
   - DOMAIN,app.launchdarkly.com
   - DOMAIN,clientstream.launchdarkly.com
   - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN,api-private.atlassian.com
+  - DOMAIN-SUFFIX,public.atl-paas.net  
+  # Loom
+  - DOMAIN,cdn.loom.com
+  - DOMAIN,luna.loom.com
+  - DOMAIN-SUFFIX,loom.com
+
   # LobeChat
   - DOMAIN,chat-agents.lobehub.com
   - DOMAIN,chat-plugins.lobehub.com
