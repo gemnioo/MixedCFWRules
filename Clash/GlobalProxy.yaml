@@ -85,8 +85,15 @@ payload:
   - DOMAIN-KEYWORD,de5282c3ca0c
   - DOMAIN,mcp.composio.dev
   - DOMAIN-SUFFIX,composio.dev
-
-  # lobechat
+  
+  # You.com login
+  # DOMAIN,www.clarity.ms
+  - DOMAIN,cmp.osano.com
+  - DOMAIN,web.stytch.com
+  - DOMAIN,app.launchdarkly.com
+  - DOMAIN,clientstream.launchdarkly.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  # LobeChat
   - DOMAIN,chat-agents.lobehub.com
   - DOMAIN,chat-plugins.lobehub.com
   - DOMAIN-SUFFIX,lobehub.com
