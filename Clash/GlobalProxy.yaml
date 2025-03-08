@@ -303,7 +303,8 @@ payload:
   - DOMAIN,restofworld.org
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
-  
+
+  - DOMAIN-SUFFIX,captcha-delivery.com
   - DOMAIN,optimizely.wsj.com
   - DOMAIN,video-api.wsj.com
   - DOMAIN,follow-api.wsj.com
