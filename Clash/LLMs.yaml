@@ -184,6 +184,9 @@ payload:
   - DOMAIN,accounts.x.ai
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.comm
+  - DOMAIN,auth.you.com
+  - DOMAIN,cdn.you.com
+  - DOMAIN-SUFFIX,you.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN,ai.meta.com
