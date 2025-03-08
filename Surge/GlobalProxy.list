@@ -74,8 +74,13 @@ DOMAIN-SUFFIX,chatwise.app
 DOMAIN-SUFFIX,egoist.dev
 # Hugging Face de5282c3ca0c
 DOMAIN-KEYWORD,de5282c3ca0c
-DOMAIN,m-ric-agent-data-analyst.hf.space
 
+# You.com login
+DOMAIN,cmp.osano.com
+DOMAIN,web.stytch.com
+DOMAIN,app.launchdarkly.com
+DOMAIN,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,launchdarkly.com
 # lobechat
 DOMAIN,chat-agents.lobehub.com
 DOMAIN,chat-plugins.lobehub.com
