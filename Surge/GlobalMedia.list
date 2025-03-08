@@ -79,8 +79,6 @@ DOMAIN,ftvpes-na.amazon.com
 DOMAIN,ftvr-na.amazon.com
 
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
-DOMAIN,ocsp.rootca1.amazontrust.com
-DOMAIN,ocsp.r2m02.amazontrust.com
 DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
 DOMAIN,keyboard.amazonfiretvapp.com
 DOMAIN,session-manager-na.amazonfiretvapp.com
