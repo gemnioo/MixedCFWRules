@@ -201,6 +201,12 @@ HOST,web.stytch.com,Outside
 HOST,app.launchdarkly.com,Outside
 HOST,clientstream.launchdarkly.com,Outside
 HOST-SUFFIX,launchdarkly.com,Outside
+HOST,api-private.atlassian.com,Outside
+HOST-SUFFIX,public.atl-paas.net,Outside
+# Loom
+HOST,cdn.loom.com,Outside
+HOST,luna.loom.com,Outside
+HOST-SUFFIX,loom.com,Outside
 
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
