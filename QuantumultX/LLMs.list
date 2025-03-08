@@ -192,6 +192,16 @@ HOST-SUFFIX,inceptionlabs.ai,Open AI
 HOST-SUFFIX,deeplearning.ai,Open AI
 HOST-SUFFIX,unsloth.ai,Open AI
 
+# You.com
+HOST,auth.you.com,Open AI
+HOST,cdn.you.com,Open AI
+HOST-SUFFIX,you.com,Open AI
+HOST,cmp.osano.com,Outside
+HOST,web.stytch.com,Outside
+HOST,app.launchdarkly.com,Outside
+HOST,clientstream.launchdarkly.com,Outside
+HOST-SUFFIX,launchdarkly.com,Outside
+
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
 HOST-SUFFIX,civitai.com,Outside
