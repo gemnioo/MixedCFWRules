@@ -25,6 +25,7 @@ payload:
   - DOMAIN,analytics.immersivetranslate.com
   - DOMAIN,pplx-next-static-public.perplexity.ai
   - DOMAIN,static.wixstatic.com
+  - DOMAIN,www.clarity.ms
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
