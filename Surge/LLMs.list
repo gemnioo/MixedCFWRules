@@ -162,6 +162,9 @@ DOMAIN,docs.x.ai
 DOMAIN,accounts.x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.comm
+DOMAIN,auth.you.com
+DOMAIN,cdn.you.com
+DOMAIN-SUFFIX,you.com
 DOMAIN,ai.meta.com
 DOMAIN,ai.gitee.com
 DOMAIN-SUFFIX,genspark.ai
