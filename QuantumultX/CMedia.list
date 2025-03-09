@@ -48,6 +48,7 @@ HOST,player.hw8.lol,CMedia
 
 # > Podcast 
 HOST,beyondcodefm.com,CMedia
+HOST-SUFFIX,xyzcdn.net,CMedia
 HOST-SUFFIX,xiaoyuzhoufm.com,CMedia
 
 # > AcFun
