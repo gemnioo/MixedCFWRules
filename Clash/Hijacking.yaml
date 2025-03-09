@@ -31,6 +31,7 @@ payload:
   # DOMAIN,consent-api.service.consent.usercentrics.eu
   - DOMAIN,www.n.cn
   - DOMAIN,bot.n.cn
+  - DOMAIN,chat.baidu.com
 
   - DOMAIN,ads-api.x.com
   - DOMAIN,static.ads-twitter.com
