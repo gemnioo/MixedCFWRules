@@ -27,6 +27,7 @@ HOST,www.clarity.ms,AdBlock
 
 HOST,www.n.cn,AdBlock
 HOST,bot.n.cn,AdBlock
+HOST,chat.baidu.com,AdBlock
 
 HOST,ads-api.x.com,AdBlock
 HOST,static.ads-twitter.com,AdBlock
