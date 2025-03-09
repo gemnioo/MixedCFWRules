@@ -55,6 +55,7 @@ DOMAIN,m3u.nikanba.live
 
 # Podcase 
 DOMAIN,beyondcodefm.com
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
 
 # Bilibili 哔哩哔哩
 DOMAIN,apiintl.biliapi.net
