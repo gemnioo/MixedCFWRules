@@ -55,6 +55,7 @@ payload:
 
   # Podcase 
   - DOMAIN,beyondcodefm.com
+  - DOMAIN-SUFFIX,xyzcdn.net
   - DOMAIN-SUFFIX,xiaoyuzhoufm.com
 
   # Bilibili 哔哩哔哩
