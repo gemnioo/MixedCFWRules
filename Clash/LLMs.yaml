@@ -193,6 +193,7 @@ payload:
   - DOMAIN,ai.gitee.com
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,interconnects.ai
   - DOMAIN-SUFFIX,reflection.ai
   - DOMAIN-SUFFIX,inceptionlabs.ai
   - DOMAIN-SUFFIX,deeplearning.ai
