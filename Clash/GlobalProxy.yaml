@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,flowdown.ai
   - DOMAIN,dorian.qaq.wiki
   - DOMAIN,apps.qaq.wiki
+  - DOMAIN,highlightai.com
 
   - DOMAIN,openwebui.com
   - DOMAIN,docs.openwebui.com
