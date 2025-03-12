@@ -21,8 +21,10 @@ HOST,metrics-logger.spot.im,AdBlock
 HOST,p1-play.edge4k.com,AdBlock
 HOST,p2-play.edge4k.com,AdBlock
 HOST,analytics.ad.daum.net,AdBlock
-HOST,dk-api-v1.singular.net,AdBlock
 HOST,analytics.immersivetranslate.com,AdBlock
+HOST,dk-api-v1.singular.net,AdBlock
+HOST,sdk-api-v1.singular.net,AdBlock
+HOST,static.wixstatic.com,AdBlock
 HOST,www.clarity.ms,AdBlock
 
 HOST,www.n.cn,AdBlock
