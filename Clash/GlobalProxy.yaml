@@ -67,6 +67,8 @@ payload:
 
   - DOMAIN,openwebui.com
   - DOMAIN,docs.openwebui.com
+  - DOMAIN,openrouter.ai
+  - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN,litellm.ai
   - DOMAIN,docs.litellm.ai
   - DOMAIN,api.ohmygpt.com
@@ -75,7 +77,6 @@ payload:
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN-SUFFIX,chatwise.app
   - DOMAIN-SUFFIX,egoist.dev
-  - DOMAIN,openrouter.ai
   - DOMAIN,docs.botgem.com
   - DOMAIN-SUFFIX,botgem.com
   # Hugging Face de5282c3ca0c
