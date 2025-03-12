@@ -114,7 +114,6 @@ HOST,api.perplexity.ai,Open AI
 HOST,discover-audio.perplexity.ai,Open AI
 HOST-SUFFIX,perplexity.ai,Open AI
 HOST,pplx-res.cloudinary.com,Open AI
-HOST,pplx-next-static-public.perplexity.ai,REJECT
 
 # Mistral
 HOST,chat.mistral.ai,Outside
