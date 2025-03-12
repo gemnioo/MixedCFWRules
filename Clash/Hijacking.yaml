@@ -21,10 +21,10 @@ payload:
   - DOMAIN,p1-play.edge4k.com
   - DOMAIN,p2-play.edge4k.com
   - DOMAIN,analytics.ad.daum.net
-  - DOMAIN,dk-api-v1.singular.net
   - DOMAIN,analytics.immersivetranslate.com
-  # DOMAIN,pplx-next-static-public.perplexity.ai
+  - DOMAIN,dk-api-v1.singular.net
   - DOMAIN,sdk-api-v1.singular.net
+  # DOMAIN,pplx-next-static-public.perplexity.ai
   - DOMAIN,static.wixstatic.com
   - DOMAIN,www.clarity.ms
 
