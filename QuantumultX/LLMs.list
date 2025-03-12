@@ -122,6 +122,13 @@ HOST,auth.mistral.ai,Outside
 HOST,console.mistral.ai,Outside
 HOST-SUFFIX,mistral.ai,Outside
 
+  # Voice
+HOST,api.elevenlabs.io,Outside
+HOST,api.us.elevenlabs.io,Outside
+HOST-SUFFIX,elevenlabs.io,Outside
+HOST,api.cartesia.ai,Outside
+HOST-SUFFIX,cartesia.ai,Outside
+
 # Jina
 HOST,segment.jina.ai,Open AI
 HOST,api.jina.ai,Open AI
@@ -207,6 +214,16 @@ HOST-SUFFIX,public.atl-paas.net,Outside
 HOST,cdn.loom.com,Outside
 HOST,luna.loom.com,Outside
 HOST-SUFFIX,loom.com,Outside
+# fern docs
+HOST-SUFFIX,ferndocs.com,Outside
+HOST,app.buildwithfern.com,Outside
+HOST,files.buildwithfern.com,Outside
+HOST-SUFFIX,buildwithfern.com,Outside
+HOST,us-assets.i.posthog.com,Outside
+HOST,eu-assets.i.posthog.com,Outside
+HOST-SUFFIX,algolia.com,Outside
+HOST-SUFFIX,algolia.net,Outside
+
 
 HOST-SUFFIX,coze.com,Outside
 HOST-SUFFIX,ciciai.com,Outside
