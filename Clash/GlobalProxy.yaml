@@ -76,8 +76,6 @@ payload:
   - DOMAIN-SUFFIX,chatwise.app
   - DOMAIN-SUFFIX,egoist.dev
   - DOMAIN,openrouter.ai
-  - DOMAIN-SUFFIX,ferndocs.com
-  - DOMAIN,files.buildwithfern.com
   - DOMAIN,docs.botgem.com
   - DOMAIN-SUFFIX,botgem.com
   # Hugging Face de5282c3ca0c
@@ -99,6 +97,15 @@ payload:
   - DOMAIN,cdn.loom.com
   - DOMAIN,luna.loom.com
   - DOMAIN-SUFFIX,loom.com
+  # fern docs
+  - DOMAIN-SUFFIX,ferndocs.com
+  - DOMAIN,app.buildwithfern.com
+  - DOMAIN,files.buildwithfern.com
+  - DOMAIN-SUFFIX,buildwithfern.com
+  - DOMAIN,us-assets.i.posthog.com
+  - DOMAIN,eu-assets.i.posthog.com
+  - DOMAIN-SUFFIX,algolia.com
+  - DOMAIN-SUFFIX,algolia.net
 
   # LobeChat
   - DOMAIN,chat-agents.lobehub.com
