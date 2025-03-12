@@ -114,6 +114,13 @@ DOMAIN,auth.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
 
+  # Voice
+DOMAIN,api.elevenlabs.io
+DOMAIN,api.us.elevenlabs.io
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN,api.cartesia.ai
+DOMAIN-SUFFIX,cartesia.ai
+
 # Jina
 DOMAIN,segment.jina.ai
 DOMAIN,api.jina.ai
