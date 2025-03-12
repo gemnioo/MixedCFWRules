@@ -103,7 +103,7 @@ payload:
   - DOMAIN,bedrock-agent-runtime.us-west-2.amazonaws.com
 
   # Perplexity
-  - DOMAIN,www.perplexity.ai
+  - DOMAIN,api.perplexity.ai
   - DOMAIN,discover-audio.perplexity.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN,pplx-res.cloudinary.com
