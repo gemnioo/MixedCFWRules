@@ -223,6 +223,9 @@ payload:
   - DOMAIN,api.mintlifytrieve.com
   - DOMAIN,mintlify.b-cdn.net
   - DOMAIN-SUFFIX,mintlify.com
+  - DOMAIN,us.i.posthog.com
+  - DOMAIN,api.inkeep.com
+  - DOMAIN,api.io.inkeep.com
   - DOMAIN,widget.kapa.ai
   - DOMAIN,docs.kapa.ai
   - DOMAIN-SUFFIX,kapa.ai
