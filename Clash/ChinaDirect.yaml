@@ -44,6 +44,7 @@ payload:
   - DOMAIN,chat.qwen.ai
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,wan.video
+  - DOMAIN,yuanbao.tencent.com
   - DOMAIN,sso.openxlab.org.cn
   - DOMAIN,internlm.intern-ai.org.cn
   - DOMAIN,internlm-chat.intern-ai.org.cn
