@@ -87,6 +87,8 @@ payload:
   - DOMAIN-SUFFIX,claudeusercontent.com
   # Claude iOS app Sift API
   - DOMAIN,api3.siftscience.com
+  # Model Context Protocol (MCP)
+  - DOMAIN,modelcontextprotocol.io
 
   # aws bedrock
   - DOMAIN-SUFFIX,console.api.aws
