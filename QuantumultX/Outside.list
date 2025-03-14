@@ -90,6 +90,7 @@ HOST,chat.wildcard.com,Outside
 HOST,chat.bewildcard.com,Outside
 HOST-SUFFIX,electronhub.top,Outside
 HOST-SUFFIX,bewildcard.com,Outside
+HOST,api2.gptsapi.net,Outside
 
 HOST,api.ray.so,Outside
 HOST,favicon.ray.so,Outside
