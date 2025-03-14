@@ -127,6 +127,7 @@ DOMAIN,chat.wildcard.com
 DOMAIN,chat.bewildcard.com
 DOMAIN-SUFFIX,electronhub.top
 DOMAIN-SUFFIX,bewildcard.com
+DOMAIN,api2.gptsapi.net
 
 DOMAIN,api.ray.so
 DOMAIN,favicon.ray.so
