@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,fish.audio
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,manus.space
   - DOMAIN-SUFFIX,flowdown.ai
   - DOMAIN,dorian.qaq.wiki
   - DOMAIN,apps.qaq.wiki
