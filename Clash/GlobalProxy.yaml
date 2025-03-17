@@ -327,6 +327,7 @@ payload:
   - DOMAIN-SUFFIX,shdsvc.dowjones.io
   - DOMAIN,cdn-pci.optimizely.com
   - DOMAIN,images.wsjcommerce.net
+  - DOMAIN,dowjoneson.com.ssl.sc.omtrdc.net
   - DOMAIN-SUFFIX,i-scmp.com
   - DOMAIN-SUFFIX,scmp.com
   - DOMAIN,sc.mp
