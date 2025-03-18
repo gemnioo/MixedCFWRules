@@ -121,6 +121,7 @@ DOMAIN,ghcr.io
 
 # WildCard 
 DOMAIN,yeka.ai
+DOMAIN,2233.ai
 DOMAIN,chatgpt.2233.ai
 DOMAIN,claude.2233.ai
 DOMAIN-SUFFIX,2233,ai
