@@ -27,6 +27,7 @@ HOST,content-developerprofiles-pa.googleapis.com,Open AI
 
 # OpenAI
 HOST,chat.com,Open AI
+HOST,openai.fm,Open AI
 HOST,cookbook.openai.com,Open AI
 HOST,ios.chat.openai.com,Open AI
 HOST,android.chat.openai.com,Open AI
