@@ -26,6 +26,7 @@ DOMAIN,content-developerprofiles-pa.googleapis.com
 
 # OpenAI
 DOMAIN,chat.com
+DOMAIN,openai.fm
 DOMAIN,ios.chat.openai.com
 DOMAIN,cookbook.openai.com
 DOMAIN,android.chat.openai.com
