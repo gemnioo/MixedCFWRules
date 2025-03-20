@@ -80,6 +80,9 @@ DOMAIN,cn2us02.opapi.win
 DOMAIN,www.aigptx.top
 DOMAIN,api.ifopen.ai
 DOMAIN,api2.aigcbest.top
+DOMAIN,302.ai
+DOMAIN,api.302.ai
+DOMAIN-SUFFIX,302.ai
 
   # IDC and 
 DOMAIN-SUFFIX,aait.io
