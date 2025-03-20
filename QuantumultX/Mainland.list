@@ -84,6 +84,9 @@ HOST,cn2us02.opapi.win,Mainland
 HOST,www.aigptx.top,Mainland
 HOST,api.ifopen.ai,Mainland
 HOST,api2.aigcbest.top,Mainland
+HOST,302.ai,Mainland
+HOST,api.302.ai,Mainland
+DOMAIN-SUFFIX,302.ai,Mainland
 
 # > China Banks
 # > Agricultural Bank of China
