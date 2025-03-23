@@ -24,6 +24,8 @@ payload:
   - DOMAIN,pizza.openevidence.com
   - DOMAIN-SUFFIX,openevidence.com
   - DOMAIN,vitals.vercel-insights.com
+  - DOMAIN-SUFFIX,captcha.awswaf.com
+  - DOMAIN-SUFFIX,token.awswaf.com
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
@@ -367,6 +369,9 @@ payload:
   - DOMAIN-SUFFIX,abcnews.com
   - DOMAIN-SUFFIX,nypost.com
   - DOMAIN-SUFFIX,icij.org
+  - DOMAIN,hypebeast.com
+  - DOMAIN,app.termly.io
+  - DOMAIN,image-cdn.hypb.st
 
   # > PayPal
   - DOMAIN-KEYWORD,paypal
