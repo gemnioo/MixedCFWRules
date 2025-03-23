@@ -91,6 +91,7 @@ payload:
   - DOMAIN,api3.siftscience.com
   # Model Context Protocol (MCP)
   - DOMAIN,modelcontextprotocol.io
+  - DOMAIN,smithery.ai
 
   # aws bedrock
   - DOMAIN-SUFFIX,console.api.aws
