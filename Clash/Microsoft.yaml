@@ -10,6 +10,7 @@ payload:
   - DOMAIN,aadcdn.msftauth.net
   - DOMAIN,pti.store.microsoft.com
   - DOMAIN,checkappexec.microsoft.com
+  - DOMAIN,msft.it
 
   #download OS patches, updates, and apps from Microsoft Store. Xbox ！！
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
