@@ -157,6 +157,8 @@ payload:
   - DOMAIN,api.fireworks.ai
   - DOMAIN-SUFFIX,fireworks.ai
   - DOMAIN,api.together.xyz
+  - DOMAIN,chat.together.ai
+  - DOMAIN,clerk.chat.together.ai
   - DOMAIN-SUFFIX,together.ai
   - DOMAIN,api.replicate.com
   - DOMAIN-SUFFIX,sambanova.ai
