@@ -88,6 +88,7 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,www.claudeusercontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,transformer-circuits.pub
   # Claude iOS app Sift API
   - DOMAIN,api3.siftscience.com
   # Model Context Protocol (MCP)
