@@ -31,6 +31,7 @@ payload:
   - DOMAIN,chat.com
   - DOMAIN,openai.fm
   - DOMAIN,www.openai.fm
+  - DOMAIN,academy.openai.com
   - DOMAIN,ios.chat.openai.com
   - DOMAIN,cookbook.openai.com
   - DOMAIN,android.chat.openai.com
@@ -38,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,operator.chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN,files.oaiusercontent.com 
   - DOMAIN-SUFFIX,oaiusercontent.com
@@ -62,7 +64,6 @@ payload:
   - DOMAIN,prodregistryv2.org
   - DOMAIN,featureassets.org
   # Sora
-  - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,videos.openai.com
 
