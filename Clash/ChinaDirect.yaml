@@ -86,6 +86,7 @@ payload:
   - DOMAIN,302.ai
   - DOMAIN,api.302.ai
   - DOMAIN-SUFFIX,302.ai
+  - DOMAIN,bochaai.com
 
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
