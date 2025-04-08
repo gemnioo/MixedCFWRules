@@ -246,6 +246,7 @@ payload:
   # > RSS 
   - DOMAIN,reederapp.com
   - DOMAIN,stratechery.com
+  - DOMAIN-SUFFIX,passport.online
   - DOMAIN-SUFFIX,pressablecdn.com
   - DOMAIN,clip.owenyoung.com
   - DOMAIN,www.kivinsae.com
