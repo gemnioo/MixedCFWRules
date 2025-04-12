@@ -69,6 +69,7 @@ payload:
   - DOMAIN,apps.qaq.wiki
   - DOMAIN,highlightai.com
 
+  - DOMAIN,t3.chat
   - DOMAIN,openwebui.com
   - DOMAIN,docs.openwebui.com
   - DOMAIN,openrouter.ai
