@@ -153,6 +153,7 @@ payload:
   - DOMAIN-SUFFIX,voyageai.com
   - DOMAIN,cloud.llamaindex.ai
   - DOMAIN-SUFFIX,llamaindex.ai
+  - DOMAIN-SUFFIX,trychroma.com
   
   # Cluster
   - DOMAIN,api.groq.com
