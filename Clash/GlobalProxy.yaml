@@ -175,6 +175,7 @@ payload:
   - DOMAIN,pandas.pydata.org
   - DOMAIN-SUFFIX,pydata.org
   - DOMAIN-SUFFIX,arcticdb.io
+  - DOMAIN,docs.pydantic.dev
   - DOMAIN-SUFFIX,scientific-python.org
   - DOMAIN,docs.rapids.ai
   - DOMAIN-SUFFIX,rapids.ai
@@ -182,6 +183,7 @@ payload:
   # kagi search
   - DOMAIN,kagi.com
   - DOMAIN,assets.kagi.com
+  - DOMAIN,translate.kagi.com
   - DOMAIN,staticmedia.kagi.com
   - DOMAIN,sidekick-ui.kagi.com
   - DOMAIN-SUFFIX,kagi.com
