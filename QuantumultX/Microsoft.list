@@ -394,19 +394,25 @@ HOST-SUFFIX,sway-extensions.com,Microsoft
 HOST-SUFFIX,sway.com,Microsoft
 
   # > Visual Studio Code
-HOST-SUFFIX,visualstudio-staging.com,Microsoft
-HOST-SUFFIX,visualstudio.co,Microsoft
-HOST-SUFFIX,visualstudio.co.uk,Microsoft
-HOST-SUFFIX,visualstudio.com,Microsoft
-HOST-SUFFIX,visualstudio.eu,Microsoft
-HOST-SUFFIX,visualstudio.net,Microsoft
-HOST-SUFFIX,vsassets.io,Microsoft
+HOST,update.code.visualstudio.com,Microsoft
+HOST,code.visualstudio.com,Microsoft
+HOST,go.microsoft.com,Microsoft
+HOST,marketplace.visualstudio.com,Microsoft
+HOST-SUFFIX,gallery.vsassets.io,Microsoft
+HOST-SUFFIX,gallerycdn.vsassets.io,Microsoft
+HOST,rink.hockeyapp.net,Microsoft
+HOST,bingsettingssearch.trafficmanager.net,Microsoft
+HOST,vscode.search.windows.net,Microsoft
+HOST,raw.githubusercontent.com,Microsoft
+HOST,vsmarketplacebadges.dev,Microsoft
+HOST-SUFFIX,vscode-cdn.net,Microsoft
+HOST,vscode.download.prss.microsoft.com,Microsoft
+HOST,download.visualstudio.microsoft.com,Microsoft
+HOST,vscode-sync.trafficmanager.net,Microsoft
+HOST,vscode-sync-insiders.trafficmanager.net,Microsoft
+HOST,vscode.dev,Microsoft
 HOST-SUFFIX,vscode-unpkg.net,Microsoft
-HOST-SUFFIX,vscode-webview.net,Microsoft
-HOST-SUFFIX,vscode.dev,Microsoft
-HOST,mobile.events.data.microsoft.com,Microsoft
-HOST,az764295.vo.msecnd.net,Microsoft
-
+HOST,default.exp-tas.com,Microsoft
 
   # > Microsoft XiaoBing,Microsoft
   # HOST-SUFFIX,aicscience.com,Microsoft
