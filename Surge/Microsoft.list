@@ -300,19 +300,24 @@ DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com
 
  # > Visual Studio Code
-DOMAIN-SUFFIX,visualstudio-staging.com
-DOMAIN-SUFFIX,visualstudio.co
-DOMAIN-SUFFIX,visualstudio.co.uk
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,visualstudio.eu
-DOMAIN-SUFFIX,visualstudio.net
-DOMAIN-SUFFIX,vsassets.io
+DOMAIN,code.visualstudio.com
+DOMAIN,go.microsoft.com
+DOMAIN,marketplace.visualstudio.com
+DOMAIN-SUFFIX,gallery.vsassets.io
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
+DOMAIN,rink.hockeyapp.net
+DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,vscode.search.windows.net
+DOMAIN,raw.githubusercontent.com
+DOMAIN,vsmarketplacebadges.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN,vscode.download.prss.microsoft.com
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,vscode-sync.trafficmanager.net
+DOMAIN,vscode-sync-insiders.trafficmanager.net
+DOMAIN,vscode.dev
 DOMAIN-SUFFIX,vscode-unpkg.net
-DOMAIN-SUFFIX,vscode-webview.net
-DOMAIN-SUFFIX,vscode.dev
-DOMAIN,mobile.events.data.microsoft.com
-DOMAIN,az764295.vo.msecnd.net
-
+DOMAIN,default.exp-tas.com
 
  # > Microsoft XiaoBing
  # DOMAIN-SUFFIX,aicscience.com
