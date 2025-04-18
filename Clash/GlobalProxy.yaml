@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,captcha.awswaf.com
   - DOMAIN-SUFFIX,token.awswaf.com
   - DOMAIN-SUFFIX,schemastore.org
-  - DOMAIN,
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
