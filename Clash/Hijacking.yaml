@@ -59,6 +59,7 @@ payload:
   # sentry tracker
   - DOMAIN,openaicom.imgix.net
   - DOMAIN,skan.singular.net
+  - DOMAIN,o590.ingest.us.sentry.io
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,o315582.ingest.sentry.io
   - DOMAIN,o245571.ingest.sentry.io
