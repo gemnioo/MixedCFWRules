@@ -38,6 +38,7 @@ payload:
   - DOMAIN,status.deepseek.com
   - DOMAIN,platform.deepseek.com
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN,tab.volces.com
   - DOMAIN,apmplus.volces.com
   - DOMAIN,castatic.fengkongcloud.cn
   - DOMAIN,api.siliconflow.cn
