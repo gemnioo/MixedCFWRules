@@ -16,6 +16,7 @@ payload:
   #download OS patches, updates, and apps from Microsoft Store. Xbox ！！
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,tile.openstreetmap.org
+  - DOMAIN,filters.adtidy.org
   
   # > Add Firefox Mozilla.org
   - DOMAIN,ocsp.pki.goog
@@ -33,6 +34,10 @@ payload:
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN,stun.services.mozilla1.com
   - DOMAIN-SUFFIX,services.mozilla1.com
+
+  # Extension
+  embed.documentcloud.org
+  s3.documentcloud.org
 
   # > Fastly Oblivious HTTP Relay
   - DOMAIN,ohttp-relay1.fastly-edge.com
