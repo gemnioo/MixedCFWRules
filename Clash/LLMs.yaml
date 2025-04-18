@@ -198,6 +198,8 @@ payload:
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN,api.github.com
   - DOMAIN,api.individual.githubcopilot.com
+  - DOMAIN,telemetry.individual.githubcopilot.com
+  - DOMAIN-SUFFIX,individual.githubcopilot.com
   # incident.io
   - DOMAIN,incident.io
   - DOMAIN,js.qualified.com
