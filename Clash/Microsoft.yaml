@@ -319,6 +319,7 @@ payload:
   - DOMAIN,vscode.dev
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN,default.exp-tas.com
+  - DOMAIN,update.code.visualstudio.com
 
 
   # > Microsoft XiaoBing
