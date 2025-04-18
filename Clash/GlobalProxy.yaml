@@ -26,6 +26,8 @@ payload:
   - DOMAIN,vitals.vercel-insights.com
   - DOMAIN-SUFFIX,captcha.awswaf.com
   - DOMAIN-SUFFIX,token.awswaf.com
+  - DOMAIN-SUFFIX,schemastore.org
+  - DOMAIN,
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
@@ -229,7 +231,10 @@ payload:
   - DOMAIN-SUFFIX,api.sanity.io
   - DOMAIN,api.rudderstack.com
   - DOMAIN,api.getkoala.com
-  
+  - DOMAIN,cdn.brandfetch.io
+  #js.hs-scripts.com
+  #js.hubspot.com
+  #cta-service-cms2.hubspot.com
   # Mintlify docs
   - DOMAIN,api.mintlifytrieve.com
   - DOMAIN,mintlify.b-cdn.net
