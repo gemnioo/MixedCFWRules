@@ -48,6 +48,7 @@ payload:
   - DOMAIN,play.google.com
   - DOMAIN,tools.google.com
   - DOMAIN,clients2.google.com
+  - DOMAIN,chromewebstore.google.com
   - DOMAIN,edgedl.me.gvt1.com
 
   # Extension
