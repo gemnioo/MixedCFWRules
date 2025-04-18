@@ -420,6 +420,17 @@ payload:
   - DOMAIN-SUFFIX,app.smartmailcloud.com
   - DOMAIN-SUFFIX,gate.hockeyapp.net
   - DOMAIN-SUFFIX,smartmailcloud.com
+
+  # > Chrome Browser
+  - DOMAIN,www.google.com
+  - DOMAIN,accounts.google.com
+  - DOMAIN,update.googleapis.com
+  - DOMAIN,storage.googleapis.com
+  - DOMAIN,translate.googleapis.com
+  - DOMAIN,clientservices.googleapis.com
+  - DOMAIN,optimizationguide-pa.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,lh6.googleusercontent.com
   
   # > Tesla
   # DOMAIN-KEYWORD,tesla
