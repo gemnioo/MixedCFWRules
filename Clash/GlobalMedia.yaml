@@ -80,7 +80,8 @@ payload:
   - DOMAIN,dcape-na.amazon.com
   - DOMAIN,ftvpes-na.amazon.com
   - DOMAIN,ftvr-na.amazon.com
-
+  - DOMAIN,unagi-na.amazon.com
+  - DOMAIN,podiumedgeservice.amazon.com
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
   - DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
   - DOMAIN,keyboard.amazonfiretvapp.com
@@ -89,7 +90,8 @@ payload:
   - DOMAIN-SUFFIX,amazonfiretvapp.com
   - DOMAIN,preprod.amazoncrl.com
   - DOMAIN-SUFFIX,amagi.tv
-
+  - DOMAIN,g.xite.com
+  - DOMAIN,configuration.xite.com
     # > Amazon Fire TV Stick 
   # IP-CIDR,3.124.0.0/14,no-resolve
   # IP-CIDR,3.64.0.0/12,no-resolve
