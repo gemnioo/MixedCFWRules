@@ -397,6 +397,17 @@ DOMAIN-SUFFIX,smartmailcloud.com
 # > Zooba
 # - USER-AGENT,battleroyale*
 
+# > Add Google Chrome
+DOMAIN,www.google.com
+DOMAIN,accounts.google.com
+DOMAIN,update.googleapis.com
+DOMAIN,storage.googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,lh6.googleusercontent.com
+
 # > Top blocked sites
 DOMAIN,x.com
 DOMAIN,api.x.com
