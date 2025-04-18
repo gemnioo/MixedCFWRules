@@ -54,8 +54,10 @@ payload:
   - DOMAIN,embed.documentcloud.org
   - DOMAIN,s3.documentcloud.org
   - DOMAIN,filters.adtidy.org
+  - DOMAIN,ublockorigin.github.io
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,malware-filter.pages.dev
+  
   # > Fastly Oblivious HTTP Relay
   - DOMAIN,ohttp-relay1.fastly-edge.com
   - DOMAIN-SUFFIX,fastly-edge.com
