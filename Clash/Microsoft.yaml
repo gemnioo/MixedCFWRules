@@ -35,10 +35,27 @@ payload:
   - DOMAIN,stun.services.mozilla1.com
   - DOMAIN-SUFFIX,services.mozilla1.com
 
-  # Extension
-  embed.documentcloud.org
-  s3.documentcloud.org
+  # > Add Google Chrome
+  # DOMAIN,www.google.com
+  # DOMAIN,accounts.google.com
+  # DOMAIN,update.googleapis.com
+  # DOMAIN,storage.googleapis.com
+  # DOMAIN,translate.googleapis.com
+  # DOMAIN,clientservices.googleapis.com
+  # DOMAIN,optimizationguide-pa.googleapis.com
+  # DOMAIN-SUFFIX,googleapis.com
+  # DOMAIN,lh6.googleusercontent.com
+  - DOMAIN,play.google.com
+  - DOMAIN,tools.google.com
+  - DOMAIN,clients2.google.com
+  - DOMAIN,edgedl.me.gvt1.com
 
+  # Extension
+  - DOMAIN,embed.documentcloud.org
+  - DOMAIN,s3.documentcloud.org
+  - DOMAIN,filters.adtidy.org
+  - DOMAIN,ublockorigin.pages.dev
+  - DOMAIN,malware-filter.pages.dev
   # > Fastly Oblivious HTTP Relay
   - DOMAIN,ohttp-relay1.fastly-edge.com
   - DOMAIN-SUFFIX,fastly-edge.com
