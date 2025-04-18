@@ -428,9 +428,27 @@ payload:
   - DOMAIN,translate.googleapis.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,optimizationguide-pa.googleapis.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN,lh6.googleusercontent.com
+  - DOMAIN,clients3.google.com
   
+  - DOMAIN,ci3.googleusercontent.com
+  - DOMAIN,lh3.googleusercontent.com
+  # DOMAIN,yt3.googleusercontent.com
+  # > Gmail
+  - DOMAIN,mail.google.com
+  - DOMAIN,inbox.google.com
+  - DOMAIN,suggestqueries.google.com
+  - DOMAIN,www.googleapis.com
+  - DOMAIN,oauth2.googleapis.com
+  - DOMAIN,iosantiabuse-pa.googleapis.com
+  - DOMAIN,notifications-pa.googleapis.com
+  - DOMAIN,oauthaccountmanager.googleapis.com
+
+  - DOMAIN,play.googleapis.com
+  - DOMAIN,reach-pa.googleapis.com
+  - DOMAIN,addons-pa.googleapis.com
+  - DOMAIN,taskassist-pa.googleapis.com
+  - DOMAIN,peoplestack-pa.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
   # > Tesla
   # DOMAIN-KEYWORD,tesla
 
