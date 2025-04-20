@@ -422,6 +422,7 @@ payload:
 
   # > Chrome Browser
   - DOMAIN,www.google.com
+  - DOMAIN,calendar.google.com
   - DOMAIN,accounts.google.com
   - DOMAIN,update.googleapis.com
   - DOMAIN,storage.googleapis.com
