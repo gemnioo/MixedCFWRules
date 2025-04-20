@@ -301,6 +301,8 @@ payload:
   - DOMAIN,dcs-spotify.megaphone.fm
   - DOMAIN-SUFFIX,megaphone.fm
   - DOMAIN,content.blubrry.com
+  - DOMAIN,lexfridman.com
+  - DOMAIN,code.jquery.com
 
   - DOMAIN,assets.zerohedge.com  
   - DOMAIN-SUFFIX,zerohedge.com
@@ -429,6 +431,7 @@ payload:
   - DOMAIN,translate.googleapis.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,optimizationguide-pa.googleapis.com
+  # DOMAIN,jnn-pa.googleapis.com
   - DOMAIN,clients3.google.com
   
   - DOMAIN,ci3.googleusercontent.com
