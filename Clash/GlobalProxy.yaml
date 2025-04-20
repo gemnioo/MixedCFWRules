@@ -432,7 +432,8 @@ payload:
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,optimizationguide-pa.googleapis.com
   # DOMAIN,jnn-pa.googleapis.com
-  - DOMAIN,clients3.google.com
+  - DOMAIN-SUFFIX,clients3.google.com
+  - DOMAIN-SUFFIX,clients6.google.com
   
   - DOMAIN,ci3.googleusercontent.com
   - DOMAIN,lh3.googleusercontent.com
