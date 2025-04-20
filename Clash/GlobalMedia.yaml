@@ -557,6 +557,7 @@ payload:
   - DOMAIN,yt3.googleusercontent.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
+  - DOMAIN,jnn-pa.googleapis.com
 
   # YouTubeMusic
   # USER-AGENT,*YouTubeMusic*
