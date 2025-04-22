@@ -283,6 +283,11 @@ payload:
   - DOMAIN,ihower.tw
   - DOMAIN-SUFFIX,sequoiacap.com
   - DOMAIN,mailing.andie.im
+  - DOMAIN,runrepeat.com
+  - DOMAIN,api.runrepeat.com
+  - DOMAIN,cdn.runrepeat.com
+  - DOMAIN,assets.runrepeat.com
+  - DOMAIN-SUFFIX,runrepeat.com
 
 
 # > Podcast and Reading Media
