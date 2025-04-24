@@ -69,6 +69,8 @@ payload:
   - DOMAIN,dorian.qaq.wiki
   - DOMAIN,apps.qaq.wiki
   - DOMAIN,highlightai.com
+  - DOMAIN,blog.comfy.org
+  - DOMAIN-SUFFIX,comfy.org
 
   - DOMAIN,t3.chat
   - DOMAIN,openwebui.com
