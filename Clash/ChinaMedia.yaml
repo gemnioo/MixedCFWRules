@@ -18,6 +18,7 @@ payload:
   - DOMAIN,wantwatch.me
   - DOMAIN,widget.tianqiapi.com
   - DOMAIN,api.codetabs.com
+  - DOMAIN,seedhub.cc
 
   # openclash console test
   - DOMAIN,s1.music.126.net
