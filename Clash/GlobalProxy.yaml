@@ -4,6 +4,8 @@ payload:
   - DOMAIN,s3.eu-central-2.wasabisys.com
   - DOMAIN-SUFFIX,msdmanuals.com
 
+  - DOMAIN,wh.gov
+  - DOMAIN,www.whitehouse.gov
   - DOMAIN,fxtwitter.com
   - DOMAIN,ocmacro.com
   - DOMAIN,trusting-glitter-4f0.notion.site
