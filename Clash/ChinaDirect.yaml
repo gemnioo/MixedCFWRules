@@ -43,6 +43,8 @@ payload:
   - DOMAIN,castatic.fengkongcloud.cn
   - DOMAIN,api.siliconflow.cn
   - DOMAIN,chat.qwen.ai
+  - DOMAIN,chat.qwenlm.ai
+  - DOMAIN,aplus.qwen.ai
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,wan.video
   - DOMAIN,chat.z.ai
