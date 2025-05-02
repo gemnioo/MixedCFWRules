@@ -51,6 +51,8 @@ payload:
   - DOMAIN,www.linkeless.com
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN,in.mesl.cloud
+  - DOMAIN,gfw.report
 
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
