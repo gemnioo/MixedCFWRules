@@ -43,6 +43,7 @@ payload:
   - DOMAIN,stash.wiki
   - DOMAIN,stash.ws
   - DOMAIN,nyanpass.pages.dev
+  - DOMAIN,faka.nyafw.com
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN,getsurfboard.com
   - DOMAIN,formulae.brew.sh
