@@ -29,6 +29,7 @@ payload:
   - DOMAIN,status.rapidssl.com
 
   - DOMAIN-SUFFIX,eff.org
+  - DOMAIN,publicsuffix.org
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,firefoxusercontent.com
