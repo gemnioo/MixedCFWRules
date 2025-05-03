@@ -27,6 +27,8 @@ payload:
   # DOMAIN,pplx-next-static-public.perplexity.ai
   - DOMAIN,static.wixstatic.com
   - DOMAIN,www.clarity.ms
+  - DOMAIN,beacons2.gvt2.com
+  - DOMAIN,webmetrics.mayoclinic.org
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
