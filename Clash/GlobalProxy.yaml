@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,rfchost.com
   - DOMAIN,in.mesl.cloud
+  - DOMAIN,img.asndns.com
   - DOMAIN,gfw.report
 
   # Some LLMs non restricted
