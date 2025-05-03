@@ -2,7 +2,14 @@ payload:
   # add by me Fake IP Mode
   - DOMAIN-KEYWORD,mastodon
   - DOMAIN,s3.eu-central-2.wasabisys.com
+  # Medical
   - DOMAIN-SUFFIX,msdmanuals.com
+  - DOMAIN,edge.sitecorecloud.io
+  - DOMAIN-SUFFIX,prod.boltdns.net
+  - DOMAIN,assets.mayoclinic.org
+  - DOMAIN,design.mayoclinic.org
+  - DOMAIN-SUFFIX,mayoclinic.org
+  - DOMAIN,aim-tag.hcn.health
 
   - DOMAIN,wh.gov
   - DOMAIN,www.whitehouse.gov
@@ -1243,3 +1250,6 @@ payload:
   - IP-CIDR,75.126.0.0/16,no-resolve
   - IP-CIDR,174.37.0.0/16,no-resolve
   - IP-CIDR,208.43.0.0/16,no-resolve
+
+  # > Telegram add SG.GS ?
+  - IP-CIDR,128.199.170.0/24,no-resolve
