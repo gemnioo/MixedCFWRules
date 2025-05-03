@@ -31,7 +31,10 @@ payload:
   - DOMAIN,crl.digicert-cn.com
   - DOMAIN,ocsp.digicert.cn
   - DOMAIN,crl.digicert.cn
-  
+  # Google in CN
+  - DOMAIN,i.pki.goog
+  - DOMAIN,o.pki.goog
+  - DOMAIN,ocsp.pki.goog
   # LLMs Proxy API within CN 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
