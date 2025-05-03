@@ -145,6 +145,8 @@ payload:
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazon.jobs
   - DOMAIN-SUFFIX,amazonuniversity.jobs
+  - DOMAIN-SUFFIX,na.api.amazonvideo.com
+  - DOMAIN-SUFFIX,api.amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,pv-cdn.net
