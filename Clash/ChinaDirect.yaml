@@ -75,6 +75,7 @@ payload:
   - DOMAIN,portal.volccdn.com
   - DOMAIN-SUFFIX,volccdn.com
   - DOMAIN-SUFFIX,volcanicengine.com
+  - DOMAIN-SUFFIX,immersivetranslate.cn
 
   - DOMAIN-SUFFIX,remio.ai
   - DOMAIN-SUFFIX,chatboxai.app
