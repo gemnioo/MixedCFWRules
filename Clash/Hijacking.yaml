@@ -22,6 +22,7 @@ payload:
   - DOMAIN,p2-play.edge4k.com
   - DOMAIN,analytics.ad.daum.net
   - DOMAIN,analytics.immersivetranslate.com
+  - DOMAIN,analytics.immersivetranslate.cn
   - DOMAIN,dk-api-v1.singular.net
   - DOMAIN,sdk-api-v1.singular.net
   # DOMAIN,pplx-next-static-public.perplexity.ai
