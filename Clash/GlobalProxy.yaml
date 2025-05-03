@@ -469,11 +469,13 @@ payload:
   - DOMAIN,iosantiabuse-pa.googleapis.com
   - DOMAIN,notifications-pa.googleapis.com
   - DOMAIN,oauthaccountmanager.googleapis.com
+  # DOMAIN,firebaselogging-pa.googleapis.com
 
   - DOMAIN,play.googleapis.com
   - DOMAIN,reach-pa.googleapis.com
   - DOMAIN,addons-pa.googleapis.com
   - DOMAIN,taskassist-pa.googleapis.com
+  - DOMAIN,people-pa.googleapis.com
   - DOMAIN,peoplestack-pa.googleapis.com
   - DOMAIN-SUFFIX,googleapis.com
   # > Tesla
