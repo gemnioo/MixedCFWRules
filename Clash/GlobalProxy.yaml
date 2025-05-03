@@ -56,9 +56,10 @@ payload:
   - DOMAIN,formulae.brew.sh
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,aws.cloud2.influxdata.com
-  - DOMAIN,www.linkeless.com
+  - DOMAIN,beta.linkeless.com
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN,www.amytele.net
   - DOMAIN,in.mesl.cloud
   - DOMAIN,img.asndns.com
   - DOMAIN,gfw.report
@@ -1096,6 +1097,7 @@ payload:
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN,cdn.datatables.net
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,twitter
