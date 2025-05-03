@@ -196,6 +196,7 @@ payload:
   - DOMAIN-SUFFIX,scientific-python.org
   - DOMAIN,docs.rapids.ai
   - DOMAIN-SUFFIX,rapids.ai
+  - DOMAIN,iterm2.com
   
   # kagi search
   - DOMAIN,kagi.com
