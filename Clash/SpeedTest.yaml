@@ -48,7 +48,8 @@ payload:
   - DOMAIN,api6.ipify.org
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN,api.iconify.design
-  - DOMAIN,use.typekit.net
+  # DOMAIN,use.typekit.net
+  - DOMAIN,js.hsforms.net
   
   # 3rd party test website
   - DOMAIN,ipv4.ping0.cc
