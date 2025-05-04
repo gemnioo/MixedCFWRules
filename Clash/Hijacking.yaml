@@ -30,6 +30,7 @@ payload:
   - DOMAIN,www.clarity.ms
   - DOMAIN,beacons2.gvt2.com
   - DOMAIN,webmetrics.mayoclinic.org
+  - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
