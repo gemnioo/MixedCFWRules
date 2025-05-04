@@ -36,6 +36,8 @@ payload:
   - DOMAIN-SUFFIX,captcha.awswaf.com
   - DOMAIN-SUFFIX,token.awswaf.com
   - DOMAIN-SUFFIX,schemastore.org
+  - DOMAIN,releases.obsidian.md
+  - DOMAIN-SUFFIX,obsidian.md
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
