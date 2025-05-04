@@ -59,7 +59,10 @@ payload:
   - DOMAIN,ublockorigin.github.io
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,malware-filter.pages.dev
-  
+
+  # VSCode code-server
+  - DOMAIN,open-vsx.org
+  - DOMAIN,openvsxorg.blob.core.windows.net
   # > Fastly Oblivious HTTP Relay
   - DOMAIN,ohttp-relay1.fastly-edge.com
   - DOMAIN-SUFFIX,fastly-edge.com
