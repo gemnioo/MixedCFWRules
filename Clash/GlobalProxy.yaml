@@ -172,7 +172,8 @@ payload:
   - DOMAIN-SUFFIX,raycast.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN,proxsee.pscp.tv
-  
+
+  - DOMAIN,amzn.to
   - DOMAIN,api.amazon.com
   - DOMAIN,msh.amazon.com
   - DOMAIN,msh.amazon.co.uk
@@ -301,7 +302,7 @@ payload:
   - DOMAIN,private.quartr.com
   - DOMAIN,qcast.page.link
   - DOMAIN,substack.com
-  - DOMAIN-SUFFIX,open.substack.com
+  - DOMAIN-SUFFIX,substack.com
   - DOMAIN,substackcdn.com
   - DOMAIN-SUFFIX,sbstck.com
   - DOMAIN,ihower.tw
@@ -312,6 +313,10 @@ payload:
   - DOMAIN,cdn.runrepeat.com
   - DOMAIN,assets.runrepeat.com
   - DOMAIN-SUFFIX,runrepeat.com
+  - DOMAIN,simonwillison.net
+  - DOMAIN,static.simonwillison.net
+  - DOMAIN,every.to
+  # d24ovhgu8s7341.cloudfront.net
 
 
 # > Podcast and Reading Media
@@ -485,6 +490,7 @@ payload:
   - DOMAIN,people-pa.googleapis.com
   - DOMAIN,peoplestack-pa.googleapis.com
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,goo.gle
   # > Tesla
   # DOMAIN-KEYWORD,tesla
 
@@ -511,6 +517,7 @@ payload:
   - DOMAIN-SUFFIX,airtable.com
   - DOMAIN-SUFFIX,alfredapp.com
   - DOMAIN-SUFFIX,allconnected.co
+  - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,amazon.co
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.com
