@@ -89,6 +89,7 @@ payload:
 
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,addons.mozilla.org
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mofoprod.net
   - DOMAIN-SUFFIX,mozilla.community
