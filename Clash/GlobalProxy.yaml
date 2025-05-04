@@ -237,6 +237,7 @@ payload:
   - DOMAIN,static.intercomassets.com
   - DOMAIN,intercom.help
   - DOMAIN,nexus-websocket-a.intercom.io
+  
   # Decagon support
   - DOMAIN,decagon.ai
   - DOMAIN,api.decagon.ai
@@ -249,6 +250,9 @@ payload:
   - DOMAIN,api.rudderstack.com
   - DOMAIN,api.getkoala.com
   - DOMAIN,cdn.brandfetch.io
+  # ts manual tracker?
+  - DOMAIN,find.userpilot.io
+  - DOMAIN,analytex-us.userpilot.io
   #js.hs-scripts.com
   #js.hubspot.com
   #cta-service-cms2.hubspot.com
