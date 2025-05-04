@@ -6,7 +6,8 @@ payload:
   - DOMAIN,brand-assets.cne.ngc.nvidia.com
   - DOMAIN-SUFFIX,ngc.nvidia.com
   
-  # Gemini 
+  # Gemini
+  - DOMAIN,labs.google.com
   - DOMAIN,bard.google.com
   - DOMAIN,gemini.google.com
   - DOMAIN,alkalicore-pa.clients6.google.com
