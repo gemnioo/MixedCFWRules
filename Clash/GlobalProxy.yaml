@@ -55,6 +55,8 @@ payload:
   - DOMAIN,faka.nyafw.com
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN,getsurfboard.com
+  - DOMAIN,ruleset.skk.moe
+  - DOMAIN-SUFFIX,skk.moe
   - DOMAIN,formulae.brew.sh
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,aws.cloud2.influxdata.com
