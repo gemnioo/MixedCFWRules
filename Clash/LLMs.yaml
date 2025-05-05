@@ -218,8 +218,8 @@ payload:
   - DOMAIN-SUFFIX,tch.poe.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,cf2.poecdn.net
-  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN,ai.meta.com
+  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN,ai.gitee.com
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,dify.ai
