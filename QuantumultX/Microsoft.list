@@ -114,12 +114,39 @@ HOST,fp2e7a.wpc.2be4.phicdn.net,Microsoft
 HOST,status.rapidssl.com,Microsoft
 
 HOST-SUFFIX,eff.org,Microsoft
+HOST,publicsuffix.org,Microsoft
 HOST-SUFFIX,firefox.com,Microsoft
 HOST-SUFFIX,firefox.com.cn,Microsoft
 HOST-SUFFIX,firefoxusercontent.com,Microsoft
-
 HOST,stun.services.mozilla1.com,Microsoft
 HOST-SUFFIX,services.mozilla1.com,Microsoft
+
+  # > Add Google Chrome
+HOST,play.google.com,Microsoft
+HOST,tools.google.com,Microsoft
+HOST,clients2.google.com,Microsoft
+HOST,edgedl.me.gvt1.com,Microsoft
+
+  # > Extension
+HOST,chromewebstore.google.com,Microsoft
+HOST,embed.documentcloud.org,Microsoft
+HOST,s3.documentcloud.org,Microsoft
+HOST,filters.adtidy.org,Microsoft
+HOST,ublockorigin.github.io,Microsoft
+HOST,ublockorigin.pages.dev,Microsoft
+HOST,malware-filter.pages.dev,Microsoft
+
+# > VSCode code-server
+HOST,open-vsx.org,Microsoft
+HOST,openvsxorg.blob.core.windows.net,Microsoft
+
+  # > Extension
+HOST,embed.documentcloud.org,Microsoft
+HOST,s3.documentcloud.org,Microsoft
+HOST,filters.adtidy.org,Microsoft
+HOST,ublockorigin.github.io,Microsoft
+HOST,ublockorigin.pages.dev,Microsoft
+HOST,malware-filter.pages.dev,Microsoft
 
   # > Fastly Oblivious HTTP Relay
 HOST,ohttp-relay1.fastly-edge.com,Microsoft
