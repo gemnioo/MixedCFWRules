@@ -1,18 +1,21 @@
-#NVIDIA
+# Nvidia
 DOMAIN,build.nvidia.com
 DOMAIN,integrate.api.nvidia.com
 DOMAIN,api.ngc.nvidia.com
 DOMAIN,brand-assets.cne.ngc.nvidia.com
 DOMAIN-SUFFIX,ngc.nvidia.com
-
-# Gemini 
+  
+# Gemini
+DOMAIN,labs.google.com
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,alkalimetricsink-pa.clients6.google.com
+DOMAIN,ai.dev
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
+DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN,generativelanguage.googleapis.com
@@ -28,6 +31,7 @@ DOMAIN,content-developerprofiles-pa.googleapis.com
 DOMAIN,chat.com
 DOMAIN,openai.fm
 DOMAIN,www.openai.fm
+DOMAIN,academy.openai.com
 DOMAIN,ios.chat.openai.com
 DOMAIN,cookbook.openai.com
 DOMAIN,android.chat.openai.com
@@ -35,8 +39,9 @@ DOMAIN,desktop.chat.openai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN,operator.chatgpt.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,sora-cdn.oaistatic.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN,files.oaiusercontent.com
+DOMAIN,files.oaiusercontent.com 
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN,cdn.auth0.com
@@ -46,21 +51,19 @@ DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-  # DOMAIN,nexus-websocket-a.intercom.io
+# DOMAIN,nexus-websocket-a.intercom.io
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,chatgpt.livekit.cloud
- # ChatGPT voice mode TCP 443 request 
+# ChatGPT voice mode TCP 443 request 
 DOMAIN-SUFFIX,turn.livekit.cloud
- # ChatGPT voice mode UDP 3478 request
-DOMAIN-SUFFIX,host.livekit.cloud
+# ChatGPT voice mode UDP 3478 request
+DOMAIN-SUFFIX,DOMAIN.livekit.cloud
 DOMAIN,api.statsig.com
 DOMAIN,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN,prodregistryv2.org
 DOMAIN,featureassets.org
 # Sora
-DOMAIN,www.sora.com
-DOMAIN,sora-cdn.oaistatic.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,videos.openai.com
 
@@ -86,8 +89,12 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN,www.claudeusercontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,transformer-circuits.pub
 # Claude iOS app Sift API
 DOMAIN,api3.siftscience.com
+# Model Context Protocol (MCP)
+DOMAIN,modelcontextprotocol.io
+DOMAIN,smithery.ai
 
 # aws bedrock
 DOMAIN-SUFFIX,console.api.aws
@@ -108,15 +115,15 @@ DOMAIN,api.perplexity.ai
 DOMAIN,discover-audio.perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,pplx-res.cloudinary.com
-DOMAIN,fscdn.eppo.cloud  
+DOMAIN,fscdn.eppo.cloud
 
-# Mistral 
+# Mistral
 DOMAIN,chat.mistral.ai
 DOMAIN,auth.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
 
-  # Voice
+# Voice
 DOMAIN,api.elevenlabs.io
 DOMAIN,api.us.elevenlabs.io
 DOMAIN-SUFFIX,elevenlabs.io
@@ -129,32 +136,50 @@ DOMAIN,api.jina.ai
 DOMAIN,r.jina.ai
 DOMAIN,s.jina.ai
 DOMAIN,g.jina.ai
+DOMAIN,deepsearch.jina.ai
 DOMAIN-SUFFIX,jina.ai
-
+DOMAIN,jina-ai-gmbh.gDOMAIN.io
+DOMAIN,img.spacergif.org
+# Search
+DOMAIN,api.exa.ai
+DOMAIN-SUFFIX,exa.ai
+DOMAIN,api.tavily.com
+DOMAIN,docs.tavily.com
+DOMAIN-SUFFIX,tavily.com
+DOMAIN,api.search.brave.com
+# RAGs
 DOMAIN-SUFFIX,cohere.com
 DOMAIN,api.voyageai.com
 DOMAIN-SUFFIX,voyageai.com
 DOMAIN,cloud.llamaindex.ai
 DOMAIN-SUFFIX,llamaindex.ai
-
+DOMAIN-SUFFIX,trychroma.com
+  
 # Cluster
 DOMAIN,api.groq.com
 DOMAIN,api.fireworks.ai
 DOMAIN-SUFFIX,fireworks.ai
 DOMAIN,api.together.xyz
+DOMAIN,chat.together.ai
+DOMAIN,clerk.chat.together.ai
 DOMAIN-SUFFIX,together.ai
 DOMAIN,api.replicate.com
+DOMAIN-SUFFIX,sambanova.ai
+DOMAIN,api.studio.nebius.ai
 DOMAIN,api.eu.nebius.cloud
 DOMAIN-SUFFIX,nebius.cloud
 DOMAIN-SUFFIX,nebius.com
 DOMAIN-SUFFIX,nebius.ai
 DOMAIN,api.hyperbolic.xyz
 DOMAIN-SUFFIX,hyperbolic.xyz
+DOMAIN-SUFFIX,lmstudio.ai
 
 # Arena
 DOMAIN,web.lmarena.ai
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN,artificialanalysis.ai
+DOMAIN-SUFFIX,thinkingmachines.ai
+  
 # Hugging Face
 DOMAIN,cdn-avatars.huggingface.co
 DOMAIN-SUFFIX,huggingface.co
@@ -162,10 +187,24 @@ DOMAIN,api.hf.space
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,token.awswaf.com
 DOMAIN-SUFFIX,edge.sdk.awswaf.com
-
+DOMAIN,cdn-lfs-us-1.hf.co
+DOMAIN,distill.pub
+DOMAIN,cdn.plot.ly
+  
+# IDEs
+DOMAIN,docs.cursor.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN,docs.codeium.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN,api.github.com
+DOMAIN,api.individual.githubcopilot.com
+DOMAIN,telemetry.individual.githubcopilot.com
+DOMAIN-SUFFIX,individual.githubcopilot.com
+# incident.io
+DOMAIN,incident.io
+DOMAIN,js.qualified.com
+  
 # Others
-DOMAIN,api.exa.ai
-DOMAIN-SUFFIX,exa.ai
 DOMAIN,api.x.ai
 DOMAIN,docs.x.ai
 DOMAIN,accounts.x.ai
@@ -174,12 +213,21 @@ DOMAIN-SUFFIX,grok.comm
 DOMAIN,auth.you.com
 DOMAIN,cdn.you.com
 DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,useparagon.com
+DOMAIN-SUFFIX,tch.poe.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,cf2.poecdn.net
+DOMAIN-SUFFIX,meta.ai
 DOMAIN,ai.meta.com
 DOMAIN,ai.gitee.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,dify.ai
+DOMAIN,epoch.ai
+DOMAIN-SUFFIX,interconnects.ai
 DOMAIN-SUFFIX,reflection.ai
-DOMAIN,chat.inceptionlabs.ai
+DOMAIN-SUFFIX,inceptionlabs.ai
 DOMAIN-SUFFIX,deeplearning.ai
 DOMAIN-SUFFIX,unsloth.ai
-
+DOMAIN-SUFFIX,beeai.dev
+DOMAIN,diabrowser.engineering
+DOMAIN,karpathy.bearblog.dev
