@@ -2,7 +2,17 @@
 DOMAIN-KEYWORD,mastodon
 DOMAIN,s3.eu-central-2.wasabisys.com
 DOMAIN-SUFFIX,msdmanuals.com
+# Medical
+DOMAIN-SUFFIX,msdmanuals.com
+DOMAIN,edge.sitecorecloud.io
+DOMAIN-SUFFIX,prod.boltdns.net
+DOMAIN,assets.mayoclinic.org
+DOMAIN,design.mayoclinic.org
+DOMAIN-SUFFIX,mayoclinic.org
+DOMAIN,aim-tag.hcn.health
 
+DOMAIN,wh.gov
+DOMAIN,www.whitehouse.gov
 DOMAIN,fxtwitter.com
 DOMAIN,trusting-glitter-4f0.notion.site
 DOMAIN,ocmacro.com
@@ -24,6 +34,11 @@ DOMAIN,ramuk.intertekconnect.com
 DOMAIN,pizza.openevidence.com
 DOMAIN-SUFFIX,openevidence.com
 DOMAIN,vitals.vercel-insights.com
+DOMAIN-SUFFIX,captcha.awswaf.com
+DOMAIN-SUFFIX,token.awswaf.com
+DOMAIN-SUFFIX,schemastore.org
+DOMAIN,releases.obsidian.md
+DOMAIN-SUFFIX,obsidian.md
 
 # Maunal 
 DOMAIN,sing-box.sagernet.org
@@ -47,6 +62,10 @@ DOMAIN-SUFFIX,aws.cloud2.influxdata.com
 DOMAIN,www.linkeless.com
 DOMAIN-SUFFIX,linkeless.com
 DOMAIN-SUFFIX,rfchost.com
+DOMAIN,www.amytele.net
+DOMAIN,in.mesl.cloud
+DOMAIN,img.asndns.com
+DOMAIN,gfw.report
 
 # Some LLMs non restricted
 # DOMAIN-SUFFIX,poe.com
@@ -63,6 +82,11 @@ DOMAIN-SUFFIX,fish.audio
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,flowdown.ai
+DOMAIN,dorian.qaq.wiki
+DOMAIN,apps.qaq.wiki
+DOMAIN,highlightai.com
+DOMAIN,blog.comfy.org
+DOMAIN-SUFFIX,comfy.org
 
 DOMAIN,openwebui.com
 DOMAIN,docs.openwebui.com
@@ -155,7 +179,6 @@ DOMAIN,app.cal.com
 DOMAIN,twenty.com
 DOMAIN,framerusercontent.com
 DOMAIN,framer.com
-
 DOMAIN,mail.proton.me
 DOMAIN,account.proton.me
 DOMAIN-SUFFIX,proton.me
@@ -165,7 +188,11 @@ DOMAIN-SUFFIX,spot.im
 DOMAIN,pandas.pydata.org
 DOMAIN-SUFFIX,pydata.org
 DOMAIN-SUFFIX,arcticdb.io
+DOMAIN,docs.pydantic.dev
 DOMAIN-SUFFIX,scientific-python.org
+DOMAIN,docs.rapids.ai
+DOMAIN-SUFFIX,rapids.ai
+DOMAIN,iterm2.com
   
 # kagi search
 DOMAIN,kagi.com
@@ -216,11 +243,17 @@ DOMAIN,cdn.sanity.io
 DOMAIN-SUFFIX,api.sanity.io
 DOMAIN,api.rudderstack.com
 DOMAIN,api.getkoala.com
+  # ts manual tracker?
+DOMAIN,find.userpilot.io
+DOMAIN,analytex-us.userpilot.io
 
 # Mintlify docs
 DOMAIN,api.mintlifytrieve.com
 DOMAIN,mintlify.b-cdn.net
 DOMAIN-SUFFIX,mintlify.com
+DOMAIN,us.i.posthog.com
+DOMAIN,api.inkeep.com
+DOMAIN,api.io.inkeep.com
 DOMAIN,widget.kapa.ai
 DOMAIN,docs.kapa.ai
 DOMAIN-SUFFIX,kapa.ai
@@ -261,6 +294,15 @@ DOMAIN,substackcdn.com
 DOMAIN-SUFFIX,sbstck.com
 DOMAIN,ihower.tw
 DOMAIN-SUFFIX,sequoiacap.com
+DOMAIN,mailing.andie.im
+DOMAIN,runrepeat.com
+DOMAIN,api.runrepeat.com
+DOMAIN,cdn.runrepeat.com
+DOMAIN,assets.runrepeat.com
+DOMAIN-SUFFIX,runrepeat.com
+DOMAIN,simonwillison.net
+DOMAIN,static.simonwillison.net
+DOMAIN,every.to
 
 # > Podcast and Reading Media
 DOMAIN,link.chtbl.com
@@ -389,7 +431,45 @@ DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
+
 DOMAIN-SUFFIX,smartmailcloud.com
+
+# > Chrome Browser
+DOMAIN,www.google.com
+DOMAIN,calendar.google.com
+DOMAIN,accounts.google.com
+DOMAIN,update.googleapis.com
+DOMAIN,storage.googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,optimizationguide-pa.googleapis.com
+  # DOMAIN,jnn-pa.googleapis.com
+DOMAIN-SUFFIX,clients3.google.com
+DOMAIN-SUFFIX,clients6.google.com
+  
+DOMAIN,ci3.googleusercontent.com
+DOMAIN,lh3.googleusercontent.com
+  # DOMAIN,yt3.googleusercontent.com
+
+# > Gmail
+DOMAIN,mail.google.com
+DOMAIN,inbox.google.com
+DOMAIN,suggestqueries.google.com
+DOMAIN,www.googleapis.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,iosantiabuse-pa.googleapis.com
+DOMAIN,notifications-pa.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
+  # DOMAIN,firebaselogging-pa.googleapis.com
+
+DOMAIN,play.googleapis.com
+DOMAIN,reach-pa.googleapis.com
+DOMAIN,addons-pa.googleapis.com
+DOMAIN,taskassist-pa.googleapis.com
+DOMAIN,people-pa.googleapis.com
+DOMAIN,peoplestack-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,goo.gle
   
 # > Tesla
 # DOMAIN-KEYWORD,tesla
