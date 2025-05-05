@@ -5,7 +5,8 @@ HOST,api.ngc.nvidia.com,Open AI
 HOST,brand-assets.cne.ngc.nvidia.com,Open AI
 HOST-SUFFIX,ngc.nvidia.com,Open AI
 
-# Gemini 
+# Gemini
+HOST,labs.google.com,Open AI
 HOST,bard.google.com,Open AI
 HOST,gemini.google.com,Open AI
 HOST,alkalicore-pa.clients6.google.com,Open AI
@@ -137,7 +138,14 @@ HOST,r.jina.ai,Open AI
 HOST,s.jina.ai,Open AI
 HOST,g.jina.ai,Open AI
 HOST-SUFFIX,jina.ai,Open AI
-
+# Search
+HOST,api.exa.ai,Open AI
+HOST-SUFFIX,exa.ai,Open AI
+HOST,api.tavily.com,Open AI
+HOST,docs.tavily.com,Open AI
+HOST-SUFFIX,tavily.com,Open AI
+HOST,api.search.brave.com,Open AI
+# RAG
 HOST-SUFFIX,cohere.com,Open AI
 HOST,api.voyageai.com,Open AI
 HOST-SUFFIX,voyageai.com,Open AI
@@ -149,8 +157,12 @@ HOST,api.groq.com,Open AI
 HOST,api.fireworks.ai,Open AI
 HOST-SUFFIX,fireworks.ai,Open AI
 HOST,api.together.xyz,Open AI
+HOST,chat.together.ai,Open AI
+HOST,clerk.chat.together.ai,Open AI
 HOST-SUFFIX,together.ai,Open AI
 HOST,api.replicate.com,Open AI
+HOST-SUFFIX,sambanova.ai,Open AI
+HOST,api.studio.nebius.ai,Open AI
 HOST,api.eu.nebius.cloud,Open AI
 HOST-SUFFIX,nebius.cloud,Open AI
 HOST-SUFFIX,nebius.com,Open AI
@@ -181,24 +193,40 @@ HOST,docs.cursor.com,Open AI
 HOST-SUFFIX,cursor.com,Open AI
 HOST,docs.codeium.com,Open AI
 HOST-SUFFIX,codeium.co,Open AI
+HOST,api.github.com,Open AI
+HOST,api.individual.githubcopilot.com,Open AI
+HOST,telemetry.individual.githubcopilot.com,Open AI
+HOST-SUFFIX,individual.githubcopilot.com,Open AI
+# incident.io
+HOST,incident.io,Open AI
+HOST,js.qualified.com,Open AI
+  
 
 # Other LLMs
-HOST-SUFFIX,poe.com,Open AI
-HOST-SUFFIX,meta.ai,Open AI
-HOST,api.exa.ai,Open AI
-HOST-SUFFIX,exa.ai,Open AI
 HOST,api.x.ai,Open AI
 HOST,docs.x.ai,Open AI
 HOST,accounts.x.ai,Open AI
 HOST-SUFFIX,x.ai,Open AI
-HOST-SUFFIX,grok.com,Open AI
-HOST,ai.gitee.com,Open AI
+HOST-SUFFIX,grok.comm,Open AI
+HOST-SUFFIX,useparagon.com,Open AI
+HOST-SUFFIX,tch.poe.com,Open AI
+HOST-SUFFIX,poe.com,Open AI
+HOST-SUFFIX,cf2.poecdn.net,Open AI
+HOST,ai.meta.com,Open AI
+HOST-SUFFIX,meta.ai,Open AI
+HOST,ai.gitee.com,Open AI,Open AI
 HOST-SUFFIX,genspark.ai,Open AI
 HOST-SUFFIX,dify.ai,Open AI
+HOST,epoch.ai,Open AI
+HOST-SUFFIX,interconnects.ai,Open AI
 HOST-SUFFIX,reflection.ai,Open AI
 HOST-SUFFIX,inceptionlabs.ai,Open AI
 HOST-SUFFIX,deeplearning.ai,Open AI
 HOST-SUFFIX,unsloth.ai,Open AI
+HOST-SUFFIX,beeai.dev,Open AI
+HOST-SUFFIX,runpulse.com,Open AI
+HOST,diabrowser.engineering,Open AI
+HOST,karpathy.bearblog.dev,Open AI
 
 # You.com
 HOST,auth.you.com,Open AI
