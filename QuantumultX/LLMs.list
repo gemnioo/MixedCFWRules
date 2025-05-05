@@ -214,7 +214,7 @@ HOST-SUFFIX,poe.com,Open AI
 HOST-SUFFIX,cf2.poecdn.net,Open AI
 HOST,ai.meta.com,Open AI
 HOST-SUFFIX,meta.ai,Open AI
-HOST,ai.gitee.com,Open AI,Open AI
+HOST,ai.gitee.com,Open AI
 HOST-SUFFIX,genspark.ai,Open AI
 HOST-SUFFIX,dify.ai,Open AI
 HOST,epoch.ai,Open AI
