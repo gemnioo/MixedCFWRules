@@ -3,6 +3,15 @@ HOST-KEYWORD,mastodon,Outside
 HOST,s3.eu-central-2.wasabisys.com,Outside
 HOST-SUFFIX,msdmanuals.cn,Outside
 
+# > Medical
+HOST-SUFFIX,msdmanuals.com,Outside
+HOST,edge.sitecorecloud.io,Outside
+HOST-SUFFIX,prod.boltdns.net,Outside
+HOST,assets.mayoclinic.org,Outside
+HOST,design.mayoclinic.org,Outside
+HOST-SUFFIX,mayoclinic.org,Outside
+HOST,aim-tag.hcn.health,Outside
+
 HOST,fxtwitter.com,Outside
 HOST,trusting-glitter-4f0.notion.site,Outside
 HOST,ocmacro.com,Outside
@@ -104,6 +113,11 @@ HOST-SUFFIX,raycast.com,Outside
 HOST-SUFFIX,vercel.app,Outside
 HOST,proxsee.pscp.tv,Outside
 
+HOST,amzn.to,Outside
+HOST,api.amazon.com,Outside
+HOST,msh.amazon.com,Outside
+HOST,msh.amazon.co.uk,Outside
+HOST,prime.amazon.com,Outside
 HOST,unagi-na.amazon.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
 HOST,privacyportal.onetrust.com,Outside
@@ -334,6 +348,42 @@ HOST-SUFFIX,duolingo.com,Outside
 HOST,lens.l.google.com,Outside
 HOST,voice.telephony.goog,Outside
 
+# > Chrome Browser
+HOST,www.google.com,Outside
+HOST,calendar.google.com,Outside
+HOST,accounts.google.com,Outside
+HOST,update.googleapis.com,Outside
+HOST,storage.googleapis.com,Outside
+HOST,translate.googleapis.com,Outside
+HOST,clientservices.googleapis.com,Outside
+HOST,optimizationguide-pa.googleapis.com,Outside
+  # HOST,jnn-pa.googleapis.com
+HOST-SUFFIX,clients3.google.com,Outside
+HOST-SUFFIX,clients6.google.com,Outside
+  
+HOST,ci3.googleusercontent.com,Outside
+HOST,lh3.googleusercontent.com,Outside
+  # HOST,yt3.googleusercontent.com,Outside
+# > Gmail
+HOST,mail.google.com,Outside
+HOST,inbox.google.com,Outside
+HOST,suggestqueries.google.com,Outside
+HOST,www.googleapis.com,Outside
+HOST,oauth2.googleapis.com,Outside
+HOST,iosantiabuse-pa.googleapis.com,Outside
+HOST,notifications-pa.googleapis.com,Outside
+HOST,oauthaccountmanager.googleapis.com,Outside
+  # HOST,firebaselogging-pa.googleapis.com
+
+HOST,play.googleapis.com,Outside
+HOST,reach-pa.googleapis.com,Outside
+HOST,addons-pa.googleapis.com,Outside
+HOST,taskassist-pa.googleapis.com,Outside
+HOST,people-pa.googleapis.com,Outside
+HOST,peoplestack-pa.googleapis.com,Outside
+HOST-SUFFIX,googleapis.com,Outside
+HOST,goo.gle,Outside
+
 # > Investing
 HOST-SUFFIX,investing.com,Outside
 
@@ -449,9 +499,11 @@ HOST-SUFFIX,akamaihd.net,Outside
 HOST-SUFFIX,airtable.com,Outside
 HOST-SUFFIX,alfredapp.com,Outside
 HOST-SUFFIX,allconnected.co,Outside
+HOST-SUFFIX,aws.dev,Outside
 HOST-SUFFIX,amazon.co,Outside
 HOST-SUFFIX,amazon.co.jp,Outside
 HOST-SUFFIX,amazon.com,Outside
+HOST-SUFFIX,s3.amazonaws.com,Outside
 HOST-SUFFIX,amazonaws.com,Outside
 HOST-SUFFIX,amazontrust.com,Outside
 HOST-SUFFIX,ampproject.com,Outside
