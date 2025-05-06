@@ -1117,8 +1117,9 @@ payload:
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN,cdn.datatables.net
-  # DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,instagram
   # DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
