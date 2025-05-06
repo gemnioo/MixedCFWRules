@@ -3,6 +3,9 @@
 # 想要完全按照规则的顺序匹配，可以在「设置」底部的「其他设置」的「VPN」下，将「分流匹配优化」关闭
 # You can add below host-keyword rule to skip the DNS query for all the non-matched hosts. Pure IP requests won't be matched by the host related rules.
 ;host-keyword, ., proxy  //防止 DNS 泄露
+# using "geoip, cn, direct" at the ending of rules. 废弃维护 CN-IP.list
+# 默认情况下，Quantumult X 的本地规则总是位于远程规则的前面；可以在该远程规则的分流配置中添加参数 “inserted-resource=true”
+# 以上规则因「分流匹配优化」原因会导致 CN IP-CIDR 规则永远在远程规则之前(即使有优先级先后顺序；建议将「分流匹配优化」关闭！防止过早？的出现 DNS 泄露
 
 # ChatGPT voice mode LiveKit Japan Oracle IP address
 
