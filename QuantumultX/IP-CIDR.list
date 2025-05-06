@@ -183,30 +183,29 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 
 # > Telegram via SG.GS
-IP-CIDR,128.199.170.0/24,Singapore
-IP-CIDR,91.108.56.0/22,Singapore
-IP-CIDR,91.108.4.0/22,Singapore
-IP-CIDR,91.108.8.0/22,Singapore
-IP-CIDR,91.108.16.0/22,Singapore
-IP-CIDR,91.108.12.0/22,Singapore
-IP-CIDR,91.105.192.0/23,Singapore
-IP-CIDR,91.108.20.0/22,Singapore
-IP-CIDR,95.161.76.0/22,Singapore
-IP-CIDR,128.199.170.0/24,Singapore
-IP-CIDR,109.239.140.0/24,Singapore
-IP-CIDR,149.154.160.0/20,Singapore
-IP-CIDR,185.76.151.0/24,Singapore
-IP6-CIDR,2001:b28:f23d::/48,Singapore
-IP6-CIDR,2001:b28:f23f::/48,Singapore
-IP6-CIDR,2001:67c:4e8::/48,Singapore
-IP6-CIDR,2001:b28:f23c::/48,Singapore
-IP6-CIDR,2a0a:f280::/32,Singapore
+IP-CIDR,91.108.56.0/22,Telegram
+IP-CIDR,91.108.4.0/22,Telegram
+IP-CIDR,91.108.8.0/22,Telegram
+IP-CIDR,91.108.16.0/22,Telegram
+IP-CIDR,91.108.12.0/22,Telegram
+IP-CIDR,91.105.192.0/23,Telegram
+IP-CIDR,91.108.20.0/22,Telegram
+IP-CIDR,95.161.76.0/22,Telegram
+IP-CIDR,128.199.170.0/24,Telegram
+IP-CIDR,109.239.140.0/24,Telegram
+IP-CIDR,149.154.160.0/20,Telegram
+IP-CIDR,185.76.151.0/24,Telegram
+IP6-CIDR,2001:b28:f23d::/48,Telegram
+IP6-CIDR,2001:b28:f23f::/48,Telegram
+IP6-CIDR,2001:67c:4e8::/48,Telegram
+IP6-CIDR,2001:b28:f23c::/48,Telegram
+IP6-CIDR,2a0a:f280::/32,Telegram
 
-IP-ASN,211157,Singapore
-IP-ASN,44907,Singapore
-IP-ASN,59930,Singapore
-IP-ASN,62014,Singapore
-IP-ASN,62041,Singapore
+IP-ASN,211157,Telegram
+IP-ASN,44907,Telegram
+IP-ASN,59930,Telegram
+IP-ASN,62014,Telegram
+IP-ASN,62041,Telegram
 
 # > Tencent WeChat (International)
 IP-CIDR,101.32.96.0/20,Outside
