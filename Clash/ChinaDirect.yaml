@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,myhuaweicloud.cn
   - DOMAIN,metaso.cn
   - DOMAIN,chat.minimax.io
+  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN,cdn.hailuo.ai
   - DOMAIN,data.hailuo.ai
   - DOMAIN,hailuoai.video
