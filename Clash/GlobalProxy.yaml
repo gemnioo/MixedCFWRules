@@ -484,6 +484,7 @@ payload:
   - DOMAIN,notifications-pa.googleapis.com
   - DOMAIN,oauthaccountmanager.googleapis.com
   # DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,one.google.com
 
   - DOMAIN,play.googleapis.com
   - DOMAIN,reach-pa.googleapis.com
@@ -1108,21 +1109,21 @@ payload:
 
   # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 
-  - DOMAIN-KEYWORD,appledaily
-  - DOMAIN-KEYWORD,beetalk
+  # DOMAIN-KEYWORD,appledaily
+  # DOMAIN-KEYWORD,beetalk
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,facebook
+  # DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
   - DOMAIN,cdn.datatables.net
-  - DOMAIN-KEYWORD,github
+  # DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,twitter
+  # DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN,apis.google.com
-  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,abc.xyz
