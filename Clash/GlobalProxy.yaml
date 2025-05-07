@@ -485,6 +485,7 @@ payload:
   - DOMAIN,oauthaccountmanager.googleapis.com
   # DOMAIN,firebaselogging-pa.googleapis.com
   - DOMAIN,one.google.com
+  - DOMAIN,workspace.google.com
 
   - DOMAIN,play.googleapis.com
   - DOMAIN,reach-pa.googleapis.com
