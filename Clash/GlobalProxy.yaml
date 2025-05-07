@@ -319,6 +319,7 @@ payload:
   - DOMAIN,static.simonwillison.net
   - DOMAIN,every.to
   # d24ovhgu8s7341.cloudfront.net
+  - DOMAIN,quaily.com
 
 
 # > Podcast and Reading Media
