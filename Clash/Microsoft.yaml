@@ -351,6 +351,7 @@ payload:
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN,default.exp-tas.com
   - DOMAIN,update.code.visualstudio.com
+  - DOMAIN,img.shields.io
 
 
   # > Microsoft XiaoBing
