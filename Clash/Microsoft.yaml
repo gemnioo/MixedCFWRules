@@ -293,6 +293,10 @@ payload:
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,office365.com
   # DOMAIN-SUFFIX,officedev.cn
+  # Online form
+  - DOMAIN,forms.cloud.microsoft
+  - DOMAIN,browser.events.data.microsoft.com
+  - DOMAIN-SUFFIX,data.microsoft.com
 
   # > OneDrive
   - DOMAIN-SUFFIX,1drv.com
