@@ -193,9 +193,19 @@ payload:
   - DOMAIN,distill.pub
   - DOMAIN,cdn.plot.ly
   
-  # IDEs
-  - DOMAIN,docs.cursor.com
+  # Cursor
+  - DOMAIN,api2.cursor.sh
+  - DOMAIN,api3.cursor.sh
+  - DOMAIN,api4.cursor.sh
+  - DOMAIN,repo42.cursor.sh
+  - DOMAIN,us-eu.gcpp.cursor.sh
+  - DOMAIN,us-asia.gcpp.cursor.sh
+  - DOMAIN,us-only.gcpp.cursor.sh
+  - DOMAIN,cursor-cdn.com
+  - DOMAIN,marketplace.cursorapi.com
+  - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursor.com
+  # IDEs
   - DOMAIN,docs.codeium.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN,api.github.com
