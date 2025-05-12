@@ -280,7 +280,7 @@ payload:
   - DOMAIN,avatars.discourse-cdn.com
   - DOMAIN-SUFFIX,discourse-cdn.com
 
-  #renders
+  # renders
   - DOMAIN,polyfill.io
   - DOMAIN,font.typeform.com
   - DOMAIN,renderer-assets.typeform.com
