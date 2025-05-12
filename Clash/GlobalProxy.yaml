@@ -280,6 +280,14 @@ payload:
   - DOMAIN,avatars.discourse-cdn.com
   - DOMAIN-SUFFIX,discourse-cdn.com
 
+  #renders
+  - DOMAIN,polyfill.io
+  - DOMAIN,font.typeform.com
+  - DOMAIN,renderer-assets.typeform.com
+  - DOMAIN-SUFFIX,typeform.com
+  - DOMAIN,cdn.prod.website-files.com
+  # DOMAIN,static.reo.dev
+
   # > RSS 
   - DOMAIN,reederapp.com
   - DOMAIN,stratechery.com
