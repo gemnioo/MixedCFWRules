@@ -231,9 +231,11 @@ payload:
   - DOMAIN-SUFFIX,interconnects.ai
   - DOMAIN-SUFFIX,reflection.ai
   - DOMAIN-SUFFIX,inceptionlabs.ai
+  - DOMAIN-SUFFIX,primeintellect.ai
   - DOMAIN-SUFFIX,deeplearning.ai
   - DOMAIN-SUFFIX,unsloth.ai
   - DOMAIN-SUFFIX,beeai.dev
+  - DOMAIN-SUFFIX,granola.ai
   - DOMAIN-SUFFIX,runpulse.com
   - DOMAIN,diabrowser.engineering
   - DOMAIN,karpathy.bearblog.dev
