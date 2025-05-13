@@ -21,7 +21,7 @@ payload:
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,jsdelivr.net
 
-  # speedtest hongkong node
+  # Speedtest Hong Kong node
   - DOMAIN,lg-hkg.fdcservers.net
   - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN,cugspeed.chinaunicomglobal.com
@@ -33,6 +33,26 @@ payload:
   - DOMAIN,kami.smartone.com.prod.hosts.ooklaserver.net
   - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
   - DOMAIN-SUFFIX,hosts.ooklaserver.net
+  # Speedtest nearoute node
+  - DOMAIN,ty-bgp-speedtest.nearoute.io
+  - DOMAIN,sg-bgp-speedtest.nearoute.io
+  - DOMAIN,hk-bgp-speedtest.nearoute.io
+  # Speedtest ctcsci node
+  - DOMAIN,speedtest.us310.lax.us.ctcsci.com
+  - DOMAIN,speedtest.sg220.sgp.sg.ctcsci.com
+  - DOMAIN,speedtest.kr260.gmp.kr.ctcsci.com
+  - DOMAIN,speedtest.jp230.hnd.jp.ctcsci.com
+  - DOMAIN,speedtest.hk210.hkg.cn.ctcsci.com
+  # Speedtest Japan node
+  - DOMAIN,speedtest.kairun.jp
+  - DOMAIN,speed.udx.icscoe.jp
+  - DOMAIN,speedtest.ddps.jp
+  - DOMAIN,speedtest-xg-oki.glbb.ne.jp
+  - DOMAIN,speedtest.softether.co.jp
+  - DOMAIN,speed.coe.ad.jp
+  - DOMAIN,jp-nperf.verizon.net
+  - DOMAIN,speedtest-jp.tgb-host.com
+  
   - DOMAIN-KEYWORD,speedtest
   
   # ipinfo 
