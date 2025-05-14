@@ -64,6 +64,7 @@ payload:
   - DOMAIN,beta.linkeless.com
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN-SUFFIX,datapacket.com
   - DOMAIN,halo.do
   - DOMAIN-SUFFIX,halo.do
   - DOMAIN,www.amytele.net
