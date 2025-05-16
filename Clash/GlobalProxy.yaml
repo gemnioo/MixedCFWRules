@@ -508,6 +508,7 @@ payload:
   - DOMAIN,peoplestack-pa.googleapis.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN,goo.gle
+  - DOMAIN,g.co
   # > Tesla
   # DOMAIN-KEYWORD,tesla
 
@@ -1134,6 +1135,8 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN,cdn.datatables.net
   - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-KEYWORD,instagram
   # DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
