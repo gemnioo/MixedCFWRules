@@ -12,6 +12,7 @@ payload:
   - DOMAIN,checkappexec.microsoft.com
   - DOMAIN,mobile.events.data.microsoft.com
   - DOMAIN-SUFFIX,msft.it
+  - DOMAIN,aka.ms
 
   # > Download OS patches, updates, and apps from Microsoft Store. Xbox ！！
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
