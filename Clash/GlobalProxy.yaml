@@ -486,6 +486,8 @@ payload:
   
   - DOMAIN,ci3.googleusercontent.com
   - DOMAIN,lh3.googleusercontent.com
+  - DOMAIN,clients2.googleusercontent.com
+  - DOMAIN-SUFFIX,googleusercontent.com
   # DOMAIN,yt3.googleusercontent.com
   # > Gmail
   - DOMAIN,mail.google.com
