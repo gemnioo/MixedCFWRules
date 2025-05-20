@@ -12,6 +12,7 @@ payload:
   - DOMAIN,iptv.cc
   - DOMAIN-SUFFIX,msdmanuals.cn
   - DOMAIN-SUFFIX,1ms.run
+  - DOMAIN,ny.lala.gg
 
   # Github Acce
   - DOMAIN,ghp.ci
