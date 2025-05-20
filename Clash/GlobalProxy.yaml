@@ -155,7 +155,8 @@ payload:
   - DOMAIN,hub.docker.com
   - DOMAIN,docker.com
   - DOMAIN,ghcr.io
-  
+  - DOMAIN,gh.io
+
   # WildCard
   - DOMAIN,yeka.ai
   - DOMAIN,2233.ai
