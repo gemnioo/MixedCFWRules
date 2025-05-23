@@ -545,6 +545,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,s3.amazonaws.com
+  - DOMAIN-SUFFIX,aws.a2z.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,ampproject.com
   - DOMAIN-SUFFIX,ampproject.net
