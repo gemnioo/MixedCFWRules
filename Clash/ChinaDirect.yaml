@@ -100,6 +100,10 @@ payload:
   - DOMAIN,api.302.ai
   - DOMAIN-SUFFIX,302.ai
   - DOMAIN-SUFFIX,bochaai.com
+  - DOMAIN,aibaota.com
+  - DOMAIN,server.aibaota.com
+  - DOMAIN-SUFFIX,aibaota.com
+  - DOMAIN,statistic.evanora.top
 
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
