@@ -219,6 +219,14 @@ payload:
   # incident.io
   - DOMAIN,incident.io
   - DOMAIN,js.qualified.com
+  # black forest lab
+  - DOMAIN,bfl.ai
+  - DOMAIN,playground.bfl.ai
+  - DOMAIN-SUFFIX,bfl.ai
+  # Replicate 
+  - DOMAIN,replicate.com
+  - DOMAIN,www.replicatestatus.com
+  - DOMAIN-SUFFIX,replicate.delivery
   
   # Others
   - DOMAIN,api.x.ai
