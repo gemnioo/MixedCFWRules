@@ -80,9 +80,9 @@ payload:
   # DOMAIN,pplx-res.cloudinary.com
   # DOMAIN,fscdn.eppo.cloud
   - DOMAIN-SUFFIX,arxiv.org
-  - DOMAIN,replicate.com
-  - DOMAIN,replicatestatus.com
-  - DOMAIN-SUFFIX,replicate.delivery
+  # DOMAIN,replicate.com
+  # DOMAIN,replicatestatus.com
+  # DOMAIN-SUFFIX,replicate.delivery
   - DOMAIN,api.fish.audio
   - DOMAIN-SUFFIX,fish.audio
   - DOMAIN-SUFFIX,monica.im
