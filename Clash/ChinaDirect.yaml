@@ -104,6 +104,8 @@ payload:
   - DOMAIN,server.aibaota.com
   - DOMAIN-SUFFIX,aibaota.com
   - DOMAIN,statistic.evanora.top
+  - DOMAIN,oneai.evanora.top
+  - DOMAIN-SUFFIX,evanora.top
 
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
