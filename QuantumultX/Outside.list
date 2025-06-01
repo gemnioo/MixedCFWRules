@@ -363,6 +363,8 @@ HOST-SUFFIX,clients6.google.com,Outside
   
 HOST,ci3.googleusercontent.com,Outside
 HOST,lh3.googleusercontent.com,Outside
+HOST,clients2.googleusercontent.com,Outside
+HOST-SUFFIX,googleusercontent.com,Outside
   # HOST,yt3.googleusercontent.com,Outside
 # > Gmail
 HOST,mail.google.com,Outside
@@ -1102,12 +1104,14 @@ HOST-SUFFIX,gitlab.io,Outside
 HOST-SUFFIX,github.io,Outside
 HOST-SUFFIX,github.com,Outside
 HOST-KEYWORD,github,Outside
+HOST-SUFFIX,instagram.com,Outside
+HOST-SUFFIX,cdninstagram.com,Outside
 HOST-KEYWORD,instagram,Outside
 HOST-KEYWORD,twitter,Outside
 HOST-KEYWORD,whatsapp,Outside
 HOST-KEYWORD,google,Outside
 HOST-SUFFIX,cdninstagram.com,Outside
-HOST-SUFFIX,google.cn,Outside
+HOST,apis.google.com,Outside
 HOST-SUFFIX,google.com,Outside
 HOST-SUFFIX,1e100.net,Outside
 HOST-SUFFIX,2mdn.net,Outside
