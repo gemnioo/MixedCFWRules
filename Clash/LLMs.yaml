@@ -180,6 +180,9 @@ payload:
   - DOMAIN,api.hyperbolic.xyz
   - DOMAIN-SUFFIX,hyperbolic.xyz
   - DOMAIN-SUFFIX,lmstudio.ai
+  - DOMAIN,cerebras.ai
+  - DOMAIN,inference.cerebras.ai
+  - DOMAIN-SUFFIX,cerebras.ai
 
   # Arena
   - DOMAIN,web.lmarena.ai
