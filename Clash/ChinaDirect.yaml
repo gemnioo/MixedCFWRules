@@ -93,7 +93,8 @@ payload:
 
   - DOMAIN-SUFFIX,hash070.com
   - DOMAIN-SUFFIX,opapi.win
-  - DOMAIN,www.aigptx.top
+  - DOMAIN-SUFFIX,dogenet.win
+  - DOMAIN,aigptx.top
   - DOMAIN,api.ifopen.ai
   - DOMAIN,api2.aigcbest.top
   - DOMAIN,302.ai
