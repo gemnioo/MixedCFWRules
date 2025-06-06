@@ -85,6 +85,8 @@ payload:
   # DOMAIN,replicate.com
   # DOMAIN,replicatestatus.com
   # DOMAIN-SUFFIX,replicate.delivery
+  - DOMAIN,justrecap.it
+  - DOMAIN,reccapi.com
   - DOMAIN,api.fish.audio
   - DOMAIN-SUFFIX,fish.audio
   - DOMAIN-SUFFIX,monica.im
