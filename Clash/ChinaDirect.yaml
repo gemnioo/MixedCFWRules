@@ -11,6 +11,7 @@ payload:
   - DOMAIN,shidianguji.com
   - DOMAIN,iptv.cc
   - DOMAIN-SUFFIX,freetv.top
+  - DOMAIN-SUFFIX,cloudycdn.services
   - DOMAIN-SUFFIX,msdmanuals.cn
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
