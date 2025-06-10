@@ -34,8 +34,11 @@ payload:
   - DOMAIN-SUFFIX,playauth.gitv.tv
   - DOMAIN-SUFFIX,myip.ipip.net
   - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN,iptv.cc
   - DOMAIN,www.freetv.top
   - DOMAIN-SUFFIX,freetv.top
+  - DOMAIN-SUFFIX,w.kunluncan.com
+  - DOMAIN-SUFFIX,cloudycdn.services
   - DOMAIN,live.fanmingming.com
   - DOMAIN,live.fanmingming.cn
   - DOMAIN,api.livednow.org
