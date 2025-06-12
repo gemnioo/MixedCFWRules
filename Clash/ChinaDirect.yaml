@@ -83,7 +83,11 @@ payload:
   - DOMAIN-SUFFIX,cherry-ai.com
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
+  - DOMAIN,api.ifopen.ai
+  - DOMAIN,api2.aigcbest.top  
   - DOMAIN-SUFFIX,aigcbest.top
+  - DOMAIN,api.openai-proxy.org
+  - DOMAIN-SUFFIX,closeai-asia.com
   - DOMAIN,api.turboai.one
   - DOMAIN,api.gptsapi.net
   - DOMAIN,api.iois.me
@@ -94,8 +98,7 @@ payload:
   - DOMAIN-SUFFIX,opapi.win
   - DOMAIN-SUFFIX,dogenet.win
   - DOMAIN,aigptx.top
-  - DOMAIN,api.ifopen.ai
-  - DOMAIN,api2.aigcbest.top
+
   - DOMAIN,302.ai
   - DOMAIN,api.302.ai
   - DOMAIN-SUFFIX,302.ai
