@@ -387,6 +387,10 @@ payload:
   - DOMAIN,nyti.ms
   - DOMAIN,buff.ly
   - DOMAIN,reut.rs
+  - DOMAIN,www.reuters.com
+  - DOMAIN,reuters-reuters-prod.web.arc-cdn.net
+  - DOMAIN-SUFFIX,web.arc-cdn.net
+  - DOMAIN-SUFFIX,insider.com
   - DOMAIN,restofworld.org
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
