@@ -95,9 +95,10 @@ payload:
   - DOMAIN-SUFFIX,pandalla.ai
 
   - DOMAIN-SUFFIX,hash070.com
+  - DOMAIN-SUFFIX,aigptx.top
   - DOMAIN-SUFFIX,opapi.win
   - DOMAIN-SUFFIX,dogenet.win
-  - DOMAIN,aigptx.top
+
 
   - DOMAIN,302.ai
   - DOMAIN,api.302.ai
