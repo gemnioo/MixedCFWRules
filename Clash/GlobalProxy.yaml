@@ -110,6 +110,7 @@ payload:
   - DOMAIN,apic.ohmygpt.com
   - DOMAIN,pi.dogenet.work
   - DOMAIN-SUFFIX,ohmygpt.com
+  
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN-SUFFIX,chatwise.app
   - DOMAIN-SUFFIX,egoist.dev
