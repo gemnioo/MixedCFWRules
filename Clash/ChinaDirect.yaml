@@ -86,6 +86,7 @@ payload:
   - DOMAIN,api.ifopen.ai
   - DOMAIN,api2.aigcbest.top  
   - DOMAIN-SUFFIX,aigcbest.top
+  - DOMAIN,status.aigc369.com
   - DOMAIN,api.openai-proxy.org
   - DOMAIN-SUFFIX,closeai-asia.com
   - DOMAIN,api.turboai.one
