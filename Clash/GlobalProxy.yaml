@@ -1310,4 +1310,5 @@ payload:
   - IP-CIDR,208.43.0.0/16,no-resolve
 
   # > Telegram add SG.GS ?
-  # IP-CIDR,128.199.170.0/24,no-resolve
+  - IP-CIDR,128.199.170.0/24,no-resolve
+  - IP-CIDR,5.28.192.0/24,no-resolve
