@@ -519,7 +519,9 @@ payload:
   - DOMAIN,addons-pa.googleapis.com
   - DOMAIN,taskassist-pa.googleapis.com
   - DOMAIN,people-pa.googleapis.com
+  - DOMAIN,growth-pa.googleapis.com
   - DOMAIN,peoplestack-pa.googleapis.com
+  - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN,goo.gle
   - DOMAIN,g.co
