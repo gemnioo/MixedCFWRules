@@ -32,7 +32,6 @@ payload:
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
   - DOMAIN,h5.analytics.126
-  - DOMAIN,static.ws.126.net
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
