@@ -278,7 +278,7 @@ payload:
   - DOMAIN-SUFFIX,adshare.toutiao.com
   - DOMAIN-SUFFIX,d.toutiao.com
   - DOMAIN-SUFFIX,ad.toutiao.com
-  - DOMAIN-SUFFIX,mssdk.bytedance.com
+  # DOMAIN-SUFFIX,mssdk.bytedance.com
   - DOMAIN-SUFFIX,toblog.ctobsnssdk.com.w.cdngslb.com
   - DOMAIN-SUFFIX,apmplus.volces.com
   - DOMAIN-SUFFIX,apmplus.volces.com.queniusz.com
