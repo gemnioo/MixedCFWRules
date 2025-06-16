@@ -31,9 +31,15 @@ payload:
   - DOMAIN,beacons2.gvt2.com
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
+  - DOMAIN,nex.163.com
+  - DOMAIN,fl.reg.163.com
+  - DOMAIN,yt-adp.ws.126.net  
   - DOMAIN,h5.analytics.126.net
+  - DOMAIN,vmonitor.ws.netease.com
   - DOMAIN,mmjs.adutp.com
   - DOMAIN,ymjs.adutp.com
+  - DOMAIN,sbeacon.sina.com.cn
+  - DOMAIN,saxn.sina.com.cn
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
