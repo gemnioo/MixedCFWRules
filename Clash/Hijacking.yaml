@@ -299,7 +299,23 @@ payload:
   - DOMAIN-SUFFIX,httpdns.volcengineapi.com
   - DOMAIN-SUFFIX,vod.volcengineapi.com
 
-  # Sina Webo
+  # Sina Weibo  
+  - DOMAIN,d0.sina.com.cn
+  - DOMAIN,d1.sina.com.cn
+  - DOMAIN,d2.sina.com.cn
+  - DOMAIN,d3.sina.com.cn
+  - DOMAIN,d4.sina.com.cn
+  - DOMAIN,d5.sina.com.cn
+  - DOMAIN,d6.sina.com.cn
+  - DOMAIN,d7.sina.com.cn
+  - DOMAIN,d8.sina.com.cn
+  - DOMAIN,d9.sina.com.cn
+  - DOMAIN,d00.sina.com.cn
+  - DOMAIN,ad.sina.com.cn
+  - DOMAIN,ad1.sina.com.cn
+  - DOMAIN,ad2.sina.com.cn
+  - DOMAIN,ad3.sina.com.cn
+  - DOMAIN,ad4.sina.com.cn
   - DOMAIN,u1.img.mobile.sina.cn
   - DOMAIN-SUFFIX,log.sina.cn
   - DOMAIN-SUFFIX,log2.sina.cn
@@ -347,6 +363,11 @@ payload:
   - DOMAIN-SUFFIX,weibointl.api.weibo.cn
   - DOMAIN-SUFFIX,sdkaction.biz.weibo.cn
   - DOMAIN-SUFFIX,brandvideo.biz.weibo.cn
+
+  # third party ads via sina
+  - DOMAIN,xla.gongkaohao.cn
+  - DOMAIN,zcsj.gongweiwang.cn
+  - DOMAIN,zcdk.gongweiwang.cn
   
   # CSDN
   - DOMAIN-SUFFIX,ev.csdn.net
