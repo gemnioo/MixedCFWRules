@@ -1312,4 +1312,4 @@ payload:
 
   # > Telegram add calls on TCP port 5222?
   # IP-CIDR,128.199.170.0/24,no-resolve
-  - IP-CIDR,5.28.192.0/18,no-resolve
+  # IP-CIDR,5.28.192.0/18,no-resolve
