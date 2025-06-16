@@ -39,6 +39,7 @@ payload:
   - DOMAIN,sandbox-zxid-api.mobileservice.cn
   - DOMAIN,fp.fraudmetrix.cn
   - DOMAIN,saas.hixiaoman.com
+  - DOMAIN,sentry.music.163.com
   - DOMAIN,nex.163.com
   - DOMAIN,fl.reg.163.com
   - DOMAIN,yt-adp.ws.126.net  
