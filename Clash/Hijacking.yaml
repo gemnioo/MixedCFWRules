@@ -39,26 +39,519 @@ payload:
   - DOMAIN,sandbox-zxid-api.mobileservice.cn
   - DOMAIN,fp.fraudmetrix.cn
   - DOMAIN,saas.hixiaoman.com
+
+  # Douban
+  - DOMAIN-SUFFIX,erebor.douban.com
+  - DOMAIN-SUFFIX,push.douban.com
+
+  # Xiaohongshu
+  - DOMAIN-SUFFIX,t-ads.xiaohongshu.com
+  - DOMAIN-SUFFIX,crash.xiaohongshu.com
+  - DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
+  - DOMAIN-SUFFIX,xhsci-hk-cos.xiaohongshu.net
+  - DOMAIN-SUFFIX,s.xiaohongshu.com
+  - DOMAIN-SUFFIX,splash-online-decision.xiaohongshu.com
+  - DOMAIN-SUFFIX,vi.xiaohongshu.com
+  - DOMAIN-SUFFIX,flash.xiaohongshu.com
+  - DOMAIN-SUFFIX,store.xiaohongshu.com
+  - DOMAIN-SUFFIX,referee.xiaohongshu.com
+  - DOMAIN-SUFFIX,apppush-sh5.xiaohongshu.com
+  
+  # zhihu de ~ 
+  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+  - DOMAIN-SUFFIX,mqtt.zhihu.com
+  - DOMAIN-SUFFIX,zhihu.xmcimg.com
+  - DOMAIN-SUFFIX,sugar.zhihu.com
+  - DOMAIN-SUFFIX,crash2.zhihu.com
+  - DOMAIN-SUFFIX,log-sdk.ksapisrv.com
+  # zhihu jump to app
+  - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN-SUFFIX,oia.zhihu.com
+  - DOMAIN-SUFFIX,in.zhihu.com
+  - DOMAIN-SUFFIX,apm.zhihu.com
+  - DOMAIN-SUFFIX,zhstatic.zhihu.com
+  - DOMAIN-SUFFIX,datahub.zhihu.com
+  - DOMAIN-SUFFIX,appcloud2.zhihu.com
+  - DOMAIN-SUFFIX,adstatic.zhihu.com
+  - DOMAIN-SUFFIX,udd1i5.zhihu.com
+
+  # WeChat Pay
+  - DOMAIN,iosrqd.iot.wechatpay.cn
+  - DOMAIN,androidrqd.iot.wechatpay.cn
+  # WeChat
+  - DOMAIN,log.aldwx.com
+  - DOMAIN-SUFFIX,dns.qq.com
+  - DOMAIN-SUFFIX,cgi.connect.qq.com
+  - DOMAIN-SUFFIX,ad.weixin.qq.com
+  - DOMAIN-SUFFIX,aedns.weixin.qq.com
+  - DOMAIN-SUFFIX,dns.weixin.qq.com
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+  # Tencent 
+  - DOMAIN-SUFFIX,imtmp.net
+  - DOMAIN-SUFFIX,btrace.qq.com
+  - DOMAIN-SUFFIX,sdkconfig.video.qq.com
+  - DOMAIN-SUFFIX,i.mail.qq.com
+  - DOMAIN-SUFFIX,res.mail.qq.com
+  - DOMAIN-SUFFIX,qumas.mail.qq.com
+  - DOMAIN-SUFFIX,guanjia.qq.com
+  - DOMAIN-SUFFIX,trace.qq.com
+  # Video
+  - DOMAIN-SUFFIX,rlog.video.qq.com
+  - DOMAIN,adslvfile.qq.com
+  - DOMAIN-SUFFIX,adsfile.qq.com
+  - DOMAIN-SUFFIX,rcgi.video.qq.com
+  - DOMAIN,aid.video.qq.com
+  - DOMAIN-SUFFIX,pinghot.qq.com
+  - DOMAIN,vhotlxp.video.qq.com
+  - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN-SUFFIX,beacon.cdn.qq.com
+  - DOMAIN-SUFFIX,beaconcdn.qq.com
+  - DOMAIN-SUFFIX,wup.browser.qq.com
+  # Input
+  - DOMAIN,t.rconfig.qq.com
+  - DOMAIN,content.rconfig.qq.com
+
+  # GouDong
+  - DOMAIN,skdisplay.jd.com
+  - DOMAIN-SUFFIX,dns.jd.com
+  - DOMAIN-SUFFIX,wl.jd.com
+
+  # Meituan
+  - DOMAIN,adgame.waimai.meituan.com
+  - DOMAIN,flowplus.meituan.net
+  - DOMAIN,api-unionid.meituan.com
+  - DOMAIN-SUFFIX,wmlog.meituan.com
+  - DOMAIN-SUFFIX,httpdns.meituan.com
+  - DOMAIN-SUFFIX,dreport.meituan.net
+  - DOMAIN-SUFFIX,hreport.meituan.com
+  - DOMAIN-SUFFIX,report.meituan.com
+  - DOMAIN-SUFFIX,analytics.meituan.com
+  - DOMAIN-SUFFIX,analytics.meituan.net
+
+  # PDD
+  - DOMAIN-SUFFIX,apm.pinduoduo.com
+  - DOMAIN-SUFFIX,apm-a.pinduoduo.com
+  - DOMAIN-SUFFIX,at.pinduoduo.com
+  - DOMAIN-SUFFIX,cmtw.pinduoduo.com
+  - DOMAIN-SUFFIX,titan.pinduoduo.com
+  - DOMAIN-SUFFIX,titan-mt.pinduoduo.com
+  - DOMAIN-SUFFIX,titan-ws.pinduoduo.com
+  - DOMAIN-SUFFIX,t-dsp.pinduoduo.com
+  - DOMAIN-SUFFIX,lp.pinduoduo.com
+  - DOMAIN-SUFFIX,lpcdn.pinduoduo.com
+  - DOMAIN-SUFFIX,adim.pinduoduo.com
+  - DOMAIN-SUFFIX,otk.pinduoduo.com
+  - DOMAIN-SUFFIX,abtk.pinduoduo.com
+  - DOMAIN-SUFFIX,ta.pinduoduo.com
+  - DOMAIN-SUFFIX,th.pinduoduo.com
+  - DOMAIN-SUFFIX,tne.pinduoduo.com
+  - DOMAIN-SUFFIX,meta.pinduoduo.com
+  - DOMAIN-SUFFIX,pmmtk-a.pinduoduo.com
+  - DOMAIN-SUFFIX,th-a.pinduoduo.com
+  - DOMAIN-SUFFIX,th-b.pinduoduo.com
+  - DOMAIN-SUFFIX,log.ergeduoduo.com
+  - DOMAIN-SUFFIX,m.pinduoduo.net
+
+  # semozhangdama
+  - DOMAIN-SUFFIX,sentry-monitor-new.zdmimg.com
+  - DOMAIN-SUFFIX,shence-import.smzdm.com
+  - DOMAIN-SUFFIX,analytics-api.smzdm.com
+  - DOMAIN-SUFFIX,analytics-api-01.smzdm.com
+  - DOMAIN-SUFFIX,res-ga.smzdm.com
+  - DOMAIN-SUFFIX,bc-ad-vod.zdmimg.com
+  - DOMAIN-SUFFIX,s3.zdmimg.com
+  - DOMAIN-SUFFIX,s2.zdmimg.com
+  - DOMAIN-SUFFIX,eimg.smzdm.com
+
+  # amap 高德地图
+  - DOMAIN,dualstack-logs.amap.com
+  - DOMAIN-SUFFIX,logs.amap.com
+  - DOMAIN-SUFFIX,cgicol.amap.com
+  - DOMAIN-SUFFIX,amap-aos-info-nogw.amap.com
+  - DOMAIN-SUFFIX,adashx.ut.amap.com
+  - DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+  - DOMAIN-SUFFIX,apiinit.amap.com
+  - DOMAIN-SUFFIX,apsrgeo.amap.com
+  - DOMAIN-SUFFIX,dualstack-cgicol.amap.com
+  - DOMAIN-SUFFIX,page.amap.com
+  - DOMAIN-SUFFIX,optimus-ads.amap.com.w.alikunlun.com
+
+  # Baidu duliu
+  - DOMAIN,adm.baidu.com
+  - DOMAIN,adscdn.baidu.com
+  - DOMAIN-SUFFIX,als.baidu.com
+  - DOMAIN,w.gdown.baidu.com
+  - DOMAIN,w.x.baidu.com
+  - DOMAIN,videopush.baidu.com
+  - DOMAIN,ulog.imap.baidu.com
+  - DOMAIN,tracker.baidu.com
+  - DOMAIN,rplog.baidu.com
+  - DOMAIN,a.baidu.cn
+  - DOMAIN,a.baidu.com
+  - DOMAIN-SUFFIX,httpsdns.baidu.com
+  - DOMAIN-SUFFIX,httpdns.baidu.com
+  - DOMAIN-SUFFIX,httpdns.baidubce.com
+  - DOMAIN-SUFFIX,ad.baidu.com
+  - DOMAIN-SUFFIX,hm.baidu.com
+  - DOMAIN-SUFFIX,hmma.baidu.com
+  - DOMAIN-SUFFIX,nsclick.baidu.com
+  - DOMAIN-SUFFIX,ucstat.baidu.com
+  - DOMAIN-SUFFIX,union.baidu.com
+  - DOMAIN-SUFFIX,mobads-logs.baidu.com
+  - DOMAIN-SUFFIX,mobads.baidu.com
+  - DOMAIN-SUFFIX,mtj.baidu.com
+  - DOMAIN-SUFFIX,nsclick.baidu.com
+  - DOMAIN-SUFFIX,zz.bdstatic.com
+  - DOMAIN-SUFFIX,dup.baidustatic.com
+  - DOMAIN-SUFFIX,cpro.baidustatic.com
+  - DOMAIN-SUFFIX,eclick.baidu.com
+  - DOMAIN-SUFFIX,entry.baidu.com
+  - DOMAIN-SUFFIX,unionsug.baidu.com
+  - DOMAIN-SUFFIX,ad.player.baidu.com
+  - DOMAIN-SUFFIX,afd.baidu.com
+
+  # 163 NetEase
   - DOMAIN,sentry.music.163.com
   - DOMAIN,nex.163.com
   - DOMAIN,fl.reg.163.com
   - DOMAIN,yt-adp.ws.126.net  
   - DOMAIN,h5.analytics.126.net
-  - DOMAIN-SUFFIX,m.analytics.126.net
   - DOMAIN,vmonitor.ws.netease.com
   - DOMAIN,mmjs.adutp.com
   - DOMAIN,ymjs.adutp.com
-  - DOMAIN,sbeacon.sina.com.cn
-  - DOMAIN,saxn.sina.com.cn
+  - DOMAIN-SUFFIX,ad.163.com
+  - DOMAIN-SUFFIX,adimg.163.com
+  - DOMAIN-SUFFIX,analytics.126.net
+  - DOMAIN-SUFFIX,ip.ws.126.net
+
+  # BiliBili
+  - DOMAIN-SUFFIX,httpdns.bilivideo.com
+  - DOMAIN-SUFFIX,cm.bilibili.com
+  - DOMAIN-SUFFIX,dataflow.biliapi.com
+  - DOMAIN-SUFFIX,web-player-tracker.biliapi.net
+  - DOMAIN-SUFFIX,line1-log.biligame.net
+  - DOMAIN-SUFFIX,miniapp.bilibili.com
+  - DOMAIN-SUFFIX,v.smtcdns.net
+  - DOMAIN-SUFFIX,szbdyd.com
+  - DOMAIN-SUFFIX,chat.bilibili.com
+
+  # ByteDance
+  - DOMAIN-SUFFIX,bds.snssdk.com
+  - DOMAIN-SUFFIX,byteadverts.com
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,dig.bdurl.net
+  - DOMAIN-SUFFIX,extlog.snssdk.com
+  - DOMAIN-SUFFIX,i.snssdk.com
+  - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,panplayable-toutiao-b.com
+  - DOMAIN-SUFFIX,panplayable-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.
+
+  # Volcano engine
+  - DOMAIN,api.byteair.volces.com
+  - DOMAIN,byteair-api-sg1.byteintlapi.com
+  - DOMAIN,api.byteair.volces.com
+  - DOMAIN,byteair-api-sg1.byteintlapi.com
+
+  # Toutiao
+  - DOMAIN-SUFFIX,dm-hl.toutiao.com
+  - DOMAIN-SUFFIX,ether-pack.pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,dsp.toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+  - DOMAIN-SUFFIX,partner.toutiao.com
+  - DOMAIN-SUFFIX,sm.toutiao.com
+  - DOMAIN-SUFFIX,mon.toutiao.com
+  - DOMAIN-SUFFIX,zhanzhang.toutiao.com
+  - DOMAIN-SUFFIX,nativeapp.toutiao.com
+  - DOMAIN-SUFFIX,adshare.toutiao.com
+  - DOMAIN-SUFFIX,d.toutiao.com
+  - DOMAIN-SUFFIX,ad.toutiao.com
+  - DOMAIN-SUFFIX,mssdk.bytedance.com
+  - DOMAIN-SUFFIX,toblog.ctobsnssdk.com.w.cdngslb.com
+  - DOMAIN-SUFFIX,apmplus.volces.com
+  - DOMAIN-SUFFIX,apmplus.volces.com.queniusz.com
+  - DOMAIN-SUFFIX,mssdk.volces.com.queniusz.com
+  - DOMAIN-SUFFIX,volces.com.queniusz.com
+  - DOMAIN-SUFFIX,tos-s3-cn-shanghai.volces.com
+  - DOMAIN-SUFFIX,tos-s3-cn-beijing.volces.com
+  - DOMAIN-SUFFIX,neptune-api.volces.com
+  - DOMAIN-SUFFIX,gator.volces.com
+  - DOMAIN-SUFFIX,tab.volces.com
+  - DOMAIN-SUFFIX,tos.volces.com
+  - DOMAIN-SUFFIX,aic-report.volces.com
+  - DOMAIN-SUFFIX,volces.com.c.dsa.cdnbuild.net
+  - DOMAIN-SUFFIX,vegameapi.volces.com
+  - DOMAIN-SUFFIX,vegamemon.volces.com
+  - DOMAIN-SUFFIX,mssdk.volces.com
+  - DOMAIN-SUFFIX,tos-cn-beijing.volces.com
+  - DOMAIN-SUFFIX,httpdns.volcengineapi.com
+  - DOMAIN-SUFFIX,vod.volcengineapi.com
+
+  # Sina Webo
+  - DOMAIN,u1.img.mobile.sina.cn
+  - DOMAIN-SUFFIX,log.sina.cn
+  - DOMAIN-SUFFIX,log2.sina.cn
+  - DOMAIN-SUFFIX,ads.sina.com
+  - DOMAIN-SUFFIX,ads.sina.com.cn
+  - DOMAIN-SUFFIX,adimages.sina.com.hk
+  - DOMAIN-SUFFIX,ad.sina.com.cn
+  - DOMAIN-SUFFIX,logger.sina.cn
+  - DOMAIN-SUFFIX,dns.weibo.cn
+  - DOMAIN-SUFFIX,slog.sina.cn
+  - DOMAIN-SUFFIX,ad.cj.sina.cn
+  - DOMAIN-SUFFIX,adblock.sina.cn
+  - DOMAIN-SUFFIX,promote.biz.weibo.cn
+  - DOMAIN-SUFFIX,ad.passport.weibo.cn
+  - DOMAIN-SUFFIX,dp.im.weibo.cn
+  - DOMAIN-SUFFIX,adbox.sina.com.cn
+  - DOMAIN-SUFFIX,r.sax.sina.com.cn
+  - DOMAIN-SUFFIX,adm.leju.sina.com.cn
+  - DOMAIN-SUFFIX,dcads.sina.com.cn
+  - DOMAIN-SUFFIX,counter.sina.com.cn
+  - DOMAIN-SUFFIX,p4p.sina.com.cn
+  - DOMAIN-SUFFIX,saxn.sina.com.cn
+  - DOMAIN-SUFFIX,beacon.sina.com.cn
+  - DOMAIN-SUFFIX,sbeacon.sina.com.cn
+  - DOMAIN-SUFFIX,matwbp.iask.sina.com.cn
+  - DOMAIN-SUFFIX,cpoml.iask.sina.com.cn
+  - DOMAIN-SUFFIX,emarketing.sina.com.cn
+  - DOMAIN-SUFFIX,sdkapp.mobile.sina.cn
+  - DOMAIN-SUFFIX,wbapp.mobile.sina.cn
+  - DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
+  - DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
+  - DOMAIN-SUFFIX,adimg.mobile.sina.cn
+  - DOMAIN-SUFFIX,newspush.sinajs.cn
+  - DOMAIN-SUFFIX,ad.weibo.com
+  - DOMAIN-SUFFIX,hits.sinajs.cn
+  - DOMAIN-SUFFIX,rs.sinajs.cn
+  - DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
+  - DOMAIN-SUFFIX,simg.sinajs.cn
+  - DOMAIN-SUFFIX,log.mix.sina.com.cn
+  - DOMAIN-SUFFIX,ping4.sina.cn
+  - DOMAIN-SUFFIX,ping64.sina.cn
+  - DOMAIN-SUFFIX,pfpip.sina.com
+  - DOMAIN-SUFFIX,oascentral.sina.com
+  - DOMAIN-SUFFIX,tqt.weibo.cn
+  - DOMAIN-SUFFIX,weibointl.api.weibo.cn
+  - DOMAIN-SUFFIX,sdkaction.biz.weibo.cn
+  - DOMAIN-SUFFIX,brandvideo.biz.weibo.cn
+  
+  # CSDN
+  - DOMAIN-SUFFIX,ev.csdn.net
+  - DOMAIN-SUFFIX,event.csdn.net
+  - DOMAIN-SUFFIX,eva2.csdn.net
+  - DOMAIN-SUFFIX,mp-activity.csdn.net
+  - DOMAIN-SUFFIX,devpress-api.csdn.net
+  - DOMAIN-SUFFIX,kunyu.csdn.net
+  - DOMAIN-SUFFIX,adaccount.csdn.net
+  - DOMAIN-SUFFIX,ads.csdn.net
+  - DOMAIN-SUFFIX,counter.csdn.net
+  - DOMAIN-SUFFIX,zhannei-dm.csdn.net
+  - DOMAIN-SUFFIX,medal.blog.csdn.net
+  - DOMAIN-SUFFIX,kunpeng.csdn.net
+  - DOMAIN-SUFFIX,ad.csdn.net
+  - DOMAIN-SUFFIX,silkroad.csdn.net
+  - DOMAIN-SUFFIX,dc.csdn  
+  
 
   # DOMAIN,api.usercentrics.eu
   # DOMAIN,consent-api.service.consent.usercentrics.eu
   - DOMAIN,www.n.cn
   - DOMAIN,bot.n.cn
   - DOMAIN,chat.baidu.com
+  - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,ad.360.cn
+  - DOMAIN-SUFFIX,se.360.cn
+  - DOMAIN-SUFFIX,browser.360.cn
+  - DOMAIN-SUFFIX,hao.360.cn
+  - DOMAIN-SUFFIX,dev.360.cn
 
+  # Umeng
+  - DOMAIN-SUFFIX,errlog.umeng.com
+  - DOMAIN-SUFFIX,aaid.umeng.com
+  - DOMAIN-SUFFIX,ulogs.umeng.com
+  - DOMAIN-SUFFIX,alogs.umeng.com
+  - DOMAIN-SUFFIX,alog.umeng.com
+  - DOMAIN-SUFFIX,alog.umeng.co
+  - DOMAIN-SUFFIX,ulogs.umengcloud.com
+  - DOMAIN-SUFFIX,ads.umeng.com
+  - DOMAIN-SUFFIX,oc.umeng.com
+  - DOMAIN-SUFFIX,oc.umeng.co
+  - DOMAIN-SUFFIX,uop.umeng.com
+  - DOMAIN-SUFFIX,alogs.umengcloud.com
+  - DOMAIN-SUFFIX,sec.umeng.com
+  - DOMAIN-SUFFIX,ai.login.umeng.com
+  - DOMAIN-SUFFIX,at.umeng.com
+  - DOMAIN-SUFFIX,umeng.com.gds.alibabadns.com
+  - DOMAIN-SUFFIX,umengcloud.com.gds.alibabadns.com
+  - DOMAIN-SUFFIX,ocx.umeng.com
+  - DOMAIN-SUFFIX,au.umeng.com
+  - DOMAIN-SUFFIX,alog-default.umeng.com
+  - DOMAIN-SUFFIX,alogsus.umeng.com
+  - DOMAIN-SUFFIX,alogus.umeng.com
+  - DOMAIN-SUFFIX,errlogos.umeng.com
+  - DOMAIN-SUFFIX,ar.umeng.com
+  - DOMAIN-SUFFIX,plbslog.umeng.com
+  - DOMAIN-SUFFIX,ouplog.umeng.com
+  - DOMAIN-SUFFIX,ex.umengcloud.com
+  - DOMAIN-SUFFIX,utop.umengcloud.com
+  - DOMAIN-SUFFIX,upoll.umengcloud.com
+  - DOMAIN-SUFFIX,msg.umengcloud.com
+  - DOMAIN-SUFFIX,alog.umengcloud.com
+  - DOMAIN-SUFFIX,errnewlog.umeng.com
+  - DOMAIN-SUFFIX,utoken.umeng.com
+  - DOMAIN-SUFFIX,ccs.umeng.com
+  - DOMAIN-SUFFIX,audid.umeng.com
+  - DOMAIN-SUFFIX,pslog.umeng.com
+  - DOMAIN-SUFFIX,sss.umeng.com
+  - DOMAIN-SUFFIX,au.umeng.co
+  - DOMAIN-SUFFIX,api.umeng.com
+  - DOMAIN-SUFFIX,umtrack.com
+  - DOMAIN-SUFFIX,umtrack0.com
+  - DOMAIN-SUFFIX,umtrack1.com
+  - DOMAIN-SUFFIX,umtrack2.com
+  - DOMAIN-SUFFIX,umv0.com
+  - DOMAIN-SUFFIX,umv5.com
+  - DOMAIN-SUFFIX,wrating.com
+  - DOMAIN-SUFFIX,api.wsq.umeng.com
+  - DOMAIN-SUFFIX,offmsg.umeng.com
+  - DOMAIN-SUFFIX,fb.umeng.com
+  - DOMAIN-SUFFIX,utow.umeng.com
+  - DOMAIN-SUFFIX,weiw.umeng.com
+  - DOMAIN-SUFFIX,eyew.umeng.com
+  - DOMAIN-SUFFIX,vskit.umeng.com
+  - DOMAIN-SUFFIX,act.umeng.com
+  - DOMAIN-SUFFIX,livechat.umeng.com
+  - DOMAIN-SUFFIX,andeyeplus.umeng.com
+  - DOMAIN-SUFFIX,errnewlogos.umeng.com
+  - DOMAIN-SUFFIX,new-ccs.umeng.com
+  - DOMAIN-SUFFIX,jobpeter.umeng.com
+  - DOMAIN-SUFFIX,ansjer.umeng.com
+  - DOMAIN-SUFFIX,wear.umeng.com
+  - DOMAIN-SUFFIX,collect.wsq.umeng.com
+  - DOMAIN-SUFFIX,netp.umeng.com
+  - DOMAIN-SUFFIX,app.umeng.com
+  - DOMAIN-SUFFIX,allfootballapp.umeng.com
+  - DOMAIN-SUFFIX,happ.umeng.com
+  - DOMAIN-SUFFIX,netpop.umeng.com
+  - DOMAIN-SUFFIX,mp.umeng.com
+  - DOMAIN-SUFFIX,outdip.umeng.com
+  - DOMAIN-SUFFIX,jobp.umeng.com
+  - DOMAIN-SUFFIX,video.umeng.com
+  - DOMAIN-SUFFIX,ludo.umeng.com
+  - DOMAIN-SUFFIX,laun.umeng.com
+  - DOMAIN-SUFFIX,alon.umeng.com
+  - DOMAIN-SUFFIX,litterpenguin.umeng.com
+  - DOMAIN-SUFFIX,login.umeng.com
+  - DOMAIN-SUFFIX,finplus-open.umeng.com
+  - DOMAIN-SUFFIX,alaboyuyan.umeng.com
+  - DOMAIN-SUFFIX,pian.umeng.com
+  - DOMAIN-SUFFIX,m.umeng.com
+  - DOMAIN-SUFFIX,apm.umeng.com
+  - DOMAIN-SUFFIX,com.umeng.com
+  - DOMAIN-SUFFIX,yunantcam.umeng.com
+  - DOMAIN-SUFFIX,appl.umeng.com
+  - DOMAIN-SUFFIX,yall.umeng.com
+  - DOMAIN-SUFFIX,counsel.umeng.com
+  - DOMAIN-SUFFIX,kongblank.umeng.com
+  - DOMAIN-SUFFIX,ansj.umeng.com
+  - DOMAIN-SUFFIX,aspect-upush.umeng.com
+  - DOMAIN-SUFFIX,dclaunch.umeng.com
+  - DOMAIN-SUFFIX,s9launch.umeng.com
+  - DOMAIN-SUFFIX,ossnt-errlog.umeng.com
+  - DOMAIN-SUFFIX,ming.umeng.com
+  - DOMAIN-SUFFIX,zb-umpzid.umeng.com
+  - DOMAIN-SUFFIX,new-audid.umeng.com
+  - DOMAIN-SUFFIX,new-aaid.umeng.com
+  - DOMAIN-SUFFIX,ucc.umeng.com
+  - DOMAIN-SUFFIX,mob.umeng.com
+  - DOMAIN-SUFFIX,uweb.umeng.com
+  - DOMAIN-SUFFIX,eumlab.umeng.com
+  - DOMAIN-SUFFIX,liya.umeng.com
+  - DOMAIN-SUFFIX,chua.umeng.com
+  - DOMAIN-SUFFIX,wuta.umeng.com
+  - DOMAIN-SUFFIX,heta.umeng.com
+  - DOMAIN-SUFFIX,zebra.umeng.com
+  - DOMAIN-SUFFIX,music55.umeng.com
+  - DOMAIN-SUFFIX,qxp1.umeng.com
+  - DOMAIN-SUFFIX,gf.umenglog.com
+  - DOMAIN-SUFFIX,dev.umeng.com
+  - DOMAIN-SUFFIX,oslogs.umeng.com
+  - DOMAIN-SUFFIX,cnlogs.umeng.com
+  - DOMAIN-SUFFIX,os2logs.umeng.com
+  - DOMAIN-SUFFIX,insp.umeng.com
+  - DOMAIN-SUFFIX,resolve.umeng.com
+  - DOMAIN-SUFFIX,deeplink.umeng.com
+  - DOMAIN-SUFFIX,shxy.umeng.com
+  - DOMAIN-SUFFIX,pony.umeng.com
+  - DOMAIN-SUFFIX,opay.umeng.com
+  - DOMAIN-SUFFIX,play.umeng.com
+  - DOMAIN-SUFFIX,youx.umeng.com
+  - DOMAIN-SUFFIX,kbox.umeng.com
+  - DOMAIN-SUFFIX,launchx.umeng.com
+  - DOMAIN-SUFFIX,hwex.umeng.com
+  - DOMAIN-SUFFIX,jddx.umeng.com
+  - DOMAIN-SUFFIX,cnzz.com
+  - DOMAIN-SUFFIX,cnzz.net
+  
+  # ximalaya
+  - DOMAIN-SUFFIX,ad.c.ximalaya.com
+  - DOMAIN-SUFFIX,location.ximalaya.com
+  - DOMAIN-SUFFIX,adse.ximalaya.com
+  - DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
+  - DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
+  - DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
+  - DOMAIN-SUFFIX,dns.ximalaya.com
+  - DOMAIN-SUFFIX,adwbs.ximalaya.com
+  - DOMAIN-SUFFIX,adsebs.ximalaya.com
+  - DOMAIN-SUFFIX,adbs.ximalaya.com
+  - DOMAIN-SUFFIX,adbehavior.ximalaya.com
+  - DOMAIN-SUFFIX,linkeye.ximalaya.com
+  - DOMAIN-SUFFIX,ad.ximalaya.com
+  - DOMAIN-SUFFIX,mobwsa.ximalaya.com
+  - DOMAIN-SUFFIX,adbehavior.wsa.ximalaya.com
+  - DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+  - DOMAIN-SUFFIX,adsehera.ximalaya.com
+
+  # Twitter / 𝕏
   - DOMAIN,ads-api.x.com
   - DOMAIN,static.ads-twitter.com
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,advertising.twitter.com
+  - DOMAIN-SUFFIX,static.ads-twitter.com
+  - DOMAIN-SUFFIX,syndication.twitter.com
+  - DOMAIN-SUFFIX,ads.x.com
+  - DOMAIN-SUFFIX,ads.twitter.com
+  - DOMAIN-SUFFIX,analytics.x.com
+  - DOMAIN-SUFFIX,analytics.twitter.com
+  - DOMAIN-SUFFIX,ads-api.twitter.com
+  - DOMAIN-SUFFIX,ads-bidder-api.twitter.com
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,static.ads-twitter.com
+  - DOMAIN-SUFFIX,ads-api-sandbox.twitter.com
+  - DOMAIN-SUFFIX,cards.twitter.com
+  - DOMAIN-SUFFIX,p.twitter.com
+  - DOMAIN-SUFFIX,urls.api.twitter.com
+  - DOMAIN-SUFFIX,hack-twitter.com
+  - DOMAIN-SUFFIX,twitter-backend.grab-colab.com
+  - DOMAIN-SUFFIX,twitter-badges.s3.amazonaws.com
+  - DOMAIN-SUFFIX,ads-api.x.com
+  - DOMAIN-SUFFIX,t.e.x.com
+  - DOMAIN-SUFFIX,crashlytics.twitter.com
+  - DOMAIN-SUFFIX,scribe.twitter.com
+  
   - DOMAIN,datum.jsdelivr.com
   - DOMAIN-SUFFIX,unblockia.com
   # DOMAIN,cdn-ext.spiny.ai  //need black hole 
@@ -75,7 +568,20 @@ payload:
   - DOMAIN,device-metrics-us-1.amazon.com
   - DOMAIN,device-metrics-us.amazon.com
   - DOMAIN,avs-alexa-18-na.amazon.com
+  - DOMAIN,analytics.search.amazon.com
+  - DOMAIN,tracker.corp.amazon.com
+  - DOMAIN,advertising.amazon.com
+  - DOMAIN,amazon-adsystem.amazon.com
+  - DOMAIN,amazon-adsystem.com
+  - DOMAIN,amazon-adsystems.com
+  - DOMAIN,analytics.s3.amazonaws.com
+  - DOMAIN,analyticsengine.s3.amazonaws.com
+  - DOMAIN,advice-ads.s3.amazonaws.com
+  - DOMAIN,devicemessaging.us-east-1.amazon.com
   - DOMAIN,trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+  - DOMAIN-SUFFIX,ads.amazon.com
+  - DOMAIN-SUFFIX,sentry.amazon.com
+  - DOMAIN-SUFFIX,analytics.search.amazon.com
   - DOMAIN-SUFFIX,prod.bugs.firebat.prime-video.amazon.dev
   - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 
@@ -119,6 +625,7 @@ payload:
 
   # UnionPay aka Yunshanfu cup.cn ads test
   - DOMAIN,ads.cup.com.cn
+  - DOMAIN,ads.95516.com
   - DOMAIN,analytics.95516.com
   - DOMAIN,hotpatch.cup.com.cnotr
   - DOMAIN,hotpatch.cup.com.cnx9tm
