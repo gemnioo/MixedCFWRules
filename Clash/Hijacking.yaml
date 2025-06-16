@@ -31,7 +31,7 @@ payload:
   - DOMAIN,beacons2.gvt2.com
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
-  - DOMAIN,h5.analytics.126
+  - DOMAIN,h5.analytics.126.net
   - DOMAIN,mmjs.adutp.com
   - DOMAIN,ymjs.adutp.com
 
