@@ -620,6 +620,8 @@ payload:
   - DOMAIN,o1118313.ingest.us.sentry.io
   - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,o4508410568048640.ingest.us.sentry.io
+  - DOMAIN,o488710.ingest.us.sentry.io
+  - DOMAIN-SUFFIX,ingest.us.sentry.io
   
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
