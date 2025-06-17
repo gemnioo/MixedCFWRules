@@ -487,6 +487,9 @@ payload:
 
   # > Chrome Browser
   - DOMAIN,www.google.com
+  - DOMAIN,www.google.com.hk
+  - DOMAIN,www.google.com.jp
+  - DOMAIN,www.google.com.sg
   - DOMAIN,calendar.google.com
   - DOMAIN,accounts.google.com
   - DOMAIN,update.googleapis.com
@@ -503,6 +506,10 @@ payload:
   - DOMAIN,clients2.googleusercontent.com
   - DOMAIN-SUFFIX,googleusercontent.com
   # DOMAIN,yt3.googleusercontent.com
+  # Chrome data collection
+  # DOMAIN,e2c52.gcp.gvt2.com
+  # DOMAIN,beacons.gcp.gvt2.com
+  # DOMAIN-SUFFIX,gcp.gvt2.com
   # > Gmail
   - DOMAIN,mail.google.com
   - DOMAIN,inbox.google.com
