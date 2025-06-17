@@ -29,6 +29,7 @@ payload:
   - DOMAIN,static.wixstatic.com
   - DOMAIN,www.clarity.ms
   - DOMAIN,beacons2.gvt2.com
+  - DOMAIN,beacons3.gvt2.com
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
 
