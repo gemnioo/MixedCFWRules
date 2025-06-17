@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN,stun.services.mozilla1.com
+  - DOMAIN,merino.services.mozilla.com
   - DOMAIN-SUFFIX,services.mozilla1.com
 
   # > Add Google Chrome
