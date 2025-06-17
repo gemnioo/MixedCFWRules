@@ -12,6 +12,10 @@ payload:
   - DOMAIN-SUFFIX,msdmanuals.cn
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
+  # Chrome data collection
+  # DOMAIN,e2c52.gcp.gvt2.com
+  - DOMAIN,beacons.gcp.gvt2.com
+  # DOMAIN-SUFFIX,gcp.gvt2.com
 
   # Github Acce
   - DOMAIN,ghp.ci
