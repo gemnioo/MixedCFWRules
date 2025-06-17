@@ -60,6 +60,7 @@ payload:
   - DOMAIN,ublockorigin.github.io
   - DOMAIN,ublockorigin.pages.dev
   - DOMAIN,malware-filter.pages.dev
+  - DOMAIN,www.enhancedimageviewer.com
 
   # VSCode code-server
   - DOMAIN,open-vsx.org
