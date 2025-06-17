@@ -80,13 +80,19 @@ payload:
 
   - DOMAIN-SUFFIX,remio.ai
   - DOMAIN-SUFFIX,chatboxai.app
+  - DOMAIN,gitcode.com
+  - DOMAIN,file-cdn.gitcode.com
+  - DOMAIN,releases.cherry-ai.com
   - DOMAIN-SUFFIX,cherry-ai.com
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
   - DOMAIN,api.ifopen.ai
-  - DOMAIN,api2.aigcbest.top  
+  - DOMAIN,api2.aigcbest.top
+  - DOMAIN,cdn.apifox.com
+  - DOMAIN-SUFFIX,apifox.cn
+  - DOMAIN,wmimg.com
   - DOMAIN-SUFFIX,aigcbest.top
-  - DOMAIN,status.aigc369.com
+  - DOMAIN-SUFFIX,aigc369.com
   - DOMAIN,api.openai-proxy.org
   - DOMAIN-SUFFIX,closeai-asia.com
   - DOMAIN,api.turboai.one
