@@ -509,7 +509,7 @@ payload:
   # Chrome data collection
   # DOMAIN,e2c52.gcp.gvt2.com
   # DOMAIN,beacons.gcp.gvt2.com
-  # DOMAIN-SUFFIX,gcp.gvt2.com
+  - DOMAIN-SUFFIX,gcp.gvt2.com
   # > Gmail
   - DOMAIN,mail.google.com
   - DOMAIN,inbox.google.com
