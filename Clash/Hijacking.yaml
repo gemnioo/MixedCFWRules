@@ -622,6 +622,10 @@ payload:
   - DOMAIN,o4508410568048640.ingest.us.sentry.io
   - DOMAIN,o488710.ingest.us.sentry.io
   - DOMAIN-SUFFIX,ingest.us.sentry.io
+
+  # Parsec tracker
+  - DOMAIN,cdn.wootric.com
+  - DOMAIN,eligibility.wootric.com
   
   # ddrk ads
   - DOMAIN,help-ol.bj.bcebos.com
