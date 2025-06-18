@@ -34,7 +34,12 @@ payload:
   - DOMAIN,beacons.gcp.gvt2.com
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
-
+  
+  # Content farm
+  - DOMAIN-SUFFIX,freeclashnode.com
+  - DOMAIN-SUFFIX,clashyun.com
+  - DOMAIN-SUFFIX,clashtg.com
+  - DOMAIN-SUFFIX,
   # IPv6 ISP CDN DNS hijacking Apple service acceleration
   - DOMAIN,mesu.apple.com.w.cdngslb.com
 
