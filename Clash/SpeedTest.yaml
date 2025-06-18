@@ -100,3 +100,9 @@ payload:
   - DOMAIN-SUFFIX,ident.me
   - DOMAIN,ipv4.icanhazip.com
   - DOMAIN,ipv6.icanhazip.com
+
+  # IPv6 test sites
+  - DOMAIN,test-ipv6.com
+  - DOMAIN,ipv4.lookup.test-ipv6.com
+  - DOMAIN,ipv6.lookup.test-ipv6.com
+  - DOMAIN-SUFFIX,test-ipv6.com
