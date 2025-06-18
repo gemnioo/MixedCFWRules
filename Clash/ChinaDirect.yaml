@@ -28,7 +28,8 @@ payload:
   # DOMAIN,e2c52.gcp.gvt2.com
   - DOMAIN,beacons.gcp.gvt2.com
   # DOMAIN-SUFFIX,gcp.gvt2.com
-
+  # CDN acceleration 
+  - DOMAIN-SUFFIX,w.cdngslb.com
   # Github Acce
   - DOMAIN,ghp.ci
   - DOMAIN,ghgo.xyz
