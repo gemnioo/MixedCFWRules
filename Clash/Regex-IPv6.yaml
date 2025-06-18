@@ -1,0 +1,26 @@
+payload:
+   # As Dreamacro archived Clash premium core not support Regex match
+   # For compatibility with non-mihomo versions kernel
+   # Blew domain just needed when test IPv6 supprt via sites
+   - DOMAIN-REGEX,^ipv[46]\.test-ipv6\..*$
+   - DOMAIN-REGEX,^v[46]\.test-ipv6\..*$
+   - DOMAIN-REGEX,^ipv[46]-test-ipv6\..*$
+   - DOMAIN-REGEX,^ipv[46]-test\..*$
+   - DOMAIN-REGEX,^ipv4-test-ipv6\..*$
+   - DOMAIN-REGEX,^ipv[46]-test\.netflash\..*$
+   - DOMAIN-REGEX,^v[46]\.ipv6\.br$
+   - DOMAIN-REGEX,^v[46]-only\.steffann\..*$
+   - DOMAIN-REGEX,^ipv[46]\.mudgee\..*$
+   - DOMAIN-REGEX,^ipv[46]\.cidercounty\.org\.uk$
+   - DOMAIN-REGEX,^ipv[46]\.antradar\.com$
+   - DOMAIN-REGEX,^ip[46]\.8n1\.org$
+   - DOMAIN-REGEX,^ipv[46]\.tunnelbroker\.net$
+   - DOMAIN-REGEX,^ipv[46]\.ip6\.ro$
+   - DOMAIN-REGEX,^ipv[46]\.nsx\.de$
+   - DOMAIN-REGEX,^ipv[46]\.joram\..*$
+   - DOMAIN-REGEX,^ipv[46]\.sixte\.st$
+   - DOMAIN-REGEX,^ipv[46]\.jamieweb\..*$
+   - DOMAIN-REGEX,^ipv[46]\.duiadns\.net$
+   - DOMAIN-REGEX,^ipv[46]\.testipv6\.de$
+   - DOMAIN-REGEX,^ipv[46]\.excathedra\.co$
+   - DOMAIN-REGEX,^ipv[46]\.salesianimestre\.it$
