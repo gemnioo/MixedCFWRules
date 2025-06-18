@@ -90,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,cherry-ai.com
   - DOMAIN,gf.gpt.ge
   - DOMAIN-SUFFIX,aihubmix.com
+  - DOMAIN,api.openai-sb.com
   - DOMAIN,api.ifopen.ai
   - DOMAIN,api2.aigcbest.top
   - DOMAIN,cdn.apifox.com
