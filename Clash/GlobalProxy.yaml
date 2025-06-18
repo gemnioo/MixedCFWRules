@@ -67,6 +67,7 @@ payload:
   - DOMAIN,beta.linkeless.com
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN-SUFFIX,pqs.pw
   - DOMAIN-SUFFIX,datapacket.com
   - DOMAIN-SUFFIX,heptasky.com
   - DOMAIN,halo.do
