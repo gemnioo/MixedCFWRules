@@ -11,8 +11,13 @@ payload:
   - DOMAIN,geolocation.onetrust.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
   
-  # openclash ui test endpoint
-  - DOMAIN,d.skk.moe
+  # OpenClash console test
+  # DOMAIN,s1.music.126.net
+  # DOMAIN,api-ipv4.ip.sb
+  # DOMAIN,whois.pconline.com.cn
+  # DOMAIN,forge.speedtest.cn
+  # DOMAIN,qqwry.api.skk.moe
+  # DOMAIN,d.skk.moe
   - DOMAIN,api.ttt.sh
   - DOMAIN,api.ipify.org
   - DOMAIN,ftp.jaist.ac.jp
