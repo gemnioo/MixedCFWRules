@@ -16,6 +16,9 @@ payload:
   # OpenClash console test
   - DOMAIN,s1.music.126.net
   - DOMAIN,api-ipv4.ip.sb
+  - DOMAIN,api.ipify.org
+  - DOMAIN,api.ttt.sh
+  - DOMAIN,pubstatic.b0.upaiyun.com
   - DOMAIN,whois.pconline.com.cn
   - DOMAIN,forge.speedtest.cn
   - DOMAIN,qqwry.api.skk.moe
