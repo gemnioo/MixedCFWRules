@@ -20,13 +20,6 @@ payload:
   - DOMAIN,api.codetabs.com
   - DOMAIN,seedhub.cc
 
-  # openclash console test
-  - DOMAIN,s1.music.126.net
-  - DOMAIN,api-ipv4.ip.sb
-  - DOMAIN,whois.pconline.com.cn
-  - DOMAIN,forge.speedtest.cn
-  - DOMAIN,qqwry.api.skk.moe
-
   # IPTV
   - DOMAIN-SUFFIX,cmdns.xyz
   - DOMAIN-SUFFIX,ottdns.com
