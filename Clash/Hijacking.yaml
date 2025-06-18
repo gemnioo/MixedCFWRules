@@ -86,12 +86,13 @@ payload:
   - DOMAIN,androidrqd.iot.wechatpay.cn
   # WeChat
   - DOMAIN,log.aldwx.com
-  - DOMAIN-SUFFIX,dns.qq.com
   - DOMAIN-SUFFIX,cgi.connect.qq.com
   - DOMAIN-SUFFIX,ad.weixin.qq.com
-  - DOMAIN-SUFFIX,aedns.weixin.qq.com
+  - DOMAIN-SUFFIX,dns.qq.com
+  - DOMAIN-SUFFIX,dns.wechat.com
   - DOMAIN-SUFFIX,dns.weixin.qq.com
   - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+  - DOMAIN-SUFFIX,aedns.weixin.qq.com
   # Tencent 
   - DOMAIN-SUFFIX,imtmp.net
   - DOMAIN-SUFFIX,btrace.qq.com
