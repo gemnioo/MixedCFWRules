@@ -18,8 +18,8 @@ payload:
   # DOMAIN,forge.speedtest.cn
   # DOMAIN,qqwry.api.skk.moe
   # DOMAIN,d.skk.moe
-  - DOMAIN,api.ttt.sh
-  - DOMAIN,api.ipify.org
+  # DOMAIN,api.ttt.sh
+  # DOMAIN,api.ipify.org
   - DOMAIN,ftp.jaist.ac.jp
   - DOMAIN,api.ttt.sh.cdn.cloudflare.net
   - DOMAIN,cdn.jsdelivr.net
