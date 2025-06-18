@@ -40,8 +40,6 @@ payload:
   - DOMAIN-SUFFIX,clashyun.com
   - DOMAIN-SUFFIX,clashtg.com
   - DOMAIN-SUFFIX,
-  # IPv6 ISP CDN DNS hijacking Apple service acceleration
-  - DOMAIN,mesu.apple.com.w.cdngslb.com
 
   # citation FuckRogueSoftware (most duplicate
   - DOMAIN,ad.12306.cn
