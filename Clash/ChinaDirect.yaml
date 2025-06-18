@@ -12,6 +12,15 @@ payload:
   - DOMAIN-SUFFIX,msdmanuals.cn
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
+
+  # OpenClash console test
+  - DOMAIN,s1.music.126.net
+  - DOMAIN,api-ipv4.ip.sb
+  - DOMAIN,whois.pconline.com.cn
+  - DOMAIN,forge.speedtest.cn
+  - DOMAIN,qqwry.api.skk.moe
+  - DOMAIN,d.skk.moe
+
   # Chrome data collection
   # DOMAIN,e2c52.gcp.gvt2.com
   - DOMAIN,beacons.gcp.gvt2.com
