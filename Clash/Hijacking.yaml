@@ -628,6 +628,7 @@ payload:
   - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,o4508410568048640.ingest.us.sentry.io
   - DOMAIN,o488710.ingest.us.sentry.io
+  - DOMAIN,o167642.ingest.sentry.io
   - DOMAIN-SUFFIX,ingest.us.sentry.io
 
   # Parsec tracker
