@@ -22,16 +22,11 @@ payload:
   - DOMAIN,p2-play.edge4k.com
   - DOMAIN,analytics.ad.daum.net
   - DOMAIN,analytics.immersivetranslate.com
-  - DOMAIN,analytics.immersivetranslate.cn
   - DOMAIN,dk-api-v1.singular.net
   - DOMAIN,sdk-api-v1.singular.net
   # DOMAIN,pplx-next-static-public.perplexity.ai
   - DOMAIN,static.wixstatic.com
   - DOMAIN,www.clarity.ms
-  - DOMAIN,beacons2.gvt2.com
-  - DOMAIN,beacons3.gvt2.com
-  - DOMAIN,e2c52.gcp.gvt2.com
-  - DOMAIN,beacons.gcp.gvt2.com
   - DOMAIN,www.googletagmanager.com
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
