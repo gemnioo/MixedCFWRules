@@ -503,6 +503,7 @@ payload:
   - DOMAIN,translate.googleapis.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,optimizationguide-pa.googleapis.com
+  - DOMAIN,tunnel.googlezip.net
   # DOMAIN,jnn-pa.googleapis.com
   - DOMAIN-SUFFIX,clients3.google.com
   - DOMAIN-SUFFIX,clients6.google.com
