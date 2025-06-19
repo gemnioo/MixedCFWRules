@@ -734,7 +734,6 @@ payload:
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,beacon.qq.com
   - DOMAIN-SUFFIX,redditstatic.com
-  - DOMAIN,zdbb.net
   - DOMAIN,cdn.static.zdbb.net
   - DOMAIN-SUFFIX,zdbb.net
   - DOMAIN-SUFFIX,cdn.ziffstatic.com
