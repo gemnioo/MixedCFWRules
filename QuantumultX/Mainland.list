@@ -30,6 +30,21 @@ HOST,crl.digicert-cn.com,Mainland
 HOST,ocsp.digicert.cn,Mainland
 HOST,crl.digicert.cn,Mainland
 
+# > Immersive Translate
+HOST,ai.immersivetranslate.com,Mainland
+HOST,api.immersivetranslate.com,Mainland
+HOST,api2.immersivetranslate.com,Mainland
+HOST,s.immersivetranslate.com,Mainland
+HOST,worker.immersivetranslate.com,Mainland
+HOST,translate.googleapis.com,Outside
+HOST,api-edge.cognitive.microsofttranslator.com,Mainland
+HOST,immersive-translate.owenyoung.com,Mainland
+HOST,config.immersivetranslate.com,Mainland
+HOST-SUFFIX,immersivetranslate.com,Mainland
+HOST,analytics.immersivetranslate.com,AdBlock
+HOST,immersivetranslate.substack.com,Outside
+HOST,readit.site,Outside
+
 # > LLMs Proxy API add 
 HOST,api.deepseek.com,Mainland
 HOST,cdn.deepseek.com,Mainland
