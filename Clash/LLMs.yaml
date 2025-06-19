@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN,pplx-res.cloudinary.com
   - DOMAIN,fscdn.eppo.cloud
+  - DOMAIN,images.financialmodelingprep.com
 
   # Mistral
   - DOMAIN,chat.mistral.ai
