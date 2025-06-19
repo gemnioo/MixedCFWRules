@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,msdmanuals.cn
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
+  #meituan IP checker?
+  - DOMAIN,stun.voipstunt.com
 
   # OpenClash console test
   - DOMAIN,s1.music.126.net
