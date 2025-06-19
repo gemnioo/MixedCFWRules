@@ -60,7 +60,7 @@ payload:
   
   - DOMAIN-KEYWORD,speedtest
   
-  # ipinfo 
+  # ipinfo  bgp.tools
   - DOMAIN,ipinfo.io
   - DOMAIN,cdn.ipinfo.io
   - DOMAIN,pixel.ipinfo.io
@@ -70,6 +70,7 @@ payload:
   - DOMAIN,v6.bgp.tools
   - DOMAIN-SUFFIX,bgp.tools
   - DOMAIN-SUFFIX,dns.bgp.tools
+  - DOMAIN-SUFFIX,bgptools-agent-cf.com
   - DOMAIN,api6.ipify.org
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN,api.iconify.design
