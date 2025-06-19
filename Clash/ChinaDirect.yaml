@@ -52,6 +52,20 @@ payload:
   - DOMAIN,i.pki.goog
   - DOMAIN,o.pki.goog
   - DOMAIN,ocsp.pki.goog
+  # Immersive Translate
+  - DOMAIN,ai.immersivetranslate.com
+  - DOMAIN,api.immersivetranslate.com
+  - DOMAIN,api2.immersivetranslate.com
+  - DOMAIN,s.immersivetranslate.com
+  - DOMAIN,worker.immersivetranslate.com
+  - DOMAIN,api-edge.cognitive.microsofttranslator.com
+  - DOMAIN,immersive-translate.owenyoung.com
+  - DOMAIN,config.immersivetranslate.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  # DOMAIN,analytics.immersivetranslate.com
+  # DOMAIN,immersivetranslate.substack.com
+  
+  
   # LLMs Proxy API within CN 
   - DOMAIN,api.deepseek.com
   - DOMAIN,cdn.deepseek.com
