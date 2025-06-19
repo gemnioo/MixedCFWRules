@@ -40,6 +40,8 @@ payload:
   - DOMAIN-SUFFIX,freeclashnode.com
   - DOMAIN-SUFFIX,clashyun.com
   - DOMAIN-SUFFIX,clashtg.com
+  - DOMAIN-SUFFIX,clashv2ray.com
+  - DOMAIN-SUFFIX,shlshfm.com
 
   # citation FuckRogueSoftware (most duplicate
   - DOMAIN,ad.12306.cn
