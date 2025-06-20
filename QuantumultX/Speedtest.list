@@ -51,7 +51,7 @@ HOST,cdn.jsdelivr.net,Speedtest
 HOST,fastly.jsdelivr.net,Speedtest
 HOST-SUFFIX,jsdelivr.net,Speedtest
 
-# BGP tools
+# ipinfo bgp.tools
 HOST,ipinfo.io,Speedtest
 HOST,cdn.ipinfo.io,Speedtest
 HOST,pixel.ipinfo.io,Speedtest
@@ -61,6 +61,7 @@ HOST,v4.bgp.tools,Speedtest
 HOST,v6.bgp.tools,Speedtest
 HOST-SUFFIX,bgp.tools,Speedtest
 HOST-SUFFIX,dns.bgp.tools,Speedtest
+HOST-SUFFIX,bgptools-agent-cf.com,Speedtest
 # Block wsj video auto play
 HOST,video-api.shdsvc.dowjones.io,Speedtest
 
@@ -92,3 +93,10 @@ HOST-SUFFIX,browserleaks.org,Outside
 HOST-SUFFIX,vpnunlimited.com,Outside
 HOST-SUFFIX,whoer.net,Outside
 HOST-SUFFIX,whrq.net,Outside
+
+# IPv6 test sites
+HOST,testipv6.com,DIRECT
+HOST,test-ipv6.com,DIRECT
+HOST,ipv4.lookup.test-ipv6.com,DIRECT
+HOST,ipv6.lookup.test-ipv6.com,DIRECT
+HOST-SUFFIX,test-ipv6.com,DIRECT
