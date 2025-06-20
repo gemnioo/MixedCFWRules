@@ -33,7 +33,7 @@ payload:
   # CDN acceleration ?
   - DOMAIN-SUFFIX,w.cdngslb.com
   - DOMAIN-SUFFIX,w.kunluncan.com
-  - DOMAIN-SUFFIX,qq.com.wsdvs.com
+  - DOMAIN-SUFFIX,com.wsdvs.com
   # Github Acce
   - DOMAIN,ghp.ci
   - DOMAIN,ghgo.xyz
