@@ -108,6 +108,7 @@ payload:
   - DOMAIN,ipv6.icanhazip.com
 
   # IPv6 test sites
+  - DOMAIN,testipv6.com
   - DOMAIN,test-ipv6.com
   - DOMAIN,ipv4.lookup.test-ipv6.com
   - DOMAIN,ipv6.lookup.test-ipv6.com
