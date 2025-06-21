@@ -2,6 +2,9 @@
 HOST-KEYWORD,mastodon,Outside
 HOST,s3.eu-central-2.wasabisys.com,Outside
 HOST-SUFFIX,msdmanuals.cn,Outside
+# > Spring for twitter
+HOST,goldenegg-437a247aad0c.herokuapp.com,Outside
+HOST-SUFFIX,.herokuapp.com,Outside
 
 # > Medical
 HOST-SUFFIX,msdmanuals.com,Outside
@@ -53,9 +56,21 @@ HOST-SUFFIX,aws.cloud2.influxdata.com,Outside
 HOST,www.linkeless.com,Outside
 HOST-SUFFIX,linkeless.com,Outside
 HOST-SUFFIX,rfchost.com,Outside
-
+HOST-SUFFIX,pqs.pw,Outside
+HOST-SUFFIX,datapacket.com,Outside
+HOST-SUFFIX,heptasky.com,Outside
+HOST-SUFFIX,lain.sh,Outside
+HOST,ip-api.4eva.org,Outside
+HOST,halo.do,Outside
+HOST-SUFFIX,halo.do,Outside
+HOST,www.amytele.net,Outside
+HOST,in.mesl.cloud,Outside
+HOST,img.asndns.com,Outside
+HOST,gfw.report,Outside
+HOST,bulianglin.com,Outside
  
 # > Some LLMs non restricted
+HOST-SUFFIX,financialmodelingprep.com,Outside
 HOST-SUFFIX,arxiv.org,Outside
 HOST,replicate.com,Outside
 HOST,replicatestatus.com,Outside
@@ -89,7 +104,6 @@ HOST,auth.docker.io,Outside
 HOST,hub.docker.com,Outside
 HOST,docker.com,Outside
 HOST,ghcr.io,Outside
-
 
 # > WildCard
 HOST,yeka.ai,Outside
@@ -350,6 +364,9 @@ HOST,voice.telephony.goog,Outside
 
 # > Chrome Browser
 HOST,www.google.com,Outside
+HOST,www.google.com.hk,Outside
+HOST,www.google.com.jp,Outside
+HOST,www.google.com.sg,Outside
 HOST,calendar.google.com,Outside
 HOST,accounts.google.com,Outside
 HOST,update.googleapis.com,Outside
@@ -358,6 +375,7 @@ HOST,translate.googleapis.com,Outside
 HOST,clientservices.googleapis.com,Outside
 HOST,optimizationguide-pa.googleapis.com,Outside
   # HOST,jnn-pa.googleapis.com
+HOST,tunnel.googlezip.net
 HOST-SUFFIX,clients3.google.com,Outside
 HOST-SUFFIX,clients6.google.com,Outside
   
@@ -366,6 +384,12 @@ HOST,lh3.googleusercontent.com,Outside
 HOST,clients2.googleusercontent.com,Outside
 HOST-SUFFIX,googleusercontent.com,Outside
   # HOST,yt3.googleusercontent.com,Outside
+# > Chrome data collection check!
+HOST,e2c52.gcp.gvt2.com,Outside
+HOST,beacons.gcp.gvt2.com,Outside
+HOST-SUFFIX,gcp.gvt2.com,Outside
+HOST-SUFFIX,gvt2.com,Outside
+
 # > Gmail
 HOST,mail.google.com,Outside
 HOST,inbox.google.com,Outside
@@ -385,6 +409,7 @@ HOST,people-pa.googleapis.com,Outside
 HOST,peoplestack-pa.googleapis.com,Outside
 HOST-SUFFIX,googleapis.com,Outside
 HOST,goo.gle,Outside
+HOST,g.co,Outside
 
 # > Investing
 HOST-SUFFIX,investing.com,Outside
@@ -469,6 +494,7 @@ HOST,testflight.apple.com,Outside
 ;HOST-KEYWORD,musical.ly,Outside
 ;HOST-KEYWORD,tiktok,Outside
 ;HOST-KEYWORD,tiktokv,Outside
+;HOST-KEYWORD,tiktokw,Outside
 ;HOST,p16-tiktokcdn-com.akamaized.net,Outside
 ;HOST-SUFFIX,byteoversea.com,Outside
 ;HOST-SUFFIX,ibytedtos.com,Outside
