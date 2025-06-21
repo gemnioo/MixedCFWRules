@@ -10,6 +10,27 @@ HOST,shidianguji.com,Mainland
 HOST,iptv.cc,Mainland
 HOST-SUFFIX,msdmanuals.cn,Mainland
 HOST-SUFFIX,1ms.run,Mainland
+HOST,ny.lala.gg,Mainland
+# meituan IP checker?
+HOST,stun.voipstunt.com,Mainland
+
+# OpenClash console test
+HOST,s1.music.126.net,Mainland
+HOST,api-ipv4.ip.sb,Mainland
+HOST,api.ipify.org,Mainland
+HOST,api.ttt.sh,Mainland
+HOST,pubstatic.b0.upaiyun.com,Mainland
+HOST,whois.pconline.com.cn,Mainland
+HOST,forge.speedtest.cn,Mainland
+
+# Chrome data collection
+# DOMAIN,e2c52.gcp.gvt2.com
+HOST,beacons.gcp.gvt2.com,Mainland
+# DOMAIN-SUFFIX,gcp.gvt2.com
+# CDN acceleration ?
+HOST-SUFFIX,w.cdngslb.com,Mainland
+HOST-SUFFIX,w.kunluncan.com,Mainland
+HOST-SUFFIX,com.wsdvs.com,Mainland
 
 # > Github Acce
 HOST,ghp.ci,Mainland
@@ -83,22 +104,35 @@ HOST,portal.volccdn.com,Mainland
 HOST-SUFFIX,volccdn.com,Mainland
 HOST-SUFFIX,volcanicengine.com,Mainland
 
+HOST-SUFFIX,remio.ai,Mainland
 HOST-SUFFIX,chatboxai.app,Mainland
+HOST,gitcode.com,Mainland
+HOST,file-cdn.gitcode.com,Mainland
+HOST,releases.cherry-ai.com,Mainland
 HOST-SUFFIX,cherry-ai.com,Mainland
 HOST,gf.gpt.ge,Mainland
-HOST,shop.openai.sb,Mainland
-HOST,shop.openai-sb.cn,Mainland
-HOST-SUFFIX,openai-sb.com,Mainland
 HOST-SUFFIX,aihubmix.com,Mainland
-HOST-SUFFIX,aigcbest.top,Mainland
-HOST,api.turboai.one,Mainland
-HOST,api.gptsapi.net,Mainland
-
-HOST,c-z0-api-01.hash070.com,Mainland
-HOST,cn2us02.opapi.win,Mainland
-HOST,www.aigptx.top,Mainland
+HOST,api.openai-sb.com,Mainland
 HOST,api.ifopen.ai,Mainland
 HOST,api2.aigcbest.top,Mainland
+HOST,cdn.apifox.com,Mainland
+HOST-SUFFIX,apifox.cn,Mainland
+HOST,wmimg.com,Mainland
+HOST-SUFFIX,aigcbest.top,Mainland
+HOST-SUFFIX,aigc369.com,Mainland
+HOST,api.openai-proxy.org,Mainland
+HOST-SUFFIX,closeai-asia.com,Mainland
+HOST,api.turboai.one,Mainland
+HOST,api.gptsapi.net,Mainland
+HOST,api.iois.me,Mainland
+HOST,api.pandalla.ai,Mainland
+HOST-SUFFIX,pandalla.ai,Mainland
+
+HOST-SUFFIX,hash070.com,Mainland
+HOST-SUFFIX,aigptx.top,Mainland
+HOST-SUFFIX,opapi.win,Mainland
+HOST-SUFFIX,dogenet.win,Mainland
+
 HOST,302.ai,Mainland
 HOST,api.302.ai,Mainland
 DOMAIN-SUFFIX,302.ai,Mainland
