@@ -4,7 +4,7 @@ payload:
   - DOMAIN,s3.eu-central-2.wasabisys.com
   # Spring for twitter
   - DOMAIN,goldenegg-437a247aad0c.herokuapp.com
-  - DOMAIN-SUFFIX,.herokuapp.com
+  - DOMAIN-SUFFIX,herokuapp.com
   # Medical
   - DOMAIN-SUFFIX,msdmanuals.com
   - DOMAIN,edge.sitecorecloud.io
