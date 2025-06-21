@@ -23,8 +23,6 @@ payload:
   - DOMAIN,pubstatic.b0.upaiyun.com
   - DOMAIN,whois.pconline.com.cn
   - DOMAIN,forge.speedtest.cn
-  - DOMAIN,qqwry.api.skk.moe
-  - DOMAIN,d.skk.moe
 
   # Chrome data collection
   # DOMAIN,e2c52.gcp.gvt2.com
