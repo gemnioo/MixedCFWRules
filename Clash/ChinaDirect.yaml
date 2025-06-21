@@ -110,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,volccdn.com
   - DOMAIN-SUFFIX,volcanicengine.com
   - DOMAIN-SUFFIX,immersivetranslate.cn
+  - DOMAIN-SUFFIX,wildcard.com.cn
 
   - DOMAIN-SUFFIX,remio.ai
   - DOMAIN-SUFFIX,chatboxai.app
