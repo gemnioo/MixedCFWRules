@@ -375,7 +375,7 @@ HOST,translate.googleapis.com,Outside
 HOST,clientservices.googleapis.com,Outside
 HOST,optimizationguide-pa.googleapis.com,Outside
   # HOST,jnn-pa.googleapis.com
-HOST,tunnel.googlezip.net
+HOST,tunnel.googlezip.net,Outside
 HOST-SUFFIX,clients3.google.com,Outside
 HOST-SUFFIX,clients6.google.com,Outside
   
