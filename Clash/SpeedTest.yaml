@@ -20,6 +20,8 @@ payload:
   # DOMAIN,d.skk.moe
   # DOMAIN,api.ttt.sh
   # DOMAIN,api.ipify.org
+  - DOMAIN,qqwry.api.skk.moe
+  - DOMAIN,d.skk.moe
   - DOMAIN,ftp.jaist.ac.jp
   - DOMAIN,api.ttt.sh.cdn.cloudflare.net
   - DOMAIN,cdn.jsdelivr.net
