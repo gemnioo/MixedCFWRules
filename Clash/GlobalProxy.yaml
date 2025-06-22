@@ -93,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,financialmodelingprep.com
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN,bbycroft.net
+  - DOMAIN,poloclub.github.io
   # DOMAIN,replicate.com
   # DOMAIN,replicatestatus.com
   # DOMAIN-SUFFIX,replicate.delivery
