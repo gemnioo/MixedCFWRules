@@ -16,10 +16,9 @@ payload:
   # DOMAIN,api-ipv4.ip.sb
   # DOMAIN,whois.pconline.com.cn
   # DOMAIN,forge.speedtest.cn
-  # DOMAIN,qqwry.api.skk.moe
-  # DOMAIN,d.skk.moe
   # DOMAIN,api.ttt.sh
-  # DOMAIN,api.ipify.org
+  - DOMAIN,api.ipify.org
+  - DOMAIN,api-ipv4.ip.sb
   - DOMAIN,qqwry.api.skk.moe
   - DOMAIN,d.skk.moe
   - DOMAIN,ftp.jaist.ac.jp
