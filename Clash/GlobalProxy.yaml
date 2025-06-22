@@ -92,6 +92,7 @@ payload:
   # DOMAIN,images.unsplash.com
   - DOMAIN-SUFFIX,financialmodelingprep.com
   - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN,bbycroft.net
   # DOMAIN,replicate.com
   # DOMAIN,replicatestatus.com
   # DOMAIN-SUFFIX,replicate.delivery
