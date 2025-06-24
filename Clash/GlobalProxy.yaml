@@ -14,6 +14,8 @@ payload:
   - DOMAIN-SUFFIX,mayoclinic.org
   - DOMAIN,aim-tag.hcn.health
 
+  - DOMAIN-SUFFIX,windy.com
+
   - DOMAIN,wh.gov
   - DOMAIN,www.whitehouse.gov
   - DOMAIN,fxtwitter.com
