@@ -26,6 +26,7 @@ payload:
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.com
 
   # Speedtest Hong Kong node
   - DOMAIN,lg-hkg.fdcservers.net
