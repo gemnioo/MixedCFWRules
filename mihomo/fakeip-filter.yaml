@@ -1,4 +1,5 @@
 payload:
+  - '*'
   - '*.lan'
   - '*.battlenet.com.cn'
   - '*.battlenet.com'
@@ -71,7 +72,6 @@ payload:
   ## Microsoft Xbox
   - 'xbox.*.microsoft.com'
   - '+.xboxlive.com'
-  # === Other ===
   ## QQ Quick Login
   - localhost.ptlogin2.qq.com
   ## Golang
@@ -81,7 +81,6 @@ payload:
   - 'stun.*.*.*'
   ## Bilibili CDN
   - '*.mcdn.bilivideo.cn'
-  # === Other ===
   - '*.bilibili.com'
   - '*.1huizhan.com'
   - '*.3.cn'
@@ -103,19 +102,26 @@ payload:
   - epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org 
-  # Others
+  # Google Play Store
   - services.googleapis.cn
   # Tailscale 
   - '*.tailscale.com'
   - '*.tailscale.io'
   - '*.ts.net'
+  - "+.xedge.cc"
+  - "*.parsec.app"
   # IPTV
-  - '+.cmdns.xyz'
-  - '*.cctv.cn'
-  - '+.itv.cmvideo.cn'
+  - "+.cmdns.xyz"
+  - "+.mobaibox.com"
+  - "+.cmvideo.cn"
+  - "+.w.kunluncan.com"
+  - liveali-tp4k.cctv.cn
+  - liveali-tpgq.cctv.cn
+  - "*.cctv.cn"
+  - "*.freetv.top"
   - tptvo.mobaibox.com
-  - '+.playauth.gitv.tv'
-  - '+.myip.ipip.net'
+  - "+.playauth.gitv.tv"
+  - "+.myip.ipip.net"
   - api.livednow.org
   - apd-vlive.apdcdn.tc.qq.com
   # Docker Pull
@@ -126,3 +132,10 @@ payload:
   - docker.m.daocloud.io
   - docker.nju.edu.cn
   - ghcr.io
+  # GitHub accelerate
+  - ghp.ci
+  - ghgo.xyz
+  - ghproxy.com
+  - gh-proxy.com
+  - ghp.p3terx.com
+  # === proxy provider domains and proxy node domains ===
