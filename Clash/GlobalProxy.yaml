@@ -278,8 +278,7 @@ payload:
   - DOMAIN,cdn.getkoala.com
   - DOMAIN,cdn.sanity.io
   - DOMAIN-SUFFIX,api.sanity.io
-  - DOMAIN,api.rudderstack.com
-  - DOMAIN-SUFFIX,rudderstack.com
+
   - DOMAIN,api.getkoala.com
   - DOMAIN,cdn.brandfetch.io
   # ts manual tracker?
