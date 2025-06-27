@@ -64,6 +64,7 @@ payload:
   - DOMAIN,immersive-translate.owenyoung.com
   - DOMAIN,config.immersivetranslate.com
   - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN,assets.immersivetranslate.cn
   # DOMAIN,analytics.immersivetranslate.com
   # DOMAIN,immersivetranslate.substack.com
   
