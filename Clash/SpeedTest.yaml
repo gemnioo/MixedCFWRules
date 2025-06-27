@@ -106,6 +106,7 @@ payload:
   
   # webRTC 
   - DOMAIN,stun.voip.blackberry.com
+  - DOMAIN,stun.voip.dyn.blackberry.net
   - DOMAIN,global.stun.twilio.com
   - DOMAIN,stun.cloudflare.com
   - DOMAIN,stun.l.google.com
