@@ -31,6 +31,8 @@ payload:
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
   - DOMAIN-SUFFIX,usercentrics.eu
+  - DOMAIN,api.rudderstack.com
+  - DOMAIN-SUFFIX,rudderstack.com
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
