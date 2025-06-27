@@ -85,19 +85,31 @@ payload:
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,dnsleak.com
   - DOMAIN-SUFFIX,expressvpn.com
+  - DOMAIN,d.nordvpn.com
+  - DOMAIN,web-api.nordvpn.com
   - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,nordcdn.com
   - DOMAIN-SUFFIX,surfshark.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,ipcheck.ing
   - DOMAIN-SUFFIX,edns.ip-api.com
   - DOMAIN-SUFFIX,ipv4.surfsharkdns.com
+  - DOMAIN-SUFFIX,ipv6.surfsharkdns.com
   - DOMAIN-SUFFIX,perfect-privacy.com
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,browserleaks.net
+  - DOMAIN-SUFFIX,xpressunblock.com
   - DOMAIN-SUFFIX,vpnunlimited.com
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-SUFFIX,whrq.net
-
+  
+  # webRTC 
+  - DOMAIN,stun.voip.blackberry.com
+  - DOMAIN,global.stun.twilio.com
+  - DOMAIN,stun.cloudflare.com
+  - DOMAIN,stun.l.google.com
+  
   # added
   - DOMAIN,api.nxtrace.org
   - DOMAIN,ping.nxtrace.org
