@@ -5,6 +5,7 @@ payload:
   # Spring for twitter
   - DOMAIN,goldenegg-437a247aad0c.herokuapp.com
   - DOMAIN-SUFFIX,herokuapp.com
+  - DOMAIN,getspring.app
   # Medical
   - DOMAIN-SUFFIX,msdmanuals.com
   - DOMAIN,edge.sitecorecloud.io
