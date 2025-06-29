@@ -103,7 +103,8 @@ payload:
   - DOMAIN-SUFFIX,vpnunlimited.com
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-SUFFIX,whrq.net
-  
+
+  - DOMAIN,myip.ipip.net
   # webRTC 
   - DOMAIN,stun.voip.blackberry.com
   - DOMAIN,stun.voip.dyn.blackberry.net
