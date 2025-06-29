@@ -4,6 +4,7 @@ payload:
   - "+.in-addr.arpa" 
   - "+.ip6.arpa"
   - "b._dns-sd._udp.lan"
+  - "lb._dns‑sd._udp.lan"
   - "*.battlenet.com.cn"
   - "*.battlenet.com"
   - "*.blzstatic.cn"
