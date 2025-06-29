@@ -8,14 +8,15 @@ payload:
    - DOMAIN-REGEX,^ipv[46]-test\..*$
    - DOMAIN-REGEX,^ipv4-test-ipv6\..*$
    - DOMAIN-REGEX,^ipv[46]-test\.netflash\..*$
-   - DOMAIN-REGEX,^v[46]\.ipv6\.br$
+   - DOMAIN-REGEX,^v[46]\.ipv[46]\.br$
    - DOMAIN-REGEX,^v[46]-only\.steffann\..*$
    - DOMAIN-REGEX,^ipv[46]\.mudgee\..*$
    - DOMAIN-REGEX,^ipv[46]\.cidercounty\.org\.uk$
    - DOMAIN-REGEX,^ipv[46]\.antradar\.com$
    - DOMAIN-REGEX,^ip[46]\.8n1\.org$
    - DOMAIN-REGEX,^ipv[46]\.tunnelbroker\.net$
-   - DOMAIN-REGEX,^ipv[46]\.ip6\.ro$
+   - DOMAIN-REGEX,^ipv[46]\.ipv[46]\.uz$
+   - DOMAIN-REGEX,^ipv[46]\.ip[46]\.ro$
    - DOMAIN-REGEX,^ipv[46]\.nsx\.de$
    - DOMAIN-REGEX,^ipv[46]\.joram\..*$
    - DOMAIN-REGEX,^ipv[46]\.sixte\.st$
