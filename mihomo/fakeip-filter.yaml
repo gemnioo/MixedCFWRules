@@ -80,6 +80,15 @@ payload:
   - localhost.ptlogin2.qq.com
   ## Golang
   - proxy.golang.org
+  ## xedge UDP
+  - "derp-chn-vip-cq01.xedge.cc"
+  - "derp-chn-vip-hz01.xedge.cc"
+  - "derp-chn-vip-sh01.xedge.cc"
+  - "derp-chn-vip-bj01.xedge.cc"
+  - "+.xedge.cc"
+  ## Parsec
+  - "stun.parsec.app"
+  - "stun6.parsec.app"
   ## STUN Server
   - "stun.*.*"
   - "stun.*.*.*"
@@ -108,12 +117,6 @@ payload:
   - ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org 
   # Google Play Store
   - services.googleapis.cn
-  # Tailscale 
-  - "*.tailscale.com"
-  - "*.tailscale.io"
-  - "*.ts.net"
-  - "+.xedge.cc"
-  - "*.parsec.app"
   # IPTV
   - "+.cmdns.xyz"
   - "+.mobaibox.com"
