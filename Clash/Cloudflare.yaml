@@ -35,4 +35,9 @@ payload:
   - IP-CIDR,1.0.0.3/32,no-resolve
   - IP-CIDR6,2606:4700:4700::1113/128,no-resolve
   - IP-CIDR6,2606:4700:4700::1003/128,no-resolve
- # Google DoH
+ # DoH DoT
+  - DOMAIN,cloudflare-dns.com
+  - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+  - DOMAIN,dns.google
+  - DOMAIN,dns.quad9.net
+  - DOMAIN,dns.nextdns.io
