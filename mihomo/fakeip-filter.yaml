@@ -89,6 +89,8 @@ payload:
   ## Parsec
   - "stun.parsec.app"
   - "stun6.parsec.app"
+  ## MeiTuan ??
+  - "stun.voipstunt.com"
   ## STUN Server
   - "stun.*.*"
   - "stun.*.*.*"
