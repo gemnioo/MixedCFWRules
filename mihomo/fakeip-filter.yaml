@@ -145,4 +145,8 @@ payload:
   - ghproxy.com
   - gh-proxy.com
   - ghp.p3terx.com
+  # DNS available in CN
+  - doh.pub
+  - dns.alidns.com
+  - doh.apad.pro
   # === proxy provider domains and proxy node domains ===
