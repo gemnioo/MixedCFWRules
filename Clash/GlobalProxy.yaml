@@ -23,6 +23,7 @@ payload:
   - DOMAIN,ocmacro.com
   - DOMAIN,trusting-glitter-4f0.notion.site
   - DOMAIN-SUFFIX,dolingou.com
+  - DOMAIN-SUFFIX,ichr.me
   - DOMAIN-SUFFIX,deeprouter.org
   - DOMAIN-SUFFIX,giter.club
   - DOMAIN-SUFFIX,deepl.com
