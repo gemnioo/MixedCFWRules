@@ -89,6 +89,10 @@ payload:
   ## Parsec
   - "stun.parsec.app"
   - "stun6.parsec.app"
+  ## Tailscale
+  - "*.ts.net"
+  - "*.tailscale.io"
+  - "*.tailscale.com"
   ## MeiTuan ??
   - "stun.voipstunt.com"
   ## STUN Server
