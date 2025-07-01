@@ -106,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,qumas.mail.qq.com
   - DOMAIN-SUFFIX,guanjia.qq.com
   - DOMAIN-SUFFIX,trace.qq.com
+  - DOMAIN-SUFFIX,httpdns.pro
   # Video
   - DOMAIN-SUFFIX,rlog.video.qq.com
   - DOMAIN,adslvfile.qq.com
@@ -234,6 +235,11 @@ payload:
   - DOMAIN-SUFFIX,adimg.163.com
   - DOMAIN-SUFFIX,analytics.126.net
   - DOMAIN-SUFFIX,ip.ws.126.net
+  - DOMAIN,httpdns.yunxindns.com
+  - DOMAIN,httpdns.n.netease.com
+  - DOMAIN,httpdns.music.163.com
+  - DOMAIN,music.httpdns.c.163.com
+  - DOMAIN,lofter.httpdns.c.163.com
 
   # BiliBili
   - DOMAIN-SUFFIX,httpdns.bilivideo.com
@@ -413,6 +419,11 @@ payload:
   - DOMAIN-SUFFIX,hao.360.cn
   - DOMAIN-SUFFIX,dev.360.cn
 
+  - DOMAIN,httpdns.alicdn.com
+  - DOMAIN,httpdns-api.aliyuncs.com
+  - DOMAIN,httpdns-sc.aliyuncs.com
+  - DOMAIN,httpdns.c.cdnhwc2.com
+  - DOMAIN,httpdns.calorietech.com
   # Umeng
   - DOMAIN-SUFFIX,errlog.umeng.com
   - DOMAIN-SUFFIX,aaid.umeng.com
