@@ -34,7 +34,6 @@ payload:
   - DOMAIN,api.rudderstack.com
   - DOMAIN-SUFFIX,rudderstack.com
   - DOMAIN,img.wuage.com
-  - DOMAIN,promote.caixin.com
   - DOMAIN-SUFFIX,lf3-data.volccdn.com
   
   # Content farm
