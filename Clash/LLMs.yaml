@@ -162,6 +162,8 @@ payload:
   - DOMAIN,cloud.llamaindex.ai
   - DOMAIN-SUFFIX,llamaindex.ai
   - DOMAIN-SUFFIX,trychroma.com
+
+  - DOMAIN-SUFFIX,langchain.com
   
   # Cluster
   - DOMAIN,api.groq.com
