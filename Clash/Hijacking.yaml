@@ -317,7 +317,7 @@ payload:
   - DOMAIN-SUFFIX,httpdns.volcengineapi.com
   - DOMAIN-SUFFIX,vod.volcengineapi.com
 
-  - DOMAIN-SUFFIX,bytetos.com
+  # DOMAIN-SUFFIX,bytetos.com
   - DOMAIN-SUFFIX,ibytedtos.com
 
   # Sina Weibo  
