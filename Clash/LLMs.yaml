@@ -257,6 +257,7 @@ payload:
   - DOMAIN,epoch.ai
   - DOMAIN,mem0.ai
   - DOMAIN-SUFFIX,mem0.ai
+  - DOMAIN-SUFFIX,tryshortcut.ai
   - DOMAIN-SUFFIX,interconnects.ai
   - DOMAIN-SUFFIX,reflection.ai
   - DOMAIN-SUFFIX,inceptionlabs.ai
