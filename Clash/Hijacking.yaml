@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,guanjia.qq.com
   - DOMAIN-SUFFIX,trace.qq.com
   - DOMAIN-SUFFIX,httpdns.pro
+  - DOMAIN-SUFFIX,httpdns.kg.qq.com
   # Video
   - DOMAIN-SUFFIX,rlog.video.qq.com
   - DOMAIN,adslvfile.qq.com
@@ -135,6 +136,7 @@ payload:
   - DOMAIN,api-unionid.meituan.com
   - DOMAIN-SUFFIX,wmlog.meituan.com
   - DOMAIN-SUFFIX,httpdns.meituan.com
+  - DOMAIN-SUFFIX,httpdnsvip.meituan.com
   - DOMAIN-SUFFIX,dreport.meituan.net
   - DOMAIN-SUFFIX,hreport.meituan.com
   - DOMAIN-SUFFIX,report.meituan.com
@@ -201,9 +203,11 @@ payload:
   - DOMAIN,rplog.baidu.com
   - DOMAIN,a.baidu.cn
   - DOMAIN,a.baidu.com
-  - DOMAIN-SUFFIX,httpsdns.baidu.com
   - DOMAIN-SUFFIX,httpdns.baidu.com
+  - DOMAIN-SUFFIX,httpsdns.baidu.com
   - DOMAIN-SUFFIX,httpdns.baidubce.com
+  - DOMAIN-SUFFIX,httpdns.bcelive.com
+  - DOMAIN-SUFFIX,httpdns.n.shifen.com
   - DOMAIN-SUFFIX,ad.baidu.com
   - DOMAIN-SUFFIX,hm.baidu.com
   - DOMAIN-SUFFIX,hmma.baidu.com
@@ -222,6 +226,10 @@ payload:
   - DOMAIN-SUFFIX,unionsug.baidu.com
   - DOMAIN-SUFFIX,ad.player.baidu.com
   - DOMAIN-SUFFIX,afd.baidu.com
+  # iqiyi
+  - DOMAIN-SUFFIX,dns.iqiyi.com
+  - DOMAIN-SUFFIX,doh.iqiyi.com
+  - DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
 
   # 163 NetEase
   - DOMAIN,sentry.music.163.com
@@ -236,12 +244,13 @@ payload:
   - DOMAIN-SUFFIX,adimg.163.com
   - DOMAIN-SUFFIX,analytics.126.net
   - DOMAIN-SUFFIX,ip.ws.126.net
+  
   - DOMAIN,httpdns.yunxindns.com
   - DOMAIN,httpdns.n.netease.com
   - DOMAIN,httpdns.music.163.com
   - DOMAIN,music.httpdns.c.163.com
   - DOMAIN,lofter.httpdns.c.163.com
-
+  - DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
   # BiliBili
   - DOMAIN-SUFFIX,httpdns.bilivideo.com
   - DOMAIN-SUFFIX,cm.bilibili.com
