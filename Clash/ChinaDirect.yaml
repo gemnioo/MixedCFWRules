@@ -138,6 +138,7 @@ payload:
   - DOMAIN-SUFFIX,aigc369.com
   - DOMAIN,api.openai-proxy.org
   - DOMAIN-SUFFIX,closeai-asia.com
+  - DOMAIN,anyrouter.top
   - DOMAIN,api.turboai.one
   - DOMAIN,api.gptsapi.net
   - DOMAIN,api.iois.me
