@@ -98,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,dns.weixin.qq.com
   - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
   - DOMAIN-SUFFIX,aedns.weixin.qq.com
+  - DOMAIN-SUFFIX,com.autodnsv1.com
   # Tencent 
   - DOMAIN-SUFFIX,imtmp.net
   - DOMAIN-SUFFIX,btrace.qq.com
