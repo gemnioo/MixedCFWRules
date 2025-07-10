@@ -1,7 +1,7 @@
 payload:
    # For mihomo core used only 
    # citation: https://github.com/MetaCubeX/mihomo/issues/1508
-   - DOMAIN-REGEX,^beacons[0-9]+\.gvt2\.com$
+   - DOMAIN-REGEX,^beacons[0-9]+\.gvt[1-9]\.com$
    - DOMAIN-REGEX,^*\.shouji\.sogou\.com$
    - DOMAIN-REGEX,^*\.[a-zA-Z0-9-]{0,63}skwai\.com$
    - DOMAIN-REGEX,^*\.a\.market\.xiaomi\.com$
