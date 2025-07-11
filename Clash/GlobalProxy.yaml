@@ -236,6 +236,7 @@ payload:
   
   # kagi search
   - DOMAIN,kagi.com
+  - DOMAIN,kite.kagi.com
   - DOMAIN,assets.kagi.com
   - DOMAIN,translate.kagi.com
   - DOMAIN,staticmedia.kagi.com
