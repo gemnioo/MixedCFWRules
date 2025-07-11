@@ -32,8 +32,6 @@ payload:
   - DOMAIN-SUFFIX,freetv.top
   - DOMAIN-SUFFIX,w.kunluncan.com
   - DOMAIN-SUFFIX,cloudycdn.services
-  - DOMAIN,live.fanmingming.com
-  - DOMAIN,live.fanmingming.cn
   - DOMAIN,api.livednow.org
   - DOMAIN,epg.aptv.app
   - DOMAIN,tv.iill.top
