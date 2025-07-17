@@ -555,6 +555,7 @@ payload:
   - DOMAIN,peoplestack-pa.googleapis.com
   - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,search.google
   - DOMAIN,dns.google
   - DOMAIN,goo.gle
   - DOMAIN,g.co
