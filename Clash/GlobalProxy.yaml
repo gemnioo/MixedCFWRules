@@ -79,7 +79,6 @@ payload:
   - DOMAIN-SUFFIX,heptasky.com
   - DOMAIN-SUFFIX,lain.sh
   - DOMAIN,ip-api.4eva.org
-  - DOMAIN,halo.do
   - DOMAIN-SUFFIX,halo.do
   - DOMAIN,www.amytele.net
   - DOMAIN,in.mesl.cloud
