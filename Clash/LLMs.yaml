@@ -44,7 +44,6 @@ payload:
   - DOMAIN,desktop.chat.openai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,operator.chatgpt.com
-  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN,files.oaiusercontent.com 
@@ -59,11 +58,13 @@ payload:
   - DOMAIN,production-openaicom-storage.azureedge.net
   # DOMAIN,nexus-websocket-a.intercom.io
   - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN,webrtc.chatgpt.com
   - DOMAIN,chatgpt.livekit.cloud
   # ChatGPT voice mode TCP 443 request 
   - DOMAIN-SUFFIX,turn.livekit.cloud
   # ChatGPT voice mode UDP 3478 request
   - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN,api.statsig.com
   - DOMAIN,rum.browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
