@@ -415,6 +415,7 @@ payload:
   - DOMAIN-SUFFIX,patreonusercontent.com
 
   - DOMAIN-SUFFIX,captcha-delivery.com
+  - DOMAIN,china.cmail20.com
   - DOMAIN,optimizely.wsj.com
   - DOMAIN,video-api.wsj.com
   - DOMAIN,follow-api.wsj.com
