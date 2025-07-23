@@ -15,7 +15,9 @@ payload:
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN,cdp.livedoor.com
   - DOMAIN,parts.blog.livedoor.jp
+  - DOMAIN,livedoor.blogimg.jp
   - DOMAIN,livedoor.sp.blogimg.jp
+  - DOMAIN,resize.blogsys.jp
   - DOMAIN,ippondemoninjin.livedoor.blog
   - DOMAIN,missav.ai
   - DOMAIN,fourhoi.com
