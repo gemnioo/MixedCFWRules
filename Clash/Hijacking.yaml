@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,rudderstack.com
   - DOMAIN,img.wuage.com
   # DOMAIN-SUFFIX,lf3-data.volccdn.com
+  - DOMAIN,pdn.adingo.jp
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
