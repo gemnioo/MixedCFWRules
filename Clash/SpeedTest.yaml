@@ -30,6 +30,7 @@ payload:
 
   # Speedtest Hong Kong node
   - DOMAIN,lg-hkg.fdcservers.net
+  - DOMAIN,lg-hnd.fdcservers.net
   - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN,cugspeed.chinaunicomglobal.com
   - DOMAIN,ookla-speedtest-central.hgconair.hgc.com.hk
