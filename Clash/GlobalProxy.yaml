@@ -1187,6 +1187,7 @@ payload:
   - DOMAIN,cdn.datatables.net
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN,connect.facebook.net
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-KEYWORD,instagram
