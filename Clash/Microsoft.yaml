@@ -23,7 +23,12 @@ payload:
   - DOMAIN,filters.adtidy.org
 
   # > Mirosoft Edge
-  - DOMAIN,target.microsoft.com  
+  - DOMAIN,c.s-microsoft.com
+  - DOMAIN,target.microsoft.com
+  - DOMAIN,microsoftedge.microsoft.com
+  - DOMAIN,wcpstatic.microsoft.com
+  - DOMAIN,ratingsedge.rnr.microsoft.com
+  - DOMAIN,browser.pipe.aria.microsoft.com
   # > Add Firefox Mozilla.org
   - DOMAIN,ocsp.pki.goog
   - DOMAIN,status.thawte.com
