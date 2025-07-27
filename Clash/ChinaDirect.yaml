@@ -61,6 +61,8 @@ payload:
   - DOMAIN,i.pki.goog
   - DOMAIN,o.pki.goog
   - DOMAIN,ocsp.pki.goog
+  # WIndows Update
+  - DOMAIN,adl.windows.com
   # Immersive Translate
   - DOMAIN,ai.immersivetranslate.com
   - DOMAIN,api.immersivetranslate.com
