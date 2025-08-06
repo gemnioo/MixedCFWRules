@@ -140,6 +140,7 @@ payload:
   - DOMAIN-SUFFIX,elevenlabs.io
   - DOMAIN,api.cartesia.ai
   - DOMAIN-SUFFIX,cartesia.ai
+  - DOMAIN-SUFFIX,hume.ai
 
   # Jina
   - DOMAIN,segment.jina.ai
