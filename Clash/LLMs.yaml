@@ -73,6 +73,8 @@ payload:
   # Sora
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,videos.openai.com
+  # Open models by OpenAI
+  - DOMAIN,gpt-oss.com
 
   # Stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
