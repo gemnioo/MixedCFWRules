@@ -775,6 +775,7 @@ payload:
   - DOMAIN-SUFFIX,meilishuo.com
   - DOMAIN-SUFFIX,meituan.com
   - DOMAIN-SUFFIX,meituan.net
+  - DOMAIN-SUFFIX,sz-mt-all.volcgtm.com
   - DOMAIN-SUFFIX,meizu.com
   - DOMAIN-SUFFIX,migucloud.com
   - DOMAIN-SUFFIX,miguvideo.com
