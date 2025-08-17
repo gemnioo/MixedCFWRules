@@ -208,6 +208,8 @@ payload:
   - DOMAIN,cdn-lfs-us-1.hf.co
   - DOMAIN,distill.pub
   - DOMAIN,cdn.plot.ly
+  - DOMAIN,olmocr.allenai.org
+  - DOMAIN-SUFFIX,allenai.org
   
   # Cursor
   - DOMAIN,api2.cursor.sh
