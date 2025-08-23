@@ -191,6 +191,7 @@ payload:
   - DOMAIN,inference.cerebras.ai
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,lambda-url.ap-south-1.on.aws
+  - DOMAIN,ai-gateway.vercel.sh
 
   # Arena
   - DOMAIN,web.lmarena.ai
