@@ -119,6 +119,9 @@ payload:
   - DOMAIN,bedrock-agent.us-west-2.amazonaws.com
   - DOMAIN,bedrock-agent-runtime.us-east-1.amazonaws.com
   - DOMAIN,bedrock-agent-runtime.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,insight.docs.aws.com
+  - DOMAIN-SUFFIX,us-east-1.api.aws
+  - DOMAIN-SUFFIX,us-west-2.api.aws
 
   # Perplexity
   - DOMAIN,api.perplexity.ai
