@@ -25,7 +25,7 @@ payload:
   - DOMAIN,z46dxqia.x18r.comundefined
   - DOMAIN-SUFFIX,play.oris18.com
 
-
+  # allinone
   - DOMAIN,tinyurl.com
   - DOMAIN,yang-1989.eu.org
   - DOMAIN,www.stream-link.org
@@ -37,6 +37,10 @@ payload:
   - DOMAIN,imgtool.v1.mk
   - DOMAIN-SUFFIX,v1.mk
   - DOMAIN,unpkg.com
+  # iptv Japan
+  - DOMAIN,mt01.utako.moe
+  - DOMAIN,ca01.utako.moe
+  - DOMAIN-SUFFIX,utako.moe
   # PotPlayer Daum 
   - DOMAIN,t1.daumcdn.net
   - DOMAIN,stat.tiara.kakaopay.com
