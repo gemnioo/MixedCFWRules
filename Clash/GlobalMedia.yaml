@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,v1.mk
   - DOMAIN,unpkg.com
   # iptv Japan
+  - DOMAIN,epg.freejptv.com
   - DOMAIN,mt01.utako.moe
   - DOMAIN,ca01.utako.moe
   - DOMAIN-SUFFIX,utako.moe
