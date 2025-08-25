@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN,aiplatform.googleapis.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
