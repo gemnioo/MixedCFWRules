@@ -5,6 +5,7 @@ payload:
   # DOMAIN-SUFFIX,heremaps.cn
   # DOMAIN-SUFFIX,ovi.com.cn
   - DOMAIN,eas.outlook.com
+  - DOMAIN,outlook.live.com
   - DOMAIN,m.hotmail.com
   - DOMAIN,login.microsoftonline.com  
   - DOMAIN,aadcdn.msftauth.net
