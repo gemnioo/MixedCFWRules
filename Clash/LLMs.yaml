@@ -281,3 +281,4 @@ payload:
   - DOMAIN-SUFFIX,runpulse.com
   - DOMAIN,diabrowser.engineering
   - DOMAIN,karpathy.bearblog.dev
+  - DOMAIN-SUFFIX,nousresearch.com
