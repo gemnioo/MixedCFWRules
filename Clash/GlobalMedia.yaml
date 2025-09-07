@@ -104,9 +104,12 @@ payload:
   - DOMAIN-SUFFIX,amagi.tv
   - DOMAIN,g.xite.com
   - DOMAIN,configuration.xite.com
-    # > Amazon Fire TV Stick 
+  # > Amazon Fire TV Stick 
   # IP-CIDR,3.124.0.0/14,no-resolve
   # IP-CIDR,3.64.0.0/12,no-resolve
+  # Sonos login authentication
+  - DOMAIN,ok11static.oktacdn.com
+  - DOMAIN-SUFFIX,oktacdn.com
 
   # (Live)
   # > Twitch
