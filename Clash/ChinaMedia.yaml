@@ -42,6 +42,8 @@ payload:
   - DOMAIN,gdcucc.v1.mk
   - DOMAIN,mgtv.ottiptv.cc
   - DOMAIN,mursor.ottiptv.cc
+  - DOMAIN,live.ottiptv.cc
+  - DOMAIN-SUFFIX,ottiptv.cc
   #RevenueCat backup solution within GFW
   - DOMAIN,api.rc-backup.com
   
