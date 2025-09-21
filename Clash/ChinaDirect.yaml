@@ -413,6 +413,7 @@ payload:
   - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,jdpay.com
   - DOMAIN-SUFFIX,paipai.com
+  - DOMAIN-SUFFIX,gslb.qianxun.com
 
   # Kingsoft
   - DOMAIN-SUFFIX,iciba.com
