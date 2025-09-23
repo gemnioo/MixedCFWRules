@@ -133,6 +133,7 @@ payload:
   
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN-SUFFIX,chatwise.app
+  - DOMAIN-SUFFIX,lorca.app
   - DOMAIN-SUFFIX,egoist.dev
   - DOMAIN,docs.botgem.com
   - DOMAIN-SUFFIX,botgem.com
