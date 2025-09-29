@@ -44,6 +44,7 @@ payload:
   - DOMAIN,cookbook.openai.com
   - DOMAIN,android.chat.openai.com
   - DOMAIN,desktop.chat.openai.com
+  - DOMAIN,evals.openai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,operator.chatgpt.com
   - DOMAIN,sora-cdn.oaistatic.com
