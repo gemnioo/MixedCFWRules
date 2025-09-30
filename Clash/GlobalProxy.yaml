@@ -82,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,halo.do
   - DOMAIN,www.amytele.net
   - DOMAIN,in.mesl.cloud
+  - DOMAIN-SUFFIX,mesl.cloud
   - DOMAIN,img.asndns.com
   - DOMAIN,gfw.report
   - DOMAIN,bulianglin.com
