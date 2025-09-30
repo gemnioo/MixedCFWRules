@@ -10,6 +10,7 @@ payload:
   - DOMAIN,image.acg.lol
   - DOMAIN,www.nodeseek.com
   - DOMAIN,brrub.us
+  - DOMAIN-SUFFIX,fs1.app
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,cdn.plyr.io
   - DOMAIN-SUFFIX,mushroomtrack.com
