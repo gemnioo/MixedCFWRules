@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN,transformer-circuits.pub
   - DOMAIN,www.neuronpedia.org
+  - DOMAIN,docs.claude.com
   # Claude iOS app Sift API
   - DOMAIN,api3.siftscience.com
   # Model Context Protocol (MCP)
