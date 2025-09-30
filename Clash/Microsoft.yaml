@@ -311,6 +311,7 @@ payload:
   - DOMAIN,forms.cloud.microsoft
   - DOMAIN,browser.events.data.microsoft.com
   - DOMAIN-SUFFIX,data.microsoft.com
+  - DOMAIN,excel.new
 
   # > OneDrive
   - DOMAIN-SUFFIX,1drv.com
