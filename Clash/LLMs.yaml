@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - DOMAIN,makersuite.google.com
   - DOMAIN-SUFFIX,generativeai.google
-  
+  - DOMAIN,gemini.browserbase.com
   - DOMAIN,stax.withgoogle.com
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN,content-developerprofiles-pa.googleapis.com
