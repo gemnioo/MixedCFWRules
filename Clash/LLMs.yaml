@@ -175,6 +175,7 @@ payload:
   - DOMAIN-SUFFIX,trychroma.com
 
   - DOMAIN-SUFFIX,langchain.com
+  - DOMAIN-SUFFIX,dspy.ai
   
   # Cluster
   - DOMAIN,api.groq.com
