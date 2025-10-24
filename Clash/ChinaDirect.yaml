@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,volccdn.com
   - DOMAIN-SUFFIX,volcanicengine.com
   - DOMAIN-SUFFIX,immersivetranslate.cn
+  - DOMAIN,wanqing.streamlakeapi.com
   - DOMAIN-SUFFIX,liblib.art
   - DOMAIN-SUFFIX,wildcard.com.cn
 
