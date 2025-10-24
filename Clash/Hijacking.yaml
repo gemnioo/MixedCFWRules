@@ -642,6 +642,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.search.amazon.com
   - DOMAIN-SUFFIX,prod.bugs.firebat.prime-video.amazon.dev
   - DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+  - DOMAIN,global.telemetry.insights.video.a2z.com
 
   # sentry tracker
   - DOMAIN,openaicom.imgix.net
