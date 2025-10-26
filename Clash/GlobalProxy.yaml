@@ -118,6 +118,7 @@ payload:
   - DOMAIN,blog.langchain.com
   - DOMAIN,til.simonwillison.net
   - DOMAIN-SUFFIX,browseract.com
+  - DOMAIN,mem.nowledge.co
 
   - DOMAIN,t3.chat
   - DOMAIN,openwebui.com
