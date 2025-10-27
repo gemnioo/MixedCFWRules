@@ -34,6 +34,7 @@ payload:
   - DOMAIN,stax.withgoogle.com
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN,content-developerprofiles-pa.googleapis.com
+  - DOMAIN,skills.google
 
   # OpenAI
   - DOMAIN,chat.com
