@@ -114,6 +114,8 @@ payload:
   - DOMAIN,chat.minimax.io
   - DOMAIN,platform.minimax.io
   - DOMAIN-SUFFIX,minimax.io
+  - DOMAIN,agent.minimax.com
+  - DOMAIN-SUFFIX,minimax.com
   - DOMAIN,cdn.hailuo.ai
   - DOMAIN,data.hailuo.ai
   - DOMAIN,hailuoai.video
