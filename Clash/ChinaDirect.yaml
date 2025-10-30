@@ -96,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,wan.video
   - DOMAIN,www.kimi.com
+  - DOMAIN-SUFFIX,ok.kimi.link
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN,chat.z.ai
   - DOMAIN,zhida.zhihu.com
