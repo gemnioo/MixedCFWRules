@@ -86,6 +86,7 @@ payload:
   - DOMAIN,img.asndns.com
   - DOMAIN,gfw.report
   - DOMAIN,bulianglin.com
+  - DOMAIN,help.mikrotik.com
 
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
