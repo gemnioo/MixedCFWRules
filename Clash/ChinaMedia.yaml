@@ -19,6 +19,7 @@ payload:
   - DOMAIN,widget.tianqiapi.com
   - DOMAIN,api.codetabs.com
   - DOMAIN,seedhub.cc
+  - DOMAIN,www.deepflood.com
 
   # IPTV
   - DOMAIN-SUFFIX,cmdns.xyz
