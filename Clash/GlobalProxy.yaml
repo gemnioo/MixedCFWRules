@@ -146,6 +146,7 @@ payload:
   - DOMAIN,mcp.composio.dev
   - DOMAIN-SUFFIX,composio.dev
   - DOMAIN,grokipedia.com
+  - DOMAIN-SUFFIX,moonshot.ai
   
   # You.com login
   # DOMAIN,www.clarity.ms
