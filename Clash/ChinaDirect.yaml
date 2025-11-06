@@ -97,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,wan.video
   - DOMAIN,www.kimi.com
   - DOMAIN-SUFFIX,ok.kimi.link
+  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN,chat.z.ai
   - DOMAIN,zhida.zhihu.com
