@@ -154,6 +154,7 @@ payload:
   - DOMAIN,api.turboai.one
   - DOMAIN,api.gptsapi.net
   - DOMAIN,api.iois.me
+  - DOMAIN-SUFFIX,packyapi.com
   - DOMAIN,api.pandalla.ai
   - DOMAIN-SUFFIX,pandalla.ai
 
