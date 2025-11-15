@@ -152,6 +152,7 @@ payload:
   - DOMAIN,mcp.composio.dev
   - DOMAIN-SUFFIX,composio.dev
   - DOMAIN,grokipedia.com
+  - DOMAIN-SUFFIX,databaseschool.com
   - DOMAIN-SUFFIX,moonshot.ai
   
   # You.com login
