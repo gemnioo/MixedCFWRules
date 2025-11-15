@@ -129,6 +129,11 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN,litellm.ai
   - DOMAIN,docs.litellm.ai
+  - DOMAIN,hnd1.aihub.zeabur.ai
+  - DOMAIN,sfo1.aihub.zeabur.ai
+  - DOMAIN-SUFFIX,zeabur.ai
+  - DOMAIN,api.zeabur.com
+  - DOMAIN-SUFFIX,zeabur.com
   - DOMAIN,api.ohmygpt.com
   - DOMAIN,apic.ohmygpt.com
   - DOMAIN,pi.dogenet.work
