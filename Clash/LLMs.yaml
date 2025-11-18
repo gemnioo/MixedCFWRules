@@ -35,11 +35,11 @@ payload:
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN,content-developerprofiles-pa.googleapis.com
   - DOMAIN-SUFFIX,skills.google
+  - DOMAIN,antigravity.google
 
   # OpenAI
   - DOMAIN,chat.com
   - DOMAIN,openai.fm
-  - DOMAIN,www.openai.fm
   - DOMAIN,academy.openai.com
   - DOMAIN,ios.chat.openai.com
   - DOMAIN,cookbook.openai.com
