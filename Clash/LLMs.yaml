@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,skills.google
   - DOMAIN,antigravity.google
   - DOMAIN,antigravity-unleash.goog
+  - DOMAIN,codewiki.google
 
   # OpenAI
   - DOMAIN,chat.com
