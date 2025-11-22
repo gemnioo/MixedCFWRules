@@ -227,6 +227,7 @@ payload:
   - DOMAIN,distill.pub
   - DOMAIN,cdn.plot.ly
   - DOMAIN,olmocr.allenai.org
+  - DOMAIN,playground.allenai.org
   - DOMAIN-SUFFIX,allenai.org
   
   # Cursor
