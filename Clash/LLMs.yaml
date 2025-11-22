@@ -275,6 +275,7 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,cf2.poecdn.net
   - DOMAIN,ai.meta.com
+  - DOMAIN,aidemos.meta.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN,ai.gitee.com
   - DOMAIN-SUFFIX,worldlabs.ai
