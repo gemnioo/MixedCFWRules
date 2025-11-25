@@ -154,6 +154,10 @@ payload:
   - DOMAIN,grokipedia.com
   - DOMAIN-SUFFIX,databaseschool.com
   - DOMAIN-SUFFIX,moonshot.ai
+  - DOMAIN,chat.minimax.io
+  - DOMAIN,api.minimax.io
+  - DOMAIN,platform.minimax.io
+  - DOMAIN-SUFFIX,minimax.io
   
   # You.com login
   # DOMAIN,www.clarity.ms
