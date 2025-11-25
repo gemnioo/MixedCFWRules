@@ -112,12 +112,14 @@ payload:
   - DOMAIN-SUFFIX,dbankcdn.com
   - DOMAIN-SUFFIX,myhuaweicloud.cn
   - DOMAIN,metaso.cn
-  - DOMAIN,chat.minimax.io
-  - DOMAIN,platform.minimax.io
-  - DOMAIN-SUFFIX,minimax.io
+  # DOMAIN,chat.minimax.io
+  # DOMAIN,api.minimax.io
+  # DOMAIN,platform.minimax.io
+  # DOMAIN-SUFFIX,minimax.io
   - DOMAIN,agent.minimax.com
   - DOMAIN-SUFFIX,minimax.com
   - DOMAIN,www.minimaxi.com
+  - DOMAIN,api.minimaxi.com
   - DOMAIN,filecdn.minimax.chat
   - DOMAIN,cdn.hailuo.ai
   - DOMAIN,data.hailuo.ai
