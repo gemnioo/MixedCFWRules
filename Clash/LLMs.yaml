@@ -264,6 +264,7 @@ payload:
   - DOMAIN-SUFFIX,replicate.delivery
   
   # Others
+  - DOMAIN,agi.safe.ai
   - DOMAIN,api.x.ai
   - DOMAIN,docs.x.ai
   - DOMAIN,accounts.x.ai
