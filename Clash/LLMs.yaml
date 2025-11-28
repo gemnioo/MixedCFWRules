@@ -167,6 +167,7 @@ payload:
   # Search
   - DOMAIN,api.exa.ai
   - DOMAIN-SUFFIX,exa.ai
+  - DOMAIN,api.instatus.com
   - DOMAIN,api.tavily.com
   - DOMAIN,docs.tavily.com
   - DOMAIN-SUFFIX,tavily.com
