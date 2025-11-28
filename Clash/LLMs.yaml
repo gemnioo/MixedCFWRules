@@ -39,6 +39,7 @@ payload:
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,codewiki.google
   - DOMAIN,gemini.google
+  - DOMAIN,app.new
 
   # OpenAI
   - DOMAIN,chat.com
