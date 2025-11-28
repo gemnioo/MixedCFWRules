@@ -159,6 +159,8 @@ payload:
   - DOMAIN,api.gptsapi.net
   - DOMAIN,api.iois.me
   - DOMAIN-SUFFIX,packyapi.com
+  - DOMAIN,draw.undyapi.com
+  - DOMAIN-SUFFIX,undyapi.com
   - DOMAIN,api.pandalla.ai
   - DOMAIN-SUFFIX,pandalla.ai
 
