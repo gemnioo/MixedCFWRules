@@ -97,6 +97,7 @@ payload:
   # DOMAIN,images.unsplash.com
   - DOMAIN-SUFFIX,financialmodelingprep.com
   - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,openreview.online
   - DOMAIN,bbycroft.net
   - DOMAIN,poloclub.github.io
   # DOMAIN,replicate.com
