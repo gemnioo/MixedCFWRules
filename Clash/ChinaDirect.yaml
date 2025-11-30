@@ -160,8 +160,9 @@ payload:
   - DOMAIN,api.iois.me
   - DOMAIN-SUFFIX,packyapi.com
   - DOMAIN,draw.undyapi.com
-  - DOMAIN,vip.undyingapi.com
   - DOMAIN-SUFFIX,undyapi.com
+  - DOMAIN,vip.undyingapi.com
+  - DOMAIN-SUFFIX,undyingapi.com
   - DOMAIN,api.pandalla.ai
   - DOMAIN-SUFFIX,pandalla.ai
 
