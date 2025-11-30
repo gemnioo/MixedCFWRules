@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,schemastore.org
   - DOMAIN,releases.obsidian.md
   - DOMAIN-SUFFIX,obsidian.md
+  - DOMAIN-SUFFIX,cocoon.org
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
