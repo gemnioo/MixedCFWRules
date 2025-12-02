@@ -227,11 +227,20 @@ payload:
   - DOMAIN-SUFFIX,token.awswaf.com
   - DOMAIN-SUFFIX,edge.sdk.awswaf.com
   - DOMAIN,cdn-lfs-us-1.hf.co
+  
   - DOMAIN,distill.pub
   - DOMAIN,cdn.plot.ly
   - DOMAIN,olmocr.allenai.org
   - DOMAIN,playground.allenai.org
   - DOMAIN-SUFFIX,allenai.org
+  - DOMAIN-SUFFIX,nousresearch.com
+  - DOMAIN-SUFFIX,deeplearning.ai
+  - DOMAIN-SUFFIX,unsloth.ai
+  - DOMAIN,chat.arcee.ai
+  - DOMAIN-SUFFIX,arcee.ai
+  - DOMAIN-SUFFIX,reflection.ai
+  - DOMAIN-SUFFIX,inceptionlabs.ai
+  - DOMAIN-SUFFIX,primeintellect.ai
   
   # Cursor
   - DOMAIN,api2.cursor.sh
@@ -290,14 +299,8 @@ payload:
   - DOMAIN-SUFFIX,mem0.ai
   - DOMAIN-SUFFIX,tryshortcut.ai
   - DOMAIN-SUFFIX,interconnects.ai
-  - DOMAIN-SUFFIX,reflection.ai
-  - DOMAIN-SUFFIX,inceptionlabs.ai
-  - DOMAIN-SUFFIX,primeintellect.ai
-  - DOMAIN-SUFFIX,deeplearning.ai
-  - DOMAIN-SUFFIX,unsloth.ai
   - DOMAIN-SUFFIX,beeai.dev
   - DOMAIN-SUFFIX,granola.ai
   - DOMAIN-SUFFIX,runpulse.com
   - DOMAIN,diabrowser.engineering
   - DOMAIN,karpathy.bearblog.dev
-  - DOMAIN-SUFFIX,nousresearch.com
