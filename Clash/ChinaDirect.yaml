@@ -137,6 +137,8 @@ payload:
   - DOMAIN-SUFFIX,wildcard.com.cn
   
   - DOMAIN,hnd1.aihub.zeabur.ai
+  - DOMAIN,sfo1.aihub.zeabur.ai
+  - DOMAIN-SUFFIX,zeabur.ai
   - DOMAIN,docs.zenmux.ai
   - DOMAIN-SUFFIX,zenmux.ai
 
