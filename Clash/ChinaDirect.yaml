@@ -135,6 +135,8 @@ payload:
   - DOMAIN,wanqing.streamlakeapi.com
   - DOMAIN-SUFFIX,liblib.art
   - DOMAIN-SUFFIX,wildcard.com.cn
+  
+  - DOMAIN,hnd1.aihub.zeabur.ai
   - DOMAIN,docs.zenmux.ai
   - DOMAIN-SUFFIX,zenmux.ai
 
