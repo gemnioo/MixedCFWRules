@@ -141,6 +141,8 @@ payload:
   - DOMAIN,pi.dogenet.work
   - DOMAIN-SUFFIX,ohmygpt.com
   - DOMAIN,getsapi.net
+  - DOMAIN,api.grsai.com
+  - DOMAIN-SUFFIX,grsai.com
   
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN-SUFFIX,chatwise.app
