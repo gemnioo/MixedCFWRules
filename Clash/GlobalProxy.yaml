@@ -88,6 +88,8 @@ payload:
   - DOMAIN,gfw.report
   - DOMAIN,bulianglin.com
   - DOMAIN,help.mikrotik.com
+  - DOMAIN-SUFFIX,supabase.com
+  - DOMAIN-SUFFIX,supabase.co
 
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
