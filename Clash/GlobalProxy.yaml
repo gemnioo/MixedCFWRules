@@ -127,6 +127,8 @@ payload:
   - DOMAIN,mem.nowledge.co
   - DOMAIN-SUFFIX,laper.ai
   - DOMAIN,fastly.picsum.photo
+  - DOMAIN-SUFFIX,factory.ai
+  - DOMAIN,ipapi.co
 
   - DOMAIN,t3.chat
   - DOMAIN,openwebui.com
