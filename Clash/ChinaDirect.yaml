@@ -99,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,ok.kimi.link
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN,chat.z.ai
+  - DOMAIN-SUFFIX,z.ai
   - DOMAIN,zhida.zhihu.com
   - DOMAIN,yuanbao.tencent.com
   - DOMAIN,sso.openxlab.org.cn
