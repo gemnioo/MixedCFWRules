@@ -174,7 +174,8 @@ payload:
   - DOMAIN,api.pandalla.ai
   - DOMAIN-SUFFIX,pandalla.ai
 
-  - DOMAIN-SUFFIX,hash070.com
+  - DOMAIN,cn2us02.opapi.win
+  - DOMAIN,c-z0-api-01.hash070.com
   - DOMAIN-SUFFIX,aigptx.top
   - DOMAIN-SUFFIX,opapi.win
   - DOMAIN-SUFFIX,dogenet.win
