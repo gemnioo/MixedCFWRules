@@ -140,6 +140,7 @@ payload:
   - DOMAIN-SUFFIX,zeabur.com
   - DOMAIN,api.ohmygpt.com
   - DOMAIN,apic.ohmygpt.com
+  - DOMAIN,apic1.ohmycdn.com
   - DOMAIN,pi.dogenet.work
   - DOMAIN-SUFFIX,ohmygpt.com
   - DOMAIN,getsapi.net
