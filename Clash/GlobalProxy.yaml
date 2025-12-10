@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN,stash.wiki
   - DOMAIN,stash.ws
+  - DOMAIN,nikkinikki.pages.dev
   - DOMAIN,nyanpass.pages.dev
   - DOMAIN,faka.nyafw.com
   - DOMAIN-SUFFIX,pages.dev
