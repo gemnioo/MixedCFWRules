@@ -86,6 +86,8 @@ payload:
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN,api.bochaai.com
   - DOMAIN-SUFFIX,bochaai.com
+  - DOMAIN,ofa.obriccloud.com
+  - DOMAIN-SUFFIX,doubao.com
   - DOMAIN,tab.volces.com
   - DOMAIN,apmplus.volces.com
   - DOMAIN,castatic.fengkongcloud.cn
