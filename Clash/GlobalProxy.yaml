@@ -222,6 +222,7 @@ payload:
   - DOMAIN-SUFFIX,electronhub.top
   - DOMAIN-SUFFIX,bewildcard.com
   - DOMAIN,api2.gptsapi.net
+  - DOMAIN,bewild.ai
 
   - DOMAIN,api.ray.so
   - DOMAIN,favicon.ray.so
