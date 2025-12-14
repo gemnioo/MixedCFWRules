@@ -333,6 +333,8 @@ payload:
   - DOMAIN,docs.kapa.ai
   - DOMAIN-SUFFIX,kapa.ai
 
+  - DOMAIN-SUFFIX,usepylon.com
+
   # Discourse forums
   - DOMAIN,global.discourse-cdn.com
   - DOMAIN,avatars.discourse-cdn.com
