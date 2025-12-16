@@ -116,6 +116,8 @@ payload:
   - DOMAIN-SUFFIX,dbankcdn.com
   - DOMAIN-SUFFIX,myhuaweicloud.cn
   - DOMAIN,metaso.cn
+  - DOMAIN,aistudio.xiaomimimo.com
+  - DOMAIN-SUFFIX,xiaomimimo.com
   # DOMAIN,chat.minimax.io
   # DOMAIN,api.minimax.io
   # DOMAIN,platform.minimax.io
