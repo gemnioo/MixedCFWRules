@@ -39,6 +39,8 @@ payload:
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,codewiki.google
   - DOMAIN,gemini.google
+  - DOMAIN,opal.google
+  - DOMAIN-SUFFIX,google
   - DOMAIN,app.new
 
   # OpenAI
