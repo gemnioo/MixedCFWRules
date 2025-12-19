@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,claude.com
   # Claude iOS app Sift API
   - DOMAIN,api3.siftscience.com
+  - DOMAIN,agentskills.io
   # Model Context Protocol (MCP)
   - DOMAIN,modelcontextprotocol.io
   - DOMAIN,smithery.ai
