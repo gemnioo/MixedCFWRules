@@ -314,6 +314,12 @@ payload:
   - DOMAIN,cdn.sanity.io
   - DOMAIN-SUFFIX,api.sanity.io
 
+  # Crisp support
+  - DOMAIN,api.crisp.chat
+  - DOMAIN,docs.crisp.chat
+  - DOMAIN,help.crisp.chat
+  - DOMAIN-SUFFIX,crisp.chat
+
   - DOMAIN,api.getkoala.com
   - DOMAIN,cdn.brandfetch.io
   # ts manual tracker?
