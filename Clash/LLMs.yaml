@@ -306,6 +306,7 @@ payload:
   - DOMAIN-SUFFIX,interconnects.ai
   - DOMAIN-SUFFIX,beeai.dev
   - DOMAIN-SUFFIX,granola.ai
+  - DOMAIN-SUFFIX,contextarena.ai
   - DOMAIN-SUFFIX,runpulse.com
   - DOMAIN,diabrowser.engineering
   - DOMAIN,karpathy.bearblog.dev
