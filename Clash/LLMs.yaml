@@ -299,6 +299,7 @@ payload:
   - DOMAIN,ai.gitee.com
   - DOMAIN-SUFFIX,worldlabs.ai
   - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN,epoch.ai
   - DOMAIN,mem0.ai
   - DOMAIN-SUFFIX,mem0.ai
