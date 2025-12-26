@@ -194,6 +194,7 @@ payload:
   - DOMAIN-SUFFIX,dspy.ai
   
   # Cluster
+  - DOMAIN-SUFFIX,vllm.ai
   - DOMAIN,api.groq.com
   - DOMAIN,api.fireworks.ai
   - DOMAIN-SUFFIX,fireworks.ai
@@ -223,6 +224,7 @@ payload:
   - DOMAIN-SUFFIX,lmarena.ai
   - DOMAIN,artificialanalysis.ai
   - DOMAIN-SUFFIX,thinkingmachines.ai
+  - DOMAIN-SUFFIX,epoch.ai
   
   # Hugging Face
   - DOMAIN,cdn-avatars.huggingface.co
@@ -300,8 +302,6 @@ payload:
   - DOMAIN-SUFFIX,worldlabs.ai
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,opencode.ai
-  - DOMAIN,epoch.ai
-  - DOMAIN,mem0.ai
   - DOMAIN-SUFFIX,mem0.ai
   - DOMAIN-SUFFIX,tryshortcut.ai
   - DOMAIN-SUFFIX,interconnects.ai
