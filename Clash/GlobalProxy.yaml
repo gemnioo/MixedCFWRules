@@ -169,6 +169,7 @@ payload:
   - DOMAIN,api.minimax.io
   - DOMAIN,platform.minimax.io
   - DOMAIN-SUFFIX,minimax.io
+  - DOMAIN-SUFFIX,zcode-ai.com
   
   # You.com login
   # DOMAIN,www.clarity.ms
