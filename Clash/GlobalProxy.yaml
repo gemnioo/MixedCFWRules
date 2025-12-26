@@ -151,6 +151,7 @@ payload:
   - DOMAIN,api.grsai.com
   - DOMAIN-SUFFIX,grsai.com
   
+  - DOMAIN-SUFFIX,alma.now
   - DOMAIN-SUFFIX,bolt.new
   - DOMAIN-SUFFIX,chatwise.app
   - DOMAIN-SUFFIX,lorca.app
