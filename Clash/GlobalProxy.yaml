@@ -446,15 +446,26 @@ payload:
   - DOMAIN,trib.al
   - DOMAIN,bloom.bg
   - DOMAIN,nyti.ms
+  - DOMAIN,tru.am
   - DOMAIN,buff.ly
   - DOMAIN,reut.rs
   - DOMAIN,www.reuters.com
   - DOMAIN,reuters-reuters-prod.web.arc-cdn.net
+  - DOMAIN-SUFFIX,reuters.tv
+  - DOMAIN-SUFFIX,france24.com
   - DOMAIN-SUFFIX,web.arc-cdn.net
   - DOMAIN-SUFFIX,insider.com
   - DOMAIN,restofworld.org
+  - DOMAIN,assets.connatix.com
+  - DOMAIN,cds.connatix.com
+  - DOMAIN,pl.connatix.com
+  - DOMAIN-SUFFIX,connatix.com
+  - DOMAIN,pl.elements.video
+  - DOMAIN,img.elements.video
+  - DOMAIN-SUFFIX,elements.video
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
+  - DOMAIN,assets.thecontentserver.com
 
   - DOMAIN-SUFFIX,captcha-delivery.com
   - DOMAIN,china.cmail20.com
@@ -599,6 +610,7 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN,search.google
   - DOMAIN,dns.google
+  - DOMAIN,pki.goog
   - DOMAIN,goo.gle
   - DOMAIN,g.co
   # > Tesla
