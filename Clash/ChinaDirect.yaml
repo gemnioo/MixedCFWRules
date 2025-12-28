@@ -443,6 +443,7 @@ payload:
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,jdcloud.com
+  - DOMAIN-SUFFIX,jdcloud-oss.com
   - DOMAIN-SUFFIX,jdpay.com
   - DOMAIN-SUFFIX,paipai.com
   - DOMAIN-SUFFIX,gslb.qianxun.com
