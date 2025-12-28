@@ -80,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,datapacket.com
   - DOMAIN-SUFFIX,heptasky.com
   - DOMAIN-SUFFIX,lain.sh
+  - DOMAIN-SUFFIX,digvps.com
   - DOMAIN,ip-api.4eva.org
   - DOMAIN-SUFFIX,halo.do
   - DOMAIN,www.amytele.net
