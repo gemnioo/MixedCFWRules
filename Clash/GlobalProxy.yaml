@@ -367,6 +367,7 @@ payload:
   - DOMAIN,www.kivinsae.com
   - DOMAIN,e1.o.lencr.org
   - DOMAIN,thewirecutter.com
+  - DOMAIN-SUFFIX,lesswrong.com
   - DOMAIN,byvoid.com
   - DOMAIN,daringfireball.net
   - DOMAIN,blog.ryouissei.com
