@@ -196,6 +196,7 @@ payload:
   - DOMAIN,statistic.evanora.top
   - DOMAIN,oneai.evanora.top
   - DOMAIN-SUFFIX,evanora.top
+  - DOMAIN-SUFFIX,yingdao.com
 
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
