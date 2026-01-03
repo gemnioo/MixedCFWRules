@@ -131,6 +131,7 @@ payload:
   - DOMAIN,fastly.picsum.photo
   - DOMAIN-SUFFIX,factory.ai
   - DOMAIN,ipapi.co
+  - DOMAIN-SUFFIX,intent-systems.com
 
   - DOMAIN,t3.chat
   - DOMAIN,openwebui.com
