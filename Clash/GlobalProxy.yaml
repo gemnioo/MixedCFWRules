@@ -50,6 +50,8 @@ payload:
   - DOMAIN,releases.obsidian.md
   - DOMAIN-SUFFIX,obsidian.md
   - DOMAIN-SUFFIX,cocoon.org
+  - DOMAIN-SUFFIX,zenn.dev
+  - DOMAIN-SUFFIX,zenn.studio
 
   # Maunal 
   - DOMAIN,sing-box.sagernet.org
