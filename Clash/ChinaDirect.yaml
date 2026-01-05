@@ -197,6 +197,11 @@ payload:
   - DOMAIN,oneai.evanora.top
   - DOMAIN-SUFFIX,evanora.top
   - DOMAIN-SUFFIX,yingdao.com
+  - DOMAIN,code.x-aio.com
+  - DOMAIN,docs.x-aio.com
+  - DOMAIN,api.x-aio.com
+  - DOMAIN-SUFFIX,x-aio.com
+  
 
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
