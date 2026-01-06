@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,skills.google
   - DOMAIN,antigravity.google
   - DOMAIN,antigravity-unleash.goog
+  - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,codewiki.google
   - DOMAIN,gemini.google
   - DOMAIN,opal.google
