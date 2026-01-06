@@ -107,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,openreview.online
   - DOMAIN,bbycroft.net
   - DOMAIN,poloclub.github.io
+  - DOMAIN-SUFFIX,skillsbench.ai
   # DOMAIN,replicate.com
   # DOMAIN,replicatestatus.com
   # DOMAIN-SUFFIX,replicate.delivery
