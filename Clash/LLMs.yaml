@@ -35,14 +35,18 @@ payload:
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN,content-developerprofiles-pa.googleapis.com
   - DOMAIN-SUFFIX,skills.google
-  - DOMAIN,antigravity.google
-  - DOMAIN,antigravity-unleash.goog
-  - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,codewiki.google
   - DOMAIN,gemini.google
   - DOMAIN,opal.google
   - DOMAIN-SUFFIX,google
   - DOMAIN,app.new
+  # Anti-gravity
+  - DOMAIN,antigravity.google
+  - DOMAIN,antigravity-unleash.goog
+  - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+  - DOMAIN-SUFFIX,sandbox.googleapis.com
+  - DOMAIN,type.googleapis.com
 
   # OpenAI
   - DOMAIN,chat.com
