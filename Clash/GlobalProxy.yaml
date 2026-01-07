@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,manus.space
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,flowdown.ai
+  - DOMAIN-SUFFIX,miromind.ai
   - DOMAIN,dorian.qaq.wiki
   - DOMAIN,apps.qaq.wiki
   - DOMAIN,highlightai.com
