@@ -103,6 +103,9 @@ payload:
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN,chat.z.ai
   - DOMAIN-SUFFIX,z.ai
+  - DOMAIN,open.bigmodel.cn
+  - DOMAIN,docs.bigmodel.cn
+  - DOMAIN-SUFFIX,bigmodel.cn
   - DOMAIN,zhida.zhihu.com
   - DOMAIN,yuanbao.tencent.com
   - DOMAIN,sso.openxlab.org.cn
