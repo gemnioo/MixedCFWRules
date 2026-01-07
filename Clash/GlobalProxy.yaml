@@ -406,6 +406,7 @@ payload:
   - DOMAIN-SUFFIX,runrepeat.com
   - DOMAIN,simonwillison.net
   - DOMAIN,static.simonwillison.net
+  - DOMAIN,blog.pragmaticengineer.com
   - DOMAIN,every.to
   # d24ovhgu8s7341.cloudfront.net
   - DOMAIN,quaily.com
