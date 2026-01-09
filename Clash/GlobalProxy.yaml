@@ -345,11 +345,14 @@ payload:
   - DOMAIN,us.i.posthog.com
   - DOMAIN,api.inkeep.com
   - DOMAIN,api.io.inkeep.com
+  - DOMAIN-SUFFIX,usepylon.com
   - DOMAIN,widget.kapa.ai
   - DOMAIN,docs.kapa.ai
   - DOMAIN-SUFFIX,kapa.ai
+  - DOMAIN,cdn.ketchjs.com
+  - DOMAIN,global.ketchcdn.com
+  - DOMAIN,kapa-widget-proxy-la7dkmplpq-uc.a.run.app
 
-  - DOMAIN-SUFFIX,usepylon.com
 
   # Discourse forums
   - DOMAIN,global.discourse-cdn.com
