@@ -153,6 +153,7 @@ payload:
   - DOMAIN,apic1.ohmycdn.com
   - DOMAIN-SUFFIX,ohmycdn.com
   - DOMAIN,pi.dogenet.work
+  - DOMAIN,api.daheiai.com
   - DOMAIN,getsapi.net
   - DOMAIN,api.grsai.com
   - DOMAIN-SUFFIX,grsai.com
