@@ -387,6 +387,7 @@ payload:
   - DOMAIN,blog.farmostwood.net
   - DOMAIN,www.iyouport.org
   - DOMAIN,www.twreporter.org
+  - DOMAIN,jamestown.org
   - DOMAIN,nei.st
   # DOMAIN-SUFFIX,p3terx.com
   - DOMAIN,limboy.me
