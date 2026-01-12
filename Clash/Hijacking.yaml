@@ -37,6 +37,7 @@ payload:
   # DOMAIN-SUFFIX,lf3-data.volccdn.com
   - DOMAIN,pdn.adingo.jp
   - DOMAIN,ip-test.zeabur.cn
+  - DOMAIN,blackhole.m.jd.com
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
