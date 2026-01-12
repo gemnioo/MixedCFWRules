@@ -94,6 +94,7 @@ payload:
   - DOMAIN,help.mikrotik.com
   - DOMAIN-SUFFIX,supabase.com
   - DOMAIN-SUFFIX,supabase.co
+  - DOMAIN,playwright.dev
 
   # Some LLMs non restricted
   # DOMAIN-SUFFIX,poe.com
