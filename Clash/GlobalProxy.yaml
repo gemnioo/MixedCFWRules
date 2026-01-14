@@ -158,6 +158,8 @@ payload:
   - DOMAIN,getsapi.net
   - DOMAIN,api.grsai.com
   - DOMAIN-SUFFIX,grsai.com
+  - DOMAIN,aiberm.com
+  - DOMAIN,meiguo.app
   
   - DOMAIN-SUFFIX,alma.now
   - DOMAIN-SUFFIX,bolt.new
