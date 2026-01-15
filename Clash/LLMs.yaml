@@ -45,6 +45,7 @@ payload:
   - DOMAIN,antigravity.google
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
   - DOMAIN-SUFFIX,sandbox.googleapis.com
   - DOMAIN,type.googleapis.com
