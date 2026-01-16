@@ -92,6 +92,7 @@ payload:
   - DOMAIN,videos.openai.com
   # Open models by OpenAI
   - DOMAIN,gpt-oss.com
+  - DOMAIN-SUFFIX,openresponses.org
 
   # Stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
