@@ -573,6 +573,9 @@ payload:
   - DOMAIN-SUFFIX,gate.hockeyapp.net
   - DOMAIN-SUFFIX,smartmailcloud.com
 
+  # > Brave Search
+  - DOMAIN-SUFFIX,search.brave.com
+
   # > Chrome Browser
   - DOMAIN,www.google.com
   - DOMAIN,www.google.com.hk
@@ -1254,6 +1257,7 @@ payload:
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubstatus.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN,cdn.datatables.net
   - DOMAIN-KEYWORD,github
