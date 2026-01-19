@@ -267,6 +267,8 @@ payload:
   - DOMAIN,mail.proton.me
   - DOMAIN,account.proton.me
   - DOMAIN-SUFFIX,proton.me
+  - DOMAIN,mecdn.protonweb.com
+  - DOMAIN-SUFFIX,protonweb.com
   
   - DOMAIN,static-cdn.spot.im
   - DOMAIN-SUFFIX,spot.im
