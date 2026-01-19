@@ -4,8 +4,13 @@ payload:
   - DOMAIN-SUFFIX,here.net
   # DOMAIN-SUFFIX,heremaps.cn
   # DOMAIN-SUFFIX,ovi.com.cn
+  - DOMAIN,arc.msn.com
+  - DOMAIN,amcdn.msftauth.net
   - DOMAIN,eas.outlook.com
+  - DOMAIN,mail.outlook.live
   - DOMAIN,outlook.live.com
+  - DOMAIN-SUFFIX,prod.mos.microsoft.com
+  - DOMAIN-SUFFIX,onecdn.static.microsoft
   - DOMAIN,m.hotmail.com
   - DOMAIN,login.microsoftonline.com  
   - DOMAIN,aadcdn.msftauth.net
