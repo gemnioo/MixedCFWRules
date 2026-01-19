@@ -102,6 +102,8 @@ payload:
   - DOMAIN-SUFFIX,ok.kimi.link
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN,chat.z.ai
+  - DOMAIN,image.z.ai
+  - DOMAIN,audio.z.ai
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN,open.bigmodel.cn
   - DOMAIN,docs.bigmodel.cn
