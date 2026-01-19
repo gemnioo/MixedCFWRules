@@ -360,7 +360,6 @@ payload:
   - DOMAIN,global.ketchcdn.com
   - DOMAIN,kapa-widget-proxy-la7dkmplpq-uc.a.run.app
 
-
   # Discourse forums
   - DOMAIN,global.discourse-cdn.com
   - DOMAIN,avatars.discourse-cdn.com
@@ -374,6 +373,8 @@ payload:
   - DOMAIN,cdn.prod.website-files.com
   # DOMAIN,static.reo.dev
 
+  # > Trackers
+  - DOMAIN,api.honeycomb.io
   # > RSS 
   - DOMAIN,reederapp.com
   - DOMAIN,stratechery.com
@@ -422,8 +423,7 @@ payload:
   # d24ovhgu8s7341.cloudfront.net
   - DOMAIN,quaily.com
 
-
-# > Podcast and Reading Media
+  # > Podcast and Reading Media
   - DOMAIN,link.chtbl.com
   - DOMAIN,pdst.fm
   - DOMAIN,pscrb.fm
