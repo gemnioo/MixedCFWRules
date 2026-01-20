@@ -104,6 +104,7 @@ payload:
   # DOMAIN,pplx-res.cloudinary.com
   # DOMAIN,fscdn.eppo.cloud
   # DOMAIN,images.unsplash.com
+  - DOMAIN,res.cloudinary.com
   - DOMAIN,ai-hero.skillrecordings.partykit.dev
   - DOMAIN-SUFFIX,aihero.dev
   - DOMAIN-SUFFIX,financialmodelingprep.com
