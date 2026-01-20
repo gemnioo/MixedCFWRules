@@ -180,6 +180,7 @@ payload:
   - DOMAIN,grokipedia.com
   - DOMAIN-SUFFIX,databaseschool.com
   - DOMAIN,docs.z.ai
+  - DOMAIN-SUFFIX,zread.ai
   - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN,chat.minimax.io
   - DOMAIN,api.minimax.io
