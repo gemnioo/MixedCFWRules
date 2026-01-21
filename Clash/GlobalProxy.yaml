@@ -133,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,producthunt.com
   - DOMAIN,blog.langchain.com
+  - DOMAIN,lucumr.pocoo.org
   - DOMAIN,til.simonwillison.net
   - DOMAIN-SUFFIX,browseract.com
   - DOMAIN,mem.nowledge.co
