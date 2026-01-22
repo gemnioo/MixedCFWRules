@@ -279,6 +279,8 @@ payload:
   - DOMAIN,telemetry.individual.githubcopilot.com
   - DOMAIN-SUFFIX,individual.githubcopilot.com
   - DOMAIN,zed.dev
+  - DOMAIN,app.factory.ai
+  - DOMAIN-SUFFIX,factory.ai
   # incident.io
   - DOMAIN,incident.io
   - DOMAIN,js.qualified.com
