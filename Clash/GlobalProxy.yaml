@@ -164,6 +164,10 @@ payload:
   - DOMAIN,getsapi.net
   - DOMAIN,api.grsai.com
   - DOMAIN-SUFFIX,grsai.com
+  - DOMAIN,api.uniapi.io
+  - DOMAIN,docs.uniapi.io
+  - DOMAIN,status.uniapi.ai
+  - DOMAIN-SUFFIX,uniapi.ai
   - DOMAIN,aiberm.com
   - DOMAIN,meiguo.app
   
