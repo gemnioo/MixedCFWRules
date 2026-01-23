@@ -30,7 +30,6 @@ payload:
   - DOMAIN,claw.cloud
   - DOMAIN,docs.dler.io 
   # DOMAIN,www.nodeseek.com
-  - DOMAIN,linux.do
   - DOMAIN,bilin.ai
   - DOMAIN,epg.v1.mk
   - DOMAIN,v1.mk
@@ -99,6 +98,10 @@ payload:
   - DOMAIN,playwright.dev
 
   # Some LLMs non restricted
+  - DOMAIN,linux.do
+  - DOMAIN.check.linux.do
+  - DOMAIN,status.linux.do
+  - DOMAIN-SUFFIX,linux.do
   # DOMAIN-SUFFIX,poe.com
   # DOMAIN-SUFFIX,meta.ai
   # DOMAIN-SUFFIX,perplexity.ai
