@@ -127,6 +127,8 @@ payload:
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-SUFFIX,manus.space
+  - DOMAIN-SUFFIX,manuscdn.com
+  - DOMAIN-SUFFIX,manus.computer
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,flowdown.ai
   - DOMAIN-SUFFIX,miromind.ai
