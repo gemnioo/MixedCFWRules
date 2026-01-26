@@ -202,6 +202,8 @@ payload:
 
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,dspy.ai
+  # SandBoxes 
+  - DOMAIN-SUFFIX,e2b.dev
   
   # Cluster
   - DOMAIN-SUFFIX,vllm.ai
