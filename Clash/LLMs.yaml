@@ -83,8 +83,8 @@ payload:
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN,api.statsig.com
-  - DOMAIN,rum.browser-intake-datadoghq.com
-  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  # DOMAIN,rum.browser-intake-datadoghq.com
+  # DOMAIN-SUFFIX,browser-intake-datadoghq.com \\ Real User Monitoring (RUM) data intake from browsers. 
   - DOMAIN,prodregistryv2.org
   - DOMAIN,featureassets.org
   # Sora
