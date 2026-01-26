@@ -39,6 +39,9 @@ payload:
   - DOMAIN,data.client.openweb.bid
   - DOMAIN,ip-test.zeabur.cn
   - DOMAIN,blackhole.m.jd.com
+  - DOMAIN,app.posthog.com
+  - DOMAIN,rum.browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
