@@ -92,10 +92,33 @@ payload:
   - DOMAIN,img.asndns.com
   - DOMAIN,gfw.report
   - DOMAIN,bulianglin.com
+
+  # Docs and Blog
   - DOMAIN,help.mikrotik.com
   - DOMAIN-SUFFIX,supabase.com
   - DOMAIN-SUFFIX,supabase.co
   - DOMAIN,playwright.dev
+  - DOMAIN,highlightai.com
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN,blog.comfy.org
+  - DOMAIN-SUFFIX,comfy.org
+  - DOMAIN-SUFFIX,producthunt.com
+  - DOMAIN,blog.langchain.com
+  - DOMAIN,lucumr.pocoo.org
+  - DOMAIN,til.simonwillison.net
+  - DOMAIN-SUFFIX,browseract.com
+  - DOMAIN-SUFFIX,laper.ai
+  - DOMAIN,fastly.picsum.photo
+  - DOMAIN,res.cloudinary.com
+  - DOMAIN,ai-hero.skillrecordings.partykit.dev
+  - DOMAIN-SUFFIX,aihero.dev
+  - DOMAIN-SUFFIX,financialmodelingprep.com
+  - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,openreview.online
+  - DOMAIN,bbycroft.net
+  - DOMAIN,poloclub.github.io
+  - DOMAIN-SUFFIX,skillsbench.ai
+
 
   # Some LLMs non restricted
   - DOMAIN,linux.do
@@ -108,15 +131,6 @@ payload:
   # DOMAIN,pplx-res.cloudinary.com
   # DOMAIN,fscdn.eppo.cloud
   # DOMAIN,images.unsplash.com
-  - DOMAIN,res.cloudinary.com
-  - DOMAIN,ai-hero.skillrecordings.partykit.dev
-  - DOMAIN-SUFFIX,aihero.dev
-  - DOMAIN-SUFFIX,financialmodelingprep.com
-  - DOMAIN-SUFFIX,arxiv.org
-  - DOMAIN-SUFFIX,openreview.online
-  - DOMAIN,bbycroft.net
-  - DOMAIN,poloclub.github.io
-  - DOMAIN-SUFFIX,skillsbench.ai
   # DOMAIN,replicate.com
   # DOMAIN,replicatestatus.com
   # DOMAIN-SUFFIX,replicate.delivery
@@ -135,19 +149,7 @@ payload:
   - DOMAIN-SUFFIX,miromind.ai
   - DOMAIN,dorian.qaq.wiki
   - DOMAIN,apps.qaq.wiki
-  - DOMAIN,highlightai.com
-  - DOMAIN,blog.comfy.org
-  - DOMAIN-SUFFIX,comfy.org
-  - DOMAIN-SUFFIX,producthunt.com
-  - DOMAIN,blog.langchain.com
-  - DOMAIN,lucumr.pocoo.org
-  - DOMAIN,til.simonwillison.net
-  - DOMAIN-SUFFIX,browseract.com
-  - DOMAIN,mem.nowledge.co
-  - DOMAIN-SUFFIX,laper.ai
-  - DOMAIN,fastly.picsum.photo
-  - DOMAIN-SUFFIX,factory.ai
-  - DOMAIN-SUFFIX,deepwiki.com
+
   - DOMAIN,ipapi.co
   - DOMAIN-SUFFIX,intent-systems.com
 
@@ -158,6 +160,8 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN,litellm.ai
   - DOMAIN,docs.litellm.ai
+  - DOMAIN-SUFFIX,factory.ai
+  - DOMAIN-SUFFIX,bolt.new
 
   - DOMAIN,api.zeabur.com
   - DOMAIN-SUFFIX,zeabur.com
@@ -179,7 +183,7 @@ payload:
   - DOMAIN,meiguo.app
   
   - DOMAIN-SUFFIX,alma.now
-  - DOMAIN-SUFFIX,bolt.new
+  - DOMAIN,mem.nowledge.co
   - DOMAIN-SUFFIX,chatwise.app
   - DOMAIN-SUFFIX,lorca.app
   - DOMAIN-SUFFIX,egoist.dev
