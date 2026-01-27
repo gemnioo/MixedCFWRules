@@ -147,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,laper.ai
   - DOMAIN,fastly.picsum.photo
   - DOMAIN-SUFFIX,factory.ai
+  - DOMAIN-SUFFIX,deepwiki.com
   - DOMAIN,ipapi.co
   - DOMAIN-SUFFIX,intent-systems.com
 
