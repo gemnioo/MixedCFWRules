@@ -122,7 +122,7 @@ payload:
 
   # Some LLMs non restricted
   - DOMAIN,linux.do
-  - DOMAIN.check.linux.do
+  - DOMAIN,check.linux.do
   - DOMAIN,status.linux.do
   - DOMAIN-SUFFIX,linux.do
   # DOMAIN-SUFFIX,poe.com
