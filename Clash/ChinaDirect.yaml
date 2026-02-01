@@ -152,6 +152,7 @@ payload:
   - DOMAIN-SUFFIX,zeabur.ai
   - DOMAIN,docs.zenmux.ai
   - DOMAIN-SUFFIX,zenmux.ai
+  - DOMAIN,app.lobehub.com
 
   - DOMAIN-SUFFIX,remio.ai
   - DOMAIN-SUFFIX,chatboxai.app
