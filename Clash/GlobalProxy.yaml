@@ -230,11 +230,13 @@ payload:
   - DOMAIN-SUFFIX,algolia.net
 
   # LobeChat
+  - DOMAIN-SUFFIX,lobeobjects.space
   - DOMAIN,chat-agents.lobehub.com
   - DOMAIN,chat-plugins.lobehub.com
   - DOMAIN-SUFFIX,lobehub.com
   - DOMAIN,lobehub.search1api.com
   - DOMAIN,pics.fatwang2.com
+  - DOMAIN,img.clerk.com
 
   # Docker Hub
   - DOMAIN-SUFFIX,r2.cloudflarestorage.com
