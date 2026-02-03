@@ -53,7 +53,8 @@ payload:
   - DOMAIN-SUFFIX,zenn.studio
   - DOMAIN,search.saveweb.org
 
-  # Maunal 
+  # Maunal
+  - DOMAIN,notepad-plus-plus.org
   - DOMAIN,sing-box.sagernet.org
   - DOMAIN,wiki.metacubex.one
   - DOMAIN,manual.nssurge.com
