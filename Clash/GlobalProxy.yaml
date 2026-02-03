@@ -512,6 +512,7 @@ payload:
   - DOMAIN,assets.thecontentserver.com
 
   - DOMAIN-SUFFIX,captcha-delivery.com
+  - DOMAIN-SUFFIX,barrons.com
   - DOMAIN,china.cmail20.com
   - DOMAIN,optimizely.wsj.com
   - DOMAIN,video-api.wsj.com
@@ -1270,6 +1271,7 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zacebook.com
   - DOMAIN-SUFFIX,zalmos.com
+  - DOMAIN-SUFFIX,zaobao.com
   - DOMAIN-SUFFIX,zaobao.com.sg
   - DOMAIN-SUFFIX,zeutch.com
   - DOMAIN-SUFFIX,zynamics.com
