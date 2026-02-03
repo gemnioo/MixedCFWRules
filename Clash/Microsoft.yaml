@@ -12,7 +12,8 @@ payload:
   - DOMAIN-SUFFIX,prod.mos.microsoft.com
   - DOMAIN-SUFFIX,onecdn.static.microsoft
   - DOMAIN,m.hotmail.com
-  - DOMAIN,login.microsoftonline.com  
+  - DOMAIN,login.microsoftonline.com
+  - DOMAIN,aadcdn.msauth.net
   - DOMAIN,aadcdn.msftauth.net
   - DOMAIN,pti.store.microsoft.com
   - DOMAIN,checkappexec.microsoft.com
