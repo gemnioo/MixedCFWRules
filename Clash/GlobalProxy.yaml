@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,heptasky.com
   - DOMAIN-SUFFIX,lain.sh
   - DOMAIN-SUFFIX,digvps.com
+  - DOMAIN,oath1.top
   - DOMAIN,ip-api.4eva.org
   - DOMAIN-SUFFIX,halo.do
   - DOMAIN,www.amytele.net
