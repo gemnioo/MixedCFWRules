@@ -480,6 +480,7 @@ payload:
   - DOMAIN,cdn.confiant-integrations.net
   - DOMAIN,api.nextgen.guardianapps.co.uk
   - DOMAIN-SUFFIX,guim.co.uk
+  - DOMAIN,spectator.com
   - DOMAIN,nyer.cm
   - DOMAIN-SUFFIX,newyorker.com 
   - DOMAIN-SUFFIX,foreignpolicy.com
