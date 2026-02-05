@@ -152,3 +152,5 @@ payload:
 
   # > UBI
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+  # > Banks
+  - DOMAIN-SUFFIX,bcs.cmbchina.com
