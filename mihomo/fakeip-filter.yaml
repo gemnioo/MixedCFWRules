@@ -98,6 +98,8 @@ payload:
   ## STUN Server
   - "stun.*.*"
   - "stun.*.*.*"
+  ## Banks
+  - "+.cmbchina.com"
   ## Bilibili CDN
   - "*.mcdn.bilivideo.cn"
   - "*.bilibili.com"
