@@ -98,6 +98,8 @@ payload:
   - DOMAIN,aplus.qwen.ai
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,wan.video
+  - DOMAIN,api.qianwen.com
+  - DOMAIN-SUFFIX,qianwen.com
   - DOMAIN,www.kimi.com
   - DOMAIN-SUFFIX,ok.kimi.link
   - DOMAIN-SUFFIX,moonshot.cn
