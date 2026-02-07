@@ -106,6 +106,7 @@ payload:
   - DOMAIN,chat.z.ai
   - DOMAIN,image.z.ai
   - DOMAIN,audio.z.ai
+  - DOMAIN,ocr.z.ai
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN,open.bigmodel.cn
   - DOMAIN,docs.bigmodel.cn
