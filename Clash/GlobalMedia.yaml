@@ -25,6 +25,7 @@ payload:
   - DOMAIN,client-rapi-missav.recombee.com
   - DOMAIN,z46dxqia.x18r.comundefined
   - DOMAIN-SUFFIX,play.oris18.com
+  - DOMAIN-SUFFIX,qaq.al
 
   # allinone
   - DOMAIN,tinyurl.com
