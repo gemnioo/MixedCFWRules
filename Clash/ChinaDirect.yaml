@@ -148,6 +148,7 @@ payload:
   - DOMAIN-SUFFIX,immersivetranslate.cn
   - DOMAIN,wanqing.streamlakeapi.com
   - DOMAIN-SUFFIX,liblib.art
+  - DOMAIN-SUFFIX,superclueai.com
   - DOMAIN-SUFFIX,wildcard.com.cn
   
   - DOMAIN,hnd1.aihub.zeabur.ai
