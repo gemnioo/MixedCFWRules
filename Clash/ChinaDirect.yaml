@@ -236,6 +236,7 @@ payload:
   - DOMAIN-SUFFIX,pdfwifi.com
   - DOMAIN-SUFFIX,zhenguanyu.biz
   - DOMAIN-SUFFIX,zhenguanyu.com
+  - DOMAIN-SUFFIX,mittrchina.com
 
   # CN域名直连(中国|公司|网络)
   - DOMAIN-SUFFIX,cn
