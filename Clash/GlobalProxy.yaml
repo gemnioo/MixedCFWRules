@@ -110,7 +110,7 @@ payload:
   - DOMAIN,til.simonwillison.net
   - DOMAIN,cchistory.mariozechner.at
   - DOMAIN-SUFFIX,dbreunig.com
-  - DOMAIN,blog.nilenso.com
+  - DOMAIN-SUFFIX,nilenso.com
   - DOMAIN-SUFFIX,browseract.com
   - DOMAIN-SUFFIX,laper.ai
   - DOMAIN,fastly.picsum.photo
