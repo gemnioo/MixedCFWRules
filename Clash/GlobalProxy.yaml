@@ -125,7 +125,7 @@ payload:
   - DOMAIN-SUFFIX,skillsbench.ai
 
 
-  # Some LLMs non restricted
+  # Some LLMs not so restricted for IP
   - DOMAIN,linux.do
   - DOMAIN,check.linux.do
   - DOMAIN,status.linux.do
@@ -168,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,factory.ai
   - DOMAIN-SUFFIX,bolt.new
 
+  - DOMAIN,lobechat.com
   - DOMAIN,api.zeabur.com
   - DOMAIN-SUFFIX,zeabur.com
   - DOMAIN,api.ohmygpt.com
