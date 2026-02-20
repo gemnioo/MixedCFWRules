@@ -24,6 +24,9 @@ payload:
   # Windows RDP from macOS
   - DOMAIN,mobile.events.data.microsoft.com
 
+  # Windows 11 debloat script
+  - DOMAIN,debloat.raphi.re
+
   # > Download OS patches, updates, and apps from Microsoft Store. Xbox ！！
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,tile.openstreetmap.org
