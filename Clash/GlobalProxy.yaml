@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,qq-ex.com
   - DOMAIN,uspto.report
   - DOMAIN-SUFFIX,importyeti.com
+  - DOMAIN,atlas.flexport.com
   - DOMAIN,tariffs.flexport.com
   - DOMAIN-SUFFIX,flexport.com
   - DOMAIN-SUFFIX,marinetraffic.com
