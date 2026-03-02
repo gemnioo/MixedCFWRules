@@ -42,6 +42,8 @@ payload:
   - DOMAIN,app.posthog.com
   - DOMAIN,rum.browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN,i.111666.best
+  - DOMAIN,fog.22112211.xyz
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
