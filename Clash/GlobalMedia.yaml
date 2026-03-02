@@ -10,6 +10,9 @@ payload:
   - DOMAIN,ttou.j03og.app
   - DOMAIN,image.acg.lol
   - DOMAIN,www.nodeseek.com
+  - DOMAIN,edge.nodeseek.com
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN,cdn.nodeimage.com
   - DOMAIN,brrub.us
   - DOMAIN-SUFFIX,fs1.app
   - DOMAIN-SUFFIX,jable.tv
