@@ -169,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,factory.ai
   - DOMAIN-SUFFIX,bolt.new
 
+  - DOMAIN,iran.immersivetranslate.com
   - DOMAIN,lobechat.com
   - DOMAIN,api.zeabur.com
   - DOMAIN-SUFFIX,zeabur.com
