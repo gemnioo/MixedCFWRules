@@ -216,7 +216,8 @@ payload:
   - DOMAIN,docs.x-aio.com
   - DOMAIN,api.x-aio.com
   - DOMAIN-SUFFIX,x-aio.com
-  
+
+  - DOMAIN,www.latepost.com
 
   # IDC and 
   - DOMAIN-SUFFIX,aait.io
