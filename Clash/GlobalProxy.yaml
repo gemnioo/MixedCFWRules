@@ -380,6 +380,7 @@ payload:
   #js.hubspot.com
   #cta-service-cms2.hubspot.com
   # Mintlify docs
+  - DOMAIN,mintcdn.com
   - DOMAIN,api.mintlifytrieve.com
   - DOMAIN,mintlify.b-cdn.net
   - DOMAIN-SUFFIX,mintlify.com
