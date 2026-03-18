@@ -126,15 +126,19 @@ payload:
   - DOMAIN,metaso.cn
   - DOMAIN,aistudio.xiaomimimo.com
   - DOMAIN-SUFFIX,xiaomimimo.com
+  
   # DOMAIN,chat.minimax.io
   # DOMAIN,api.minimax.io
   # DOMAIN,platform.minimax.io
   # DOMAIN-SUFFIX,minimax.io
   - DOMAIN,agent.minimax.com
   - DOMAIN-SUFFIX,minimax.com
+
+  - DOMAIN,filecdn.minimax.chat
   - DOMAIN,www.minimaxi.com
   - DOMAIN,api.minimaxi.com
-  - DOMAIN,filecdn.minimax.chat
+  - DOMAIN,platform.minimaxi.com
+  - DOMAIN-SUFFIX,minimaxi.com
   - DOMAIN,cdn.hailuo.ai
   - DOMAIN,data.hailuo.ai
   - DOMAIN,hailuoai.video
