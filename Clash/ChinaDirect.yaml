@@ -224,6 +224,12 @@ payload:
   # DOMAIN-SUFFIX,lain.sh
   - DOMAIN,derper.maxd.cloud
   - DOMAIN,lowendaff.com
+
+  # ChaoXin Mooc Online
+  - DOMAIN,mooc1.chaoxing.com
+  - DOMAIN,mooc2-ans.chaoxing.com
+  - DOMAIN,mooc-ans.chaoxing.com
+  - DOMAIN,xueya.chaoxing.com
   
   # MyList
   - DOMAIN-SUFFIX,13th.tech
