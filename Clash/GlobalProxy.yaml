@@ -647,7 +647,8 @@ payload:
   - DOMAIN,beacons.gcp.gvt2.com
   - DOMAIN-SUFFIX,gcp.gvt2.com
   - DOMAIN-SUFFIX,gvt2.com
-  
+
+  - DOMAIN,chromereleases.googleblog.com
   # > Gmail
   - DOMAIN,mail.google.com
   - DOMAIN,inbox.google.com
