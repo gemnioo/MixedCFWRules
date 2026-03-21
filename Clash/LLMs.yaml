@@ -168,6 +168,8 @@ payload:
   - DOMAIN,api.cartesia.ai
   - DOMAIN-SUFFIX,cartesia.ai
   - DOMAIN-SUFFIX,hume.ai
+  - DOMAIN,api.soniox.com
+  - DOMAIN-SUFFIX,soniox.com
 
   # Jina
   - DOMAIN,segment.jina.ai
