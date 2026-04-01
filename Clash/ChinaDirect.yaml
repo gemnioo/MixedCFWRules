@@ -411,7 +411,14 @@ payload:
   - DOMAIN-SUFFIX,zijieimg.com
   - DOMAIN-SUFFIX,zjbyte.com
   - DOMAIN-SUFFIX,zjcdn.com
-
+  
+  # feishu/larkoffice
+  - DOMAIN,accounts.feishu.cn
+  - DOMAIN,accounts.larkoffice.com
+  - DOMAIN,accounts-sg.larkoffice.com
+  - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,larkoffice.com
+  
   # CCTV
   - DOMAIN-SUFFIX,cctv.com
   - DOMAIN-SUFFIX,cctvpic.com
