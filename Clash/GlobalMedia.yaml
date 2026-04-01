@@ -26,6 +26,12 @@ payload:
   - DOMAIN,ippondemoninjin.livedoor.blog
   - DOMAIN,missav.ai
   - DOMAIN,fourhoi.com
+  - DOMAIN,api.myfans.jp
+  - DOMAIN,prd.posthog.myfans.jp
+  - DOMAIN-SUFFIX,myfans.jp
+  - DOMAIN,content.mfcdn.jp
+  - DOMAIN,proxsee-cf.pscp.tv
+  - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN,client-rapi-missav.recombee.com
   - DOMAIN,z46dxqia.x18r.comundefined
   - DOMAIN-SUFFIX,play.oris18.com
