@@ -1298,6 +1298,7 @@ payload:
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
   # DOMAIN-KEYWORD,facebook
+  - DOMAIN-SUFFIX,ebay.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
