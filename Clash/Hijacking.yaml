@@ -34,6 +34,7 @@ payload:
   - DOMAIN,api.rudderstack.com
   - DOMAIN-SUFFIX,rudderstack.com
   - DOMAIN,img.wuage.com
+  - DOMAIN,ocpx.dspxxly.com
   # DOMAIN-SUFFIX,lf3-data.volccdn.com
   - DOMAIN,pdn.adingo.jp
   - DOMAIN,data.client.openweb.bid
