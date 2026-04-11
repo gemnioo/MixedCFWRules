@@ -380,6 +380,8 @@ payload:
   - DOMAIN,default.exp-tas.com
   - DOMAIN,update.code.visualstudio.com
   - DOMAIN,img.shields.io
+  - DOMAIN-SUFFIX,services.visualstudio.com
+  - DOMAIN,transcend-cdn.com
 
 
   # > Microsoft XiaoBing
