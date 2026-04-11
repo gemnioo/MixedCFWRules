@@ -16,6 +16,8 @@ payload:
   - DOMAIN,aim-tag.hcn.health
 
   - DOMAIN-SUFFIX,windy.com
+  - DOMAIN-SUFFIX,awxcdn.com
+  - DOMAIN-SUFFIX,accuweather.com
 
   - DOMAIN,wh.gov
   - DOMAIN,www.whitehouse.gov
@@ -1299,6 +1301,8 @@ payload:
   - DOMAIN-KEYWORD,dropbox
   # DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN,ir.ebaystatic.com
+  - DOMAIN-SUFFIX,ebayimg.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,github.com
