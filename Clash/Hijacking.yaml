@@ -28,6 +28,7 @@ payload:
   - DOMAIN,static.wixstatic.com
   - DOMAIN,www.clarity.ms
   - DOMAIN,www.googletagmanager.com
+  - DOMAIN,cdn.ping0.cc
   - DOMAIN,webmetrics.mayoclinic.org
   - DOMAIN,amazonwebservices.d2.sc.omtrdc.net
   - DOMAIN-SUFFIX,usercentrics.eu
@@ -39,7 +40,7 @@ payload:
   - DOMAIN,pdn.adingo.jp
   - DOMAIN,data.client.openweb.bid
   - DOMAIN,ip-test.zeabur.cn
-  - DOMAIN,blackhole.m.jd.com
+  # DOMAIN,blackhole.m.jd.com
   - DOMAIN,app.posthog.com
   - DOMAIN,rum.browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
