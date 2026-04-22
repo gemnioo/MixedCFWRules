@@ -709,6 +709,7 @@ payload:
   # DOMAIN-SUFFIX,ajax.cloudflare.com
   # DOMAIN-SUFFIX,cdnjs.cloudflare.com
   # DOMAIN-SUFFIX,code.jquery.com
+  - DOMAIN-SUFFIX,pd1.cjjd19.com
   - DOMAIN,ioshost.qtlcdn.com
   - DOMAIN,lib.baomitu.com
   - DOMAIN,pharos.baomitu.com
@@ -721,6 +722,7 @@ payload:
   # AccelerateDirectSites
   - DOMAIN-SUFFIX,10010.com
   - DOMAIN-SUFFIX,115.com
+  - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,12306.com
   - DOMAIN-SUFFIX,17173.com
   - DOMAIN-SUFFIX,178.com
