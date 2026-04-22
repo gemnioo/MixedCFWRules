@@ -27,6 +27,9 @@ payload:
   # Windows 11 debloat script
   - DOMAIN,debloat.raphi.re
 
+  # KMS activation script
+  - DOMAIN,get.activated.win
+
   # > Download OS patches, updates, and apps from Microsoft Store. Xbox ！！
   - DOMAIN,fe3cr.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,tile.openstreetmap.org
