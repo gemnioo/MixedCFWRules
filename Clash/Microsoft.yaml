@@ -9,6 +9,7 @@ payload:
   - DOMAIN,eas.outlook.com
   - DOMAIN,mail.outlook.live
   - DOMAIN,outlook.live.com
+  - DOMAIN,attachment.outlook.live.net
   - DOMAIN-SUFFIX,prod.mos.microsoft.com
   - DOMAIN-SUFFIX,onecdn.static.microsoft
   - DOMAIN,m.hotmail.com
