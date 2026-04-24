@@ -59,10 +59,14 @@ payload:
   - DOMAIN,android.chat.openai.com
   - DOMAIN,desktop.chat.openai.com
   - DOMAIN,evals.openai.com
+  - DOMAIN,auth0.openai.com
+  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,operator.chatgpt.com
   - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN,statsigapi.net
+  - DOMAIN,events.statsigapi.net
   - DOMAIN,api.statsig.com
   - DOMAIN,api.oaistatsig.com
   - DOMAIN,files.oaiusercontent.com 
@@ -84,12 +88,20 @@ payload:
   # ChatGPT voice mode UDP 3478 request
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN,cdn.openaimerge.com
   - DOMAIN,images.ctfassets.net
+  - DOMAIN,workos.imgix.net
+  - DOMAIN,setup.workos.com
+  - DOMAIN,forwarder.workos.com
+  - DOMAIN,images.workoscdn.com
+  - DOMAIN,cdn.workos.com
+  - DOMAIN-SUFFIX,ct.sendgrid.net
 
-  # DOMAIN,rum.browser-intake-datadoghq.com
+  - DOMAIN,rum.browser-intake-datadoghq.com
   # DOMAIN-SUFFIX,browser-intake-datadoghq.com \\ Real User Monitoring (RUM) data intake from browsers. 
   - DOMAIN,prodregistryv2.org
   - DOMAIN,featureassets.org
+  - DOMAIN-SUFFIX,featuregates.org
   # Sora
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,videos.openai.com
