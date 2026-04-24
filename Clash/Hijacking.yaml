@@ -27,6 +27,8 @@ payload:
   # DOMAIN,pplx-next-static-public.perplexity.ai
   - DOMAIN,static.wixstatic.com
   - DOMAIN,www.clarity.ms
+  - DOMAIN,eb2.3lift.com
+  - DOMAIN,www.dubcdn.com
   - DOMAIN,www.googletagmanager.com
   - DOMAIN,cdn.ping0.cc
   - DOMAIN,webmetrics.mayoclinic.org
