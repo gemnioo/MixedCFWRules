@@ -123,6 +123,7 @@ payload:
   - DOMAIN,xiaoyi.huawei.com
   - DOMAIN-SUFFIX,dbankcdn.com
   - DOMAIN-SUFFIX,myhuaweicloud.cn
+  - DOMAIN,dashscope.aliyuncs.com
   - DOMAIN,metaso.cn
   - DOMAIN,aistudio.xiaomimimo.com
   - DOMAIN-SUFFIX,xiaomimimo.com
