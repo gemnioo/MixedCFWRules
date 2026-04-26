@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,msdmanuals.cn
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
+  - DOMAIN,www.acwifi.net
 
   # CN DoH List：
   - DOMAIN,dns.alidns.com
