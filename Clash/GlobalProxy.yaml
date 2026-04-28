@@ -916,6 +916,7 @@ payload:
   - DOMAIN-SUFFIX,imageshack.us
   - DOMAIN-SUFFIX,img.ly
   - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,imore.com
   - DOMAIN-SUFFIX,imtoken.fans
   - DOMAIN-SUFFIX,ingress.com
