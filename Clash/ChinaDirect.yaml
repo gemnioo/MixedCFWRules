@@ -126,7 +126,9 @@ payload:
   - DOMAIN-SUFFIX,myhuaweicloud.cn
   - DOMAIN,dashscope.aliyuncs.com
   - DOMAIN,metaso.cn
+  - DOMAIN,api.xiaomimimo.com
   - DOMAIN,aistudio.xiaomimimo.com
+  - DOMAIN,platform.xiaomimimo.com
   - DOMAIN-SUFFIX,xiaomimimo.com
   
   # DOMAIN,chat.minimax.io
