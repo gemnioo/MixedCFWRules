@@ -25,6 +25,11 @@ payload:
   # Windows RDP from macOS
   - DOMAIN,mobile.events.data.microsoft.com
 
+  # Windows Store
+  - DOMAIN,tas01.cwsapp.update.microsoft.com
+  - DOMAIN,tas02.cws.update.microsoft.com
+  # DOMAIN-SUFFIX,update.microsoft.com
+
   # Windows 11 debloat script
   - DOMAIN,debloat.raphi.re
 
