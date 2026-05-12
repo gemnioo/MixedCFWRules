@@ -109,6 +109,7 @@ payload:
   - DOMAIN,audio.z.ai
   - DOMAIN,ocr.z.ai
   - DOMAIN-SUFFIX,z.ai
+  - DOMAIn-SUFFIX,chatglm.cn
   - DOMAIN,open.bigmodel.cn
   - DOMAIN,docs.bigmodel.cn
   - DOMAIN-SUFFIX,bigmodel.cn
@@ -322,6 +323,7 @@ payload:
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mxhichina.com
   - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,goofish.com
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,tbcache.com
