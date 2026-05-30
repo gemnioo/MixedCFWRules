@@ -32,6 +32,10 @@ payload:
   - DOMAIN,whois.pconline.com.cn
   - DOMAIN,forge.speedtest.cn
 
+  # ImmortalWrt mirror
+  - DOMAIN,immortalwrt.kyarucloud.moe
+  - DOMAIN,mirrors.vsean.net
+
   # Chrome data collection
   # DOMAIN,e2c52.gcp.gvt2.com
   - DOMAIN,beacons.gcp.gvt2.com
