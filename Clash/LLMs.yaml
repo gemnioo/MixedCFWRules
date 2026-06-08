@@ -311,6 +311,19 @@ payload:
   - DOMAIN,replicate.com
   - DOMAIN,www.replicatestatus.com
   - DOMAIN-SUFFIX,replicate.delivery
+
+  # Apple Intelligence. docs: https://support.apple.com/zh-cn/101555
+  - DOMAIN,guzzoni.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,apple-relay.fastly-edge.com
+  - DOMAIN,cp4.cloudflare.com
+  - DOMAIN,apple-relay.apple.com
+  
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN,gspe1-ssl.ls.apple.com 
+  - DOMAIN,apple-relay.akamaized.net
+  - DOMAIN,apple-relay.mask.apple-dns.net
   
   # Others
   - DOMAIN,agi.safe.ai
