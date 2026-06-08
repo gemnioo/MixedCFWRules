@@ -620,6 +620,10 @@ payload:
   # > Brave Search
   - DOMAIN-SUFFIX,search.brave.com
 
+  # > Google Voice
+  - DOMAIN,stun.l.google.com
+  - DOMAIN,voice.telephony.goog
+
   # > Chrome Browser
   - DOMAIN,www.google.com
   - DOMAIN,www.google.com.hk
