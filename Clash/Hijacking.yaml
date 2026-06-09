@@ -49,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN,i.111666.best
   - DOMAIN,fog.22112211.xyz
+  - DOMAIN,ap.lijit.com
+  - DOMAIN,hb.minutemedia-prebid.com
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
