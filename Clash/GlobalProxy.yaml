@@ -1405,11 +1405,12 @@ payload:
   # > Amazon Service add 
   - IP-CIDR,3.124.0.0/14,no-resolve
   - IP-CIDR,3.64.0.0/12,no-resolve
+  - IP-CIDR,18.156.0.0/14,no-resolve
+  - IP-CIDR,18.196.0.0/15,no-resolve
   - IP-CIDR,34.192.0.0/12,no-resolve
   - IP-CIDR,34.233.245.0/24,no-resolve
   - IP-CIDR,54.160.0.0/14,no-resolve
-  - IP-CIDR,18.156.0.0/14,no-resolve
-  - IP-CIDR,18.196.0.0/15,no-resolve
+  - IP-CIDR,107.22.0.0/16,no-resolve
 
   # > Facebook
   - IP-CIDR,103.4.96.0/22,no-resolve
