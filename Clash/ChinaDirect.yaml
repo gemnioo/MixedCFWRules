@@ -113,6 +113,7 @@ payload:
   - DOMAIN,audio.z.ai
   - DOMAIN,ocr.z.ai
   - DOMAIN-SUFFIX,z.ai
+  - DOMAIN-SUFFIX,space-z.ai
   - DOMAIn-SUFFIX,chatglm.cn
   - DOMAIN,open.bigmodel.cn
   - DOMAIN,docs.bigmodel.cn
