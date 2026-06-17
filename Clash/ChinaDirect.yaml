@@ -136,6 +136,8 @@ payload:
   - DOMAIN,aistudio.xiaomimimo.com
   - DOMAIN,platform.xiaomimimo.com
   - DOMAIN-SUFFIX,xiaomimimo.com
+  - DOMAIN,api.lightvela.com
+  - DOMAIN-SUFFIX,lightvela.com
   
   # DOMAIN,chat.minimax.io
   # DOMAIN,api.minimax.io
