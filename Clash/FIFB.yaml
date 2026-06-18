@@ -1,0 +1,35 @@
+##Collected from the internet! If it infringes copyright! Please contact 
+payload:
+  ## TV logos
+  - DOMAIN,images.pluto.tv
+  - DOMAIN-SUFFIX,ibb.co
+  - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,sharewithyou.dpdns.org
+  - DOMAIN-SUFFIX,playouts.now.amagi.tv
+  - DOMAIN,d3qwwydnxv5vo9.cloudfront.net
+  - DOMAIN,d2d98ykcmmhgd4.cloudfront.net
+  - DOMAIN,d3pxo1qcgzxtxs.cloudfront.net
+  - DOMAIN,d2w9q46ikgrcwx.cloudfront.net
+  - DOMAIN,d2szps9d05yt90.cloudfront.net
+  - DOMAIN,dnf08l6u6uxnz.cloudfront.net
+  - DOMAIN,wickediptv.xyz
+  - DOMAIN-SUFFIX,vpn-cloud.icu
+  - DOMAIN-SUFFIX,vivotv.vip
+  - DOMAIN-SUFFIX,warnermediacdn.com
+  - DOMAIN-SUFFIX,playouts.now.amagi.tv
+  ## Kórinthos, Peloponnese, GR
+  ## Safe Value Limited
+  - DOMAIN-SUFFIX,lucastv.pro
+  - IP-CIDR,185.160.192.0/24,no-resolve
+  ## Paris, Île-de-France, FR
+  - IP-CIDR,163.172.0.0/16,no-resolve
+  ## New York, Datacamp Limited
+  - IP-CIDR,89.187.176.0/22,no-resolve
+  ## Phoenix, Arizona, Litnics, LLC
+  - IP-CIDR,206.212.246.0/24,no-resolve
+  ## AS141718 haoxiangyun
+  - IP-CIDR,172.110.220.0/24,no-resolve
+  ## Akamai International B.V.
+  - IP-CIDR,23.217.118.0/24,no-resolve
+  ## FDCservers.net
+  - IP-CIDR,23.237.104.0/23,no-resolve
