@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,playouts.now.amagi.tv
+  - DOMAIN,ahhshitherewegoagain.sytes.net
   ## feeds
   - DOMAIN,dnf08l6u6uxnz.cloudfront.net
   - DOMAIN,ds2c506obo7m8.cloudfront.net
@@ -40,9 +41,16 @@ payload:
   - IP-CIDR,89.187.176.0/22,no-resolve
   ## Phoenix, Arizona, Litnics, LLC
   - IP-CIDR,206.212.246.0/24,no-resolve
+  ## Leesburg, Virginia, Litnics, LLC
+  - IP-CIDR,206.212.244.0/24,no-resolve
   ## AS141718 haoxiangyun
+  - IP-CIDR,45.155.90.0/24,no-resolve
   - IP-CIDR,172.110.220.0/24,no-resolve
+  ## Amsterdam, North Holland, NimblyNet Limited
+  - IP-CIDR,148.224.24.0/24,no-resolve
   ## Akamai International B.V.
   - IP-CIDR,23.217.118.0/24,no-resolve
   ## FDCservers.net
   - IP-CIDR,23.237.104.0/23,no-resolve
+  ## United Kingdom, IOMART CLOUD SERVICES 
+  - IP-CIDR,109.169.0.0/18,no-resolve
