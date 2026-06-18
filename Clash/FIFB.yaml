@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,playouts.now.amagi.tv
+  ## feeds
   - DOMAIN,dnf08l6u6uxnz.cloudfront.net
   - DOMAIN,ds2c506obo7m8.cloudfront.net
   - DOMAIN,d12jejjhkd2rcw.cloudfront.net
@@ -20,6 +21,15 @@ payload:
   - DOMAIN-SUFFIX,vivotv.vip
   - DOMAIN-SUFFIX,warnermediacdn.com
   - DOMAIN-SUFFIX,playouts.now.amagi.tv
+  - DOMAIN,nl.utako.moe
+  - DOMAIN,oss.rw.bbmmic2.com
+  - DOMAIN,gcyivjc.qrneryt.com
+  - DOMAIN,newa.yuk.jb-aiwei.cc
+  - DOMAIN,erswgeregr.d4s000ejiic.com
+  - DOMAIN,3a27f423.wurl.com
+  - DOMAIN,c377efb7.wurl.com
+  - DOMAIN-SUFFIX,wurl.com
+  - DOMAIN,jmp2.uk
   ## Kórinthos, Peloponnese, GR
   ## Safe Value Limited
   - DOMAIN-SUFFIX,lucastv.pro
