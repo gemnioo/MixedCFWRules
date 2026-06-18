@@ -6,12 +6,15 @@ payload:
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,playouts.now.amagi.tv
-  - DOMAIN,d3qwwydnxv5vo9.cloudfront.net
+  - DOMAIN,dnf08l6u6uxnz.cloudfront.net
+  - DOMAIN,ds2c506obo7m8.cloudfront.net
+  - DOMAIN,d12jejjhkd2rcw.cloudfront.net
   - DOMAIN,d2d98ykcmmhgd4.cloudfront.net
-  - DOMAIN,d3pxo1qcgzxtxs.cloudfront.net
   - DOMAIN,d2w9q46ikgrcwx.cloudfront.net
   - DOMAIN,d2szps9d05yt90.cloudfront.net
-  - DOMAIN,dnf08l6u6uxnz.cloudfront.net
+  - DOMAIN,d2a45ul8pxjvk7.cloudfront.net
+  - DOMAIN,d3pxo1qcgzxtxs.cloudfront.net
+  - DOMAIN,d3qwwydnxv5vo9.cloudfront.net
   - DOMAIN,wickediptv.xyz
   - DOMAIN-SUFFIX,vpn-cloud.icu
   - DOMAIN-SUFFIX,vivotv.vip
