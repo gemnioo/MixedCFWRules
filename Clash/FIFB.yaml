@@ -57,3 +57,5 @@ payload:
   - IP-CIDR,109.169.0.0/18,no-resolve
   ## North Holland, NL Telkom Internet LTD
   - IP-CIDR,45.140.223.0/24,no-resolve
+  ## Lelystad, Flevoland, Vodafone Group ???
+  - IP-CIDR,194.221.250.0/24,no-resolve
