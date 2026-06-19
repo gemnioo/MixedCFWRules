@@ -47,6 +47,9 @@ payload:
   - DOMAIN-SUFFIX,ottiptv.cc
   #RevenueCat backup solution within GFW
   - DOMAIN,api.rc-backup.com
+  - DOMAIN,growth-img.xhscdn.com
+  - DOMAIN,cdn.99998888.cc
+  - DOMAIN,img.cmvideo.cn
   
   # vod m3u8
   - DOMAIN,heimuer.tv
