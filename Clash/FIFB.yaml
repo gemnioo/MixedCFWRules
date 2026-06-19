@@ -31,6 +31,7 @@ payload:
   - DOMAIN,c377efb7.wurl.com
   - DOMAIN-SUFFIX,wurl.com
   - DOMAIN,jmp2.uk
+  - DOMAIN,stream.cammonitorplus.net
   ## Kórinthos, Peloponnese, GR
   ## Safe Value Limited
   - DOMAIN-SUFFIX,lucastv.pro
@@ -54,3 +55,5 @@ payload:
   - IP-CIDR,23.237.104.0/23,no-resolve
   ## United Kingdom, IOMART CLOUD SERVICES 
   - IP-CIDR,109.169.0.0/18,no-resolve
+  ## North Holland, NL Telkom Internet LTD
+  - IP-CIDR,45.140.223.0/24,no-resolve
