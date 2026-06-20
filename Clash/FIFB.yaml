@@ -62,3 +62,5 @@ payload:
   - IP-CIDR,194.221.250.0/24,no-resolve
   ## Lelystad, Flevoland, NL; AS21524 NovoServe
   - IP-CIDR,45.12.32.0/24,no-resolve
+  ## Los Angeles, California, AS35916
+   IP-CIDR,64.112.42.0/24,no-resolve
