@@ -17,6 +17,7 @@ payload:
   - DOMAIN,d2a45ul8pxjvk7.cloudfront.net
   - DOMAIN,d3pxo1qcgzxtxs.cloudfront.net
   - DOMAIN,d3qwwydnxv5vo9.cloudfront.net
+  - DOMAIN,rocketfx.uk
   - DOMAIN,wickediptv.xyz
   - DOMAIN-SUFFIX,vpn-cloud.icu
   - DOMAIN-SUFFIX,vivotv.vip
@@ -59,3 +60,5 @@ payload:
   - IP-CIDR,45.140.223.0/24,no-resolve
   ## Lelystad, Flevoland, Vodafone Group ???
   - IP-CIDR,194.221.250.0/24,no-resolve
+  ## Lelystad, Flevoland, NL; AS21524 NovoServe
+  - IP-CIDR,45.12.32.0/24,no-resolve
