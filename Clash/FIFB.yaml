@@ -52,8 +52,9 @@ payload:
   - IP-CIDR,148.224.24.0/24,no-resolve
   ## Akamai International B.V.
   - IP-CIDR,23.217.118.0/24,no-resolve
-  ## FDCservers.net
+  ## FDCservers AS30058
   - IP-CIDR,23.237.104.0/23,no-resolve
+  - IP-CIDR,198.255.86.0/23,no-resolve
   ## United Kingdom, IOMART CLOUD SERVICES 
   - IP-CIDR,109.169.0.0/18,no-resolve
   ## North Holland, NL Telkom Internet LTD
