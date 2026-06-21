@@ -30,6 +30,10 @@ payload:
   - DOMAIN,tas02.cws.update.microsoft.com
   # DOMAIN-SUFFIX,update.microsoft.com
 
+  # WebView2 build in
+  # Turn off SmartScreen in Windows Security!!
+  - DOMAIN-SUFFIX,smartscreen.microsoft.com
+
   # Windows 11 debloat script
   - DOMAIN,debloat.raphi.re
 
