@@ -13,11 +13,6 @@ payload:
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
   - DOMAIN,www.acwifi.net
-  - DOMAIN,web.guangdianyun.tv
-  - DOMAIN,bapi.guangdianyun.tv
-  - DOMAIN,golivec.guangdianyun.tv
-  - DOMAIN,privateapi.guangdianyun.tv
-  - DOMAIN-SUFFIX,guangdianyun.tv
 
   # CN DoH List：
   - DOMAIN,dns.alidns.com
