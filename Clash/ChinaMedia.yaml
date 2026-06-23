@@ -50,6 +50,7 @@ payload:
   - DOMAIN,growth-img.xhscdn.com
   - DOMAIN,cdn.99998888.cc
   - DOMAIN,img.cmvideo.cn
+  - DOMAIN-SUFFIX,guangdianyun.tv
   
   # vod m3u8
   - DOMAIN,heimuer.tv
