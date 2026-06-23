@@ -49,6 +49,8 @@ payload:
   - DOMAIN,app.posthog.com
   - DOMAIN,rum.browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN,static-pro.guangdianyun.tv
+  - DOMAIN,static-production.guangdianyun.tv
   - DOMAIN,i.111666.best
   - DOMAIN,fog.22112211.xyz
   - DOMAIN,ap.lijit.com
