@@ -37,6 +37,17 @@ payload:
   - DOMAIN-SUFFIX,play.oris18.com
   - DOMAIN-SUFFIX,qaq.al
 
+  # Fédération Internationale de Football Association
+  - DOMAIN,api.fifa.com
+  - DOMAIN,play.fifa.com
+  - DOMAIN,cxm-api.fifa.com
+  - DOMAIN,digitalhub.fifa.com
+  - DOMAIN-SUFFIX,fifa.com
+  - DOMAIN,assets.pingone.com
+  - DOMAIN,cdn.theoplayer.com
+  - DOMAIN,validate.theoplayer.com
+  - DOMAIN-SUFFIX,theoplayer.com
+  
   # allinone
   - DOMAIN,tinyurl.com
   - DOMAIN,yang-1989.eu.org
