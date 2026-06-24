@@ -33,6 +33,42 @@ IP-CIDR,158.179.176.0/20,Open AI
 IP-CIDR,168.138.192.0/19,Open AI
 IP6-CIDR,2603:c021:800d:8b00::/64,Open AI
 
+# Fédération Internationale de Football Association
+  ## Kórinthos, Peloponnese, GR
+  ## Safe Value Limited
+IP-CIDR,185.160.192.0/24,GMedia
+  ## Paris, Île-de-France, FR
+IP-CIDR,163.172.0.0/16,GMedia
+  ## New York, Datacamp Limited
+IP-CIDR,89.187.176.0/22,GMedia
+  ## Phoenix, Arizona, Litnics, LLC
+IP-CIDR,206.212.246.0/24,GMedia
+  ## Leesburg, Virginia, Litnics, LLC
+IP-CIDR,206.212.244.0/24,GMedia
+  ## AS141718 haoxiangyun
+IP-CIDR,45.155.90.0/24,GMedia
+IP-CIDR,172.110.220.0/24,GMedia
+  ## Amsterdam, North Holland, NimblyNet Limited
+IP-CIDR,148.224.24.0/24,GMedia
+  ## Akamai International B.V.
+IP-CIDR,23.217.118.0/24,GMedia
+  ## FDCservers AS30058
+IP-CIDR,23.237.104.0/23,GMedia
+IP-CIDR,198.255.86.0/23,GMedia
+  ## United Kingdom, IOMART CLOUD SERVICES 
+IP-CIDR,109.169.0.0/18,GMedia
+  ## North Holland, NL Telkom Internet LTD
+IP-CIDR,45.140.223.0/24,GMedia
+  ## Lelystad, Flevoland, Vodafone Group ???
+IP-CIDR,194.221.250.0/24,GMedia
+  ## Lelystad, Flevoland, NL; AS21524 NovoServe
+IP-CIDR,45.12.32.0/24,GMedia
+  ## Los Angeles, California, AS35916
+IP-CIDR,64.112.42.0/24,GMedia
+  ## Amsterdam, North Holland,NL; NimblyNet Limited
+  ## beIN SPORTS MAX feeds
+IP-CIDR,195.128.24.0/24,GMedia
+
 # Tailscale logs and API
 IP-CIDR,199.165.136.0/24,DIRECT
 IP6-CIDR,2606:B740:1::/48,DIRECT
