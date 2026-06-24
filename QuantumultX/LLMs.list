@@ -1,44 +1,75 @@
-#NVIDIA
+# Nvidia
 HOST,build.nvidia.com,Open AI
 HOST,integrate.api.nvidia.com,Open AI
 HOST,api.ngc.nvidia.com,Open AI
 HOST,brand-assets.cne.ngc.nvidia.com,Open AI
 HOST-SUFFIX,ngc.nvidia.com,Open AI
-
+  
 # Gemini
 HOST,labs.google.com,Open AI
 HOST,bard.google.com,Open AI
+HOST,jules.google.com,Open AI
+HOST,flow.google.com,Open AI
 HOST,gemini.google.com,Open AI
+HOST,deepmind.google.com,Open AI
 HOST,alkalicore-pa.clients6.google.com,Open AI
 HOST,alkalimakersuite-pa.clients6.google.com,Open AI
 HOST,alkalimetricsink-pa.clients6.google.com,Open AI
-HOST-SUFFIX,ai.google.dev,Open AI
-HOST-SUFFIX,aistudio.google.com,Open AI
+HOST,g.ai,Open AI
+HOST,ai.dev,Open AI
+HOST,ai.studio,Open AI
+HOST,ai.google.dev,Open AI
+HOST,aistudio.google.com,Open AI
 HOST-SUFFIX,labs.google,Open AI
 HOST-SUFFIX,deepmind.com,Open AI
 HOST-SUFFIX,deepmind.google,Open AI
+HOST,aiplatform.googleapis.com,Open AI
 HOST,generativelanguage.googleapis.com,Open AI
 HOST-SUFFIX,generativelanguage.googleapis.com,Open AI
 HOST-SUFFIX,geller-pa.googleapis.com,Open AI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,Open AI
-HOST-SUFFIX,makersuite.google.com,Open AI
+HOST,makersuite.google.com,Open AI
 HOST-SUFFIX,generativeai.google,Open AI
-
+HOST,gemini.browserbase.com,Open AI
+HOST,stax.withgoogle.com,Open AI
+HOST-SUFFIX,withgoogle.com,Open AI
 HOST,content-developerprofiles-pa.googleapis.com,Open AI
+HOST-SUFFIX,skills.google,Open AI
+HOST,codewiki.google,Open AI
+HOST,gemini.google,Open AI
+HOST,opal.google,Open AI
+HOST-SUFFIX,google,Open AI
+HOST,app.new,Open AI
+
+# Anti-gravity
+HOST,antigravity.google,Open AI
+HOST,antigravity-unleash.goog,Open AI
+HOST,cloudcode-pa.googleapis.com,Open AI
+HOST,daily-cloudcode-pa.googleapis.com,Open AI
+HOST,daily-cloudcode-pa.sandbox.googleapis.com,Open AI
+HOST-SUFFIX,sandbox.googleapis.com,Open AI
+HOST,type.googleapis.com,Open AI
 
 # OpenAI
 HOST,chat.com,Open AI
 HOST,openai.fm,Open AI
-HOST,www.openai.fm,Open AI
-HOST,cookbook.openai.com,Open AI
+HOST,academy.openai.com,Open AI
 HOST,ios.chat.openai.com,Open AI
+HOST,cookbook.openai.com,Open AI
 HOST,android.chat.openai.com,Open AI
 HOST,desktop.chat.openai.com,Open AI
+HOST,evals.openai.com,Open AI
+HOST,auth0.openai.com,Open AI
+HOST-SUFFIX,auth.openai.com,Open AI
 HOST-SUFFIX,openai.com,Open AI
 HOST,operator.chatgpt.com,Open AI
-HOST-SUFFIX,chatgpt.com,Open AI
+HOST,sora-cdn.oaistatic.com,Open AI
 HOST-SUFFIX,oaistatic.com,Open AI
-HOST,files.oaiusercontent.com,Open AI
+HOST,statsigapi.net,Open AI
+HOST,events.statsigapi.net,Open AI
+HOST,api.statsig.com,Open AI
+HOST,api.oaistatsig.com,Open AI
+HOST,files.oaiusercontent.com ,Open AI
 HOST-SUFFIX,oaiusercontent.com,Open AI
 HOST-SUFFIX,identrust.com,Open AI
 HOST,cdn.auth0.com,Open AI
@@ -50,86 +81,109 @@ HOST,openaicomproductionae4b.blob.core.windows.net,Open AI
 HOST,production-openaicom-storage.azureedge.net,Open AI
 # HOST,nexus-websocket-a.intercom.io,Open AI
 HOST,openai-api.arkoselabs.com,Open AI
+HOST,webrtc.chatgpt.com,Open AI
 HOST,chatgpt.livekit.cloud,Open AI
-# ChatGPT voice mode TCP 443 request
+# ChatGPT voice mode TCP 443 request 
 HOST-SUFFIX,turn.livekit.cloud,Open AI
-# ChatGPT voice mode UDP 3478 request 
+# ChatGPT voice mode UDP 3478 request
 HOST-SUFFIX,host.livekit.cloud,Open AI
-HOST,api.statsig.com,Open AI
-HOST,browser-intake-datadoghq.com,Open AI
+HOST-SUFFIX,chatgpt.com,Open AI
+HOST,cdn.openaimerge.com,Open AI
+HOST,images.ctfassets.net,Open AI
+HOST,workos.imgix.net,Open AI
+HOST,setup.workos.com,Open AI
+HOST,forwarder.workos.com,Open AI
+HOST,images.workoscdn.com,Open AI
+HOST,cdn.workos.com,Open AI
+HOST-SUFFIX,ct.sendgrid.net,Open AI
+
+HOST,rum.browser-intake-datadoghq.com,Open AI
+# HOST-SUFFIX,browser-intake-datadoghq.com \\ Real User Monitoring (RUM) data intake from browsers. 
 HOST,prodregistryv2.org,Open AI
 HOST,featureassets.org,Open AI
+HOST-SUFFIX,featuregates.org,Open AI
 # Sora
-HOST,www.sora.com,Open AI
-HOST,sora-cdn.oaistatic.com,Open AI
 HOST-SUFFIX,sora.com,Open AI
 HOST,videos.openai.com,Open AI
+# Open models by OpenAI
+HOST,gpt-oss.com,Open AI
+HOST-SUFFIX,openresponses.org,Open AI
 
-HOST,openaicom.imgix.net,REJECT 
-HOST,o33249.ingest.sentry.io,REJECT
-HOST,o315582.ingest.sentry.io,REJECT
-HOST,o245571.ingest.sentry.io,REJECT
-
-# Stripe and IAP revenuecat
-HOST,js.stripe.com,Open AI  
-HOST,m.stripe.com,Open AI 
-HOST,r.stripe.com,Open AI 
-HOST,api.stripe.com,Open AI 
-HOST,m.stripe.network,Open AI 
-HOST,b.stripecdn.com,Open AI 
+# Stripe IAP revenuecat
+HOST,js.stripe.com ,Open AI
+HOST,m.stripe.com,Open AI
+HOST,r.stripe.com,Open AI
+HOST,api.stripe.com,Open AI
+HOST,m.stripe.network,Open AI
+HOST,b.stripecdn.com,Open AI
 HOST,merchant-ui-api.stripe.com,Open AI
 HOST,stripe-camo.global.ssl.fastly.net,Open AI
-HOST-SUFFIX,stripe.com,Open AI 
-HOST,hcaptcha.com,Open AI 
-HOST,api2.hcaptcha.com,Open AI 
-HOST-SUFFIX,hcaptcha.com,Open AI 
-HOST,api.revenuecat.com,Open AI 
+HOST-SUFFIX,stripe.com,Open AI
+HOST,hcaptcha.com,Open AI
+HOST,api2.hcaptcha.com,Open AI
+HOST-SUFFIX,hcaptcha.com,Open AI
+HOST,api.revenuecat.com,Open AI
 
-# Claude Meta and poe
+# Claude
 HOST,cdn.usefathom.com,Open AI
 HOST,api.anthropic.com,Open AI
 HOST-SUFFIX,claude.ai,Open AI
 HOST-SUFFIX,anthropic.com,Open AI
 HOST,www.claudeusercontent.com,Open AI
 HOST-SUFFIX,claudeusercontent.com,Open AI
+HOST,transformer-circuits.pub,Open AI
+HOST,www.neuronpedia.org,Open AI
+HOST,docs.claude.com,Open AI
+HOST,platform.claude.com,Open AI
+HOST-SUFFIX,claude.com,Open AI
+# Claude iOS app Sift API
 HOST,api3.siftscience.com,Open AI
-
-HOST,o1158394.ingest.us.sentry.io,REJECT
-HOST,o1158394.ingest.us.sentry.io,REJECT
+HOST,agentskills.io,Open AI
+HOST-SUFFIX,skills.sh,Open AI
+# Model Context Protocol (MCP)
+HOST,modelcontextprotocol.io,Open AI
 
 # aws bedrock
 HOST-SUFFIX,console.api.aws,Open AI
 HOST-SUFFIX,notifications.aws.dev,Open AI
 HOST,bedrock.us-east-1.amazonaws.com,Open AI
-HOST,bedrock.us-east-2.amazonaws.com,Open AI
+HOST,bedrock.us-east-2.amazonaws.com,Open AI 
 HOST,bedrock.us-west-2.amazonaws.com,Open AI
 HOST,bedrock-runtime.us-east-1.amazonaws.com,Open AI
-HOST,bedrock-runtime.us-east-2.amazonaws.com,Open AI
+HOST,bedrock-runtime.us-east-2.amazonaws.com,Open AI 
 HOST,bedrock-runtime.us-west-2.amazonaws.com,Open AI
 HOST,bedrock-agent.us-east-1.amazonaws.com,Open AI
 HOST,bedrock-agent.us-west-2.amazonaws.com,Open AI
 HOST,bedrock-agent-runtime.us-east-1.amazonaws.com,Open AI
 HOST,bedrock-agent-runtime.us-west-2.amazonaws.com,Open AI
+HOST-SUFFIX,insight.docs.aws.com,Open AI
+HOST-SUFFIX,us-east-1.api.aws,Open AI
+HOST-SUFFIX,us-west-2.api.aws,Open AI
 
 # Perplexity
-HOST,fscdn.eppo.cloud,Outside
 HOST,api.perplexity.ai,Open AI
 HOST,discover-audio.perplexity.ai,Open AI
 HOST-SUFFIX,perplexity.ai,Open AI
 HOST,pplx-res.cloudinary.com,Open AI
+HOST,fscdn.eppo.cloud,Open AI
+HOST,images.financialmodelingprep.com,Open AI
+HOST,perplexity-ai.cloudflareaccess.com,Open AI
 
 # Mistral
-HOST,chat.mistral.ai,Outside
-HOST,auth.mistral.ai,Outside
-HOST,console.mistral.ai,Outside
-HOST-SUFFIX,mistral.ai,Outside
+HOST,chat.mistral.ai,Open AI
+HOST,auth.mistral.ai,Open AI
+HOST,console.mistral.ai,Open AI
+HOST-SUFFIX,mistral.ai,Open AI
 
-  # Voice
-HOST,api.elevenlabs.io,Outside
-HOST,api.us.elevenlabs.io,Outside
-HOST-SUFFIX,elevenlabs.io,Outside
-HOST,api.cartesia.ai,Outside
-HOST-SUFFIX,cartesia.ai,Outside
+# Voice
+HOST,api.elevenlabs.io,Open AI
+HOST,api.us.elevenlabs.io,Open AI
+HOST-SUFFIX,elevenlabs.io,Open AI
+HOST,api.cartesia.ai,Open AI
+HOST-SUFFIX,cartesia.ai,Open AI
+HOST-SUFFIX,hume.ai,Open AI
+HOST,api.soniox.com,Open AI
+HOST-SUFFIX,soniox.com,Open AI
 
 # Jina
 HOST,segment.jina.ai,Open AI
@@ -137,22 +191,38 @@ HOST,api.jina.ai,Open AI
 HOST,r.jina.ai,Open AI
 HOST,s.jina.ai,Open AI
 HOST,g.jina.ai,Open AI
+HOST,deepsearch.jina.ai,Open AI
 HOST-SUFFIX,jina.ai,Open AI
+HOST,jina-ai-gmbh.ghost.io,Open AI
+HOST,img.spacergif.org,Open AI
 # Search
-HOST,api.exa.ai,Open AI
-HOST-SUFFIX,exa.ai,Open AI
-HOST,api.tavily.com,Open AI
-HOST,docs.tavily.com,Open AI
-HOST-SUFFIX,tavily.com,Open AI
-HOST,api.search.brave.com,Open AI
-# RAG
+HOST,api.exa.ai,Outside
+HOST-SUFFIX,exa.ai,Outside
+HOST,api.instatus.com,Outside
+HOST,api.tavily.com,Outside
+HOST,docs.tavily.com,Outside
+HOST-SUFFIX,tavily.com,Outside
+HOST,api.search.brave.com,Outside
+# Crawler
+HOST,api.firecrawl.dev,Open AI
+HOST-SUFFIX,firecrawl.dev,Open AI
+HOST-SUFFIX,browserless.io,Open AI
+HOST-SUFFIX,search1api.com,Open AI
+# RAGs
 HOST-SUFFIX,cohere.com,Open AI
 HOST,api.voyageai.com,Open AI
 HOST-SUFFIX,voyageai.com,Open AI
 HOST,cloud.llamaindex.ai,Open AI
 HOST-SUFFIX,llamaindex.ai,Open AI
+HOST-SUFFIX,trychroma.com,Open AI
 
+HOST-SUFFIX,langchain.com,Open AI
+HOST-SUFFIX,dspy.ai,Open AI
+# SandBoxes 
+HOST-SUFFIX,e2b.dev,Open AI
+  
 # Cluster
+HOST-SUFFIX,vllm.ai,Open AI
 HOST,api.groq.com,Open AI
 HOST,api.fireworks.ai,Open AI
 HOST-SUFFIX,fireworks.ai,Open AI
@@ -170,13 +240,20 @@ HOST-SUFFIX,nebius.ai,Open AI
 HOST,api.hyperbolic.xyz,Open AI
 HOST-SUFFIX,hyperbolic.xyz,Open AI
 HOST-SUFFIX,lmstudio.ai,Open AI
+HOST,api.cerebras.ai,Open AI
+HOST,inference.cerebras.ai,Open AI
+HOST-SUFFIX,cerebras.ai,Open AI
+HOST-SUFFIX,lambda-url.ap-south-1.on.aws,Open AI
+HOST,ai-gateway.vercel.sh,Open AI
+HOST,inferencemax.ai,Open AI
 
 # Arena
-HOST,web.lmarena.ai,Open AI
-HOST-SUFFIX,lmarena.ai,Open AI
-HOST,artificialanalysis.ai,Open AI
-HOST-SUFFIX,thinkingmachines.aianalysis.ai,Open AI
-
+HOST,web.lmarena.ai,Outside
+HOST-SUFFIX,lmarena.ai,Outside
+HOST,artificialanalysis.ai,Outside
+HOST-SUFFIX,thinkingmachines.ai,Outside
+HOST-SUFFIX,epoch.ai,Outside
+  
 # Hugging Face
 HOST,cdn-avatars.huggingface.co,Open AI
 HOST-SUFFIX,huggingface.co,Open AI
@@ -185,48 +262,97 @@ HOST-SUFFIX,hf.space,Open AI
 HOST-SUFFIX,token.awswaf.com,Open AI
 HOST-SUFFIX,edge.sdk.awswaf.com,Open AI
 HOST,cdn-lfs-us-1.hf.co,Open AI
-HOST,distill.pub,Open AI
-HOST,cdn.plot.ly,Open AI
-
-# IDEs
-HOST,docs.cursor.com,Open AI
+  
+HOST,distill.pub,Outside
+HOST,cdn.plot.ly,Outside
+HOST,olmocr.allenai.org,Outside
+HOST,playground.allenai.org,Outside
+HOST-SUFFIX,allenai.org,Outside
+HOST-SUFFIX,nousresearch.com,Outside
+HOST-SUFFIX,deeplearning.ai,Outside
+HOST-SUFFIX,unsloth.ai,Outside
+HOST,chat.arcee.ai,Outside
+HOST-SUFFIX,arcee.ai,Outside
+HOST-SUFFIX,reflection.ai,Outside
+HOST-SUFFIX,inceptionlabs.ai,Outside
+HOST-SUFFIX,primeintellect.ai,Outside
+  
+# Cursor
+HOST,api2.cursor.sh,Open AI
+HOST,api3.cursor.sh,Open AI
+HOST,api4.cursor.sh,Open AI
+HOST,repo42.cursor.sh,Open AI
+HOST,us-eu.gcpp.cursor.sh,Open AI
+HOST,us-asia.gcpp.cursor.sh,Open AI
+HOST,us-only.gcpp.cursor.sh,Open AI
+HOST,cursor-cdn.com,Open AI
+HOST,marketplace.cursorapi.com,Open AI
+HOST-SUFFIX,cursor.sh,Open AI
 HOST-SUFFIX,cursor.com,Open AI
+# IDEs
 HOST,docs.codeium.com,Open AI
-HOST-SUFFIX,codeium.co,Open AI
+HOST-SUFFIX,codeium.com,Open AI
 HOST,api.github.com,Open AI
 HOST,api.individual.githubcopilot.com,Open AI
 HOST,telemetry.individual.githubcopilot.com,Open AI
 HOST-SUFFIX,individual.githubcopilot.com,Open AI
+HOST,zed.dev,Open AI
+HOST,app.factory.ai,Open AI
+HOST-SUFFIX,factory.ai,Open AI
 # incident.io
-HOST,incident.io,Open AI
-HOST,js.qualified.com,Open AI
-  
+HOST,incident.io,Outside
+HOST,js.qualified.com,Outside
+# black forest lab
+HOST,bfl.ai,Open AI
+HOST,playground.bfl.ai,Open AI
+HOST-SUFFIX,bfl.ai,Open AI
+# Replicate 
+HOST,replicate.com,Open AI
+HOST,www.replicatestatus.com,Open AI
+HOST-SUFFIX,replicate.delivery,Open AI
 
-# Other LLMs
+# Apple Intelligence. docs: https://support.apple.com/zh-cn/101555
+HOST,guzzoni.apple.com,Outside
+HOST-SUFFIX,smoot.apple.com,Outside
+HOST,apple-relay.cloudflare.com,Outside
+HOST,apple-relay.fastly-edge.com,Outside
+HOST,cp4.cloudflare.com,Outside
+HOST,apple-relay.apple.com,Outside
+  
+HOST,gateway.icloud.com,Outside
+HOST,gspe1-ssl.ls.apple.com,Outside
+HOST,apple-relay.akamaized.net,Outside
+HOST,apple-relay.mask.apple-dns.net,Outside
+  
+# Others
+HOST,agi.safe.ai,Open AI
 HOST,api.x.ai,Open AI
 HOST,docs.x.ai,Open AI
 HOST,accounts.x.ai,Open AI
 HOST-SUFFIX,x.ai,Open AI
-HOST-SUFFIX,grok.comm,Open AI
-HOST-SUFFIX,useparagon.com,Open AI
-HOST-SUFFIX,tch.poe.com,Open AI
-HOST-SUFFIX,poe.com,Open AI
-HOST-SUFFIX,cf2.poecdn.net,Open AI
-HOST,ai.meta.com,Open AI
-HOST-SUFFIX,meta.ai,Open AI
-HOST,ai.gitee.com,Open AI
-HOST-SUFFIX,genspark.ai,Open AI
-HOST-SUFFIX,dify.ai,Open AI
-HOST,epoch.ai,Open AI
-HOST-SUFFIX,interconnects.ai,Open AI
-HOST-SUFFIX,reflection.ai,Open AI
-HOST-SUFFIX,inceptionlabs.ai,Open AI
-HOST-SUFFIX,deeplearning.ai,Open AI
-HOST-SUFFIX,unsloth.ai,Open AI
-HOST-SUFFIX,beeai.dev,Open AI
-HOST-SUFFIX,runpulse.com,Open AI
-HOST,diabrowser.engineering,Open AI
-HOST,karpathy.bearblog.dev,Open AI
+HOST-SUFFIX,grok.com,Open AI
+
+HOST-SUFFIX,useparagon.com,Outside
+HOST-SUFFIX,tch.poe.com,Outside
+HOST-SUFFIX,poe.com,Outside
+HOST-SUFFIX,cf2.poecdn.net,Outside
+HOST,ai.meta.com,Outside
+HOST,aidemos.meta.com,Outside
+HOST-SUFFIX,meta.ai,Outside
+HOST,ai.gitee.com,Outside
+HOST-SUFFIX,worldlabs.ai,Outside
+HOST-SUFFIX,dify.ai,Outside
+HOST-SUFFIX,opencode.ai,Outside
+HOST-SUFFIX,mem0.ai,Outside
+HOST-SUFFIX,tryshortcut.ai,Outside
+HOST-SUFFIX,interconnects.ai,Outside
+HOST-SUFFIX,beeai.dev,Outside
+HOST-SUFFIX,granola.ai,Outside
+HOST-SUFFIX,contextarena.ai,Outside
+HOST-SUFFIX,runpulse.com,Outside
+HOST,diabrowser.engineering,Outside
+HOST,karpathy.bearblog.dev,Outside
+
 
 # You.com
 HOST,auth.you.com,Open AI
