@@ -127,7 +127,7 @@ payload:
   - DOMAIN,bbycroft.net
   - DOMAIN,poloclub.github.io
   - DOMAIN-SUFFIX,skillsbench.ai
-  - DOMAIN-SUFFIX.semianalysis.com
+  - DOMAIN-SUFFIX,semianalysis.com
 
 
   # Some LLMs not so restricted for IP
