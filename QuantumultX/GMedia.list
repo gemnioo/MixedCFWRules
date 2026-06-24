@@ -17,15 +17,42 @@ HOST,missav.ai,GMedia
 HOST,fourhoi.com,GMedia
 HOST,client-rapi-missav.recombee.com,GMedia
 
-HOST,oss.rw.bbmmic2.com,Japan
-HOST,gcyivjc.qrneryt.com,Japan
-HOST,newa.yuk.jb-aiwei.cc,Japan
-HOST,erswgeregr.d4s000ejiic.com,Japan
-HOST,d3pxo1qcgzxtxs.cloudfront.net,Japan
-HOST,d12jejjhkd2rcw.cloudfront.net,Japan
-HOST,ds2c506obo7m8.cloudfront.net,Japan
-HOST,3a27f423.wurl.com,Japan
-HOST,jmp2.uk,Japan
+## TV logos
+HOST,images.pluto.tv,GMedia
+HOST-SUFFIX,ibb.co,GMedia
+HOST-SUFFIX,now-tv.com,GMedia
+HOST-SUFFIX,sharewithyou.dpdns.org,GMedia
+HOST-SUFFIX,playouts.now.amagi.tv,GMedia
+HOST,ahhshitherewegoagain.sytes.net,GMedia
+## feeds
+HOST,dnf08l6u6uxnz.cloudfront.net,GMedia
+HOST,ds2c506obo7m8.cloudfront.net,GMedia
+HOST,d12jejjhkd2rcw.cloudfront.net,GMedia
+HOST,d2d98ykcmmhgd4.cloudfront.net,GMedia
+HOST,d2w9q46ikgrcwx.cloudfront.net,GMedia
+HOST,d2szps9d05yt90.cloudfront.net,GMedia
+HOST,d2a45ul8pxjvk7.cloudfront.net,GMedia
+HOST,d3pxo1qcgzxtxs.cloudfront.net,GMedia
+HOST,d3qwwydnxv5vo9.cloudfront.net,GMedia
+HOST,rocketfx.uk,GMedia
+HOST,wickediptv.xyz,GMedia
+HOST-SUFFIX,vpn-cloud.icu,GMedia
+HOST-SUFFIX,vivotv.vip,GMedia
+HOST-SUFFIX,warnermediacdn.com,GMedia
+HOST-SUFFIX,playouts.now.amagi.tv,GMedia
+HOST,nl.utako.moe,GMedia
+HOST,oss.rw.bbmmic2.com,GMedia
+HOST,gcyivjc.qrneryt.com,GMedia
+HOST,newa.yuk.jb-aiwei.cc,GMedia
+HOST,erswgeregr.d4s000ejiic.com,GMedia
+HOST,3a27f423.wurl.com,GMedia
+HOST,c377efb7.wurl.com,GMedia
+HOST-SUFFIX,wurl.com,GMedia
+HOST,jmp2.uk,GMedia
+HOST,stream.cammonitorplus.net,GMedia
+HOST,idabest.danng.me,GMedia
+HOST,802017341873.plus-26.com,GMedia
+HOST-SUFFIX,lucastv.pro,GMedia
 
 HOST,pan.v1.mk,GMedia
 HOST,rptv.v1.mk,GMedia
