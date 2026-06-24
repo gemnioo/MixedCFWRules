@@ -32,6 +32,8 @@ payload:
   - DOMAIN,c377efb7.wurl.com
   - DOMAIN-SUFFIX,wurl.com
   - DOMAIN,jmp2.uk
+  - DOMAIN,redfoxx.vip
+  - DOMAIN,akariko.netgenx.site
   - DOMAIN,stream.cammonitorplus.net
   - DOMAIN,idabest.danng.me
   - DOMAIN,802017341873.plus-26.com
@@ -70,3 +72,5 @@ payload:
   ## Amsterdam, North Holland,NL; NimblyNet Limited
   ## beIN SPORTS MAX feeds
   - IP-CIDR,195.128.24.0/24,no-resolve
+  ## Hwaseong-si, Gyeonggi-do, Korea Telecom
+  - IP-CIDR,115.23.222.106/32,no-resolve
