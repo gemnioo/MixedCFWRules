@@ -319,7 +319,7 @@ HOST,apple-relay.fastly-edge.com,Outside
 HOST,cp4.cloudflare.com,Outside
 HOST,apple-relay.apple.com,Outside
   
-HOST,gateway.icloud.com,Outside
+#HOST,gateway.icloud.com,Outside
 HOST,gspe1-ssl.ls.apple.com,Outside
 HOST,apple-relay.akamaized.net,Outside
 HOST,apple-relay.mask.apple-dns.net,Outside
