@@ -142,7 +142,6 @@ payload:
   - DOMAIN-SUFFIX,skills.sh
   # Model Context Protocol (MCP)
   - DOMAIN,modelcontextprotocol.io
-  - DOMAIN,smithery.ai
 
   # aws bedrock
   - DOMAIN-SUFFIX,console.api.aws
@@ -320,7 +319,7 @@ payload:
   - DOMAIN,cp4.cloudflare.com
   - DOMAIN,apple-relay.apple.com
   
-  - DOMAIN,gateway.icloud.com
+  # DOMAIN,gateway.icloud.com
   - DOMAIN,gspe1-ssl.ls.apple.com 
   - DOMAIN,apple-relay.akamaized.net
   - DOMAIN,apple-relay.mask.apple-dns.net
@@ -347,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,mem0.ai
+  - DOMAIN,smithery.ai
   - DOMAIN-SUFFIX,tryshortcut.ai
   - DOMAIN-SUFFIX,interconnects.ai
   - DOMAIN-SUFFIX,beeai.dev
