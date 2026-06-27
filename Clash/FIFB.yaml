@@ -1,7 +1,11 @@
 ##Collected from the internet! If it infringes copyright! Please contact 
 payload:
   ## TV logos
+  - DOMAIN,i.ibb.co
   - DOMAIN,images.pluto.tv
+  - DOMAIN,prod98.togglestatic.com
+  - DOMAIN,static.wikia.nocookie.net
+  - DOMAIN,upload.wikimedia.org
   - DOMAIN-SUFFIX,ibb.co
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,sharewithyou.dpdns.org
@@ -19,6 +23,7 @@ payload:
   - DOMAIN,d3qwwydnxv5vo9.cloudfront.net
   - DOMAIN,rocketfx.uk
   - DOMAIN,wickediptv.xyz
+  - DOMAIN,atlanticflixtv.online
   - DOMAIN-SUFFIX,vpn-cloud.icu
   - DOMAIN-SUFFIX,vivotv.vip
   - DOMAIN-SUFFIX,warnermediacdn.com
@@ -33,7 +38,7 @@ payload:
   - DOMAIN-SUFFIX,wurl.com
   - DOMAIN,jmp2.uk
   - DOMAIN,redfoxx.vip
-  - DOMAIN,akariko.netgenx.site
+  - DOMAIN,tsb-mega.i9.ee
   - DOMAIN,stream.cammonitorplus.net
   - DOMAIN,idabest.danng.me
   - DOMAIN,802017341873.plus-26.com
