@@ -489,8 +489,19 @@ payload:
   - DOMAIN-SUFFIX,360buy.com
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN-SUFFIX,jcloudcs.com
+  - DOMAIN-SUFFIX,jd.co
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,jdl.com
+  - DOMAIN-SUFFIX,jddj.com
+  - DOMAIN-SUFFIX,vipmro.com
+  - DOMAIN-SUFFIX,7fresh.com
+  - DOMAIN-SUFFIX,jingxi.com
+  - DOMAIN-SUFFIX,jhscm.com
+  - DOMAIN-SUFFIX,jkcsjd.com
+  - DOMAIN-SUFFIX,healthjd.com
+  - DOMAIN-SUFFIX,yiyaojd.com
+  - DOMAIN-SUFFIX,jingdong.com
   - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,jdcloud-oss.com
   - DOMAIN-SUFFIX,jdpay.com
