@@ -638,6 +638,7 @@ payload:
   - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,servicewechat.com
+  - DOMAIN-SUFFIX,wxgateway.com
 
   # Vip 唯品会
   - DOMAIN-SUFFIX,appsimg.com
