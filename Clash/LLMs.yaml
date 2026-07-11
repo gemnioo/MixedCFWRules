@@ -108,6 +108,7 @@ payload:
   # Open models by OpenAI
   - DOMAIN,gpt-oss.com
   - DOMAIN-SUFFIX,openresponses.org
+  - DOMAIn,agents-last-exam.org
 
   # Stripe IAP revenuecat
   - DOMAIN,js.stripe.com 
