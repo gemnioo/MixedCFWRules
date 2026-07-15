@@ -62,6 +62,7 @@ payload:
   - DOMAIN,auth0.openai.com
   - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN,operator.chatgpt.com
   - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN-SUFFIX,oaistatic.com
