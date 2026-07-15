@@ -83,3 +83,5 @@ payload:
   - IP-CIDR,195.128.24.0/24,no-resolve
   ## Hwaseong-si, Gyeonggi-do, Korea Telecom
   - IP-CIDR,115.23.222.106/32,no-resolve
+  ## London, England, DINGLU CO., LIMITED
+  - IP-CIDR,103.175.129.0/24,no-resolve
