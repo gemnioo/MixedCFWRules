@@ -38,15 +38,17 @@ payload:
   - DOMAIN,3a27f423.wurl.com
   - DOMAIN,c377efb7.wurl.com
   - DOMAIN-SUFFIX,wurl.com
-  - DOMAIN,jmp2.uk
-  - DOMAIN,redfoxx.vip
-  - DOMAIN,xe.k-20.xyz
+  - DOMAIN,tsb-mega.i9.ee
   - DOMAIN,stream.cammonitorplus.net
   - DOMAIN,idabest.danng.me
   - DOMAIN,802017341873.plus-26.com
+  - DOMAIN,kan.waiguotai.top
+  - DOMAIN,watch.yingyujieshuo.top
+  - DOMAIN,cdn.staticres.top
+  - DOMAIN,atlanticflixtv.online
   ## Kórinthos, Peloponnese, GR
   ## Safe Value Limited
-  - DOMAIN-SUFFIX,lucastv.pro
+  - DOMAIN,10k.lucastv.pro
   - IP-CIDR,185.160.192.0/24,no-resolve
   ## Paris, Île-de-France, FR
   - IP-CIDR,163.172.0.0/16,no-resolve
