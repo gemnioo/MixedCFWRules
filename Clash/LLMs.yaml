@@ -132,7 +132,6 @@ payload:
   - DOMAIN,api.anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN,www.claudeusercontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN,transformer-circuits.pub
   - DOMAIN,www.neuronpedia.org
