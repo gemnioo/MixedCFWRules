@@ -80,6 +80,7 @@ payload:
   - DOMAIN,fireoscaptiveportal.com
   - DOMAIN,firetvcaptiveportal.com
   - DOMAIN-SUFFIX,service.amazonsilk.com
+  - DOMAIN-SUFFIX,services.firetv.amazon.dev
   - DOMAIN-SUFFIX,prime-video.amazon.dev
   - DOMAIN-SUFFIX,imdbtv.amazon.dev
   - DOMAIN-SUFFIX,imdbtv-services.amazon.dev
@@ -118,6 +119,7 @@ payload:
   - DOMAIN,unagi-na.amazon.com
   - DOMAIN,podiumedgeservice.amazon.com
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
+  - DOMAIN,notify.aca.ftv.bugsnag.appstore.a2z.com
   - DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
   - DOMAIN,keyboard.amazonfiretvapp.com
   - DOMAIN,session-manager-na.amazonfiretvapp.com
