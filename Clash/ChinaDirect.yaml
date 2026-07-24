@@ -115,6 +115,8 @@ payload:
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,space-z.ai
   - DOMAIn-SUFFIX,chatglm.cn
+  - DOMAIN,artifacts-cdn.chatglm.site
+  - DOMAIN-SUFFIX,chatglm.site
   - DOMAIN,open.bigmodel.cn
   - DOMAIN,docs.bigmodel.cn
   - DOMAIN-SUFFIX,bigmodel.cn
