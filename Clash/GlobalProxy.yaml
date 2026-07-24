@@ -128,6 +128,7 @@ payload:
   - DOMAIN,poloclub.github.io
   - DOMAIN-SUFFIX,skillsbench.ai
   - DOMAIN-SUFFIX,semianalysis.com
+  - DOMAIN-SUFFIX,viksnewsletter.com
 
 
   # Some LLMs not so restricted for IP
