@@ -105,6 +105,9 @@ payload:
   - DOMAIN-SUFFIX,wan.video
   - DOMAIN,api.qianwen.com
   - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN,qwenwork.cn
+  - DOMAIN,www.workbuddy.cn
+  - DOMAIN,www.codebuddy.cn
   - DOMAIN,www.kimi.com
   - DOMAIN-SUFFIX,ok.kimi.link
   - DOMAIN-SUFFIX,moonshot.cn
