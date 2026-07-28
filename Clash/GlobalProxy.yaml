@@ -129,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,skillsbench.ai
   - DOMAIN-SUFFIX,semianalysis.com
   - DOMAIN-SUFFIX,viksnewsletter.com
+  - DOMAIN-SUFFIX,skilljar.com
 
 
   # Some LLMs not so restricted for IP
