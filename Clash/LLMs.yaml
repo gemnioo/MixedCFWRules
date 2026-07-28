@@ -142,6 +142,8 @@ payload:
   - DOMAIN,api3.siftscience.com
   - DOMAIN,agentskills.io
   - DOMAIN-SUFFIX,skills.sh
+  # Skilljar Academy
+  - DOMAIN,anthropic.skilljar.com
   # Model Context Protocol (MCP)
   - DOMAIN,modelcontextprotocol.io
 
