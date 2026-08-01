@@ -185,7 +185,10 @@ payload:
   - DOMAIN,apic.ohmygpt.com
   - DOMAIN-SUFFIX,ohmygpt.com
   - DOMAIN,apic1.ohmycdn.com
+  - DOMAIN,verified.ohmycdn.com
   - DOMAIN-SUFFIX,ohmycdn.com
+  - DOMAIN-SUFFIX,basemaps.cartocdn.com
+  - DOMAIN,web.vooo.win
   - DOMAIN,pi.dogenet.work
   - DOMAIN,api.daheiai.com
   - DOMAIN,getsapi.net
