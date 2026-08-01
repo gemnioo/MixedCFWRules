@@ -60,6 +60,9 @@ payload:
   - DOMAIN,fog.22112211.xyz
   - DOMAIN,ap.lijit.com
   - DOMAIN,hb.minutemedia-prebid.com
+  - DOMAIN,delivery.promo.airasia.com
+  - DOMAIN,static.airasia.com
+  - DOMAIN,static.firecore.com
   
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
