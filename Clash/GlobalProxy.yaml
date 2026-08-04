@@ -125,6 +125,7 @@ payload:
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,openreview.online
   - DOMAIN,bbycroft.net
+  - DOMAIN-SUFFIX,innei.in
   - DOMAIN,poloclub.github.io
   - DOMAIN-SUFFIX,skillsbench.ai
   - DOMAIN-SUFFIX,semianalysis.com
