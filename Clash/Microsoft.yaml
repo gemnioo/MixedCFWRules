@@ -25,9 +25,10 @@ payload:
   # Windows RDP from macOS
   - DOMAIN,mobile.events.data.microsoft.com
 
-  # Windows Store
+  # Microsoft Store
   - DOMAIN,tas01.cwsapp.update.microsoft.com
   - DOMAIN,tas02.cws.update.microsoft.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
   # DOMAIN-SUFFIX,update.microsoft.com
 
   # WebView2 build in
