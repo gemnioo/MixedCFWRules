@@ -32,6 +32,7 @@ payload:
   - DOMAIN,claw.cloud
   - DOMAIN,docs.dler.io 
   # DOMAIN,www.nodeseek.com
+  - DOMAIN,www.kaucim.ai
   - DOMAIN,bilin.ai
   - DOMAIN,epg.v1.mk
   - DOMAIN,v1.mk
