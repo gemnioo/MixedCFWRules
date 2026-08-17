@@ -200,6 +200,7 @@ payload:
   - DOMAIN,cdn.apifox.com
   - DOMAIN-SUFFIX,apifox.cn
   - DOMAIN,wmimg.com
+  - DOMAIN,980525.xyz
   - DOMAIN-SUFFIX,aigcbest.top
   - DOMAIN-SUFFIX,aigc369.com
   - DOMAIN,api.openai-proxy.org
