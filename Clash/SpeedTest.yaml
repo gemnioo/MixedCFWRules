@@ -17,6 +17,8 @@ payload:
   # DOMAIN,whois.pconline.com.cn
   # DOMAIN,forge.speedtest.cn
   # DOMAIN,api.ttt.sh
+  - DOMAIN,git.yylx.win
+  - DOMAIN,ghfast.top
   - DOMAIN,api.ipify.org
   - DOMAIN,api-ipv4.ip.sb
   - DOMAIN,qqwry.api.skk.moe
