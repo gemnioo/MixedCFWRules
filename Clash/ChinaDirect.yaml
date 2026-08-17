@@ -22,6 +22,15 @@ payload:
   - IP-CIDR,1.12.12.12/32,no-resolve
   - IP-CIDR,120.53.53.53/32,no-resolve
   - DOMAIN,doh.apad.pro
+
+  # Goofish/Xianyu China Unicom East accelerate
+  - DOMAIN,px.effirst.com
+  - IP-CIDR,123.156.199.0/24,no-resolve
+  - IP-CIDR,114.112.215.0/24,no-resolve
+  - IP-CIDR,101.71.172.0/24,no-resolve
+  - DOMAIN,alilang-intranet.alibaba-inc.com
+  - IP-CIDR,203.209.243.0/24,no-resolve
+  - IP-CIDR,59.82.33.0/24,,no-resolve
   
   # OpenClash console test
   - DOMAIN,s1.music.126.net
@@ -499,12 +508,16 @@ payload:
   - DOMAIN-SUFFIX,qy.net
 
   # JD
+  - DOMAIN,wl.jd.com
+  - DOMAIN,hermes.jd.com
+  - DOMAIN,neptune.jd.com
   - DOMAIN-SUFFIX,360buy.com
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN-SUFFIX,jcloudcs.com
   - DOMAIN-SUFFIX,jd.co
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,jdh.com
   - DOMAIN-SUFFIX,jdl.com
   - DOMAIN-SUFFIX,jddj.com
   - DOMAIN-SUFFIX,vipmro.com
@@ -515,6 +528,8 @@ payload:
   - DOMAIN-SUFFIX,healthjd.com
   - DOMAIN-SUFFIX,yiyaojd.com
   - DOMAIN-SUFFIX,jingdong.com
+  - DOMAIN-SUFFIX,jddaojia.shop
+  - DOMAIN-SUFFIX,unlimithealth.com
   - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,jdcloud-oss.com
   - DOMAIN-SUFFIX,jdpay.com
@@ -649,6 +664,7 @@ payload:
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN,cube.weixinbridge.com
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,servicewechat.com
   - DOMAIN-SUFFIX,wxgateway.com
