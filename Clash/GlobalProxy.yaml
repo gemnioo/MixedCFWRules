@@ -203,6 +203,10 @@ payload:
   - DOMAIN,aiberm.com
   - DOMAIN,meiguo.app
   - DOMAIN-SUFFIX,ausdif.vip
+  - DOMAIN,docs.apiyi.com
+  - DOMAIN,imagen.apiyi.com
+  - DOMAIN,api.simplesvg.com
+  - DOMAIN,cdn.tailwindcss.com
   
   - DOMAIN-SUFFIX,alma.now
   - DOMAIN,mem.nowledge.co
@@ -437,6 +441,7 @@ payload:
   - DOMAIN,blog.ryouissei.com
   - DOMAIN,taresky.com
   - DOMAIN,www.byvoid.com
+  - DOMAIN,blog.zhouyiran.link
   - DOMAIN,thesweetsetup.com
   - DOMAIN,blog.farmostwood.net
   - DOMAIN,www.iyouport.org
