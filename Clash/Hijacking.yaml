@@ -56,6 +56,7 @@ payload:
   - DOMAIN,browser-intake-ap1-datadoghq.com
   - DOMAIN,browser-intake-ap2-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN,prefecturesuggestions.com
   - DOMAIN,i.111666.best
   - DOMAIN,fog.22112211.xyz
   - DOMAIN,ap.lijit.com
@@ -157,7 +158,7 @@ payload:
   # GouDong
   - DOMAIN,skdisplay.jd.com
   - DOMAIN-SUFFIX,dns.jd.com
-  - DOMAIN-SUFFIX,wl.jd.com
+  # DOMAIN-SUFFIX,wl.jd.com
 
   # Meituan
   - DOMAIN,adgame.waimai.meituan.com
