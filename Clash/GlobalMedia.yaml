@@ -19,6 +19,10 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,cdn.plyr.io
   - DOMAIN-SUFFIX,mushroomtrack.com
+  - DOMAIN,icdn.123av.me
+  - DOMAIN,javplayer.cc
+  - DOMAIN-SUFFIX,123av.com
+  - DOMAIN-SUFFIX,wowstream.cloud
   - DOMAIN,cdp.livedoor.com
   - DOMAIN,parts.blog.livedoor.jp
   - DOMAIN,livedoor.blogimg.jp
