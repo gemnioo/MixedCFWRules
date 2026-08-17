@@ -203,6 +203,7 @@ payload:
   - DOMAIN,aiberm.com
   - DOMAIN,meiguo.app
   - DOMAIN-SUFFIX,ausdif.vip
+  - DOMAIN,openaius.com
   - DOMAIN,docs.apiyi.com
   - DOMAIN,imagen.apiyi.com
   - DOMAIN,api.simplesvg.com
@@ -852,6 +853,7 @@ payload:
   - DOMAIN-SUFFIX,dribbble.com
   - DOMAIN-SUFFIX,droplr.com
   - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,duckduckgo.org
   - DOMAIN-SUFFIX,dueapp.com
   - DOMAIN-SUFFIX,dw.com
   - DOMAIN-SUFFIX,easybib.com
