@@ -362,6 +362,7 @@ payload:
   # Intercom Customer sevice
   - DOMAIN,api-iam.intercom.io
   - DOMAIN,widget.intercom.io
+  - DOMAIN,nexus-websocket-a.intercom.io
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN,js.intercomcdn.com
   - DOMAIN,downloads.intercomcdn.com
@@ -370,7 +371,6 @@ payload:
   - DOMAIN,www.intercom-reporting.com
   - DOMAIN,static.intercomassets.com
   - DOMAIN,intercom.help
-  - DOMAIN,nexus-websocket-a.intercom.io
   
   # Decagon support
   - DOMAIN,decagon.ai
