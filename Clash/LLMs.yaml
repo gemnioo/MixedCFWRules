@@ -130,6 +130,9 @@ payload:
   # Claude
   - DOMAIN,cdn.usefathom.com
   - DOMAIN,api.anthropic.com
+  - DOMAIN,a-api.anthropic.com
+  - DOMAIN,s-cdn.anthropic.com
+  - DOMAIN,assets-proxy.anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claudeusercontent.com
