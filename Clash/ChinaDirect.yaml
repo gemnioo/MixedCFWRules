@@ -121,6 +121,10 @@ payload:
   # DOMAIN,platform-home.qianwenai.com
   - DOMAIN,qianwenai.com
   - DOMAIN-SUFFIX,alyasset.com
+  - DOMAIN,aistudio.tencent.com
+  - DOMAIN,hy.tencent.com
+  - DOMAIN,aistudio.tencent.ai
+  - DOMAIN,hy.tencent.ai
   - DOMAIN,www.workbuddy.cn
   - DOMAIN,www.codebuddy.cn
   - DOMAIN,www.kimi.com
