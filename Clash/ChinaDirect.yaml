@@ -124,7 +124,7 @@ payload:
   - DOMAIN,aistudio.tencent.com
   - DOMAIN,hy.tencent.com
   - DOMAIN,aistudio.tencent.ai
-  - DOMAIN,hy.tencent.ai
+  - DOMAIN-SUFFIX,hy.tencent.ai
   - DOMAIN,www.workbuddy.cn
   - DOMAIN,www.codebuddy.cn
   - DOMAIN,www.kimi.com
