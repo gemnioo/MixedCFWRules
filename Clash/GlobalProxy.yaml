@@ -112,7 +112,10 @@ payload:
   - DOMAIN-SUFFIX,producthunt.com
   - DOMAIN,blog.langchain.com
   - DOMAIN,lucumr.pocoo.org
+  - DOMAIN,simonwillison.net
+  - DOMAIN,static.simonwillison.net
   - DOMAIN,til.simonwillison.net
+  - DOMAIN-SUFFIX,simonw.chatgpt.site
   - DOMAIN,cchistory.mariozechner.at
   - DOMAIN-SUFFIX,dbreunig.com
   - DOMAIN-SUFFIX,nilenso.com
@@ -469,8 +472,6 @@ payload:
   - DOMAIN,cdn.runrepeat.com
   - DOMAIN,assets.runrepeat.com
   - DOMAIN-SUFFIX,runrepeat.com
-  - DOMAIN,simonwillison.net
-  - DOMAIN,static.simonwillison.net
   - DOMAIN,blog.pragmaticengineer.com
   - DOMAIN,giginet.hateblo.jp
   - DOMAIN,every.to
