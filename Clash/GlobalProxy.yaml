@@ -649,6 +649,8 @@ payload:
   - DOMAIN,stun.l.google.com
   - DOMAIN,voice.telephony.goog
 
+  # > Vertex AI search API 
+  - DOMAIN,vertexaisearch.cloud.google.com
   # > Chrome Browser
   - DOMAIN,www.google.com
   - DOMAIN,www.google.com.hk
