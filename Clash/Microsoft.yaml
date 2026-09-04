@@ -385,7 +385,7 @@ payload:
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,bingsettingssearch.trafficmanager.net
   - DOMAIN,vscode.search.windows.net
-  - DOMAIN,raw.githubusercontent.com
+  # DOMAIN,raw.githubusercontent.com
   - DOMAIN,vsmarketplacebadges.dev
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN,vscode.download.prss.microsoft.com
