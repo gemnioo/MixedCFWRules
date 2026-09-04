@@ -61,6 +61,7 @@ payload:
   - DOMAIN,notepad-plus-plus.org
   - DOMAIN,sing-box.sagernet.org
   - DOMAIN,unpkg.com
+  - DOMAIN,brew.sh
   - DOMAIN,wiki.metacubex.one
   - DOMAIN,manual.nssurge.com
   - DOMAIN,community.nssurge.com
@@ -136,7 +137,12 @@ payload:
   - DOMAIN-SUFFIX,viksnewsletter.com
   - DOMAIN-SUFFIX,skilljar.com
 
-
+  # webpage docs blogs CDNs
+  - DOMAIN,images.ctfassets.net
+  - DOMAIN,assets.ctfassets.net
+  - DOMAIN,downloads.ctfassets.net
+  - DOMAIN-SUFFIX,ctfassets.net
+  
   # Some LLMs not so restricted for IP
   - DOMAIN,linux.do
   - DOMAIN,check.linux.do
