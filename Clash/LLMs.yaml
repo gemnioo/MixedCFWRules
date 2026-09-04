@@ -91,7 +91,6 @@ payload:
   - DOMAIN,learn.chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN,cdn.openaimerge.com
-  - DOMAIN,images.ctfassets.net
   - DOMAIN,workos.imgix.net
   - DOMAIN,setup.workos.com
   - DOMAIN,forwarder.workos.com
@@ -133,6 +132,7 @@ payload:
   - DOMAIN,a-api.anthropic.com
   - DOMAIN,s-cdn.anthropic.com
   - DOMAIN,assets-proxy.anthropic.com
+  - DOMAIN,assets.claude.ai
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claudeusercontent.com
