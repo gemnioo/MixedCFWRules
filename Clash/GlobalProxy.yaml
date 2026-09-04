@@ -167,6 +167,9 @@ payload:
   - DOMAIN,dorian.qaq.wiki
   - DOMAIN,apps.qaq.wiki
   - DOMAIN,marginlab.ai
+  - DOMAIN,api.b.ai
+  - DOMAIN-SUFFIX,b.ai
+  - DOMAIN-SUFFIX,bankofai.io
 
   - DOMAIN,ipapi.co
   - DOMAIN-SUFFIX,intent-systems.com
