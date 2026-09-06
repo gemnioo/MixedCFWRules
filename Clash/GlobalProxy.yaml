@@ -62,6 +62,7 @@ payload:
   - DOMAIN,sing-box.sagernet.org
   - DOMAIN,unpkg.com
   - DOMAIN,brew.sh
+  - DOMAIN,analytics.brew.sh
   - DOMAIN,wiki.metacubex.one
   - DOMAIN,manual.nssurge.com
   - DOMAIN,community.nssurge.com
