@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,1ms.run
   - DOMAIN,ny.lala.gg
   - DOMAIN,www.acwifi.net
+  - DOMAIN,zh.omarchy.org
 
   # CN DoH List：
   - DOMAIN,dns.alidns.com
