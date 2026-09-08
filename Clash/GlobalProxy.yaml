@@ -58,6 +58,7 @@ payload:
   - DOMAIN,search.saveweb.org
 
   # Maunal
+  - DOMAIN-SUFFIX,omarchy.org
   - DOMAIN,notepad-plus-plus.org
   - DOMAIN,sing-box.sagernet.org
   - DOMAIN,unpkg.com
