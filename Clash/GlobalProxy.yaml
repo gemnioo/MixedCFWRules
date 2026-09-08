@@ -187,6 +187,8 @@ payload:
   - DOMAIN,openrouter.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,client.protect.clerk.com
+  - DOMAIN,cdn.protect.clerk.com
+  - DOMAIN,api.dicebear.com
   - DOMAIN,litellm.ai
   - DOMAIN,docs.litellm.ai
   - DOMAIN-SUFFIX,factory.ai
