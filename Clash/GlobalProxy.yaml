@@ -59,6 +59,7 @@ payload:
 
   # Maunal
   - DOMAIN-SUFFIX,omarchy.org
+  - DOMAIN,herdr.dev
   - DOMAIN,notepad-plus-plus.org
   - DOMAIN,sing-box.sagernet.org
   - DOMAIN,unpkg.com
