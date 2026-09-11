@@ -42,6 +42,24 @@ payload:
   - DOMAIN,whois.pconline.com.cn
   - DOMAIN,forge.speedtest.cn
 
+  # OpenClash core update fetch
+  - DOMAIN,ghfast.top
+  - DOMAIN,git.yylx.win
+  - DOMAIN,cdn.akaere.online
+  - DOMAIN,gh.jasonzeng.dev
+  - DOMAIN,ghproxy.monkeyray.net
+  - DOMAIN,down.mxw.xx.kg
+  - DOMAIN,github.tbap.top
+  - DOMAIN,ghm.078465.xyz
+  - DOMAIN,gh.monlor.com
+  - DOMAIN,gh.idayer.com
+  # Github Acce
+  - DOMAIN,ghp.ci
+  - DOMAIN,ghgo.xyz
+  - DOMAIN,ghproxy.com
+  - DOMAIN,gh-proxy.com
+  # DOMAIN,ghp.p3terx.com
+  
   # ImmortalWrt mirror
   - DOMAIN,immortalwrt.kyarucloud.moe
   - DOMAIN,mirrors.vsean.net
@@ -54,12 +72,7 @@ payload:
   - DOMAIN-SUFFIX,w.cdngslb.com
   - DOMAIN-SUFFIX,w.kunluncan.com
   - DOMAIN-SUFFIX,com.wsdvs.com
-  # Github Acce
-  - DOMAIN,ghp.ci
-  - DOMAIN,ghgo.xyz
-  - DOMAIN,ghproxy.com
-  - DOMAIN,gh-proxy.com
-  - DOMAIN,ghp.p3terx.com
+
   # Docker Pull
   - DOMAIN,docker.1ms.run
   - DOMAIN,docker.1panel.dev
