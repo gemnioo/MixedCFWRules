@@ -64,7 +64,11 @@ payload:
   - DOMAIN,delivery.promo.airasia.com
   - DOMAIN,static.airasia.com
   - DOMAIN,static.firecore.com
-  
+
+  # Apple’s iadsdk
+  - DOMAIN,ca.iadsdk.apple.com
+  - DOMAIN,cf.iadsdk.apple.com
+  - DOMAIN-SUFFIX,iadsdk.apple.com
   # Content farm
   - DOMAIN-SUFFIX,freeclashnode.com
   - DOMAIN-SUFFIX,clashyun.com
