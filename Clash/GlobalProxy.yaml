@@ -171,6 +171,8 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,manus.computer
   # DOMAIN,app.posthog.com \\tracking user events and behavior.
+  - DOMAIN,cdn.youmindassets.com
+  - DOMAIN-SUFFIX,youmind.com
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN-SUFFIX,flowdown.ai
   - DOMAIN-SUFFIX,miromind.ai
