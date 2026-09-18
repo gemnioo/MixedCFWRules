@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,google
   - DOMAIN,app.new
   # Anti-gravity
+  - DOMAIN,code.trygravity.ai
   - DOMAIN,antigravity.google
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,cloudcode-pa.googleapis.com
