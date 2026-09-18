@@ -88,6 +88,14 @@ payload:
   - DOMAIN-SUFFIX,erebor.douban.com
   - DOMAIN-SUFFIX,push.douban.com
 
+  # Exa search blog tracking
+  - DOMAIN,code.trygravity.ai
+  - DOMAIN,api.trygravity.ai
+  - DOMAIN,cdn.cr-relay.com
+  - DOMAIN,pixel-cdn.default.com
+  - DOMAIN,js-na2.hs-analytics.net
+  - DOMAIN,js-na2.hscollectedforms.net
+
   # Xiaohongshu
   - DOMAIN-SUFFIX,t-ads.xiaohongshu.com
   - DOMAIN-SUFFIX,crash.xiaohongshu.com
