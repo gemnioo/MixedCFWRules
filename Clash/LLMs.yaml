@@ -318,6 +318,9 @@ payload:
   - DOMAIN,replicate.com
   - DOMAIN,www.replicatestatus.com
   - DOMAIN-SUFFIX,replicate.delivery
+  # Jev
+  - DOMAIN,api.typesafe.ai
+  - DOMAIN-SUFFIX,typesafe.ai
 
   # Apple Intelligence. docs: https://support.apple.com/zh-cn/101555
   - DOMAIN,guzzoni.apple.com
