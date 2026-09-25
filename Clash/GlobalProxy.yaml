@@ -148,6 +148,7 @@ payload:
   - DOMAIN-SUFFIX,ctfassets.net
   
   # Some LLMs not so restricted for IP
+  - DOMAIN,priceai.cc
   - DOMAIN,linux.do
   - DOMAIN,check.linux.do
   - DOMAIN,status.linux.do
