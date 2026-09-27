@@ -115,6 +115,8 @@ payload:
   - DOMAIN,status.deepseek.com
   - DOMAIN,platform.deepseek.com
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN,files.deepseeksvc.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN,api.bochaai.com
   - DOMAIN-SUFFIX,bochaai.com
   - DOMAIN,ofa.obriccloud.com
@@ -189,7 +191,6 @@ payload:
   # DOMAIN-SUFFIX,minimax.io
   - DOMAIN,agent.minimax.com
   - DOMAIN-SUFFIX,minimax.com
-
   - DOMAIN,filecdn.minimax.chat
   - DOMAIN,www.minimaxi.com
   - DOMAIN,api.minimaxi.com
@@ -258,7 +259,6 @@ payload:
   - DOMAIN-SUFFIX,opapi.win
   - DOMAIN-SUFFIX,dogenet.win
 
-
   - DOMAIN,302.ai
   - DOMAIN,api.302.ai
   - DOMAIN-SUFFIX,302.ai
@@ -274,6 +274,8 @@ payload:
   - DOMAIN,docs.x-aio.com
   - DOMAIN,api.x-aio.com
   - DOMAIN-SUFFIX,x-aio.com
+  - DOMAIN,smzdm.soboten.com
+  - DOMAIN-SUFFIX,soboten.com
 
   - DOMAIN,www.latepost.com
 
@@ -977,6 +979,7 @@ payload:
   - DOMAIN-SUFFIX,shumilou.net
   - DOMAIN-SUFFIX,simplecd.me
   - DOMAIN-SUFFIX,smzdm.com
+  - DOMAIN-SUFFIX,zdmimg.com
   - DOMAIN-SUFFIX,snwx.com
   - DOMAIN-SUFFIX,soufunimg.com
   - DOMAIN-SUFFIX,sspai.com
