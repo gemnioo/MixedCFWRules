@@ -20,6 +20,7 @@ payload:
   - DOMAIN,api.codetabs.com
   - DOMAIN,seedhub.cc
   - DOMAIN,www.deepflood.com
+  - DOMAIN-SUFFIX,swftgr.cn
 
   # IPTV
   - DOMAIN-SUFFIX,cmdns.xyz
