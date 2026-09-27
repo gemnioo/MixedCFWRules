@@ -349,6 +349,7 @@ payload:
   - DOMAIN-SUFFIX,tch.poe.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,cf2.poecdn.net
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN,ai.meta.com
   - DOMAIN,aidemos.meta.com
   - DOMAIN-SUFFIX,meta.ai
