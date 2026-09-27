@@ -565,6 +565,8 @@ payload:
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN,assets.thecontentserver.com
+  - DOMAIN,cnb.cx
+  - DOMAIN-SUFFIX,cnbc.com
 
   - DOMAIN-SUFFIX,captcha-delivery.com
   - DOMAIN-SUFFIX,barrons.com
