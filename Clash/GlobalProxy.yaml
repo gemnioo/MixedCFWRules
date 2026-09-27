@@ -18,6 +18,10 @@ payload:
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,awxcdn.com
   - DOMAIN-SUFFIX,accuweather.com
+  # Japan delivery services
+  - DOMAIN-SUFFIX,kuronekoyamato.co.jp
+  - DOMAIN,www.aymannadeem.com
+  - DOMAIN,www.yamato-hd.co.jp
 
   - DOMAIN,wh.gov
   - DOMAIN,www.whitehouse.gov
