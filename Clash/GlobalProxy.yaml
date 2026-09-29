@@ -171,6 +171,7 @@ payload:
   - DOMAIN,api.fish.audio
   - DOMAIN-SUFFIX,fish.audio
   - DOMAIN-SUFFIX,monica.im
+  - DOMAIN-SUFFIX,cue.im
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-SUFFIX,manus.space
   - DOMAIN-SUFFIX,manuscdn.com
