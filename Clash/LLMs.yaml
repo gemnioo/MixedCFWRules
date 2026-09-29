@@ -342,6 +342,7 @@ payload:
   - DOMAIN,accounts.x.ai
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN,dot.com
   - DOMAIN,auth.you.com
   - DOMAIN,cdn.you.com
   - DOMAIN-SUFFIX,you.com
