@@ -18,6 +18,7 @@ payload:
   - DOMAIN,crm.leyifan.cn
   - DOMAIN,mall.leyifan.com
   - DOMAIN-SUFFIX,leyifan.cn
+  - DOMAIN,app-api.yangjibao.comapp_config
 
   # CN DoH List：
   - DOMAIN,dns.alidns.com
