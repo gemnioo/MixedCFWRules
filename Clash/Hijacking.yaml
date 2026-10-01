@@ -64,6 +64,10 @@ payload:
   - DOMAIN,delivery.promo.airasia.com
   - DOMAIN,static.airasia.com
   - DOMAIN,static.firecore.com
+  - DOMAIN,tk.statisticslinks.com
+  - DOMAIN,da.statisticslinks.com
+  - DOMAIN,adx-micro.statisticslinks.com
+  - DOMAIN-SUFFIX,g.doubleclick-cn.net
 
   # Apple’s iadsdk
   - DOMAIN,ca.iadsdk.apple.com
