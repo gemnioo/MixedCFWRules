@@ -134,6 +134,7 @@ payload:
   - DOMAIN,assets-proxy.anthropic.com
   - DOMAIN,assets.claude.ai
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN,transformer-circuits.pub
