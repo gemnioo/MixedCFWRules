@@ -188,6 +188,7 @@ payload:
   - DOMAIN-SUFFIX,lightvela.com
   - DOMAIN,jimeng.jianying.com
   - DOMAIN-SUFFIX,jianying.com
+  - DOMAIN-SUFFIX,todayai.cn
   
   # DOMAIN,chat.minimax.io
   # DOMAIN,api.minimax.io
