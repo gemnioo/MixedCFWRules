@@ -151,7 +151,7 @@ payload:
   - DOMAIN,www.kimi.com
   - DOMAIN-SUFFIX,ok.kimi.link
   - DOMAIN-SUFFIX,moonshot.cn
-  - DOMAIN,chat.z.ai
+  - DOMAIN,zchat.z.ai
   - DOMAIN,image.z.ai
   - DOMAIN,audio.z.ai
   - DOMAIN,ocr.z.ai
