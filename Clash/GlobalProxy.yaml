@@ -66,6 +66,7 @@ payload:
   - DOMAIN,herdr.dev
   - DOMAIN,notepad-plus-plus.org
   - DOMAIN,sing-box.sagernet.org
+  - DOMAIN-SUFFIX,riverleaf.dev
   - DOMAIN,unpkg.com
   - DOMAIN,brew.sh
   - DOMAIN,analytics.brew.sh
