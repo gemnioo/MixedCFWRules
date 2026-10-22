@@ -399,6 +399,7 @@ payload:
   - DOMAIN,img.shields.io
   - DOMAIN-SUFFIX,services.visualstudio.com
   - DOMAIN,transcend-cdn.com
+  - DOMAIN-SUFFIX,sls.update.microsoft.com
 
 
   # > Microsoft XiaoBing
