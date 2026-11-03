@@ -380,6 +380,7 @@ payload:
   - DOMAIN,code.visualstudio.com
   - DOMAIN,go.microsoft.com
   - DOMAIN,marketplace.visualstudio.com
+  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN-SUFFIX,gallery.vsassets.io
   - DOMAIN-SUFFIX,gallerycdn.vsassets.io
   - DOMAIN,rink.hockeyapp.net
