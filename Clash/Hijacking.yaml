@@ -299,6 +299,12 @@ payload:
   - DOMAIN,lofter.httpdns.c.163.com
   - DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
   # BiliBili
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+  - DOMAIN-SUFFIX,mcdn.bilivideo.com
+  - DOMAIN-SUFFIX,ppio.bilivideo.com
+  - DOMAIN-SUFFIX,kodo.bilivideo.com
+  - DOMAIN-SUFFIX,szbdyd.com
+  - DOMAIN-SUFFIX,mountaintoys.cn
   - DOMAIN-SUFFIX,httpdns.bilivideo.com
   - DOMAIN-SUFFIX,cm.bilibili.com
   - DOMAIN-SUFFIX,dataflow.biliapi.com
