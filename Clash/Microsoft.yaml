@@ -254,7 +254,6 @@ payload:
 
 
   # DOMAIN-SUFFIX,ditu.live.com
-
   - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,c-msedge.net
   - DOMAIN-SUFFIX,e-msedge.net
@@ -471,3 +470,8 @@ payload:
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
   - DOMAIN-SUFFIX,bethsoft.com
+
+  # > WinSCP
+  - DOMAIN,cdn.winscp.net
+  - DOMAIN,winscp.net
+  - DOMAIN,winscp-static-746341.c.cdn77.org
