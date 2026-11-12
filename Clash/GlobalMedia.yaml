@@ -127,6 +127,7 @@ payload:
   - DOMAIN,unagi-na.amazon.com
   - DOMAIN,podiumedgeservice.amazon.com
   # DOMAIN,sentry.admin.tempo.digital.a2z.com
+  - DOMAIN,proxy-prod.tempo.digital.a2z.com
   - DOMAIN,notify.aca.ftv.bugsnag.appstore.a2z.com
   - DOMAIN,cdn-ue1-prod.tsv2.amagi.tv
   - DOMAIN,keyboard.amazonfiretvapp.com
