@@ -132,6 +132,7 @@ payload:
   - DOMAIN,a-api.anthropic.com
   - DOMAIN,s-cdn.anthropic.com
   - DOMAIN,assets-proxy.anthropic.com
+  - DOMAIN,ipo.anthropic.com
   - DOMAIN,assets.claude.ai
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.dev
