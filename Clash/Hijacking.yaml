@@ -68,6 +68,11 @@ payload:
   - DOMAIN,da.statisticslinks.com
   - DOMAIN,adx-micro.statisticslinks.com
   - DOMAIN-SUFFIX,g.doubleclick-cn.net
+  - DOMAIN-SUFFIX,pub.network
+  - DOMAIN-SUFFIX,btloader.com
+  - DOMAIN-SUFFIX,cdn-vitals.com
+  - DOMAIN,api.floors.dev
+  - DOMAIN,optimise.net
 
   # Apple’s iadsdk
   - DOMAIN,ca.iadsdk.apple.com
