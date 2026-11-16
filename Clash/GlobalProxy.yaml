@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,zenn.dev
   - DOMAIN-SUFFIX,zenn.studio
   - DOMAIN,search.saveweb.org
+  - DOMAIN-SUFFIX,revenuecat.com
 
   # Maunal
   - DOMAIN-SUFFIX,omarchy.org
