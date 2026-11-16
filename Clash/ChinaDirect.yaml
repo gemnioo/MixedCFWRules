@@ -19,6 +19,7 @@ payload:
   - DOMAIN,mall.leyifan.com
   - DOMAIN-SUFFIX,leyifan.cn
   - DOMAIN,app-api.yangjibao.comapp_config
+  - DOMAIN,api-production.8-lives-cat.io
 
   # CN DoH List：
   - DOMAIN,dns.alidns.com
@@ -64,6 +65,8 @@ payload:
   - DOMAIN,ghproxy.com
   - DOMAIN,gh-proxy.com
   # DOMAIN,ghp.p3terx.com
+  - DOMAIN,ghproxy.felicity.land
+  - DOMAIN,xsadwsd.kdns.fr
   
   # ImmortalWrt mirror
   - DOMAIN,immortalwrt.kyarucloud.moe
