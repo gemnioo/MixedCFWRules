@@ -27,6 +27,7 @@ payload:
   - DOMAIN,api.ttt.sh.cdn.cloudflare.net
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,fastly.jsdelivr.net
+  - DOMAIN,testingcf.jsdelivr.net
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jsdelivr.com
 
