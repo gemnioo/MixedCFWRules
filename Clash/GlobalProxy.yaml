@@ -1428,6 +1428,11 @@ payload:
   # > exception
   - DOMAIN-SUFFIX,wheel-size.cn
   - DOMAIN-SUFFIX,chalungu.cn
+  
+  # > Appple Asia NTP
+  - IP-CIDR,17.253.68.0/23,no-resolve
+  - IP-CIDR,17.253.114.0/23,no-resolve
+  - IP-CIDR6,2403:300:a16::/48,no-resolve
 
   # > Amazon
   - IP-CIDR,13.32.0.0/16,no-resolve
