@@ -575,6 +575,8 @@ payload:
   - DOMAIN-SUFFIX,captcha-delivery.com
   - DOMAIN-SUFFIX,barrons.com
   - DOMAIN,mrf.lu
+  - DOMAIN,china.createsend1.com
+  - DOMAIN-SUFFIX,createsend1.com
   - DOMAIN,china.cmail20.com
   - DOMAIN,optimizely.wsj.com
   - DOMAIN,video-api.wsj.com
